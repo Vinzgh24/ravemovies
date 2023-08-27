@@ -8,7 +8,7 @@ series: ["Narnia"]
 series_order: 3
 ---
 
-Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.
+Empat anak melakukan perjalanan melalui lemari ke tanah Narnia dan mempelajari takdir mereka untuk membebaskannya dengan bimbingan singa mistis.
 
 <video width="780" height="680" poster="https://www.themoviedb.org/t/p/original/am7bBtf7RUDCjRVf3rU3WpDMreG.jpg" controls>
   <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaAFUG90yvZIlICoyFOmposBTrjnoGWYuLSCUyLLPjLKAQ" type="video/mp4">

@@ -2,8 +2,8 @@
 title: "Cars (2006) Dubbing Indonesia"
 date: 2023-08-26T19:50:46Z
 tags: ["Animation"]
-slug: Cars
 categories: ["Adventure", "Comedy"]
+series: ["Cars"]
 ---
 
 Dalam perjalanan menuju balapan terbesar dalam hidupnya, sebuah mobil balap pemula yang jagoan terdampar di kota kumuh dan mengetahui bahwa kemenangan bukanlah segalanya dalam hidup.

@@ -40,7 +40,7 @@ Sebelum memulai cara ini kalian sudah harus membaca [Hal - Hal yang diperlukan](
    {{< figure
     src="https://graph.org/file/93e63afec7f20133c0c88.jpg"
     alt="Tutorial Rave"
-    caption="Jika belum menyalin tautan linknya, silahkan kalian salin link ini `ravemovie.netlify.app`"
+    caption="Jika belum menyalin tautan linknya, silahkan kalian salin link ini `raveflix.netlify.app`"
     >}}
 
 4. **Setelah itu nanti akan diarahkan menuju situsnya.**

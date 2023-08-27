@@ -105,7 +105,7 @@ Silahkan Uji Kecepatan Internet Kalian [disini](https://www.google.com/m?q=speed
 - Admin mengambil video dari berbagai sumber di internet seperti situs streaming, torrent, telegram, dan tempat lain sebagainya.
 
 5. **Boleh Request film?**
-- Tentu saja boleh, tetapi kalian hanya bisa Request jika sumber filmnya tersedia secara Digital.
+- Tentu saja boleh, tetapi kalian hanya bisa Request jika sumber filmnya tersedia secara Digital, silahkan pergi ke halaman [REQUEST]({{< ref "request" >}}) jika ingin Request.
 > **Contoh digital adalah** Netflix/Disney/Amazon/Blu-Ray.
 
 {{< alert icon="circle-info" >}}

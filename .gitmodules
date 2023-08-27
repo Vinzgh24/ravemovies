@@ -1,0 +1,4 @@
+[submodule "themes/blowfish_forked"]
+	path = themes/blowfish_forked
+	url = https://github.com/Vinzgh24/blowfish
+	branch = main

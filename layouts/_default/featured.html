@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <article class="featured-post">
+    <header>
+      <h2>{{ .Title }}</h2>
+    </header>
+    <section>
+      {{ .Content }}
+    </section>
+    <footer>
+      <p>Written by {{ .Author }} on {{ .Date.Format "January 2, 2006" }}</p>
+    </footer>
+  </article>
+{{ end }}

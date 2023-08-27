@@ -1,0 +1,142 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "blowfish"
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+mainSections = ["movies", "tv", "drakor", "anime", "animation"]
+# robots = ""
+
+disableImageOptimization = true
+
+# defaultBackgroundImage = "/img/background-2.jpg"
+# defaultFeaturedImage = "/img/featured.jpg"
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+  
+[header]
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  
+[footer]
+  showMenu = true
+  showCopyright = false
+  showThemeAttribution = false
+  showAppearanceSwitcher = false 
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+ # homepageImage = "/img/background-1.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/movies/"
+  cardView = true
+  cardViewScreenWidth = true 
+  layoutBackgroundBlur = false # only used when layout equals background
+
+[article]
+  showDate = false
+  showViews = true
+  showLikes = true
+  showDateUpdated = false
+  showAuthor = true
+  showComments = true
+  showHero = false 
+  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background
+  showBreadcrumbs = false
+  showDraftLabel = false
+  showEdit = false
+ # editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editAppendPath = false
+  seriesOpened = true 
+  showHeadingAnchors = false
+  showPagination = true
+  invertPagination = true
+  showReadingTime = false 
+  showTableOfContents = false
+  showRelatedContent = true
+  relatedContentLimit = 5
+  showTaxonomies = true
+  showAuthorsBadges = true 
+  showWordCount = false
+  showSummary = false
+  sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
+
+[list]
+  showHero = false 
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showSummary = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  showCards = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true 
+  constrainItemsWidth = true
+
+[sitemap]
+  excludedKinds = ["taxonomy","term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = false 
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  cardView = false
+
+[term]
+  showHero = false
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = false
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true
+  
+[firebase]
+ apiKey = "AIzaSyC65U8vj-LXCQBVcnbMg32qCKbJ7XhHpFM"
+  authDomain = "lively-goal-396620.firebaseapp.com"
+  projectId = "lively-goal-396620"
+  storageBucket = "lively-goal-396620.appspot.com"
+  messagingSenderId = "1040030678664"
+  appId = "1:1040030678664:web:5dda4ee1e3e83f471a293d"
+  measurementId = "G-FSHMPS4H2Q"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[buymeacoffee]
+  identifier = "nunocoracao"
+  globalWidget = false
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
+ 

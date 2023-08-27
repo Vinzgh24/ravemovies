@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer</title>
+    <style>
+        /* Add some basic styling to the footer */
+        footer {
+          font-size: 12px;
+          font-weight: 500;
+          font-family: "Helvetica";
+            text-align: center;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+        }
+
+        /* Style the text in the footer */
+        footer p {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+{{ $featuredPost := .Site.GetPage "/content/about/_index.md" }}
+
+{{ if $featuredPost }}
+  {{ partial "featured.html" $featuredPost }}
+{{ end }}
+
+
+    <footer>
+        <p>Made with ❤️ love By Levi</p>
+    </footer>
+</body>
+</html>

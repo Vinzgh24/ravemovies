@@ -1,0 +1,48 @@
+#!/bin/bash
+
+# Function to create a new Hugo post
+create_hugo_post() {
+    read -p "Enter the name of the content directory: " content_dir
+    if [ ! -d "$content_dir" ]; then
+        echo "Content directory '$content_dir' does not exist. Creating..."
+        mkdir -p "$content_dir"
+    fi
+
+    read -p "Enter the name of the subdirectory (or leave empty for no subdirectory): " sub_dir
+
+    # Check if a subdirectory was provided
+    if [ -n "$sub_dir" ]; then
+        content_dir="$content_dir/$sub_dir"
+        if [ ! -d "$content_dir" ]; then
+            echo "Subdirectory '$sub_dir' does not exist in '$content_dir'. Creating..."
+            mkdir -p "$content_dir"
+        fi
+    fi
+
+    # Create the Hugo post file without the date
+    post_title=""
+    while [ -z "$post_title" ]; do
+        read -p "Enter the post title: " post_title
+    done
+
+    post_file="$content_dir/$post_title.md"
+    hugo new "$post_file"
+
+    # Prompt for image URL download
+    read -p "Enter the URL of the image you want to download (or leave empty to skip): " image_url
+
+    if [ -n "$image_url" ]; then
+        # Download the image to the subdirectory as featured.jpg
+        wget -P "$content_dir" -O "$content_dir/featured.jpg" "$image_url"
+        if [ $? -eq 0 ]; then
+            echo "Image downloaded successfully as 'featured.jpg' in '$content_dir'."
+        else
+            echo "Failed to download the image."
+        fi
+    fi
+
+    echo "Hugo post created at '$post_file'."
+}
+
+# Call the function to create the Hugo post
+create_hugo_post

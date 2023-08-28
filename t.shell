@@ -1,0 +1,99 @@
+#!/bin/bash
+
+# Menampilkan pilihan perintah
+echo "Pilih perintah:"
+echo "1. Hugo new movies/Animation/nama-folder/"
+echo "2. Hugo new movies/nama-folder/"
+echo "3. Hugo new tv/nama-folder/"
+echo "4. Hugo new drakor/nama-folder/"
+echo "5. Membuat subfolder pada path yang sudah ada"
+
+# Meminta pengguna memilih perintah
+read -p "Masukkan nomor perintah (1-5): " choice
+
+case $choice in
+    1) path="content/movies/Animation/";;
+    2) path="content/movies/";;
+    3)
+        # Mendeteksi direktori di bawah "content/tv/" dan menampilkan sebagai opsi
+        echo "Pilihan folder yang tersedia di 'content/tv/':"
+        find "content/tv/" -mindepth 1 -maxdepth 1 -type d | awk -F '/' '{print NR". "$NF}'
+        
+        # Meminta pengguna memilih folder dalam "content/tv/"
+        read -p "Masukkan nomor folder: " folder_choice
+        
+        # Mendapatkan nama folder berdasarkan pilihan pengguna
+        folder_name=$(find "content/tv/" -mindepth 1 -maxdepth 1 -type d | awk -F '/' 'NR=='$folder_choice'{print $NF}')
+        
+        # Memeriksa apakah folder dengan nama yang sama sudah ada
+        if [ -z "$folder_name" ]; then
+            echo "Pilihan folder tidak valid."
+            exit 1
+        fi
+        
+        path="content/tv/${folder_name}/"
+        ;;
+    4) path="content/drakor/";;
+    5)
+        # Meminta pengguna untuk memasukkan path yang sudah ada
+        read -p "Masukkan path yang sudah ada: " custom_path
+        
+        # Memeriksa apakah path yang dimasukkan oleh pengguna ada
+        if [ ! -d "$custom_path" ]; then
+            echo "Path '$custom_path' tidak ditemukan."
+            exit 1
+        fi
+        
+        path="$custom_path/"
+        ;;
+    *) echo "Pilihan perintah tidak valid."; exit 1;;
+esac
+
+# Meminta pengguna untuk nama folder
+read -p "Masukkan nama folder: " folder_name
+
+# Membuat jalur lengkap
+full_path="${path}${folder_name}"
+
+# Memeriksa apakah folder dengan nama yang sama sudah ada
+if [ -d "$full_path" ]; then
+    echo "Folder dengan nama '$folder_name' sudah ada. Silakan berikan nama lain."
+    exit 1
+fi
+
+# Membuat folder
+mkdir -p "$full_path"
+
+# Membuat file index.md dengan format waktu yang sesuai
+index_file_path="${full_path}/index.md"
+current_time=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+cat <<EOL > "$index_file_path"
+---
+title: ""
+date: $current_time
+tags: [""]
+---
+
+Konten artikel Anda bisa Anda tulis di sini.
+
+EOL
+
+echo "Folder '$folder_name' dan file 'index.md' telah berhasil dibuat di '$path'."
+
+# Meminta pengguna untuk URL gambar
+read -p "Masukkan URL gambar untuk diunduh (kosongkan jika tidak ada): " image_url
+
+# Memeriksa apakah URL gambar ada
+if [ -n "$image_url" ]; then
+    # Mendapatkan nama file gambar dari URL
+    image_filename=$(basename "$image_url")
+    
+    # Menyimpan gambar dengan nama "featured.jpg" di direktori yang sama dengan file index.md
+    image_path="${full_path}/featured.jpg"
+    
+    # Mengunduh gambar dengan wget
+    wget -q "$image_url" -O "$image_path"
+    
+    # Menampilkan pesan bahwa gambar telah diunduh
+    echo "Gambar telah diunduh dan disimpan di '$image_path' dengan nama 'featured.jpg'."
+fi

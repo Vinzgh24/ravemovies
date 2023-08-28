@@ -3,6 +3,7 @@ title: "Danur: I Can See Ghosts (2017)"
 date: 2023-08-27T10:57:47Z
 tags: ["Movie"]
 categories: ["Horor", "Mystery", "Thriller"]
+series: ["Danur"]
 ---
 
 Film ini mengikuti kisah seorang gadis yang berteman dengan 3 hantu.

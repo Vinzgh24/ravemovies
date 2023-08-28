@@ -3,6 +3,7 @@ title: "Danur 2: Maddah (2018)"
 date: 2023-08-27T10:57:55Z
 tags: ["Movie"]
 categories: ["Horror"]
+series: ["Danur"]
 ---
 
 Ketika kemampuan Risa untuk melihat hantu terus mengganggu hidupnya, perilaku aneh pamannya membawanya untuk menemukan misteri yang menghantui di rumah barunya.

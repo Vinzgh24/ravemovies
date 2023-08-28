@@ -7,7 +7,7 @@ categories: ["Action", "Biography", "Drama"]
 
 Master Kung Fu tersebut melakukan perjalanan ke AS di mana muridnya telah mengecewakan komunitas seni bela diri setempat dengan membuka sekolah Wing Chun.
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/eFP7JQ7nBsMCKARaD9Wp3oGZ6DJ.jpg" controls>
+<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/xTB6AO1sk0MDtxjhO5SRPmxAxKG.jpg" controls>
    <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EZmGA4AEa-ROtlcytqIcp-AB3dcPZbgoeJl3CNz8EpESdg" type="video/mp4">
 </video>
 

@@ -46,13 +46,13 @@ Pembunuh Kazuki Kurusu dan Rei Suwa bertemu Miri, seorang gadis yang mencari aya
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">King The Land</div>
+        <div class="movie-title">Buddy Daddies</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Drama, Romance</p>
+            <p><strong>Genre:</strong> Action, Comedy</p>
             <p><strong>Release Date:</strong> 1994</p>
             <p><strong>Status:</strong> Released</p>
         </div>
-        <div class="movie-rating">9.3</div>
+        <div class="movie-rating">8.2</div>
     </div>
 
 ---

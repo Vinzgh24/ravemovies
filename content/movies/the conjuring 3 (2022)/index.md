@@ -1,5 +1,5 @@
 ---
-title: "The Conjuring: the Devil Made Me Do It (2021)""
+title: "The Conjuring: the Devil Made Me Do It (2021)"
 date: 2023-08-29T20:10:44Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]

@@ -3,7 +3,7 @@ title: "365 Days: This Day (2022)"
 date: 2023-08-30T02:38:07Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
-series: ["365 Days"
+series: ["365 Days"]
 draft: true
 ---
 

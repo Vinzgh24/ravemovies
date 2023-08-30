@@ -10,7 +10,7 @@ draft: true
 Laura dan Massimo kembali dan lebih kuat dari sebelumnya. Namun ikatan keluarga Massimo dan seorang pria misterius yang menawar hati Laura membuat rumit hubungan sepasang kekasih itu. hidup.
 
 <video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/ptvx0ltkPJDGLjjb1g7kk8lsVAn.jpg" controls>
-  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eb47xjri-3RArW82upDoBXsBGe91BH74tMnYrlh14o3N6A" type="video/mp4">
+  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfpSP4YNY29AqL0-rds8cjcBM1jE9nH_vrUlDjx_qrr1Zw" type="video/mp4">
 </video>
 
 {{< alert icon="circle-info" >}}

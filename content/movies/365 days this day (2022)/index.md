@@ -4,7 +4,6 @@ date: 2023-08-30T02:38:07Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
 series: ["365 Days"]
-draft: true
 ---
 
 Laura dan Massimo kembali dan lebih kuat dari sebelumnya. Namun ikatan keluarga Massimo dan seorang pria misterius yang menawar hati Laura membuat rumit hubungan sepasang kekasih itu. hidup.

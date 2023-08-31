@@ -1,7 +1,7 @@
 ---
 title: "Emily in Paris S01E01 - Episode 01"
 date: 2023-07-25T11:27:38Z
-tags: ["Tv-Series", "Anime"]
+tags: ["Tv-Series"]
 categories: ["Drama", "Comedy"]
 series: ["Emily in Paris"]
 showSummary: false

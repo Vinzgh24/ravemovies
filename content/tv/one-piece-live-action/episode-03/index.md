@@ -1,9 +1,9 @@
 ---
-title: "Sweet Home - S1E10 - Episode 10"
-date: 2023-08-31T11:58:14Z
-tags: ["K-Drama"]
-categories: ["Drama", "Fantasy", "Horror"]
-series: ["Sweet Home"]
+title: "ONE PIECE - S1E3 - Episode 03"
+date: 2023-09-01T05:02:19Z
+tags: ["Tv-Series"]
+categories: ["Action", "Adventure", "Comedy"]
+series: ["ONE PIECE"]
 showSummary: false
 ---
 
@@ -12,9 +12,9 @@ class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered"
 controls preload="auto" 
 width="640" 
 height="240" 
-poster="https://www.themoviedb.org/t/p/original/ufomKMiiLD9M2gTdTbKZvCAauph.jpg" 
+poster="https://www.themoviedb.org/t/p/original/dHRjYJETHIsnI8eS5KgWPKS4Oki.jpg" 
 data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EcPg3oLwQEFCgxEIWilw0oIBIZ4mMGLXeyPVw-XHnL5z6g" type='video/mp4'>
+onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EbC7WGSpLMlEmiuA-NTzOeYB8948YAn24F2TO0nEq0uKDg" type='video/mp4'>
 </video>
 <br>
 {{< alert icon="circle-info" >}}

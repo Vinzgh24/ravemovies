@@ -12,7 +12,7 @@ class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered"
 controls preload="auto" 
 width="640" 
 height="240"
-poster="https://www.themoviedb.org/t/p/original/8rGONJnuGOnxy6dgTxgGBg02Tub.jpg" 
+poster="https://graph.org/file/12de122c44e6c344bdd3e.jpg" 
 data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
 onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EQPneqAwEXtFnfoAV5tq3ScBJEvgAY5MuBzXEcECI5jiUQ" type='video/mp4'>
 </video>

@@ -1,0 +1,22 @@
+---
+title: "Jujutsu Kaisen - S2E6 - Episode 06"
+date: 2023-09-02T03:15:02Z
+tags: ["Anime"]
+categories: ["Action", "Adventure"]
+series: ["Jujutsu Kaisen"]
+showSummary: false
+---
+
+<video id="video-2" 
+class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
+controls preload="auto" 
+width="640" 
+height="240"
+poster="https://graph.org/file/4fc62d16b8facd9007c4a.jpg" 
+data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
+onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EW3Pc48ynA9CrCPbdy2zEc0BufCnbAmlztNA6bYG6PzcrA" type='video/mp4'>
+</video>
+<br>
+{{< alert icon="circle-info" >}}
+Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
+{{< /alert >}}

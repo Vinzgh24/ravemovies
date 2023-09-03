@@ -8,7 +8,7 @@ categories: ["Action", "Adventure"]
 Ba vào những tài phẩm ma thuật tình cảm của hai người bạn trẻ sau khi phát hiện ra rằng họ đã trao đổi linh hồn. Mọi thứ trở nên phức tạp hơn khi nam và nữ chủ quyết định gặp nhau trực tiếp.
 
 {{< alert >}}
-Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Your Name (2016)]({{< ref "Anime/Your Name (2016)" >}})
+Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Your Name (2016)]({{< ref "Your Name (2016)" >}})
 {{< /alert >}}
 
 <video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/qg0P94wHVrrozZkxfcXx0w5fHl.jpg" controls>

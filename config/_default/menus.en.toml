@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "List"
+ pageRef = "list"
+ weight = 10
+ 
+[[main]]
  name = "Request"
  pageRef = "request"
  weight = 10
@@ -70,5 +75,5 @@
 
  [[footer]]
  name = "Show All"
- pageRef = "tags"
+ pageRef = "list"
  weight = 20

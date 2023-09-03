@@ -2,7 +2,7 @@
 title: "Danur 3: Sunyaruri (2019)"
 date: 2023-08-28T04:03:17Z
 tags: ["Movie"]
-categories: ["Horor"]
+categories: ["Horror"]
 series: ["Danur"]
 ---
 

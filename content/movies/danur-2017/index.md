@@ -2,7 +2,7 @@
 title: "Danur: I Can See Ghosts (2017)"
 date: 2023-08-27T10:57:47Z
 tags: ["Movie"]
-categories: ["Horor", "Mystery", "Thriller"]
+categories: ["Horror", "Mystery", "Thriller"]
 series: ["Danur"]
 ---
 

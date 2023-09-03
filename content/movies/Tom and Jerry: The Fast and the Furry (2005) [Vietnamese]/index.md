@@ -8,7 +8,7 @@ categories: ["Action", "Adventure"]
 Sau khi phá hỏng ngôi nhà của họ trong cuộc truy đuổi, Tom và Jerry tham gia cuộc đua vòng quanh thế giới, trong đó người chiến thắng sẽ nhận được một ngôi nhà xa hoa mới.
 
 {{< alert >}}
-Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Tom and Jerry: The Fast and the Furry (2005)]({{< ref "movies/Animation/Tom and Jerry: The Fast and the Furry (2005)" >}})
+Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Tom and Jerry: The Fast and the Furry (2005)]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005)" >}})
 {{< /alert >}}
 
 <video id="video-2" 

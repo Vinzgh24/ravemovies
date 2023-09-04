@@ -1,9 +1,9 @@
 ---
-title: "Jujutsu Kaisen - S2E3 - Episode 03"
-date: 2023-09-02T03:14:38Z
-tags: ["Anime"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
+title: "The Last of Us - S1E6 - Episode 06"
+date: 2023-09-04T03:07:37Z
+tags: ["Tv-Series"]
+categories: ["Action", "Adventure", "Drama"]
+series: ["The Last of Us"]
 showSummary: false
 ---
 
@@ -11,10 +11,10 @@ showSummary: false
 class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
 controls preload="auto" 
 width="640" 
-height="240"
-poster="https://graph.org/file/7f728a759b29c0ff03d48.jpg" 
+height="240" 
+poster="https://www.themoviedb.org/t/p/original/evjLWu39VfktjeO7y5g74HU6vMq.jpg" 
 data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdresRTFk4BPlRT4WR-GtFABcXbjib6EuX-MCw5GbRilpQ" type='video/mp4'>
+onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EZlmBKngfa5KpyZcWqYhpHYBwD0tjsoHywrLOFBNQS3Ymw" type='video/mp4'>
 </video>
 <br>
 {{< alert icon="circle-info" >}}

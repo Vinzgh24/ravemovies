@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# Direktori yang ingin Anda deteksi folder-foldernya
+directories=("/data/data/com.termux/files/home/rave/content/movies" "/data/data/com.termux/files/home/rave/content/tv" "/data/data/com.termux/files/home/rave/content/drakor")
+
+# Membuat file markdown baru
+output_file="folders.md"
+echo -n > "$output_file"
+
+# Melakukan iterasi pada setiap direktori
+for directory in "${directories[@]}"; do
+    # Mendapatkan huruf pertama dari nama direktori (A-Z)
+    letter=$(basename "$directory" | cut -c 1 | tr '[:lower:]' '[:upper:]')
+
+    # Menulis judul tabel ke file markdown
+    echo "## $letter" >> "$output_file"
+
+    # Melakukan iterasi pada setiap folder di direktori
+    for folder in "$directory"/*; do
+        # Memeriksa apakah itu adalah folder
+        if [ -d "$folder" ]; then
+            # Mengambil nama folder tanpa path
+            folder_name=$(basename "$folder")
+
+            # Menghapus path dari direktori
+            folder_prefix=$(basename "$(dirname "$folder")")
+
+            # Menulis nama folder ke file markdown dengan format yang sesuai
+            echo "- [${folder_name}]({{< ref \"$folder_prefix/$folder_name\" >}})" >> "$output_file"
+        fi
+    done
+
+    echo "" >> "$output_file"
+done
+
+# Mengurutkan file markdown berdasarkan huruf pertama dari judul tabel
+sort -o "$output_file" "$output_file"
+
+echo "Daftar folder telah diekspor ke $output_file"

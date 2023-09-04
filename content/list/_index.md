@@ -133,6 +133,8 @@ title: "list"
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
 
 ## S
+- [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
+- [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
@@ -143,6 +145,7 @@ title: "list"
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
+- [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
 - [The Little Mermaid (2023)]({{< ref "movies/The Little Mermaid" >}})
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})

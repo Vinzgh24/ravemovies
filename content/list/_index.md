@@ -64,6 +64,7 @@ title: "list"
 
 ## B
 - [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
+- [Barbie (2023)]({{< ref "movies/Barbie (2023)" >}})
 - [Bayi Ajaib (2023)]({{< ref "movies/Bayi Ajaib (2023)" >}})
 - [Buddy Daddies]({{< ref "tv/buddy-daddies" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
@@ -144,6 +145,7 @@ title: "list"
 - [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
 - [Saw III (2006)]({{< ref "movies/Saw III (2006)" >}})
 - [Saw IV (2007)]({{< ref "movies/Saw IV (2007)" >}})
+- [Saw V (2008)]({{< ref "movies/Saw V (2008)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})

@@ -63,6 +63,7 @@ title: "list"
 
 
 ## B
+- [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Bayi Ajaib (2023)]({{< ref "movies/Bayi Ajaib (2023)" >}})
 - [Buddy Daddies]({{< ref "tv/buddy-daddies" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
@@ -93,6 +94,9 @@ title: "list"
 
 ## F
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
+
+## G
+- [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
 ## H
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
@@ -139,6 +143,7 @@ title: "list"
 - [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
 - [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
 - [Saw III (2006)]({{< ref "movies/Saw III (2006)" >}})
+- [Saw IV (2007)]({{< ref "movies/Saw IV (2007)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
@@ -154,6 +159,7 @@ title: "list"
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The Chronicles of Narnia: Prince Caspian (2008)]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
 - [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})

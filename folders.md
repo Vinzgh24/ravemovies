@@ -4,6 +4,7 @@
 ## D
 ## M
 ## T
+- [(500) Days of Summer]({{< ref "movies/(500) Days of Summer" >}})
 - [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
 - [365 days this day (2022)]({{< ref "movies/365 days this day (2022)" >}})
 - [365-days-2020]({{< ref "movies/365-days-2020" >}})
@@ -11,6 +12,7 @@
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})
+- [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Bayi Ajaib (2023)]({{< ref "movies/Bayi Ajaib (2023)" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
 - [Cars-2-2011]({{< ref "movies/Cars-2-2011" >}})
@@ -21,6 +23,7 @@
 - [Emily in Paris]({{< ref "tv/Emily in Paris" >}})
 - [Eyang Putri (2021)]({{< ref "movies/Eyang Putri (2021)" >}})
 - [Finding Nemo]({{< ref "movies/Finding Nemo" >}})
+- [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
@@ -35,6 +38,7 @@
 - [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
 - [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
 - [Saw III (2006)]({{< ref "movies/Saw III (2006)" >}})
+- [Saw IV (2007)]({{< ref "movies/Saw IV (2007)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Suzume (2022)]({{< ref "movies/Suzume (2022)" >}})
 - [Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)]({{< ref "movies/Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" >}})
@@ -46,6 +50,7 @@
 - [The Little Mermaid]({{< ref "movies/The Little Mermaid" >}})
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
 - [The-Chronicles-of-Narnia--Prince-Caspian-2008]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
 - [The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})

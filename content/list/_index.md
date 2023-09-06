@@ -108,6 +108,7 @@ title: "list"
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
+- [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
 
 ## J
 - [Just Mom (2022)]({{< ref "movies/just-mom-2022" >}})
@@ -117,6 +118,7 @@ title: "list"
 ## K
 - [King The Land]({{< ref "tv/king-the-land" >}})
 - [Khanzab (2023)]({{< ref "movies/Khanzab (2023)" >}})
+- [Kopi Pahit (2022)]({{< ref "movies/Kopi Pahit (2022)" >}})
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
 ## L
@@ -136,6 +138,7 @@ title: "list"
 
 ## P
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
+- [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 
 ## R
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
@@ -146,6 +149,7 @@ title: "list"
 - [Saw III (2006)]({{< ref "movies/Saw III (2006)" >}})
 - [Saw IV (2007)]({{< ref "movies/Saw IV (2007)" >}})
 - [Saw V (2008)]({{< ref "movies/Saw V (2008)" >}})
+- [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})

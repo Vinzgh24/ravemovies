@@ -75,6 +75,7 @@ title: "list"
 - [Cars 3 (2017)]({{< ref "movies/cars 3 (2017)" >}})
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
+- [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 
 ## D
 - [Danur: I Can See Ghosts]({{< ref "movies/danur-2017" >}})
@@ -144,6 +145,7 @@ title: "list"
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
 
 ## S
+- [Saw 3D (2010)]({{< ref "movies/Saw 3D (2010)" >}})
 - [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
 - [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
 - [Saw III (2006)]({{< ref "movies/Saw III (2006)" >}})

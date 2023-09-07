@@ -1,8 +1,8 @@
 ---
 title: "Cars 3 (2017) Dubbing Indonesia"
 date: 2023-08-29T23:06:39Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 series: ["Cars"]
 ---
 

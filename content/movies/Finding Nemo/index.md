@@ -1,8 +1,8 @@
 ---
 title: "Finding Nemo Dub Indo"
 date: 2023-07-15T23:28:07Z
-tags: ["Movie" ,"Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", Adventure", "Comedy"]
 showSummary: true
 ---
 

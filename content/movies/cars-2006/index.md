@@ -1,8 +1,8 @@
 ---
 title: "Cars (2006) Dubbing Indonesia"
 date: 2023-08-26T19:50:46Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 series: ["Cars"]
 ---
 

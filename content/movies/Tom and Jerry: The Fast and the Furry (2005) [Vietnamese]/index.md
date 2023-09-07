@@ -1,8 +1,8 @@
 ---
 title: "Tom and Jerry: The Fast and the Furry (2005) [Vietnamese Subtitle]"
 date: 2023-09-02T13:51:30Z
-tags: ["Animation"]
-categories: ["Action", "Adventure"]
+tags: ["Movie"]
+categories: ["Animation", "Action", "Adventure"]
 ---
 
 Sau khi phá hỏng ngôi nhà của họ trong cuộc truy đuổi, Tom và Jerry tham gia cuộc đua vòng quanh thế giới, trong đó người chiến thắng sẽ nhận được một ngôi nhà xa hoa mới.

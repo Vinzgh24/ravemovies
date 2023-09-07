@@ -1,10 +1,8 @@
 ---
 title: "Your Name (2016)"
 date: 2023-08-16T07:19:07Z
-slug: "Your Name"
 tags: ["Anime"]
 categories: ["Romance", "Drama"]
-anime: ["Your Name"]
 ---
 
 Dua remaja berbagi hubungan magis yang mendalam setelah mengetahui bahwa mereka bertukar tubuh. Segalanya menjadi lebih rumit ketika laki-laki dan perempuan itu memutuskan untuk bertemu langsung.

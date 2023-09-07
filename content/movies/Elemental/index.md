@@ -1,8 +1,8 @@
 ---
 title: "Elemental (2023)"
 date: 2023-08-15T09:22:53Z
-tags: ["Animation"]
-categories: ["Comedy", "Fantasy", "Family", "Romance"]
+tags: ["Movie"]
+categories: ["Animation", Comedy", "Fantasy", "Family", "Romance"]
 list: ["Trending"]
 
 ---

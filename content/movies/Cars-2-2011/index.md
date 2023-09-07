@@ -1,8 +1,8 @@
 ---
 title: "Cars 2 (2011) Dubbing Indonesia"
 date: 2023-08-26T20:45:30Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 series: ["Cars"]
 ---
 

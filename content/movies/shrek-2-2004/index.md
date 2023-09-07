@@ -1,8 +1,8 @@
 ---
 title: "Shrek 2 (2004)"
 date: 2023-08-30T11:49:58Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 series: ["Shrek"]
 ---
 

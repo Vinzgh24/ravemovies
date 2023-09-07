@@ -65,6 +65,7 @@ title: "list"
 ## B
 - [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Barbie (2023)]({{< ref "movies/Barbie (2023)" >}})
+- [Battleship (2012)]({{< ref "movies/Battleship (2012)" >}})
 - [Bayi Ajaib (2023)]({{< ref "movies/Bayi Ajaib (2023)" >}})
 - [Buddy Daddies]({{< ref "tv/buddy-daddies" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
@@ -76,6 +77,7 @@ title: "list"
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
+- [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
 
 ## D
 - [Danur: I Can See Ghosts]({{< ref "movies/danur-2017" >}})
@@ -103,6 +105,7 @@ title: "list"
 ## H
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
+- [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 
 ## I
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
@@ -112,6 +115,7 @@ title: "list"
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
 
 ## J
+- [Jagat Arwah (2022)]({{< ref "movies/Jagat Arwah (2022)" >}})
 - [Just Mom (2022)]({{< ref "movies/just-mom-2022" >}})
 - [Jujutsu Kaisen]({{< ref "tv/jujutsu-kaisen" >}})
 - [Jakarta vs Everybody (2022)]({{< ref "movies/Jakarta vs Everybody" >}})
@@ -143,6 +147,8 @@ title: "list"
 
 ## R
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
+- [Resident Evil (2002)]({{< ref "movies/Resident Evil (2002)" >}})
+- [Resident Evil: Apocalypse (2004)]({{< ref "movies/Resident Evil: Apocalypse (2004)" >}})
 
 ## S
 - [Saw 3D (2010)]({{< ref "movies/Saw 3D (2010)" >}})
@@ -153,6 +159,7 @@ title: "list"
 - [Saw V (2008)]({{< ref "movies/Saw V (2008)" >}})
 - [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
+- [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
 - [Suzume (2022)]({{< ref "movies/Suzume (2022)" >}})

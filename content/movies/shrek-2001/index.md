@@ -1,8 +1,8 @@
 ---
 title: "Shrek (2001)"
 date: 2023-08-30T11:48:20Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 series: ["Shrek"]
 ---
 

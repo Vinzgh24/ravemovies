@@ -2,7 +2,7 @@
 title: "Pinocchio (2022)"
 date: 2023-09-06T02:47:57Z
 tags: ["Movie"]
-categories: ["Horror"]
+categories: ["Adventure", "Comedy", "Drama"]
 ---
 
 Setelah ayah Amara meninggal, Amara pergi ke sumur permohonan dan berharap bisa berbicara dengan ayahnya untuk terakhir kalinya. Tapi semuanya tidak beres.

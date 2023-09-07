@@ -1,8 +1,8 @@
 ---
 title: "Ratatouille (2007) Dubbing Indonesia"
 date: 2023-08-30T23:51:17Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 ---
 
 Seekor tikus yang bisa memasak membuat aliansi yang tidak biasa dengan seorang pekerja dapur muda di sebuah restoran terkenal di Paris.

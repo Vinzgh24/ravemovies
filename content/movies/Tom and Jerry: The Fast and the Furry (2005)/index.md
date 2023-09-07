@@ -1,8 +1,8 @@
 ---
 title: "Tom and Jerry: The Fast and the Furry (2005)"
 date: 2023-09-02T13:51:04Z
-tags: ["Animation"]
-categories: ["Action", "Adventure"]
+tags: ["Movie"]
+categories: ["Animation", "Action", "Adventure"]
 ---
 
 Setelah merusak rumah mereka saat pengejaran, Tom dan Jerry mengikuti perlombaan keliling dunia di mana pemenangnya mendapatkan rumah mewah baru.

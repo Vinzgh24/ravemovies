@@ -1,8 +1,8 @@
 ---
 title: "Guillermo del Toro's Pinocchio (2022)"
 date: 2023-09-05T02:28:31Z
-tags: ["Animation"]
-categories: ["Drama", "Family"]
+tags: ["Movie"]
+categories: ["Animation", "Drama", "Family"]
 ---
 Keinginan seorang ayah secara ajaib membawa seorang anak laki-laki kayu ke kehidupan di Italia, memberinya kesempatan untuk merawat anak tersebut.
 

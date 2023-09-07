@@ -1,7 +1,7 @@
 ---
 title: "Suzume (2022)"
 date: 2023-08-30T23:52:22Z
-tags: ["Suzume"]
+tags: ["Anime"]
 categories: ["Action", "Adventure"]
 ---
 

@@ -55,6 +55,8 @@ title: "list"
 ## A
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
+- [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
+- [Alice in Wonderland (201
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "tv/all-of-us-are-dead" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})
@@ -103,6 +105,7 @@ title: "list"
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
 ## H
+- [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
@@ -159,10 +162,11 @@ title: "list"
 - [Saw V (2008)]({{< ref "movies/Saw V (2008)" >}})
 - [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
+- [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
-- [Suzume (2022)]({{< ref "movies/Suzume (2022)" >}})
+- [Suzume (2022)]({{< ref "anime/Suzume (2022)" >}})
 - [Sweet Home]({{< ref "drakor/sweet-home" >}})
  
 ## T
@@ -191,8 +195,9 @@ title: "list"
 - [The Twilight Saga: Breaking Dawn – Part 1
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
+- [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
 - [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
 
 ## Y
-- [Your Name (2016)]({{< ref "movies/Your Name (2016)" >}})
-- [Your Name (2016) [Vietnamese Subtitle]]({{< ref "movies/your name (2016) [Vietnameses]" >}})
+- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}})
+- [Your Name (2016) [Vietnamese Subtitle]]({{< ref "anime/your name (2016) [Vietnameses]" >}})

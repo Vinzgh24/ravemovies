@@ -18,17 +18,22 @@
 [[main]]
  name = "Request"
  pageRef = "request"
- weight = 10
+ weight = 20
+ 
+[[main]]
+ name = "anime"
+ pageRef = "anime"
+ weight = 30
  
 [[main]]
   name = "Tv-Series"
   pageRef = "tv"
-  weight = 15
+  weight = 50
 
 [[main]]
   name = "Drakor"
   pageRef = "drakor"
-  weight = 20
+  weight = 60
 
 # [[main]]
 # name = "example sub-menu 1"
@@ -56,12 +61,12 @@
 [[main]]
   name = "Genres"
   pageRef = "categories"
-  weight = 25
+  weight = 40
 
 [[main]]
   name = "Trending"
   pageRef = "list/trending/"
-  weight = 30
+  weight = 70
    
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

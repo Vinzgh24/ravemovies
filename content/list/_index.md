@@ -56,12 +56,12 @@ title: "list"
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
-- [Alice in Wonderland (201
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "tv/all-of-us-are-dead" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})
 - [Asih (2018)]({{< ref "movies/asih-2018" >}})
 - [Asih 2 (2020)]({{< ref "movies/asih-2020" >}})
+- [Avengers: Infinity War (2018)]({{< ref "movies/Avengers: Infinity War (2018)" >}})
 
 
 ## B
@@ -85,8 +85,10 @@ title: "list"
 - [Danur: I Can See Ghosts]({{< ref "movies/danur-2017" >}})
 - [Danur 2: Maddah]({{< ref "movies/danur-2-2018" >}})
 - [Danur 3: Sunyaruri]({{< ref "movies/danur-3" >}})
+- [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Don't Breathe (2016)]({{< ref "movies/Don't Breathe (2016)" >}})
 - [Don't Breathe 2 (2021)]({{< ref "movies/Don't Breathe 2 (2021)" >}})
+- [Duty After School (2023)]({{< ref "drakor/Duty After School (2023)" >}})
 
 
 
@@ -109,11 +111,13 @@ title: "list"
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
+- [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
 
 ## I
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
-- [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
+- [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
+- [idious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
 

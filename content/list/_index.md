@@ -57,7 +57,7 @@ title: "list"
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
-- [All of Us Are Dead]({{< ref "tv/all-of-us-are-dead" >}})
+- [All of Us Are Dead]({{< ref "drakor/All of Us Are Dead" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})
 - [Asih (2018)]({{< ref "movies/asih-2018" >}})
 - [Asih 2 (2020)]({{< ref "movies/asih-2020" >}})
@@ -101,6 +101,7 @@ title: "list"
 
 
 ## F
+- [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
 
 ## G
@@ -130,6 +131,7 @@ title: "list"
 ## K
 - [King The Land]({{< ref "tv/king-the-land" >}})
 - [Khanzab (2023)]({{< ref "movies/Khanzab (2023)" >}})
+- [Kingdom (2019)]({{< ref "drakor/Kingdom (2019)" >}})
 - [Kopi Pahit (2022)]({{< ref "movies/Kopi Pahit (2022)" >}})
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
@@ -167,6 +169,7 @@ title: "list"
 - [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
+- [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
@@ -180,6 +183,7 @@ title: "list"
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
 - [The Little Mermaid (2023)]({{< ref "movies/The Little Mermaid" >}})
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
+- [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})

@@ -1,9 +1,9 @@
 ---
-title: "Duty After School - S01E10 - Episode 10"
-date: 2023-09-08T08:41:41Z
+title: "Kingdom - S01E1 - Episode 01"
+date: 2023-09-08T22:17:23Z
 tags: ["K-Drama"]
-categories: ["Sci-Fi", "Thriller"]
-series: ["Duty After School"]
+categories: ["Action", "Drama", "Horror"]
+series: ["Kingdom"]
 showSummary: false
 ---
 
@@ -12,12 +12,13 @@ class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered"
 controls preload="auto" 
 width="640" 
 height="240" 
-poster="https://www.themoviedb.org/t/p/original/kPByE44764Hdad972h2GK301a8k.jpg" 
+poster="https://www.themoviedb.org/t/p/original/oZoHKG6XwgC6BrpmG3jTMe3LNko.jpg" 
 data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERAf5_YWMKVMnellL3ku8aABXOneIlai5O58PirSRsC3HA" type='video/mp4'>
+onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eflmt-iPL7lIqIqTJk0f3RUBqFE-uuQZxqm21s6K4-1hXw" type='video/mp4'>
 </video>
 <br>
 {{< alert icon="circle-info" >}}
 Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
 {{< /alert >}}
+
 

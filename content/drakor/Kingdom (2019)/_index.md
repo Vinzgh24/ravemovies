@@ -1,7 +1,7 @@
 ---
-title: "Duty After School (2023)"
-date: 2023-09-08T08:40:03Z
-description: "Sebuah film thriller fiksi ilmiah yang menggambarkan semua siswa di seluruh negeri bertarung melawan benda tak dikenal menjelang CSAT dan berjuang untuk mendapatkan poin tambahan."
+title: "Kingdom (2019)"
+date: 2023-09-08T22:17:07Z
+description: "Ketika Raja Joseon jatuh sakit dan putra mahkotanya, Lee Chang, mencurigai bahwa ibu suri telah meracuni raja untuk menguasai kerajaan. Lee Chang mulai menyelidiki dan menemukan bahwa ibu suri menggunakan sebuah tanaman ajaib yang dapat membangkitkan orang mati."
 
 cascade:
   showEdit: false
@@ -11,7 +11,7 @@ cascade:
 ---
 
 {{< lead >}}
-Sebuah film thriller fiksi ilmiah yang menggambarkan semua siswa di seluruh negeri bertarung melawan benda tak dikenal menjelang CSAT dan berjuang untuk mendapatkan poin tambahan.
+Ketika Raja Joseon jatuh sakit dan putra mahkotanya, Lee Chang, mencurigai bahwa ibu suri telah meracuni raja untuk menguasai kerajaan. Lee Chang mulai menyelidiki dan menemukan bahwa ibu suri menggunakan sebuah tanaman ajaib yang dapat membangkitkan orang mati.
 {{< /lead >}}
 
 <style>
@@ -47,13 +47,13 @@ Sebuah film thriller fiksi ilmiah yang menggambarkan semua siswa di seluruh nege
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Duty After School</div>
+        <div class="movie-title">Kingdom (2019)</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Sci-Fi, Thriller</p>
-            <p><strong>Release Date:</strong> 2023</p>
-            <p><strong>Status:</strong> Completed</p>
+            <p><strong>Genre:</strong> Action, Drama, Horror</p>
+            <p><strong>Release Date:</strong> 2019</p>
+            <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">6.8</div>
+        <div class="movie-rating">8.3</div>
     </div>
 
 ---

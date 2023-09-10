@@ -80,6 +80,7 @@ title: "list"
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 - [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
+- [Cruella (2021) Dubbing Indonesia]({{< ref "movies/Cruella (2021) Dubbing Indonesia" >}})
 
 ## D
 - [Danur: I Can See Ghosts]({{< ref "movies/danur-2017" >}})
@@ -105,6 +106,7 @@ title: "list"
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
 
 ## G
+- [Ghost Rider (2007)]({{< ref "movies/Ghost Rider (2007)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
 ## H
@@ -115,6 +117,8 @@ title: "list"
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
 
 ## I
+- [I Spit on Your Grave 2 (2013)]({{< ref "movies/I Spit on Your Grave 2 (2013)" >}})
+- [I Spit on Your Grave III: Vengeance Is Mine (2015)]({{< ref "movies/I Spit on Your Grave III: Vengeance Is Mine (2015)" >}})
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
@@ -204,7 +208,12 @@ title: "list"
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
+- [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})
 - [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
+
+## W
+- [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
+
 
 ## Y
 - [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}})

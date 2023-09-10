@@ -1,6 +1,8 @@
 
 
 
+
+## A
 ## D
 ## M
 ## T
@@ -24,6 +26,7 @@
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 - [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
+- [Cruella (2021) Dubbing Indonesia]({{< ref "movies/Cruella (2021) Dubbing Indonesia" >}})
 - [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Don't Breathe (2016)]({{< ref "movies/Don't Breathe (2016)" >}})
 - [Don't Breathe 2 (2021)]({{< ref "movies/Don't Breathe 2 (2021)" >}})
@@ -33,11 +36,14 @@
 - [Eyang Putri (2021)]({{< ref "movies/Eyang Putri (2021)" >}})
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Finding Nemo]({{< ref "movies/Finding Nemo" >}})
+- [Ghost Rider (2007)]({{< ref "movies/Ghost Rider (2007)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
+- [I Spit on Your Grave 2 (2013)]({{< ref "movies/I Spit on Your Grave 2 (2013)" >}})
+- [I Spit on Your Grave III: Vengeance Is Mine (2015)]({{< ref "movies/I Spit on Your Grave III: Vengeance Is Mine (2015)" >}})
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
@@ -68,6 +74,7 @@
 - [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
+- [Suzume (2022)]({{< ref "anime/Suzume (2022)" >}})
 - [Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)]({{< ref "movies/Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" >}})
 - [The Boogeyman (2023)]({{< ref "movies/The Boogeyman (2023)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
@@ -88,6 +95,9 @@
 - [Tom and Jerry: The Fast and the Furry (2005)]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
+- [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})
+- [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
+- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}})
 - [asih-2018]({{< ref "movies/asih-2018" >}})
 - [asih-2020]({{< ref "movies/asih-2020" >}})
 - [buddy-daddies]({{< ref "tv/buddy-daddies" >}})
@@ -125,3 +135,4 @@
 - [twilight-2008]({{< ref "movies/twilight-2008" >}})
 - [twilight-saga-breaking-dawn-part-1]({{< ref "movies/twilight-saga-breaking-dawn-part-1" >}})
 - [twilight-saga-breaking-dawn-part-2]({{< ref "movies/twilight-saga-breaking-dawn-part-2" >}})
+- [your name (2016) [Vietnameses]]({{< ref "anime/your name (2016) [Vietnameses]" >}})

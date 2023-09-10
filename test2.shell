@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Direktori yang ingin Anda deteksi folder-foldernya
-directories=("/data/data/com.termux/files/home/rave/content/movies" "/data/data/com.termux/files/home/rave/content/tv" "/data/data/com.termux/files/home/rave/content/drakor")
+directories=("/data/data/com.termux/files/home/rave/content/movies" "/data/data/com.termux/files/home/rave/content/tv" "/data/data/com.termux/files/home/rave/content/drakor" "/data/data/com.termux/files/home/rave/content/anime")
 
 # Membuat file markdown baru
 output_file="folders.md"

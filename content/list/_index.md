@@ -111,6 +111,10 @@ title: "list"
 
 ## H
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
+- [Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]" >}})
+- [Harry Potter and the Chamber of Secrets (2002)]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002)" >}})
+- [Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]" >}})
+- [Harry Potter and the Sorcerer's Stone (2001)]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001)" >}})
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
@@ -147,6 +151,7 @@ title: "list"
 - [Mastr's Sun]({{< ref "drakor/master's-sun (2013)" >}})
 - [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
 - [Meg 2: The Trench (2023)]({{< ref "movies/Meg-2" >}})
+- [Mission: Impossible - Dead Reckoning Part One (2023)]({{< ref "movies/Mission: Impossible - Dead Reckoning Part One (2023)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
@@ -157,6 +162,8 @@ title: "list"
 ## P
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
+- [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
+- [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
 
 ## R
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})

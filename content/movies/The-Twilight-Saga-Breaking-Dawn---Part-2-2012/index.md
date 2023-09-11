@@ -9,7 +9,7 @@ series: ["Twilight Saga"]
 Setelah kelahiran Renesmee/Nessie, keluarga Cullen mengumpulkan klan vampir lain untuk melindungi anak tersebut dari tuduhan palsu yang menempatkan keluarga tersebut di depan Volturi.
 
 <video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/vNjMxsxm5DusfppZEAUeDU0HX9O.jpg" controls>
-  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eb3pznVESDJLm1Kq90XCz9MBVAwLaWRjFznCgiPXX5G7eA" type="video/mp4">
+  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ETcxvouHDJNIm_f34GWh4jQB-52ay7aWxE0egdrY7PM2dQ" type="video/mp4">
 </video>
 
 {{< alert icon="circle-info" >}}

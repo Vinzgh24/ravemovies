@@ -10,7 +10,7 @@ series_order: 3
 
 Empat anak melakukan perjalanan melalui lemari ke tanah Narnia dan mempelajari takdir mereka untuk membebaskannya dengan bimbingan singa mistis.
 
-<video width="780" height="680" poster="https://www.themoviedb.org/t/p/original/am7bBtf7RUDCjRVf3rU3WpDMreG.jpg" controls>
+<video width="780" height="680" poster="https://www.themoviedb.org/t/p/original/lTGaFMmxlwFIjMIuGWR4v6oQCjW.jpg" controls>
   <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaAFUG90yvZIlICoyFOmposBTrjnoGWYuLSCUyLLPjLKAQ" type="video/mp4">
 </video>
 

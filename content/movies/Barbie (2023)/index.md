@@ -20,7 +20,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Barbie (2023)",
-  "contentUrl": "https://stream.mux.com/z9iZZ1GT2BC6Ers00CkOPqa6a4nhXQuL2odgi02ctyiHg.m3u8",
+  "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25",
  "uploadDate": "2021-06-09T23:23:00Z",
   "encoding": [

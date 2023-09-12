@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter and the Chamber of Secrets (2002)"
+title: "Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]"
 date: 2023-09-11T14:22:54Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]

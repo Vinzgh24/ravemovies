@@ -127,7 +127,7 @@ title: "list"
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
-- [idious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
+- [insdious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
 

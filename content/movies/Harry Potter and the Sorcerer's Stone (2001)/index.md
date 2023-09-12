@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter and the Sorcerer's Stonene (2001)"
+title: "Harry Potter and the Sorcerer's Stone (2001)"
 date: 2023-09-11T14:13:34Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]

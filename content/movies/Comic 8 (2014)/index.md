@@ -9,7 +9,7 @@ series: ["Comic 8"]
 Ketika delapan pemuda dengan motif mencuri berbeda berkumpul dalam perampokan bank yang sama, mereka mencoba mencari tahu apakah itu sebuah kebetulan atau bagian dari rencana yang lebih besar.
 
   <mux-player stream-type="on-demand"
-  playback-id="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ef4xH_TMZW1GpERKZd6oejEBpJNbLOxoQm9Dj3m6_ib6uQ" metadata-video-title="Comic 8 (2014)" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ef4xH_TMZW1GpERKZd6oejEBpJNbLOxoQm9Dj3m6_ib6uQ" metadata-video-title="Comic 8 (2014)" prefer-playback="mse" controls>
   </mux-player>
   
 

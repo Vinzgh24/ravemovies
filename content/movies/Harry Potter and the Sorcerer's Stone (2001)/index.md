@@ -8,8 +8,10 @@ series: ["Harry Potter"]
 
 Seorang anak yatim piatu mendaftar di sekolah sihir, di mana dia mengetahui kebenaran tentang dirinya, keluarganya, dan kejahatan mengerikan yang menghantui dunia sihir.
 
-  <mux-player src="https://stream.mux.com/TpyRvcdMNKJ02LgiUDa5GaKsyF3YwmHJpNE3Qlb8ASjY.m3u8" metadata-video-title="mux-video" prefer-playback="mse" controls>
+  <mux-player stream-type="on-demand"
+  playback-id="EcHgOK9coz5K4rjSwOkoE7Y7O01201YMIC200RI6lNxnhs" metadata-video-title="mux-video" prefer-playback="mse" controls>
   </mux-player>
+  
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
 <!-- <video id="video-2" 

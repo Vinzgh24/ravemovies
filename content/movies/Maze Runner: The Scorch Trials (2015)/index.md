@@ -28,9 +28,9 @@ Setelah lolos dari Labirin, para Glader kini menghadapi serangkaian tantangan ba
     {
       "@type": "VideoObject",
       "name": "800p",
-      "width": 480,
-      "height": 360,
-       "bitrate": 8000,
+      "width": 320,
+      "height": 240 ,
+      "bitrate": 8000,
       "contentUrl": "https://stream.mux.com/fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng.m3u8"
     }
   ]

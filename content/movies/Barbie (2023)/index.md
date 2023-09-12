@@ -22,22 +22,12 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
   "@type": "VideoObject",
   "name": "Barbie (2023)",
   "description": "In this guide you will learn how to play Mux videos in your application.",
-  "contentUrl": "https://stream.mux.com/z9iZZ1GT2BC6Ers00CkOPqa6a4nhXQuL2odgi02ctyiHg.m3u8",
+  "contentUrl": "https://stream.mux.com/z9iZZ1GT2BC6Ers00CkOPqa6a4nhXQuL2odgi02ctyiHg.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2021-06-09T23:23:00Z",
-  "encoding": [
-    {
-      "@type": "VideoObject",
-      "name": "800p",
-      "width": 320,
-      "height": 240 ,
-      "bitrate": 8000,
-      "contentUrl": "https://stream.mux.com/z9iZZ1GT2BC6Ers00CkOPqa6a4nhXQuL2odgi02ctyiHg.m3u8"
-    }
-  ]
+  "uploadDate": "2021-06-09T23:23:00Z"
 }
-
 </script>
+
 
 
 

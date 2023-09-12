@@ -21,7 +21,7 @@ Ketika delapan pemuda dengan motif mencuri berbeda berkumpul dalam perampokan ba
   "@type": "VideoObject",
   "name": "Comic 8 (2014)",
   "description": "In this guide you will learn how to play Mux videos in your application.",
-  "contentUrl": "https://stream.mux.com/1Qk5ct7XgCSR7w005gpmP302V02qHhFGtsz02MwztZyBfjw.m3u8",
+  "contentUrl": "https://stream.mux.com/1Qk5ct7XgCSR7w005gpmP302V02qHhFGtsz02MwztZyBfjw.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/e7LOkm4WDVBYAZgi5xaFQmBrPcp.jpg",
   "uploadDate": "2021-06-09T23:23:00Z",
   "encoding": [

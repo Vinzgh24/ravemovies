@@ -8,7 +8,7 @@ categories: ["Drama"]
 Abby tidak pernah menyangka dia harus kalah secepat ini. Dalam kesedihannya, Sephia selalu ada menemaninya. Tapi bisakah Sephia membantu Abby mengungkapkan rasa kehilangannya?
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EebFtKxoPIhHpaBgVMTL8_oBIZ6b2jSD53FScVTTVPtzWg" metadata-video-title="Generasi 90an: Melankolia (2020)" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYKONJEK0TZEp8rh7pGUVIcBkOFTsGH_m5fAiyuglLk8fw" metadata-video-title="Generasi 90an: Melankolia (2020)" prefer-playback="mse" controls>
   </mux-player>
   
 

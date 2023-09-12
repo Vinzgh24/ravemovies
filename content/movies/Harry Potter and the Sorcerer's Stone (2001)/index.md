@@ -15,7 +15,7 @@ width="640"
 height="240"
 poster="https://www.themoviedb.org/t/p/original/cvNvWh3vpZHCCmuZ1g75H8iXuxi.jpg" 
 data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaAbsXW1q5xJu6h2qYE39CoBHd_VAiQHD7RhVT6pygRDXg" type='video/mp4'>
+onseeked="true"> <source src="https://stream.mux.com/TpyRvcdMNKJ02LgiUDa5GaKsyF3YwmHJpNE3Qlb8ASjY.m3u8" type='video/mp4'> <!-- <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaAbsXW1q5xJu6h2qYE39CoBHd_VAiQHD7RhVT6pygRDXg" type='video/mp4'> -->
 </video>
 <br>
 {{< alert icon="circle-info" >}}

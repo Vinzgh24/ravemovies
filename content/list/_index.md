@@ -65,6 +65,7 @@ title: "list"
 
 
 ## B
+- [Bait (2012)]({{< ref "movies/Bait (2012)" >}})
 - [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Barbie (2023)]({{< ref "movies/Barbie (2023)" >}})
 - [Battleship (2012)]({{< ref "movies/Battleship (2012)" >}})

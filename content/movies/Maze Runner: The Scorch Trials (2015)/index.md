@@ -23,6 +23,7 @@ Setelah lolos dari Labirin, para Glader kini menghadapi serangkaian tantangan ba
     "description": "In this guide you will learn how to play Mux videos in your application.",
     "contentUrl": "https://stream.mux.com/fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng.m3u8",
     "thumbnailUrl": "https://www.themoviedb.org/t/p/original/8Al7lHTWQglsNtAI5mremGo4BsE.jpg?width=314&fit_mode=preserve&time=25",
+    "player_name": 'Raveflix',
     "uploadDate": "2021-06-09T23:23:00Z",
     "encodingSettings": [
       {

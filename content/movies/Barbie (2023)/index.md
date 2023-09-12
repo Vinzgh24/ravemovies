@@ -8,6 +8,24 @@ list: ["Trending"]
 
 Barbie dan Ken sedang menikmati waktu hidup mereka di dunia Barbie Land yang penuh warna dan tampaknya sempurna. Namun, saat mereka mendapatkan kesempatan untuk pergi ke dunia nyata, mereka segera menemukan sukacita dan bahaya hidup di antara manusia.
 
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w" metadata-video-title="Maze Runner: The Scorch Trials (2015)" prefer-playback="mse" controls>
+  </mux-player>
+  
+
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+<script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Barbie (2023)",
+  "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25"
+}
+
+</script>
+<!--
 <video id="video-2" 
 class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
 controls preload="auto" 
@@ -20,4 +38,4 @@ onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_
 <br>
 {{< alert icon="circle-info" >}}
 Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+{{< /alert >}} -->

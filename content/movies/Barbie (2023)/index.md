@@ -9,19 +9,28 @@ list: ["Trending"]
 Barbie dan Ken sedang menikmati waktu hidup mereka di dunia Barbie Land yang penuh warna dan tampaknya sempurna. Namun, saat mereka mendapatkan kesempatan untuk pergi ke dunia nyata, mereka segera menemukan sukacita dan bahaya hidup di antara manusia.
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w" metadata-video-title="Maze Runner: The Scorch Trials (2015)" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w" metadata-video-title="Barbie (2023)" prefer-playback="mse" controls>
   </mux-player>
   
 
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
-<script type="application/ld+json">
+<script id="fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Barbie (2023)",
   "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w",
-  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25"
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25",
+  "encoding": [
+    {
+      "@type": "VideoObject",
+      "name": "820p",
+      "width": 1920,
+      "height": 1080,
+      "contentUrl": "https://stream.mux.com/fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng.m3u8"
+    }
+  ]
 }
 
 </script>

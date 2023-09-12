@@ -28,7 +28,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
       "name": "820p",
       "width": 1920,
       "height": 1080,
-      "contentUrl": "https://stream.mux.com/fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng.m3u8"
+      "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w"
     }
   ]
 }

@@ -64,15 +64,13 @@ Sebelum memulai cara ini kalian sudah harus membaca [Hal - Hal yang diperlukan](
 
  > **Lihat video ini jika kalian mengalami masalah saat ingin memutar video melalui Rave.**
  
- <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
-<mux-player
-  stream-type="on-demand"
-  playback-id="za1MIvpz9tY301XlKrJOzV00TzqrvCyKgoE7u2VvpubN8"
-  metadata-video-title="Placeholder (optional)"
-  metadata-viewer-user-id="Placeholder (optional)"
-  primary-color="#FFFFFF"
-  secondary-color="#000000"
-></mux-player>
+ <mux-player stream-type="on-demand"
+  playback-id="za1MIvpz9tY301XlKrJOzV00TzqrvCyKgoE7u2VvpubN8" metadata-video-title="mux-video" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+ 
 
 - Jika sudah mencoba cara diatas dan tetap tidak bisa, maka bisa dipastikan Rave sedang mengalami gangguan atau bug saat ingin membaca video yang menggunakan player html5 (karena disini admin menggunakan html5).
 

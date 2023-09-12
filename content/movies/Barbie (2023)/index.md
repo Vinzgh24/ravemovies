@@ -15,20 +15,22 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
-<script id="fnJAQ1KTS5bgnhDsWBOriTKT9nnTy45ld3aZ1ie99ng" type="application/ld+json">
+<script type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Barbie (2023)",
-  "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w",
+  "description": "In this guide you will learn how to play Mux videos in your application.",
+  "contentUrl": "https://levi-storage.vercel.app/api/raw/?path=/LK21/Barbie.2023.1080p.mp4",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2H76C0wgi9ISrmCo7ZgG5zULAbr.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2021-06-09T23:23:00Z",
   "encoding": [
     {
       "@type": "VideoObject",
-      "name": "820p",
+      "name": "800p",
       "width": 1920,
       "height": 1080,
-      "contentUrl": "https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EePxhNoaaRJDlPylMdDHg44Bb1UR1uQJDMAGuJriuI0v8w"
+      "contentUrl": "https://levi-storage.vercel.app/api/raw/?path=/LK21/Barbie.2023.1080p.mp4"
     }
   ]
 }

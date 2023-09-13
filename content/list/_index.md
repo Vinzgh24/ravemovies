@@ -142,6 +142,8 @@ title: "list"
 - [Just Mom (2022)]({{< ref "movies/just-mom-2022" >}})
 - [Jujutsu Kaisen]({{< ref "tv/jujutsu-kaisen" >}})
 - [Jakarta vs Everybody (2022)]({{< ref "movies/Jakarta vs Everybody" >}})
+- [John Wick: Chapter 2]({{< ref "movies/John Wick: Chapter 2" >}})
+- [John Wick: Chapter 3 - Parabellum (2019)]({{< ref "movies/John Wick: Chapter 3 - Parabellum (2019)" >}})
 
 ## K
 - [King The Land]({{< ref "tv/king-the-land" >}})
@@ -161,6 +163,7 @@ title: "list"
 - [Maze Runner: The Scorch Trials (2015) Dubbing Indonesia]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
 - [Meg 2: The Trench (2023)]({{< ref "movies/Meg-2" >}})
 - [Mission: Impossible - Dead Reckoning Part One (2023)]({{< ref "movies/Mission: Impossible - Dead Reckoning Part One (2023)" >}})
+- [Moana (2016)]({{< ref "movies/Moana (2016)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
@@ -211,6 +214,7 @@ title: "list"
 - [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The Chronicles of Narnia: Prince Caspian (2008)]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})

@@ -115,13 +115,13 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = true
   
 [firebase]
- apiKey = "AIzaSyC65U8vj-LXCQBVcnbMg32qCKbJ7XhHpFM"
-  authDomain = "lively-goal-396620.firebaseapp.com"
-  projectId = "lively-goal-396620"
-  storageBucket = "lively-goal-396620.appspot.com"
-  messagingSenderId = "1040030678664"
-  appId = "1:1040030678664:web:5dda4ee1e3e83f471a293d"
-  measurementId = "G-FSHMPS4H2Q"
+ apiKey = "AIzaSyAIXKQu18dxDyOOOJ6s3Kmm2kI1WYwjts8"
+  authDomain = "fit-accumulator-384417.firebaseapp.com"
+  projectId = "fit-accumulator-384417"
+  storageBucket = "fit-accumulator-384417.appspot.com"
+  messagingSenderId = "41103424830"
+  appId = "1:41103424830:web:808821d70a1ee473e8006f"
+  measurementId = "G-M5EEXDP83C"
 
 [fathomAnalytics]
   # site = "ABC12345"

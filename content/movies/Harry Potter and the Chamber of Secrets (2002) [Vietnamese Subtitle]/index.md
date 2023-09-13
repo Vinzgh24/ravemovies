@@ -12,16 +12,20 @@ Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [
 
 Dự đoán cổ xưa dường như trở thành sự thật khi sự hiện diện bí ẩn bắt đầu rình rập trong hành lang của trường pháp thuật và làm cho nạn nhân bị tê liệt.
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdBtzSYf7ENLjuqYsWdaKlIBSzjq1DiVcpiLfRcFelMvJw" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdBtzSYf7ENLjuqYsWdaKlIBSzjq1DiVcpiLfRcFelMvJw" metadata-video-title="mux-video" prefer-playback="mse" controls>
+  </mux-player>
+  
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+<script id="6N3dy64RGAFFryRujeNma5vJcVPJgJbqvA9n00lputLc" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Harry Potter and the Chamber of Secrets (2002)",
+  "contentUrl": "https://stream.mux.com/6N3dy64RGAFFryRujeNma5vJcVPJgJbqvA9n00lputLc.m3u8?quality=auto",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2021-06-09T23:23:00Z",
+}
+
+</script>

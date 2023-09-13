@@ -8,16 +8,21 @@ series: ["Harry Potter"]
 
 Sebuah ramalan kuno tampaknya menjadi kenyataan ketika kehadiran misterius mulai mengintai di koridor sekolah sihir dan membuat korbannya lumpuh.
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eax6LKgWK2JCsFtX1gkCGTwBbIWa3r3rGSbW1zBpnL2ylQ" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eax6LKgWK2JCsFtX1gkCGTwBbIWa3r3rGSbW1zBpnL2ylQ" metadata-video-title="mux-video" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+   <script id="Do01xGMhcazCNvHBWpMeU301qHYIKu001Oev5Eb3H6v01cU" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Harry Potter and the Chamber of Secrets (2002)",
+  "contentUrl": "https://stream.mux.com/Do01xGMhcazCNvHBWpMeU301qHYIKu001Oev5Eb3H6v01cU.m3u8?quality=auto",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zIEUumHrhkSJrlKPfBcEwPxZcMn.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2021-06-09T23:23:00Z",
+}
+
+</script>

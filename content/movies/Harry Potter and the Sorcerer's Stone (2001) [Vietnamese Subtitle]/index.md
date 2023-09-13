@@ -12,16 +12,31 @@ Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [
 
 Một đứa trẻ mồ côi đăng ký vào trường pháp thuật, nơi cậu đã biết sự thật về bản thân, gia đình và tội ác khủng khiếp đang ám ảnh thế giới phép thuật.
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/cvNvWh3vpZHCCmuZ1g75H8iXuxi.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eab8ML8YQXlCkKMJ-yMUqFcBt5lHnInUFskW33UyXF7olg" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+ <mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eab8ML8YQXlCkKMJ-yMUqFcBt5lHnInUFskW33UyXF7olg" metadata-video-title="Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]" prefer-playback="mse" controls>
+  </mux-player>
+  
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+<script id="YvBEf8W7kM7FHB7U402H4ZSTzea3VMiOgSzNiZtnIf00U" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Harry Potter and the Sorcerer's Stone (2001)",
+  "contentUrl": "https://stream.mux.com/YvBEf8W7kM7FHB7U402H4ZSTzea3VMiOgSzNiZtnIf00U.m3u8?quality=auto",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/cvNvWh3vpZHCCmuZ1g75H8iXuxi.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2021-06-09T23:23:00Z",
+  "encoding": [
+    {
+      "@type": "VideoObject",
+      "name": "800p",
+      "width": 480,
+      "height": 270,
+      "bitrate": 5000,
+      "contentUrl": "https://stream.mux.com/YvBEf8W7kM7FHB7U402H4ZSTzea3VMiOgSzNiZtnIf00U.m3u8"
+     
+    }
+  ]
+}
+
+</script>

@@ -62,6 +62,8 @@ title: "list"
 - [Asih (2018)]({{< ref "movies/asih-2018" >}})
 - [Asih 2 (2020)]({{< ref "movies/asih-2020" >}})
 - [Avengers: Infinity War (2018)]({{< ref "movies/Avengers: Infinity War (2018)" >}})
+- [Avatar: The Way of Water (2022)]({{< ref "movies/Avatar: The Way of Water (2022)" >}})
+- [Avengers: Endgame (2019)]({{< ref "movies/Avengers: Endgame (2019)" >}})
 
 
 ## B
@@ -79,6 +81,7 @@ title: "list"
 - [Cars 3 (2017)]({{< ref "movies/cars 3 (2017)" >}})
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
+- [Comic 8 (2014)]({{< ref "movies/Comic 8 (2014)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 - [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
 - [Cruella (2021) Dubbing Indonesia]({{< ref "movies/Cruella (2021) Dubbing Indonesia" >}})
@@ -107,6 +110,7 @@ title: "list"
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
 
 ## G
+- [Generasi 90an: Melankolia (2020)]({{< ref "movies/Generasi 90an: Melankolia (2020)" >}})
 - [Ghost Rider (2007)]({{< ref "movies/Ghost Rider (2007)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
@@ -145,12 +149,14 @@ title: "list"
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
 ## L
+- [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
 
 ## M
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
 - [Mastr's Sun]({{< ref "drakor/master's-sun (2013)" >}})
-- [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
+- [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials (2015)" >}})
+- [Maze Runner: The Scorch Trials (2015) Dubbing Indonesia]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
 - [Meg 2: The Trench (2023)]({{< ref "movies/Meg-2" >}})
 - [Mission: Impossible - Dead Reckoning Part One (2023)]({{< ref "movies/Mission: Impossible - Dead Reckoning Part One (2023)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
@@ -189,7 +195,10 @@ title: "list"
 - [Sweet Home]({{< ref "drakor/sweet-home" >}})
  
 ## T
+- [Talk to Me (2023)]({{< ref "movies/Talk to Me (2023)" >}})
+- [Tangled (2010)]({{< ref "movies/Tangled (2010)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
+- [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})

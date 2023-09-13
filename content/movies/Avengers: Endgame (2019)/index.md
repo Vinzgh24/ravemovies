@@ -14,28 +14,27 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
   
 
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
-  
 
-<script id="GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k" type="application/ld+json">
+ <script id="A00r7m6QGOonfVI4gdE7PF2TqPeXEweNgA4MVRydaY6g" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Avengers: Endgame (2019)",
   "description": "Setelah peristiwa dahsyat di Avengers: Infinity War (2018), alam semesta berada dalam reruntuhan. Dengan bantuan sekutu yang tersisa, para Avengers berkumpul sekali lagi untuk membalikkan keadaan Thanos. tindakan dan memulihkan keseimbangan alam semesta.",
-  "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k/high.mp4",
-  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg?width=314&fit_mode=preserve&time=25",
+  "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k.m3u8?quality=auto",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg",
   "uploadDate": "2021-06-09T23:23:00Z",
-   "encoding": [
+  "encoding": [
     {
       "@type": "VideoObject",
       "name": "800p",
       "width": 426,
       "height": 240,
       "bitrate": 5000,
-      "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k/high.mp4"
+      "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k.m3u8?quality=auto"
      
     }
   ]
-
 }
+
 </script>

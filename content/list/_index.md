@@ -108,6 +108,8 @@ title: "list"
 ## F
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
+- [Frozen (2013)]({{< ref "movies/Frozen (2013)" >}})
+- [Frozen II (2019)]({{< ref "movies/Frozen II (2019)" >}})
 
 ## G
 - [Generasi 90an: Melankolia (2020)]({{< ref "movies/Generasi 90an: Melankolia (2020)" >}})
@@ -178,6 +180,7 @@ title: "list"
 - [Resident Evil: Apocalypse (2004)]({{< ref "movies/Resident Evil: Apocalypse (2004)" >}})
 
 ## S
+- [Sausage Party (2016)]({{< ref "movies/Sausage Party (2016)" >}})
 - [Saw 3D (2010)]({{< ref "movies/Saw 3D (2010)" >}})
 - [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
 - [Saw II (2005)]({{< ref "movies/Saw II (2005)" >}})
@@ -199,6 +202,7 @@ title: "list"
 - [Tangled (2010)]({{< ref "movies/Tangled (2010)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
+- [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
@@ -230,6 +234,7 @@ title: "list"
 
 ## W
 - [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
+- [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
 
 
 ## Y

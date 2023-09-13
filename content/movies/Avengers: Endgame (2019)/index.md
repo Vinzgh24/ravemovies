@@ -25,18 +25,17 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
   "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k/high.mp4",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yaRps1bMQLyz54M8ib5YdA2a2RZ.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2021-06-09T23:23:00Z",
-  "mp4_support": "standard",
-  "static_renditions": {
-    "status": "ready",
-    "files": [
-      {
-        "name": "high.mp4",
-        "ext": "mp4",
-        "height": 1920,
-        "width":  1080,
-        "bitrate":  8000
-      }
-    ]
-  }
+   "encoding": [
+    {
+      "@type": "VideoObject",
+      "name": "800p",
+      "width": 426,
+      "height": 240,
+      "bitrate": 5000,
+      "contentUrl": "https://stream.mux.com/GBZNxV02DIzzoM00cPOEnADUlbcvnLQAnDr5bP8z9n021k/high.mp4"
+     
+    }
+  ]
+
 }
 </script>

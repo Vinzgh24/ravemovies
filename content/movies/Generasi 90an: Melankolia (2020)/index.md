@@ -26,19 +26,11 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
     {
       "@type": "VideoObject",
       "name": "800p",
-      "width": 480,
-      "height": 360,
-       "bitrate": 8000,
-      "contentUrl": "https://stream.mux.com/1Qk5ct7XgCSR7w005gpmP302V02qHhFGtsz02MwztZyBfjw.m3u8",
-      "mp4_support": "standard",
-    "max_stored_resolution": "HD",
-    "resolution_tier": "1080p",
-    "max_stored_frame_rate": 29.97,
-    "master_access": "none",
-    "id": "lJ4bGGsp7ZlPf02nMg015W02iHQLN9XnuuLRBsPS00xqd68",
-    "duration": 23.857167,
-    "created_at": "1609868768",
-    "aspect_ratio": "16:9"
+      "width": 426,
+      "height": 240,
+      "bitrate": 5000,
+      "contentUrl": "https://stream.mux.com/1Qk5ct7XgCSR7w005gpmP302V02qHhFGtsz02MwztZyBfjw.m3u8"
+     
     }
   ]
 }

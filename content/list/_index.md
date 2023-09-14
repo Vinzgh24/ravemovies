@@ -70,6 +70,7 @@ title: "list"
 - [Bait (2012)]({{< ref "movies/Bait (2012)" >}})
 - [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Barbie (2023)]({{< ref "movies/Barbie (2023)" >}})
+- [Battle Royale (2000)]({{< ref "movies/Battle Royale (2000)" >}})
 - [Battleship (2012)]({{< ref "movies/Battleship (2012)" >}})
 - [Bayi Ajaib (2023)]({{< ref "movies/Bayi Ajaib (2023)" >}})
 - [Buddy Daddies]({{< ref "tv/buddy-daddies" >}})
@@ -114,6 +115,7 @@ title: "list"
 ## G
 - [Generasi 90an: Melankolia (2020)]({{< ref "movies/Generasi 90an: Melankolia (2020)" >}})
 - [Ghost Rider (2007)]({{< ref "movies/Ghost Rider (2007)" >}})
+- [Ghosted (2023)]({{< ref "movies/Ghosted (2023)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
 ## H
@@ -242,7 +244,9 @@ title: "list"
 - [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
 
 ## W
+- [Waktu Maghrib (2023)]({{< ref "movies/Waktu Maghrib (2023)" >}})
 - [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
+- [Weathering with You (2019)]({{< ref "anime/Weathering with You (2019)" >}})
 - [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
 
 

@@ -250,7 +250,7 @@ title: "list"
 ## W
 - [Waktu Maghrib (2023)]({{< ref "movies/Waktu Maghrib (2023)" >}})
 - [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
-- [What If...? (2021)]({{< ref "tv/What If...? (2021)" >}})
+- [What If...? (2021)]({{< ref "tv/What If (2021)" >}})
 - [Weathering with You (2019)]({{< ref "anime/Weathering with You (2019)" >}})
 - [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
 

@@ -159,6 +159,7 @@ title: "list"
 ## L
 - [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
+- [Loki (2021)]({{< ref "tv/Loki (2021)" >}})
 
 ## M
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
@@ -178,6 +179,7 @@ title: "list"
 - [One Piece Live Action]({{< ref "tv/one-piece-live-action" >}})
 
 ## P
+- [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})

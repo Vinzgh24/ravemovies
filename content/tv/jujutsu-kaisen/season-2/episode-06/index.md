@@ -1,5 +1,5 @@
 ---
-title: "Jujutsu Kaisen - S2E6 - Episode 06"
+title: "Jujutsu Kaisen - S02E6 - Episode 06"
 date: 2023-09-02T03:15:02Z
 tags: ["Anime"]
 categories: ["Action", "Adventure"]

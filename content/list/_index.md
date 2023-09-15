@@ -67,6 +67,7 @@ title: "list"
 
 
 ## B
+- [Baby Driver (2017)]({{< ref "movies/Baby Driver (2017)" >}})
 - [Bait (2012)]({{< ref "movies/Bait (2012)" >}})
 - [Bangkit dari Kubur (2012)]({{< ref "movies/Bangkit dari Kubur (2012)" >}})
 - [Barbie (2023)]({{< ref "movies/Barbie (2023)" >}})
@@ -107,6 +108,7 @@ title: "list"
 
 
 ## F
+- [F9: The Fast Saga (2021)]({{< ref "movies/F9: The Fast Saga (2021)" >}})
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
 - [Frozen (2013)]({{< ref "movies/Frozen (2013)" >}})
@@ -186,6 +188,7 @@ title: "list"
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
 - [Poltergeist (1982)]({{< ref "movies/Poltergeist (1982)" >}})
+- [Princess Mononoke (1997)]({{< ref "anime/Princess Mononoke (1997)" >}})
 
 ## R
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
@@ -212,10 +215,12 @@ title: "list"
 - [Sweet Home]({{< ref "drakor/sweet-home" >}})
  
 ## T
+- [Tales from Earthsea (2006)]({{< ref "anime/Tales from Earthsea (2006)" >}})
 - [Talk to Me (2023)]({{< ref "movies/Talk to Me (2023)" >}})
 - [Tangled (2010)]({{< ref "movies/Tangled (2010)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
+- [The Equalizer (2014)]({{< ref "movies/The Equalizer (2014)" >}})
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
 - [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
@@ -257,6 +262,7 @@ title: "list"
 - [What If...? (2021)]({{< ref "tv/What If (2021)" >}})
 - [Weathering with You (2019)]({{< ref "anime/Weathering with You (2019)" >}})
 - [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
+- [Whisper of the Heart (1995)]({{< ref "anime/Whisper of the Heart (1995)" >}})
 
 
 ## Y

@@ -22,7 +22,7 @@ showSummary: false
   "name": "What If...? - S01E9 - What If... The Watcher Broke His Oath?",
   "contentUrl": "https://stream.mux.com/fVaOngUsRIsLQ57DWubGLGKZ2ip6giJApEZ6jsetmME.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rsXvPMXywgPPiylJHVL1q29x7J6.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-09-14T19:58:40Z",
+  "uploadDate": "2023-09-14T19:58:40Z"
 }
 
 </script>

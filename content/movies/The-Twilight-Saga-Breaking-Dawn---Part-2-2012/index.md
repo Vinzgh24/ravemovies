@@ -23,7 +23,7 @@ Setelah kelahiran Renesmee/Nessie, keluarga Cullen mengumpulkan klan vampir lain
   "name": "The Twilight Saga: Breaking Dawn - Part 2 (2012)",
   "contentUrl": "https://stream.mux.com/00WkA00AV5dnX01ujMeFBmkscucOIDo700YXULUAIj5xX6E.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vNjMxsxm5DusfppZEAUeDU0HX9O.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-08-28T23:03:03Z",
+  "uploadDate": "2023-08-28T23:03:03Z"
 }
 
 </script>

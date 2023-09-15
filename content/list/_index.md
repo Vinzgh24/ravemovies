@@ -116,6 +116,7 @@ title: "list"
 - [Generasi 90an: Melankolia (2020)]({{< ref "movies/Generasi 90an: Melankolia (2020)" >}})
 - [Ghost Rider (2007)]({{< ref "movies/Ghost Rider (2007)" >}})
 - [Ghosted (2023)]({{< ref "movies/Ghosted (2023)" >}})
+- [Girls Trip (2017)]({{< ref "movies/Girls Trip (2017)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 
 ## H
@@ -184,6 +185,7 @@ title: "list"
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
+- [Poltergeist (1982)]({{< ref "movies/Poltergeist (1982)" >}})
 
 ## R
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
@@ -224,6 +226,8 @@ title: "list"
 - [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
+- [The Raid 2: Berandal (2014)]({{< ref "movies/The Raid 2: Berandal (2014)" >}})
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
 - [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})

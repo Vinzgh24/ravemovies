@@ -1,5 +1,5 @@
 ---
-title: "What If...? - S01E9 - What If... The" Watcher Broke His Oath?"
+title: "What If..? - S01E9 - What If... The Watcher Broke His Oath?"
 date: 2023-09-14T19:58:40Z
 tags: ["Tv-Series"]
 categories: ["Animation", "Action", "Adventure"]

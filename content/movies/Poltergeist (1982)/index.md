@@ -12,8 +12,7 @@ Rumah sebuah keluarga dihantui oleh sejumlah hantu setan.
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EXIcTDkS42hGhuozRZhK0dsBGFV1LAP8UnfGBLzltQc3tQ" metadata-video-title="Poltergeist (1982)" prefer-playback="mse" controls>
   </mux-player>
   
-  
-  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
    <script id="EfvqkY1nzDFKj9kArNExngUBskXpF9R7OE_p1l6cPt20jQ" type="application/ld+json">
  {

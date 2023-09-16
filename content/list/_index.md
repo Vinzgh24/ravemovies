@@ -103,6 +103,7 @@ title: "list"
 ## E
 - [Emily in Paris]({{< ref "tv/Emily in Paris" >}})
 - [Elemental (2033)]({{< ref "movies/Elemental" >}})
+- [Elevator Game (2023)]({{< ref "movies/Elevator Game (2023)" >}})
 - [Elemental (2023) [Vietnamese Subtitle]]({{< ref "movies/elemental-vietnamese" >}})
 - [Eyang Putri (2021)]({{< ref "movies/Eyang Putri (2021)" >}})
 
@@ -214,6 +215,7 @@ title: "list"
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
 - [Shutter (2004)]({{< ref "movies/Shutter (2004)" >}})
+- [Skyscraper (2018)]({{< ref "movies/Skyscraper (2018)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
@@ -245,6 +247,7 @@ title: "list"
 - [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
 - [The Walking Dead (2010)]({{< ref "tv/The Walking Dead (2010)" >}})
+- [The Wind Rises (2013)]({{< ref "anime/The Wind Rises (2013)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The Chronicles of Narnia: Prince Caspian (2008)]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
 - [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})

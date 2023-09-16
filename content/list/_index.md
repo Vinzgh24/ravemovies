@@ -145,6 +145,7 @@ title: "list"
 
 ## J
 - [Jagat Arwah (2022)]({{< ref "movies/Jagat Arwah (2022)" >}})
+- [Jailangkung 2 (2018)]({{< ref "movies/Jailangkung 2 (2018)" >}})
 - [Just Mom (2022)]({{< ref "movies/just-mom-2022" >}})
 - [Jujutsu Kaisen]({{< ref "tv/jujutsu-kaisen" >}})
 - [John Wick (2014)]({{< ref "movies/John Wick (2014)" >}})
@@ -184,6 +185,7 @@ title: "list"
 
 ## P
 - [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
+- [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
@@ -209,6 +211,7 @@ title: "list"
 - [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
+- [Shutter (2004)]({{< ref "movies/Shutter (2004)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})

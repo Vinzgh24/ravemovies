@@ -80,6 +80,7 @@ title: "list"
 ## C
 - [Cars (2006)]({{< ref "movies/cars-2006" >}})
 - [Cars 2 (2011)]({{< ref "movies/Cars-2-2011" >}})
+- [Cek Toko Sebelah (2016)]({{< ref "movies/Cek Toko Sebelah (2016)" >}})
 - [Cars 3 (2017)]({{< ref "movies/cars 3 (2017)" >}})
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
@@ -195,6 +196,7 @@ title: "list"
 - [Ratu Ilmu Hitam (2019)]({{< ref "movies/Ratu Ilmu Hitam (2019)" >}})
 - [Resident Evil (2002)]({{< ref "movies/Resident Evil (2002)" >}})
 - [Resident Evil: Apocalypse (2004)]({{< ref "movies/Resident Evil: Apocalypse (2004)" >}})
+- [Retribution (2023)]({{< ref "movies/Retribution (2023)" >}})
 
 ## S
 - [Sausage Party (2016)]({{< ref "movies/Sausage Party (2016)" >}})
@@ -231,11 +233,13 @@ title: "list"
 - [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Nun (2018)]({{< ref "movies/The Nun (2018)" >}})
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
 - [The Raid 2: Berandal (2014)]({{< ref "movies/The Raid 2: Berandal (2014)" >}})
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
 - [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
+- [The Walking Dead (2010)]({{< ref "tv/The Walking Dead (2010)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The Chronicles of Narnia: Prince Caspian (2008)]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
 - [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})

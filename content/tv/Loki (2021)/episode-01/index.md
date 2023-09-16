@@ -9,7 +9,6 @@ showSummary: false
 
   <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYkBoE5avClCgMP_2yZOIrUBBf3Z5En2anG_Oz4pG9iM3w" metadata-video-title="Loki - S01E1 - Glorious Purpose" prefer-playback="mse" controls>
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYkBoE5avClCgMP_2yZOIrUBBf3Z5En2anG_Oz4pG9iM3w" metadata-video-title="Murder on the Orient Express (2017)" prefer-playback="mse" controls>
   </mux-player>
   
   

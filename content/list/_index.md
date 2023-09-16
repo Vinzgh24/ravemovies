@@ -121,6 +121,7 @@ title: "list"
 - [Ghosted (2023)]({{< ref "movies/Ghosted (2023)" >}})
 - [Girls Trip (2017)]({{< ref "movies/Girls Trip (2017)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
+- [Gundala (2019)]({{< ref "movies/Gundala (2019)" >}})
 
 ## H
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
@@ -185,6 +186,7 @@ title: "list"
 
 ## P
 - [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
+- [Pengabdi Setan (2017)]({{< ref "movies/Pengabdi Setan (2017)" >}})
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})

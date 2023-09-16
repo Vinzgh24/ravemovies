@@ -20,7 +20,7 @@ showSummary: false
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E2 - Guts",
   "contentUrl": "https://stream.mux.com/Y1pX4YuAj6V3eznHx2hJ1VpV3jbJX7KaYU3XWo6nQxI.m3u8?quality=auto",
-  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
+  "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgxNDQzNjQ2NV5BMl5BanBnXkFtZTcwODg2MDQwNA@@._V1_.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:15:00Z",
 }
 

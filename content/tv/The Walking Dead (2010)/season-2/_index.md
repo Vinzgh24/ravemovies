@@ -1,7 +1,7 @@
 ---
-title: "Season 1"
+title: "Season 2"
 description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup."
-weight: ["20"]
+weight: ["10"]
 
 cascade:
   showEdit: false
@@ -57,3 +57,4 @@ Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang
     </div>
 
 ---
+

@@ -232,7 +232,7 @@ title: "list"
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
 - [The Equalizer (2014)]({{< ref "movies/The Equalizer (2014)" >}})
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
-- [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}}
+- [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})

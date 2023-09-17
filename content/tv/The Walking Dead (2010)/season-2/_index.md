@@ -4,7 +4,6 @@ description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahw
 
 
 cascade:
-  weight: 10
   showEdit: false
   showSummary: true
   hideFeatureImage: false

@@ -3,7 +3,6 @@ title: "Season 1"
 description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup."
 
 cascade:
-  weight: 20
   showEdit: false
   showSummary: true
   hideFeatureImage: false

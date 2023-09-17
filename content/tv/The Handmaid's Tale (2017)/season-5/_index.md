@@ -1,10 +1,9 @@
 ---
-title: "Season 2"
-description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup."
-
+title: "Season 5"
+date: 2023-09-17T06:32:27Z
+description: "Bertempat di masa depan distopia, seorang wanita dipaksa hidup sebagai selir di bawah kediktatoran teokratis fundamentalis."
 
 cascade:
-  weight: 10
   showEdit: false
   showSummary: true
   hideFeatureImage: false
@@ -12,7 +11,7 @@ cascade:
 ---
 
 {{< lead >}}
-Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup.
+Bertempat di masa depan distopia, seorang wanita dipaksa hidup sebagai selir di bawah kediktatoran teokratis fundamentalis.”
 {{< /lead >}}
 
 <style>
@@ -48,14 +47,13 @@ Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">The Walking Dead</div>
+        <div class="movie-title">The Handmaid's Tale</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Drama, Horror, Fantasy</p>
-            <p><strong>Release Date:</strong> 2010</p>
+            <p><strong>Genre:</strong> Drama, Sci-Fi, Thriller</p>
+            <p><strong>Release Date:</strong> 2021</p>
             <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">8.1</div>
+        <div class="movie-rating">8.4</div>
     </div>
 
 ---
-

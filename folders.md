@@ -137,6 +137,7 @@
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
 - [The Little Mermaid]({{< ref "movies/The Little Mermaid" >}})
+- [The Little Rascals (1994)]({{< ref "movies/The Little Rascals (1994)" >}})
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
 - [The Nun (2018)]({{< ref "movies/The Nun (2018)" >}})

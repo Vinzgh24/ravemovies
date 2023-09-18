@@ -7,6 +7,7 @@ list: ["Trending"]
 ---
 
 Dua karakter berbeda, Ember (Leah Lewis) elemen api dan Wade (Mamoudou Athie) elemen air. Layaknya api, Ember memiliki sifat membara, sedangkan Wade memiliki sifat tenang layaknya air. Walaupun berbeda, keduanya saling jatuh cinta dan berusaha mencari kesamaan satu sama lainnya.
+
  <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaIsKdOmk6lGoGUVcs3jXJwBZwNgl0NpoFWaDQCgiQRxyA" metadata-video-title="Elemental (2023)" prefer-playback="mse" controls>
   </mux-player>

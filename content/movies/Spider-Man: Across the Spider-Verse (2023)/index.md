@@ -15,12 +15,12 @@ Miles Morales hadir kembali dalam babak baru saga Spider-Verse. Usai berjumpa la
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
-   <script id="0201G3Iu6x8co7I02kyNKTfgMCCSNGSCqBQV5u01fnpXWvA" type="application/ld+json">
+   <script id="sTWGUkehwj5eYGNwxOYSSaB8CCTUWcsGVGsoolW8EhI" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Spider-Man: Across the Spider-Verse (2023)",
-  "contentUrl": "https://stream.mux.com/0201G3Iu6x8co7I02kyNKTfgMCCSNGSCqBQV5u01fnpXWvA.m3u8",
+  "contentUrl": "https://stream.mux.com/sTWGUkehwj5eYGNwxOYSSaB8CCTUWcsGVGsoolW8EhI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yUa0iCocBPsGJ79BwrshHqz45Qc.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-18T07:16:26Z",
 }

@@ -6,7 +6,7 @@ categories: ["Animation", "Action", "Adventure"]
 series: ["Spider Verse"]
 ---
 
-Miles Morales hadir kembali dalam babak baru saga Spider-Verse. Usai berjumpa lagi dengan Gwen Stacy, Spider-Man si tetangga yang ramah asal Brooklyn ini terlontar melintasi Multiverse yang membawanya pada Spider Society, kelompok pahlawan manusia laba-laba yang bertugas melindungi kelangsungan Multiverse. Namun, saat para pahlawan ini berselisih tentang cara melawan sebuah ancaman besar, Miles pun harus beradu dengan para manusia laba-laba yang lain dan menetapkan langkahnya sendiri demi menyelamatkan orang-orang yang ia cintai. Siapa pun bisa memakai topeng itunamun seorang pahlawan adalah ia yang tahu benar cara memakainya.
+Miles Morales terbang melintasi Multiverse, di mana ia bertemu dengan tim Spider-People yang bertugas melindungi keberadaan Multiverse. Saat para pahlawan berselisih tentang cara menangani ancaman baru, Miles harus mendefinisikan ulang apa artinya menjadi ...
 
 <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfRnCDuFOzRIhmnfcUjCNFYBVogFe1pGo0Jr9zgqnSvt3Q" metadata-video-title="Spider-Man: Across the Spider-Verse (2023)" prefer-playback="mse" controls>

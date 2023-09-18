@@ -66,6 +66,7 @@
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
+- [I Spit on Your Grave (2010)]({{< ref "movies/I Spit on Your Grave (2010)" >}})
 - [I Spit on Your Grave 2 (2013)]({{< ref "movies/I Spit on Your Grave 2 (2013)" >}})
 - [I Spit on Your Grave III: Vengeance Is Mine (2015)]({{< ref "movies/I Spit on Your Grave III: Vengeance Is Mine (2015)" >}})
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})

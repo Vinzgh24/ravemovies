@@ -14,6 +14,7 @@
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
 - [After (2019)]({{< ref "movies/After (2019)" >}})
+- [After Ever Happy (2022)]({{< ref "movies/After Ever Happy (2022)" >}})
 - [After We Collided (2020)]({{< ref "movies/After We Collided (2020)" >}})
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "drakor/All of Us Are Dead" >}})

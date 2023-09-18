@@ -58,6 +58,7 @@ title: "list"
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
 - [After (2019)]({{< ref "movies/After (2019)" >}})
 - [After We Collided (2020)]({{< ref "movies/After We Collided (2020)" >}})
+- [After Ever Happy (2022)]({{< ref "movies/After Ever Happy (2022)" >}})
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "drakor/All of Us Are Dead" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})

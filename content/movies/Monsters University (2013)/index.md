@@ -3,6 +3,7 @@ title: "Monsters University (2013)"
 date: 2023-09-18T12:12:56Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
+series: ["Monster"]
 ---
 
 Sekilas tentang hubungan Mike Wazowski (Billy Crystal) dan James P. "Sully" Sullivan (John Goodman) selama hari-hari mereka di Monsters University, ketika mereka belum tentu menjadi sahabat terbaik.

@@ -6,7 +6,7 @@ categories: ["Drama", "Romance"]
 series: ["After"]
 ---
 
-Seorang wanita muda jatuh cinta pada seorang pria dengan rahasia kelam dan keduanya memulai hubungan yang sulit. Berdasarkan novel karya Anna Todd.
+Ketika kebenaran mengejutkan tentang keluarga pasangan terungkap, kedua kekasih tersebut menyadari bahwa mereka tidak jauh berbeda satu sama lain. Tessa bukan lagi gadis yang manis, sederhana, dan baik seperti saat dia bertemu Hardin — sama seperti dia yang kejam,...
 
   <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EZpEgeEjJkdPm6xLxLpNnwUBvsKqqWh2hmuSFi37KIiS4A" metadata-video-title="After Ever Happy (2022)" prefer-playback="mse" controls>

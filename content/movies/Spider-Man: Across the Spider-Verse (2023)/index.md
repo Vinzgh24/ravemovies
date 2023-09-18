@@ -15,7 +15,9 @@ Miles Morales hadir kembali dalam babak baru saga Spider-Verse. Usai berjumpa la
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
-    <script id="sTWGUkehwj5eYGNwxOYSSaB8CCTUWcsGVGsoolW8EhI" type="application/ld+json">
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+   <script id="sTWGUkehwj5eYGNwxOYSSaB8CCTUWcsGVGsoolW8EhI" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
@@ -25,4 +27,4 @@ Miles Morales hadir kembali dalam babak baru saga Spider-Verse. Usai berjumpa la
   "uploadDate": "2023-09-18T07:16:26Z",
 }
 
-</script> 
+</script>

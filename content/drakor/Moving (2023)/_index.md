@@ -1,7 +1,7 @@
 ---
-title: "Happiness (2021)"
-date: 2023-09-07T20:47:33Z
-description: "Sejenis virus mematikan baru menyebar di seluruh kota, dan apartemen tempat tinggal berbagai kelas sosial orang dikunci. Dengan ketakutan akan virus dan konflik dari berbagai kelas tersebut, para penghuni harus menghabiskan waktu dan bertahan hidup di tempat tinggal baru tersebut."
+title: "Moving (2023)"
+date: 2023-09-18T11:20:34Z
+description: "Kehidupan tenang tiga siswa sekolah menengah dengan kemampuan genetik super berubah ketika sebuah organisasi misterius mulai memburu mereka satu per satu."
 
 cascade:
   showEdit: false
@@ -11,7 +11,7 @@ cascade:
 ---
 
 {{< lead >}}
-Sejenis virus mematikan baru menyebar di seluruh kota, dan apartemen tempat tinggal berbagai kelas sosial orang dikunci. Dengan ketakutan akan virus dan konflik dari berbagai kelas tersebut, para penghuni harus menghabiskan waktu dan bertahan hidup di tempat tinggal baru tersebut.
+Kehidupan tenang tiga siswa sekolah menengah dengan kemampuan genetik super berubah ketika sebuah organisasi misterius mulai memburu mereka satu per satu.
 {{< /lead >}}
 
 <style>
@@ -47,15 +47,13 @@ Sejenis virus mematikan baru menyebar di seluruh kota, dan apartemen tempat ting
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Happiness</div>
+        <div class="movie-title">Moving</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Action, Fantasy, Horror</p>
+            <p><strong>Genre:</strong> Action, Adventure, Fantasy</p>
             <p><strong>Release Date:</strong> 2021</p>
-            <p><strong>Status:</strong> Complete</p>
+            <p><strong>Status:</strong> Ongoing</p>
         </div>
-        <div class="movie-rating">7.9</div>
+        <div class="movie-rating">8.6</div>
     </div>
 
 ---
-
-

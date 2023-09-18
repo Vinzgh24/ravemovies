@@ -4,16 +4,24 @@ date: 2023-08-15T09:22:53Z
 tags: ["Movie"]
 categories: ["Animation", Comedy", "Fantasy", "Family", "Romance"]
 list: ["Trending"]
-
 ---
 
- _In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common._
+Dua karakter berbeda, Ember (Leah Lewis) elemen api dan Wade (Mamoudou Athie) elemen air. Layaknya api, Ember memiliki sifat membara, sedangkan Wade memiliki sifat tenang layaknya air. Walaupun berbeda, keduanya saling jatuh cinta dan berusaha mencari kesamaan satu sama lainnya.
+ <mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaIsKdOmk6lGoGUVcs3jXJwBZwNgl0NpoFWaDQCgiQRxyA" metadata-video-title="Elemental (2023)" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+   <script id="bzRcAhLnBnOdtNZ01w01Pc6o68FAB4xsOaKm28F7IOn01g" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Elemental",
+  "contentUrl": "https://stream.mux.com/bzRcAhLnBnOdtNZ01w01Pc6o68FAB4xsOaKm28F7IOn01g.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2zmV7pgmmfAwh9SMS1c4DzCBsdc.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-08-15T09:22:53Z",
+}
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/uahy4sZXrrYNrQBU7FZEWJAXiZm.jpg" controls>
-   <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EaOr058s5IVOhlyJ-Vdb6O4B81kq2Ph0-UcsqLydHp25pQ" type="video/mp4">
-</video>
-
-
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di play melalui Rave silahkan baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</script>

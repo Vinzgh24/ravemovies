@@ -56,6 +56,7 @@ title: "list"
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
+- [After (2019)]({{< ref "movies/After (2019)" >}})
 - [After We Collided (2020)]({{< ref "movies/After We Collided (2020)" >}})
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "drakor/All of Us Are Dead" >}})
@@ -144,6 +145,7 @@ title: "list"
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
+- [Interstellar (2014)]({{< ref "movies/Interstellar (2014)" >}})
 - [insdious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
@@ -191,6 +193,7 @@ title: "list"
 
 ## P
 - [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
+- [Pee Nak 2 (2020)]({{< ref "movies/Pee Nak 2 (2020)" >}})
 - [Pengabdi Setan (2017)]({{< ref "movies/Pengabdi Setan (2017)" >}})
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
@@ -221,6 +224,7 @@ title: "list"
 - [Shutter (2004)]({{< ref "movies/Shutter (2004)" >}})
 - [Skyscraper (2018)]({{< ref "movies/Skyscraper (2018)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
+- [Spider-Man: Across the Spider-Verse (2023)]({{< ref "movies/Spider-Man: Across the Spider-Verse (2023)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
@@ -234,6 +238,7 @@ title: "list"
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
 - [The Equalizer (2014)]({{< ref "movies/The Equalizer (2014)" >}})
+- [The Forest (2016)]({{< ref "movies/The Forest (2016)" >}})
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
 - [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
@@ -265,8 +270,9 @@ title: "list"
 (2010)]({{< ref "movies/the-twilight-saga-eclipse" >}})
 - [The Twilight Saga: Breaking Dawn – Part 2
 (2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
-- [Tom And Jerry: The Fast And The Furry (2005)[Vietnamese Subtitle]]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005) [Vietnamese]" >}})
+- [ And Jerry: The Fast And The Furry (2005)[Vietnamese Subtitle]]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005) [Vietnamese]" >}})
 - [Tom And Jerry: The Fast And The Furry (2005)]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005)" >}})
+- [Transformers (2007)]({{< ref "movies/Transformers (2007)" >}})
 - [The Twilight Saga: Breaking Dawn – Part 1
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
@@ -282,6 +288,7 @@ title: "list"
 - [Weathering with You (2019)]({{< ref "anime/Weathering with You (2019)" >}})
 - [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
 - [Whisper of the Heart (1995)]({{< ref "anime/Whisper of the Heart (1995)" >}})
+- [Who Rules The World (2022)]({{< ref "tv/Who Rules The World (2022)" >}})
 
 
 ## Y

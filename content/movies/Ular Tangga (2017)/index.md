@@ -24,4 +24,4 @@ Seorang siswa indigo yang dapat melihat sesuatu yang buruk akan terjadi yang dat
   "uploadDate": "2023-09-19T10:13:27Z",
 }
 
-</script
+</script>

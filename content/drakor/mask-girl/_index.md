@@ -50,7 +50,7 @@ Seorang pekerja kantoran yang merasa tidak aman dengan penampilannya menjadi kep
         <div class="movie-details">
             <p><strong>Genre:</strong> Drama, Romance</p>
             <p><strong>Release Date:</strong> 2023</p>
-            <p><strong>Status:</strong> Ongoing</p>
+            <p><strong>Status:</strong> Complete</p>
         </div>
         <div class="movie-rating">7.5</div>
     </div>

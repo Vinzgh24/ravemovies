@@ -96,6 +96,7 @@ title: "list"
 - [Danur: I Can See Ghosts]({{< ref "movies/danur-2017" >}})
 - [Danur 2: Maddah]({{< ref "movies/danur-2-2018" >}})
 - [Danur 3: Sunyaruri]({{< ref "movies/danur-3" >}})
+- [Dear Nathan (2017)]({{< ref "movies/Dear Nathan (2017)" >}})
 - [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Don't Breathe (2016)]({{< ref "movies/Don't Breathe (2016)" >}})
 - [Don't Breathe 2 (2021)]({{< ref "movies/Don't Breathe 2 (2021)" >}})
@@ -133,6 +134,8 @@ title: "list"
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
 - [Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]" >}})
 - [Harry Potter and the Chamber of Secrets (2002)]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002)" >}})
+- [Harry Potter and the Goblet of Fire (2005) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Goblet of Fire (2005) [Vietnamese Subtitle]" >}})
+- [Harry Potter and the Goblet of Fire (2005)]({{< ref "movies/Harry Potter and the Goblet of Fire (2005)" >}})
 - [Harry Potter and the Prisoner of Azkaban (2004) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Prisoner of Azkaban (2004) [Vietnamese Subtitle]" >}})
 - [Harry Potter and the Prisoner of Azkaban (2004)]({{< ref "movies/Harry Potter and the Prisoner of Azkaban (2004)" >}})
 - [Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]" >}})
@@ -290,7 +293,10 @@ title: "list"
 - [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})
 - [Tusk (2014)]({{< ref "movies/Tusk (2014)" >}})
 - [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
-
+- 
+## U
+- [Ular Tangga (2017)]({{< ref "movies/Ular Tangga (2017)" >}})
+- 
 ## W
 - [Waktu Maghrib (2023)]({{< ref "movies/Waktu Maghrib (2023)" >}})
 - [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})

@@ -5,7 +5,7 @@ tags: ["Movie"]
 categories: ["Drama", "Thriller"]
 ---
 
-4 orang berniat bunuh diri bersama dengan cara meledakkan diri menggunakan bola kembang api berukuran besar.
+Saat berlibur di sebuah vila bersama ketiga temannya, seorang wanita yang penuh kebencian terjerumus ke dalam kebencian ketika kekuatan gelap mencoba mengambil alih hidupnya.
 
 <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ESQnJOnAmqJIoWlVd_W6vR8BmIQ6TPJlc2g3-5iteOYQYg" metadata-video-title="Rasuk (2018)" prefer-playback="mse" controls>

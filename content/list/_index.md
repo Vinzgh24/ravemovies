@@ -141,6 +141,7 @@ title: "list"
 - [Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001) [Vietnamese Subtitle]" >}})
 - [Harry Potter and the Sorcerer's Stone (2001)]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001)" >}})
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
+- [Hello Ghost (2023)]({{< ref "movies/Hello Ghost (2023)" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
@@ -168,6 +169,7 @@ title: "list"
 - [John Wick: Chapter 3 - Parabellum (2019)]({{< ref "movies/John Wick: Chapter 3 - Parabellum (2019)" >}})
 
 ## K
+- [Kembang Api (2023)]({{< ref "movies/Kembang Api (2023)" >}})
 - [Keramat 2: Caruban Larang (2022)]({{< ref "movies/Keramat 2: Caruban Larang (2022)" >}})
 - [King The Land]({{< ref "tv/king-the-land" >}})
 - [Khanzab (2023)]({{< ref "movies/Khanzab (2023)" >}})
@@ -210,6 +212,8 @@ title: "list"
 - [Pengabdi Setan (2017)]({{< ref "movies/Pengabdi Setan (2017)" >}})
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
+- [Pengkhianatan G30S PKI (1984)]({{< ref "movies/Pengkhianatan G30S PKI (1984)" >}})
+- [Perempuan Berkalung Sorban (2009)]({{< ref "movies/Perempuan Berkalung Sorban (2009)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
@@ -217,6 +221,7 @@ title: "list"
 - [Princess Mononoke (1997)]({{< ref "anime/Princess Mononoke (1997)" >}})
 
 ## R
+- [Rasuk (2018)]({{< ref "movies/Rasuk (2018)" >}})
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
 - [Ratu Ilmu Hitam (2019)]({{< ref "movies/Ratu Ilmu Hitam (2019)" >}})
 - [Resident Evil (2002)]({{< ref "movies/Resident Evil (2002)" >}})
@@ -224,6 +229,7 @@ title: "list"
 - [Retribution (2023)]({{< ref "movies/Retribution (2023)" >}})
 
 ## S
+- [Satria Dewa: Gatotkaca (2022)]({{< ref "movies/Satria Dewa: Gatotkaca (2022)" >}})
 - [Sausage Party (2016)]({{< ref "movies/Sausage Party (2016)" >}})
 - [Saw 3D (2010)]({{< ref "movies/Saw 3D (2010)" >}})
 - [Saw (2004)]({{< ref "movies/Saw (2004)" >}})
@@ -286,6 +292,7 @@ title: "list"
 - [The Twilight Saga: Breaking Dawn – Part 2
 (2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
 - [Tinker Bell (2008)]({{< ref "movies/Tinker Bell (2008)" >}})
+- [Tinker Bell and the Great Fairy Rescue (2010)]({{< ref "movies/Tinker Bell and the Great Fairy Rescue (2010)" >}})
 - [ And Jerry: The Fast And The Furry (2005)[Vietnamese Subtitle]]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005) [Vietnamese]" >}})
 - [Tom And Jerry: The Fast And The Furry (2005)]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005)" >}})
 - [Transformers (2007)]({{< ref "movies/Transformers (2007)" >}})
@@ -302,6 +309,8 @@ title: "list"
 - 
 ## W
 - [Waktu Maghrib (2023)]({{< ref "movies/Waktu Maghrib (2023)" >}})
+- [Warkop DKI: Atas Boleh Bawah Boleh (1986)]({{< ref "movies/Warkop DKI: Atas Boleh Bawah Boleh (1986)" >}})
+- [Warkop DKI: Bisa Naik Bisa Turun (1991)]({{< ref "movies/Warkop DKI: Bisa Naik Bisa Turun (1991)" >}})
 - [Warkop DKI: Masuk Kena Keluar Kena (1992)]({{< ref "movies/Warkop DKI: Masuk Kena Keluar Kena (1992)" >}})
 - [Weathering with You (2019) [Vietnamese Subtitle]]({{< ref "anime/Weathering with You (2019) [Vietnamese Subtitle]" >}})
 - [What If...? (2021)]({{< ref "tv/What If (2021)" >}})

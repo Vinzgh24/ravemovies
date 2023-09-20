@@ -1,8 +1,8 @@
 ---
-title: "The Walking Dead (2010)"
-date: 2023-09-15T19:14:20Z
-description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup."
-
+title: "Attack on Titan"
+date: 2023-09-20T07:56:19Z
+description: "Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan."
+tags: ["Anime"]
 
 cascade:
   showEdit: false
@@ -12,7 +12,7 @@ cascade:
 ---
 
 {{< lead >}}
-Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup.
+Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan.
 {{< /lead >}}
 
 <style>
@@ -48,14 +48,13 @@ Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">The Walking Dead</div>
+        <div class="movie-title">Attack on Titan</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Drama, Horror, Fantasy</p>
-            <p><strong>Release Date:</strong> 2010</p>
+            <p><strong>Genre:</strong> Action, Adventure</p>
+            <p><strong>Release Date:</strong> 2013</p>
             <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">8.1</div>
+        <div class="movie-rating">9.0</div>
     </div>
 
 ---
-

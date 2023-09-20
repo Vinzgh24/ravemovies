@@ -1,6 +1,6 @@
 ---
-title: "The Walking Dead (2010)"
-date: 2023-09-15T19:14:20Z
+title: "Season 3"
+date: 2023-09-20T11:22:43Z
 description: "Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang hancur dan harus memimpin sekelompok orang yang selamat untuk tetap hidup."
 
 
@@ -58,4 +58,5 @@ Deputi Sheriff Rick Grimes terbangun dari koma dan mengetahui bahwa dunia sedang
     </div>
 
 ---
+
 

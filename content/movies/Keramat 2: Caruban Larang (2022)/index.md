@@ -3,6 +3,7 @@ title: "Keramat 2: Caruban Larang (2022)"
 date: 2023-09-13T21:53:14Z
 tags: ["Movie"]
 categories: ["Horror"]
+series: ["Keramat"]
 ---
 
 Syuting film dokumenter berubah menjadi kelam ketika sekelompok teman dan pembuat konten mengalami serangkaian pertemuan supernatural yang aneh.

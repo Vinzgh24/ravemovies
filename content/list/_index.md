@@ -51,6 +51,8 @@ title: "list"
 - [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
 - [365 Days: This Day (2022)]({{< ref "movies/365 days this day (2022)" >}})
 - [365 Days (2020)]({{< ref "movies/365-days-2020" >}})
+- [(500) Days of Summer (2009)]({{< ref "movies/(500) Days of Summer (2009)" >}})
+- [(500) Days of Summer [Vietnamese Subtitle]]({{< ref "movies/(500) Days of Summer" >}})
 
 ## A
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
@@ -89,6 +91,8 @@ title: "list"
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
 - [Comic 8 (2014)]({{< ref "movies/Comic 8 (2014)" >}})
+- [Comic 8: Casino Kings - Part 1 (2015)]({{< ref "movies/Comic 8: Casino Kings - Part 1 (2015)" >}})
+- [Corpse Bride (2005)]({{< ref "movies/Corpse Bride (2005)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 - [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
 - [Cruella (2021) Dubbing Indonesia]({{< ref "movies/Cruella (2021) Dubbing Indonesia" >}})
@@ -206,6 +210,7 @@ title: "list"
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
 
 ## O 
+- [Once Upon a Crime (2023)]({{< ref "movies/Once Upon a Crime (2023)" >}})
 - [One Piece Live Action]({{< ref "tv/one-piece-live-action" >}})
 
 ## P
@@ -272,6 +277,8 @@ title: "list"
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
 - [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
+- [The Kissing Booth (2018)]({{< ref "movies/The Kissing Booth (2018)" >}})
+- [The Kissing Booth 3 (2021)]({{< ref "movies/The Kissing Booth 3 (2021)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
@@ -300,10 +307,15 @@ title: "list"
 (2010)]({{< ref "movies/the-twilight-saga-eclipse" >}})
 - [The Twilight Saga: Breaking Dawn – Part 2
 (2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
+- [Til Death Do Us Part (2023)]({{< ref "movies/Til Death Do Us Part (2023)" >}})
 - [Tinker Bell (2008)]({{< ref "movies/Tinker Bell (2008)" >}})
 - [Tinker Bell and the Great Fairy Rescue (2010)]({{< ref "movies/Tinker Bell and the Great Fairy Rescue (2010)" >}})
 - [ And Jerry: The Fast And The Furry (2005)[Vietnamese Subtitle]]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005) [Vietnamese]" >}})
 - [Tom And Jerry: The Fast And The Furry (2005)]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005)" >}})
+- [Toy Story (1995)]({{< ref "movies/Toy Story (1995)" >}})
+- [Toy Story 2 (1999)]({{< ref "movies/Toy Story 2 (1999)" >}})
+- [Toy Story 3 (2010)]({{< ref "movies/Toy Story 3 (2010)" >}})
+- [Toy Story 4 (2019)]({{< ref "movies/Toy Story 4 (2019)" >}})
 - [Transformers (2007)]({{< ref "movies/Transformers (2007)" >}})
 - [The Twilight Saga: Breaking Dawn – Part 1
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})

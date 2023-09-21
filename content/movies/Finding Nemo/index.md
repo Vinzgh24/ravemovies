@@ -3,17 +3,27 @@ title: "Finding Nemo Dub Indo"
 date: 2023-07-15T23:28:07Z
 tags: ["Movie"]
 categories: ["Animation", Adventure", "Comedy"]
+series: ["Finding Nemo"]
 showSummary: true
 ---
 
-Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.
+Setelah putranya ditangkap di Great Barrier Reef dan dibawa ke Sydney, seekor ikan badut yang pemalu memulai perjalanan untuk membawanya pulang.
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/zXdQ3xdewFCZnvIH7LjNR2C6vyZ.jpg" controls>
-  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdEJo-zgVTVEuuSh7sutWT8BnXrwdv33uDpJR0RxdziBkw" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdEJo-zgVTVEuuSh7sutWT8BnXrwdv33uDpJR0RxdziBkw" metadata-video-title="Finding Nemo Dub Indonesia" prefer-playback="mse" controls>
+  </mux-player>
   
-</video>
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script id="L3zrmWSuWdKPuJym9KnR9zY02AePQxNv6z4CiGY00Sdxk" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Finding Nemo Dub Indoesia",
+  "contentUrl": "https://stream.mux.com/L3zrmWSuWdKPuJym9KnR9zY02AePQxNv6z4CiGY00Sdxk.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zXdQ3xdewFCZnvIH7LjNR2C6vyZ.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-07-15T23:28:07Z",
+}
 
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave silahkan baca Postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</script>

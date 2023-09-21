@@ -13,7 +13,7 @@ Laura dan Massimo kembali dan lebih kuat dari sebelumnya. Namun ikatan keluarga 
   </mux-player>
   
   
-  <script src="https://gist.githubusercontent.com/Vinzgh25/fa5b0d95efe16cb321159d61ff4a3a4e/raw/0376206d4bd3c1ef5cd1a268b9d8cb36c258b60e/player.js"></script>
+  <script src="https://cdn.jwplayer.com/players/HdP53fTm-AobbqYJS.js"></script>
   
   
   

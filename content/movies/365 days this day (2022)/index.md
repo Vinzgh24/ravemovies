@@ -9,11 +9,11 @@ series: ["365 Days"]
 Laura dan Massimo kembali dan lebih kuat dari sebelumnya. Namun ikatan keluarga Massimo dan seorang pria misterius yang menawar hati Laura membuat rumit hubungan sepasang kekasih itu. hidup.
 
 <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfpSP4YNY29AqL0-rds8cjcBM1jE9nH_vrUlDjx_qrr1Zw" metadata-video-title="Qorin (2022)" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfpSP4YNY29AqL0-rds8cjcBM1jE9nH_vrUlDjx_qrr1Zw" metadata-video-title="365 Days: This Day (2022)" prefer-playback="mse" controls>
   </mux-player>
   
   
-  <script src="https://cdn.jwplayer.com/players/HdP53fTm-AobbqYJS.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Vinzgh25/Rave-Web@master/play.js"></script>
   
   
   

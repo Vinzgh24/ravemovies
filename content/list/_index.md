@@ -105,6 +105,7 @@ title: "list"
 - [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Don't Breathe (2016)]({{< ref "movies/Don't Breathe (2016)" >}})
 - [Don't Breathe 2 (2021)]({{< ref "movies/Don't Breathe 2 (2021)" >}})
+- [Doraemon: Nobita's Sky Utopia (2023)]({{< ref "anime/Doraemon: Nobita's Sky Utopia (2023)" >}})
 - [Duty After School (2023)]({{< ref "drakor/Duty After School (2023)" >}})
 
 
@@ -158,6 +159,8 @@ title: "list"
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
+- [Insidious: The Last Key (2018)]({{< ref "movies/Insidious: The Last Key (2018)" >}})
+- [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Interstellar (2014)]({{< ref "movies/Interstellar (2014)" >}})
 - [insdious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})

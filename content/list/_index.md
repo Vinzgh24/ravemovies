@@ -194,6 +194,8 @@ title: "list"
 - [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
 - [Loki (2021)]({{< ref "tv/Loki (2021)" >}})
+- [London Love Story (2016)]({{< ref "movies/London Love Story (2016)" >}})
+- [London Love Story 3 (2018)]({{< ref "movies/London Love Story 3 (2018)" >}})
 
 ## M
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
@@ -266,6 +268,8 @@ title: "list"
 - [Skyscraper (2018)]({{< ref "movies/Skyscraper (2018)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Soekarno: Indonesia Merdeka (2013)]({{< ref "movies/Soekarno: Indonesia Merdeka (2013)" >}})
+- [Spider-Man (2002)]({{< ref "movies/Spider-Man (2002)" >}})
+- [Spider-Man 2 (2004)]({{< ref "movies/Spider-Man 2 (2004)" >}})
 - [Spider-Man 3 (2007)]({{< ref "movies/Spider-Man 3 (2007)" >}})
 - [Spider-Man: Across the Spider-Verse (2023)]({{< ref "movies/Spider-Man: Across the Spider-Verse (2023)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
@@ -281,6 +285,7 @@ title: "list"
 - [Tangled (2010)]({{< ref "movies/Tangled (2010)" >}})
 - [Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)]({{< ref "movies/Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" >}})
 - [The Adventures of Sharkboy and Lavagirl (2005)]({{< ref "movies/The Adventures of Sharkboy and Lavagirl (2005)" >}})
+- [The Amazing Spider-Man (2012)]({{< ref "movies/The Amazing Spider-Man (2012)" >}})
 - [The Big 4 (2022)]({{< ref "movies/The Big 4 (2022)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
@@ -300,7 +305,8 @@ title: "list"
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
-- [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
+- [The Moon (2023)]({{< ref "movies/The Moon (2023
+- [The Next 365 Days (2022)]({{< ref "movies/The Next 365 Days (2022)" >}})
 - [The Nun (2018)]({{< ref "movies/The Nun (2018)" >}})
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
 - [The Raid 2: Berandal (2014)]({{< ref "movies/The Raid 2: Berandal (2014)" >}})

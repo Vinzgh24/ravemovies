@@ -160,9 +160,12 @@ title: "list"
 - [Independence Day (1996)]({{< ref "movies/Independence Day (1996)" >}})
 - [Indiana Jones and the Dial of Destiny (2023)]({{< ref "movies/indiana jones 5" >}})
 - [Insidious (2011)]({{< ref "movies/Insidious (2011)" >}})
+- [Insidious: Chapter 2 (2013)]({{< ref "movies/Insidious: Chapter 2 (2013)" >}})
+- [Insidious: Chapter 3 (2015)]({{< ref "movies/Insidious: Chapter 3 (2015)" >}})
 - [Insidious: The Last Key (2018)]({{< ref "movies/Insidious: The Last Key (2018)" >}})
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Interstellar (2014)]({{< ref "movies/Interstellar (2014)" >}})
+- [Island Escape (2023)]({{< ref "movies/Island Escape (2023)" >}})
 - [insdious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
@@ -213,6 +216,9 @@ title: "list"
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
 
+## N
+- [Natty Knocks (2023)]({{< ref "movies/Natty Knocks (2023)" >}})
+
 ## O 
 - [Once Upon a Crime (2023)]({{< ref "movies/Once Upon a Crime (2023)" >}})
 - [One Piece Live Action]({{< ref "tv/one-piece-live-action" >}})
@@ -260,6 +266,7 @@ title: "list"
 - [Skyscraper (2018)]({{< ref "movies/Skyscraper (2018)" >}})
 - [Smile (2022)]({{< ref "movies/Smile (2022)" >}})
 - [Soekarno: Indonesia Merdeka (2013)]({{< ref "movies/Soekarno: Indonesia Merdeka (2013)" >}})
+- [Spider-Man 3 (2007)]({{< ref "movies/Spider-Man 3 (2007)" >}})
 - [Spider-Man: Across the Spider-Verse (2023)]({{< ref "movies/Spider-Man: Across the Spider-Verse (2023)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
@@ -273,6 +280,7 @@ title: "list"
 - [Talk to Me (2023)]({{< ref "movies/Talk to Me (2023)" >}})
 - [Tangled (2010)]({{< ref "movies/Tangled (2010)" >}})
 - [Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)]({{< ref "movies/Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" >}})
+- [The Adventures of Sharkboy and Lavagirl (2005)]({{< ref "movies/The Adventures of Sharkboy and Lavagirl (2005)" >}})
 - [The Big 4 (2022)]({{< ref "movies/The Big 4 (2022)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
@@ -282,6 +290,7 @@ title: "list"
 - [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
 - [The Kissing Booth (2018)]({{< ref "movies/The Kissing Booth (2018)" >}})
+- [The Kissing Booth 2 (2020)]({{< ref "movies/The Kissing Booth 2 (2020)" >}})
 - [The Kissing Booth 3 (2021)]({{< ref "movies/The Kissing Booth 3 (2021)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
@@ -311,6 +320,7 @@ title: "list"
 (2010)]({{< ref "movies/the-twilight-saga-eclipse" >}})
 - [The Twilight Saga: Breaking Dawn – Part 2
 (2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
+- [Til Death Do Us Part (2023)]({{< ref "movies/Til Death Do Us Part (2023)" >}})
 - [Tinker Bell (2008)]({{< ref "movies/Tinker Bell (2008)" >}})
 - [Tinker Bell and the Great Fairy Rescue (2010)]({{< ref "movies/Tinker Bell and the Great Fairy Rescue (2010)" >}})
 - [ And Jerry: The Fast And The Furry (2005)[Vietnamese Subtitle]]({{< ref "movies/Tom and Jerry: The Fast and the Furry (2005) [Vietnamese]" >}})

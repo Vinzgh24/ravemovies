@@ -7,16 +7,21 @@ series: ["Jujutsu Kaisen"]
 showSummary: false
 ---
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://graph.org/file/7f728a759b29c0ff03d48.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdresRTFk4BPlRT4WR-GtFABcXbjib6EuX-MCw5GbRilpQ" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdresRTFk4BPlRT4WR-GtFABcXbjib6EuX-MCw5GbRilpQ" metadata-video-title="Kaisen - S2E3 - Hidden Inventory Part 3" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+   <script id="kCUVIiW7fs5gKUnhlt8hW5xA5icRuI39QCETIYb1UGo" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Kaisen - S2E3 - Hidden Inventory Part 3",
+  "contentUrl": "https://stream.mux.com/kCUVIiW7fs5gKUnhlt8hW5xA5icRuI39QCETIYb1UGo.m3u8?quality=auto",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/34clsuWvGgJ4UT46eCLfb37HXXi.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-09-02T03:14:38Z",
+}
+
+</script>

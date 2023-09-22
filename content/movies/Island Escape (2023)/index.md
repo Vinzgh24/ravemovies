@@ -19,7 +19,7 @@ Setelah kecelakaan misterius di sebuah kamp penelitian di Pulau Gran Manan, seor
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Island Escape (2023)",
-  "contentUrl": "https://stream.mux.com/https://cdn.jwplayer.com/manifests/3s3O9aGe.m3u8.m3u8",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/3s3O9aGe.m3u8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5TA3AmwWKasVMRFGXZk0gRv2Oz6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T20:16:13Z",
 }

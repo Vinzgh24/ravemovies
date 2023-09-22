@@ -305,7 +305,7 @@ title: "list"
 - [The Maze Runner (2014)]({{< ref "movies/The Maze Runner (2014)" >}})
 - [The Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [The Meg (2018)]({{< ref "movies/the meg (2018)" >}})
-- [The Moon (2023)]({{< ref "movies/The Moon (2023
+- [The Moon (2023)]({{< ref "movies/The Moon (2023)" >}})
 - [The Next 365 Days (2022)]({{< ref "movies/The Next 365 Days (2022)" >}})
 - [The Nun (2018)]({{< ref "movies/The Nun (2018)" >}})
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})

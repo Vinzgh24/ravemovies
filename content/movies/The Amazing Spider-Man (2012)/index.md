@@ -1,7 +1,7 @@
 ---
 title: "The Amazing Spider-Man (2012)"
 date: 2023-09-22T09:25:08Z
-tags:["Movie"]
+tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
 series: ["Spider-Man"]
 ---

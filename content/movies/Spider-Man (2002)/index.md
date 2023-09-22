@@ -1,7 +1,7 @@
 ---
 title: "Spider-Man (2002)"
 date: 2023-09-22T09:17:41Z
-tags:["Movie"]
+tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
 series: ["Spider-Man"]
 ---

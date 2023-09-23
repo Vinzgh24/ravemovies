@@ -57,4 +57,3 @@ Seorang anak laki-laki menelan jimat terkutuk - jari iblis - dan dirinya sendiri
     </div>
 
 ---
-

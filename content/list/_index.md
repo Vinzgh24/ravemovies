@@ -58,6 +58,7 @@ title: "list"
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
+- [Adit Sopo Jarwo: The Movie (2021)]({{< ref "movies/Adit Sopo Jarwo: The Movie (2021)" >}})
 - [After (2019)]({{< ref "movies/After (2019)" >}})
 - [After We Collided (2020)]({{< ref "movies/After We Collided (2020)" >}})
 - [After Ever Happy (2022)]({{< ref "movies/After Ever Happy (2022)" >}})
@@ -87,6 +88,9 @@ title: "list"
 - [Cars (2006)]({{< ref "movies/cars-2006" >}})
 - [Cars 2 (2011)]({{< ref "movies/Cars-2-2011" >}})
 - [Cek Toko Sebelah (2016)]({{< ref "movies/Cek Toko Sebelah (2016)" >}})
+- [Child's Play (1988)]({{< ref "movies/Child's Play (1988)" >}})
+- [Child's Play 2 (1990)]({{< ref "movies/Child's Play 2 (1990)" >}})
+- [Child's Play 3 (1991)]({{< ref "movies/Child's Play 3 (1991)" >}})
 - [Cars 3 (2017)]({{< ref "movies/cars 3 (2017)" >}})
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
@@ -123,6 +127,7 @@ title: "list"
 ## F
 - [F9: The Fast Saga (2021)]({{< ref "movies/F9: The Fast Saga (2021)" >}})
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
+- [Fast X (2023)]({{< ref "movies/Fast X (2023)" >}})
 - [Finding Dory (2016)]({{< ref "movies/Finding Dory (2016)" >}})
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
 - [From Up on Poppy Hill (2011)]({{< ref "anime/From Up on Poppy Hill (2011)" >}})
@@ -150,6 +155,7 @@ title: "list"
 - [Harry Potter and the Sorcerer's Stone (2001)]({{< ref "movies/Harry Potter and the Sorcerer's Stone (2001)" >}})
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hello Ghost (2023)]({{< ref "movies/Hello Ghost (2023)" >}})
+- [Hati Suhita (2023)]({{< ref "movies/Hati Suhita (2023)" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
@@ -216,6 +222,8 @@ title: "list"
 - [Monstrum (2018)]({{< ref "movies/Monstrum (2018)" >}})
 - [Moving (2023)]({{< ref "drakor/Moving (2023)" >}})
 - [Mumun (2022)]({{< ref "movies/Mumun (2022)" >}})
+- [Munafik (2016)]({{< ref "movies/Munafik (2016)" >}})
+- [Munafik 2 (2018)]({{< ref "movies/Munafik 2 (2018)" >}})
 - [Murder on the Orient Express (2017)]({{< ref "movies/Murder on the Orient Express (2017)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
@@ -223,18 +231,24 @@ title: "list"
 
 ## N
 - [Natty Knocks (2023)]({{< ref "movies/Natty Knocks (2023)" >}})
+- [No One Will Save You (2023)]({{< ref "movies/No One Will Save You (2023)" >}})
 
 ## O 
 - [Once Upon a Crime (2023)]({{< ref "movies/Once Upon a Crime (2023)" >}})
 - [Once Upon a Time in China (1991)]({{< ref "movies/Once Upon a Time in China (1991)" >}})
 - [Once Upon a Time in China II (1992)]({{< ref "movies/Once Upon a Time in China II (1992)" >}})
+- [Once Upon a Time in China III (1993)]({{< ref "movies/Once Upon a Time in China III (1993)" >}})
+- [Once Upon a Time in China IV (1993)]({{< ref "movies/Once Upon a Time in China IV (1993)" >}})
+- [Once Upon a Time in China V (1994)]({{< ref "movies/Once Upon a Time in China V (1994)" >}})
+- [One Fine Day (2017)]({{< ref "movies/One Fine Day (2017)" >}})
 - [One Piece Live Action]({{< ref "tv/one-piece-live-action" >}})
 
 ## P
 - [Para Betina Pengikut Iblis (2023)]({{< ref "movies/Para Betina Pengikut Iblis (2023)" >}})
 - [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
-- [Paradise City (2021)]({{< ref "tv/Paradise City (2021)" >}})
+- [Pee Nak (2019)]({{< ref "movies/Pee Nak (2019)" >}})
 - [Pee Nak 2 (2020)]({{< ref "movies/Pee Nak 2 (2020)" >}})
+- [Pee Nak 3 (2022)]({{< ref "movies/Pee Nak 3 (2022)" >}})
 - [Pengabdi Setan (2017)]({{< ref "movies/Pengabdi Setan (2017)" >}})
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
@@ -245,6 +259,7 @@ title: "list"
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
 - [Poltergeist (1982)]({{< ref "movies/Poltergeist (1982)" >}})
 - [Princess Mononoke (1997)]({{< ref "anime/Princess Mononoke (1997)" >}})
+- [Puss in Boots: The Last Wish (2022)]({{< ref "movies/Puss in Boots: The Last Wish (2022)" >}})
 
 ## Q
 - [Qorin (2022)]({{< ref "movies/Qorin (2022)" >}})
@@ -253,6 +268,7 @@ title: "list"
 - [Rasuk (2018)]({{< ref "movies/Rasuk (2018)" >}})
 - [Ratatouille (2007)]({{< ref "movies/Ratatouille (2007)" >}})
 - [Ratu Ilmu Hitam (2019)]({{< ref "movies/Ratu Ilmu Hitam (2019)" >}})
+- [Ready or Not (2019)]({{< ref "movies/Ready or Not (2019)" >}})
 - [Resident Evil (2002)]({{< ref "movies/Resident Evil (2002)" >}})
 - [Resident Evil: Apocalypse (2004)]({{< ref "movies/Resident Evil: Apocalypse (2004)" >}})
 - [Retribution (2023)]({{< ref "movies/Retribution (2023)" >}})
@@ -277,6 +293,10 @@ title: "list"
 - [Spider-Man 2 (2004)]({{< ref "movies/Spider-Man 2 (2004)" >}})
 - [Spider-Man 3 (2007)]({{< ref "movies/Spider-Man 3 (2007)" >}})
 - [Spider-Man: Across the Spider-Verse (2023)]({{< ref "movies/Spider-Man: Across the Spider-Verse (2023)" >}})
+- [Spider-Man: Homecoming (2017)]({{< ref "movies/Spider-Man: Homecoming (2017)" >}})
+- [Spider-Man: Into the Spider-Verse (2018)]({{< ref "movies/Spider-Man: Into the Spider-Verse (2018)" >}})
+- [Spider-Man: No Way Home (2021)]({{< ref "movies/Spider-Man: No Way Home (2021)" >}})
+- [Spy Kids: Armageddon (2023)]({{< ref "movies/Spy Kids: Armageddon (2023)" >}})
 - [Strays (2023)]({{< ref "movies/Strays (2023)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
@@ -304,6 +324,7 @@ title: "list"
 - [The Kissing Booth 2 (2020)]({{< ref "movies/The Kissing Booth 2 (2020)" >}})
 - [The Kissing Booth 3 (2021)]({{< ref "movies/The Kissing Booth 3 (2021)" >}})
 - [The Last 10 Years (2022) [Vietnamese]]({{< ref "movies/The Last 10 Years (2022) [Vietnamese]" >}})
+- [The Last Exorcism (2010)]({{< ref "movies/The Last Exorcism (2010)" >}})
 - [The Last Voyage of the Demeter (2023)]({{< ref "movies/The Last Voyage of the Demeter (2023)" >}})
 - [The Last of Us (2023)]({{< ref "tv/The Last of Us (2023)" >}})
 - [The Little Mermaid (2023)]({{< ref "movies/The Little Mermaid" >}})
@@ -352,7 +373,7 @@ title: "list"
 - 
 ## U
 - [Ular Tangga (2017)]({{< ref "movies/Ular Tangga (2017)" >}})
-- 
+
 ## W
 - [Waktu Maghrib (2023)]({{< ref "movies/Waktu Maghrib (2023)" >}})
 - [Warkop DKI: Atas Boleh Bawah Boleh (1986)]({{< ref "movies/Warkop DKI: Atas Boleh Bawah Boleh (1986)" >}})
@@ -367,6 +388,7 @@ title: "list"
 - [Where the Crawdads Sing (2022)]({{< ref "movies/Where the Crawdads Sing (2022)" >}})
 - [Whisper of the Heart (1995)]({{< ref "anime/Whisper of the Heart (1995)" >}})
 - [Who Rules The World (2022)]({{< ref "tv/Who Rules The World (2022)" >}})
+- [World War Z (2013)]({{< ref "movies/World War Z (2013)" >}})
 
 
 ## Y

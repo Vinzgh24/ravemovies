@@ -1,3 +1,4 @@
+---
 title: "Season 2"
 description: "Seorang anak laki-laki menelan jimat terkutuk - jari iblis - dan dirinya sendiri menjadi terkutuk. Dia memasuki sekolah dukun untuk dapat menemukan bagian tubuh iblis lainnya dan kemudian mengusir dirinya sendiri."
 

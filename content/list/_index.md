@@ -139,6 +139,7 @@ title: "list"
 - [F9: The Fast Saga (2021)]({{< ref "movies/F9: The Fast Saga (2021)" >}})
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Fast X (2023)]({{< ref "movies/Fast X (2023)" >}})
+- [Fifty Shades Darker (2017)]({{< ref "movies/Fifty Shades Darker (2017)" >}})
 - [Fifty Shades Freed (2018)]({{< ref "movies/Fifty Shades Freed (2018)" >}})
 - [Fifty Shades of Grey (2015)]({{< ref "movies/Fifty Shades of Grey (2015)" >}})
 - [Finding Dory (2016)]({{< ref "movies/Finding Dory (2016)" >}})
@@ -214,6 +215,7 @@ title: "list"
 - [Khanzab (2023)]({{< ref "movies/Khanzab (2023)" >}})
 - [Kingdom (2019)]({{< ref "drakor/Kingdom (2019)" >}})
 - [Kopi Pahit (2022)]({{< ref "movies/Kopi Pahit (2022)" >}})
+- [Kung Fu Panda (2008)]({{< ref "movies/Kung Fu Panda (2008)" >}})
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
 ## L

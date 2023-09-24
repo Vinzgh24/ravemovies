@@ -138,6 +138,7 @@
 - [London Love Story (2016)]({{< ref "movies/London Love Story (2016)" >}})
 - [London Love Story 2 (2017)]({{< ref "movies/London Love Story 2 (2017)" >}})
 - [London Love Story 3 (2018)]({{< ref "movies/London Love Story 3 (2018)" >}})
+- [Man in Love (2021)]({{< ref "movies/Man in Love (2021)" >}})
 - [Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials (2015)" >}})
 - [Maze Runner: The Scorch Trials [2015] (Movie)]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})

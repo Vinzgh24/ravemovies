@@ -229,6 +229,7 @@ title: "list"
 ## M
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
 - [Mastr's Sun]({{< ref "drakor/master's-sun (2013)" >}})
+- [Man in Love (2021)]({{< ref "movies/Man in Love (2021)" >}})
 - [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials (2015)" >}})
 - [Maze Runner: The Scorch Trials (2015) Dubbing Indonesia]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
 - [Meg 2: The Trench (2023)]({{< ref "movies/Meg-2" >}})

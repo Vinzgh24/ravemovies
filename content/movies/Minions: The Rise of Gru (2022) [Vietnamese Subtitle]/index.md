@@ -3,6 +3,7 @@ title: "Minions: The Rise of Gru (2022) [Vietnamese Subtitle]"
 date: 2023-09-18T12:02:14Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
+series: ["Minions"]
 ---
 
 Câu chuyện chưa được tiết lộ về ước mơ của một đứa trẻ 12

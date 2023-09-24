@@ -3,6 +3,7 @@ title: "Minions: The Rise of Gru (2022)"
 date: 2023-09-18T12:02:48Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
+series: ["Minions"]
 ---
 
 Kisah tak terungkap tentang impian seorang anak berusia dua belas tahun untuk menjadi penjahat super terhebat di dunia.

@@ -70,6 +70,8 @@
 - [F9: The Fast Saga (2021)]({{< ref "movies/F9: The Fast Saga (2021)" >}})
 - [Fall (2022) [Vietnamese Subtitle]]({{< ref "movies/Fall (2022) [Vietnamese Subtitle]" >}})
 - [Fast X (2023)]({{< ref "movies/Fast X (2023)" >}})
+- [Fifty Shades Freed (2018)]({{< ref "movies/Fifty Shades Freed (2018)" >}})
+- [Fifty Shades of Grey (2015)]({{< ref "movies/Fifty Shades of Grey (2015)" >}})
 - [Finding Dory (2016)]({{< ref "movies/Finding Dory (2016)" >}})
 - [Finding Nemo]({{< ref "movies/Finding Nemo" >}})
 - [From Up on Poppy Hill (2011)]({{< ref "anime/From Up on Poppy Hill (2011)" >}})

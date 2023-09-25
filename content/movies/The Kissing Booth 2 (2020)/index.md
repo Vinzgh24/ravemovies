@@ -6,6 +6,7 @@ categories: ["Comedy", "Romance"]
 series: ["The Kissing Booth"]
 ---
 
+
 Dalam sekuel The Kissing Booth' yang tayang pada tahun 2018, Elle, seorang siswa SMA, menjalani hubungan jarak jauh dengan kekasihnya, Noah, lamaran kuliah, dan persahabatan baru dengan teman sekelas tampan yang bisa mengubah segalanya...
 
 <mux-player stream-type="on-demand"
@@ -19,8 +20,8 @@ Dalam sekuel The Kissing Booth' yang tayang pada tahun 2018, Elle, seorang siswa
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
-  "name": "The Kissing Booth 2 (2020)",
-  "contentUrl": "https://cdn.jwplayer.com/manifests/3s3O9aGe.m3u8",
+  "name": "The Kissing Booth 2",
+  "contentUrl": "https://stream.mux.com/lzW4tdKwYancoIe5FUKCIDAzr2MVPU96LCN00lDWUaxw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/cki8YXCB8ulZKZCEp37Y3E07hb7.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T19:54:59Z",
 }

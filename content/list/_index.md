@@ -85,6 +85,9 @@ title: "list"
 - [Beauty and the Beast (1991)]({{< ref "movies/Beauty and the Beast (1991)" >}})
 - [Beauty and the Beast (2017)]({{< ref "movies/Beauty and the Beast (2017)" >}})
 - [Buddy Daddies]({{< ref "tv/buddy-daddies" >}})
+- [Blue Beetle (2023)]({{< ref "movies/Blue Beetle (2023)" >}})
+- [BoBoiBoy: Elemental Heroes (2019)]({{< ref "movies/BoBoiBoy: Elemental Heroes (2019)" >}})
+- [BoBoiBoy: The Movie (2016)]({{< ref "movies/BoBoiBoy: The Movie (2016)" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
 
 ## C
@@ -99,6 +102,7 @@ title: "list"
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
 - [Comic 8 (2014)]({{< ref "movies/Comic 8 (2014)" >}})
 - [Comic 8: Casino Kings - Part 1 (2015)]({{< ref "movies/Comic 8: Casino Kings - Part 1 (2015)" >}})
+- [Coming Soon (2008)]({{< ref "movies/Coming Soon (2008)" >}})
 - [Corpse Bride (2005)]({{< ref "movies/Corpse Bride (2005)" >}})
 - [Crows Zero (2007)]({{< ref "movies/Crows Zero (2007)" >}})
 - [Crows Zero II (2009)]({{< ref "movies/Crows Zero II (2009)" >}})
@@ -157,6 +161,7 @@ title: "list"
 - [Girls Trip (2017)]({{< ref "movies/Girls Trip (2017)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Gundala (2019)]({{< ref "movies/Gundala (2019)" >}})
+- [Guy Ritchie's The Covenant (2023)]({{< ref "movies/Guy Ritchie's The Covenant (2023)" >}})
 
 ## H
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
@@ -193,6 +198,8 @@ title: "list"
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Interstellar (2014)]({{< ref "movies/Interstellar (2014)" >}})
 - [Island Escape (2023)]({{< ref "movies/Island Escape (2023)" >}})
+- [It (2017)]({{< ref "movies/It (2017)" >}})
+- [It Chapter Two (2019)]({{< ref "movies/It Chapter Two (2019)" >}})
 - [insdious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
 - [Ip Man 4 (2019)]({{< ref "movies/ip-man-4" >}})
 - [Ivanna (2022)]({{< ref "movies/Ivanna (2022)" >}})
@@ -216,6 +223,8 @@ title: "list"
 - [Kingdom (2019)]({{< ref "drakor/Kingdom (2019)" >}})
 - [Kopi Pahit (2022)]({{< ref "movies/Kopi Pahit (2022)" >}})
 - [Kung Fu Panda (2008)]({{< ref "movies/Kung Fu Panda (2008)" >}})
+- [Kung Fu Panda 2 (2011)]({{< ref "movies/Kung Fu Panda 2 (2011)" >}})
+- [Kung Fu Panda 3 (2016)]({{< ref "movies/Kung Fu Panda 3 (2016)" >}})
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
 ## L
@@ -237,6 +246,7 @@ title: "list"
 - [Minions (2015)]({{< ref "movies/Minions (2015)" >}})
 - [Minions: The Rise of Gru (2022) [Vietnamese Subtitle]]({{< ref "movies/Minions: The Rise of Gru (2022) [Vietnamese Subtitle]" >}})
 - [Minions: The Rise of Gru (2022)]({{< ref "movies/Minions: The Rise of Gru (2022)" >}})
+- [Miracle in Cell No. 7 (2022)]({{< ref "movies/Miracle in Cell No 7 (2022)" >}})
 - [Mission: Impossible - Dead Reckoning Part One (2023)]({{< ref "movies/Mission: Impossible - Dead Reckoning Part One (2023)" >}})
 - [Moana (2016)]({{< ref "movies/Moana (2016)" >}})
 - [Monster Run (2020)]({{< ref "movies/Monster Run (2020)" >}})
@@ -279,12 +289,20 @@ title: "list"
 - [Perempuan Berkalung Sorban (2009)]({{< ref "movies/Perempuan Berkalung Sorban (2009)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})
+- [Pirates of the Caribbean: At World's End (2007) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: At World's End (2007) [Vietnamese Subtitle]" >}})
+- [Pirates of the Caribbean: At World's End (2007)]({{< ref "movies/Pirates of the Caribbean: At World's End (2007)" >}})
 - [Pirates of the Caribbean: Dead Man's Chest (2006) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: Dead Man's Chest (2006) [Vietnamese Subtitle]" >}})
 - [Pirates of the Caribbean: Dead Man's Chest (2006)]({{< ref "movies/Pirates of the Caribbean: Dead Man's Chest (2006)" >}})
+- [Pirates of the Caribbean: On Stranger Tides (2011) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: On Stranger Tides (2011) [Vietnamese Subtitle]" >}})
+- [Pirates of the Caribbean: On Stranger Tides (2011)]({{< ref "movies/Pirates of the Caribbean: On Stranger Tides (2011)" >}})
+- [Pirates of the Caribbean: Salazar's Revenge (2017) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: Salazar's Revenge (2017) [Vietnamese Subtitle]" >}})
+- [Pirates of the Caribbean: Salazar's Revenge (2017)]({{< ref "movies/Pirates of the Caribbean: Salazar's Revenge (2017)" >}})
 - [Pirates of the Caribbean: The Curse of the Black Pearl (2003) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: The Curse of the Black Pearl (2003) [Vietnamese Subtitle]" >}})
 - [Pirates of the Caribbean: The Curse of the Black Pearl (2003)]({{< ref "movies/Pirates of the Caribbean: The Curse of the Black Pearl (2003)" >}})
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
 - [Poltergeist (1982)]({{< ref "movies/Poltergeist (1982)" >}})
+- [Ponyo on the Cliff by the Sea (2008)]({{< ref "anime/Ponyo on the Cliff by the Sea (2008)" >}})
+- [Porco Rosso (1992)]({{< ref "anime/Porco Rosso (1992)" >}})
 - [Princess Mononoke (1997)]({{< ref "anime/Princess Mononoke (1997)" >}})
 - [Puss in Boots: The Last Wish (2022)]({{< ref "movies/Puss in Boots: The Last Wish (2022)" >}})
 
@@ -371,6 +389,7 @@ title: "list"
 - [The Nun II (2023)]({{< ref "movies/The Nun II (2023)" >}})
 - [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
+- [The Tale of The Princess Kaguya (2013)]({{< ref "anime/The Tale of The Princess Kaguya (2013)" >}})
 - [The Walking Dead (2010)]({{< ref "tv/The Walking Dead (2010)" >}})
 - [The Wind Rises (2013)]({{< ref "anime/The Wind Rises (2013)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
@@ -423,5 +442,6 @@ title: "list"
 
 
 ## Y
-- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}})
+- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}}
+- [Yowis Ben (2018)]({{< ref "movies/Yowis Ben (2018)" >}})
 - [Your Name (2016) [Vietnamese Subtitle]]({{< ref "anime/your name (2016) [Vietnameses]" >}})

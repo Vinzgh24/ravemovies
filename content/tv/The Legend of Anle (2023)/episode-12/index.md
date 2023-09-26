@@ -2,6 +2,7 @@
 title: "The Legend of Anle - S1E12 - Episode 12"
 date: 2023-09-25T16:14:02Z
 tags: ["Tv-Series"]
+categories: ["Mystery", "Romance"]
 series: ["The Legend of Anle"]
 showSummary: false
 ---

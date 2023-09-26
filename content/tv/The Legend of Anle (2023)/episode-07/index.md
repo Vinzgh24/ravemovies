@@ -2,6 +2,7 @@
 title: "The Legend of Anle - S1E7 - Episode 07"
 date: 2023-09-25T16:13:33Z
 tags: ["Tv-Series"]
+categories: ["Mystery", "Romance"]
 series: ["The Legend of Anle"]
 showSummary: false
 ---

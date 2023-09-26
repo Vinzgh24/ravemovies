@@ -2,6 +2,7 @@
 title: "The Legend of Anle - S1E9 - Episode 09"
 date: 2023-09-25T16:13:45Z
 tags: ["Tv-Series"]
+categories: ["Mystery", "Romance"]
 series: ["The Legend of Anle"]
 showSummary: false
 ---

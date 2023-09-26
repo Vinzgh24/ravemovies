@@ -2,6 +2,7 @@
 title: "The Legend of Anle - S1E8 - Episode 08"
 date: 2023-09-25T16:13:43Z
 tags: ["Tv-Series"]
+categories: ["Mystery", "Romance"]
 series: ["The Legend of Anle"]
 showSummary: false
 ---

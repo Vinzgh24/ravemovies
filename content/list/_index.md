@@ -121,6 +121,7 @@ title: "list"
 - [Despicable Me 2 (2013)]({{< ref "movies/Despicable Me 2 (2013)" >}})
 - [Despicable Me 3 (2017) [Vietnamese Subtitle]]({{< ref "movies/Despicable Me 3 (2017) [Vietnamese Subtitle]" >}})
 - [Despicable Me 3 (2017)]({{< ref "movies/Despicable Me 3 (2017)" >}})
+- [Diary of a Wimpy Kid (2010)]({{< ref "movies/Diary of a Wimpy Kid (2010)" >}})
 - [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Don't Be Afraid of the Dark (2010)]({{< ref "movies/Don't Be Afraid of the Dark (2010)" >}})
 - [Don't Breathe (2016)]({{< ref "movies/Don't Breathe (2016)" >}})
@@ -131,6 +132,7 @@ title: "list"
 
 
 ## E
+- [Ejen Ali: The Movie (2019)]({{< ref "movies/Ejen Ali: The Movie (2019)" >}})
 - [Emily in Paris]({{< ref "tv/Emily in Paris" >}})
 - [Encanto (2021)]({{< ref "movies/Encanto (2021)" >}})
 - [Escape Room (2019)]({{< ref "movies/Escape Room (2019)" >}})
@@ -152,6 +154,7 @@ title: "list"
 - [Fifty Shades of Grey (2015)]({{< ref "movies/Fifty Shades of Grey (2015)" >}})
 - [Finding Dory (2016)]({{< ref "movies/Finding Dory (2016)" >}})
 - [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
+- [Ford v Ferrari (2019)]({{< ref "movies/Ford v Ferrari (2019)" >}})
 - [From Up on Poppy Hill (2011)]({{< ref "anime/From Up on Poppy Hill (2011)" >}})
 - [Frozen (2013)]({{< ref "movies/Frozen (2013)" >}})
 - [Frozen II (2019)]({{< ref "movies/Frozen II (2019)" >}})

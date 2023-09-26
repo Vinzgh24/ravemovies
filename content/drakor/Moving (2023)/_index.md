@@ -50,8 +50,8 @@ Kehidupan tenang tiga siswa sekolah menengah dengan kemampuan genetik super beru
         <div class="movie-title">Moving</div>
         <div class="movie-details">
             <p><strong>Genre:</strong> Action, Adventure, Fantasy</p>
-            <p><strong>Release Date:</strong> 2021</p>
-            <p><strong>Status:</strong> Ongoing</p>
+            <p><strong>Release Date:</strong> 2023</p>
+            <p><strong>Status:</strong> Complete</p>
         </div>
         <div class="movie-rating">8.6</div>
     </div>

@@ -442,6 +442,6 @@ title: "list"
 
 
 ## Y
-- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}}
+- [Your Name (2016)]({{< ref "anime/Your Name (2016)" >}})
 - [Yowis Ben (2018)]({{< ref "movies/Yowis Ben (2018)" >}})
 - [Your Name (2016) [Vietnamese Subtitle]]({{< ref "anime/your name (2016) [Vietnameses]" >}})

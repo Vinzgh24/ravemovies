@@ -57,7 +57,8 @@ title: "list"
 ## A
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
-- [A Serbian Film (2010)]({{< ref "movies/A Serbian Film (2010)" >}})
+- [A Serbian Film (2010)]({{< ref "movies/A Serbian Film (2010)" >}}
+- [A Street Cat Named Bob (2016)]({{< ref "movies/A Street Cat Named Bob (2016)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
 - [Adit Sopo Jarwo: The Movie (2021)]({{< ref "movies/Adit Sopo Jarwo: The Movie (2021)" >}})
 - [After (2019)]({{< ref "movies/After (2019)" >}})
@@ -131,6 +132,8 @@ title: "list"
 ## E
 - [Emily in Paris]({{< ref "tv/Emily in Paris" >}})
 - [Encanto (2021)]({{< ref "movies/Encanto (2021)" >}})
+- [Escape Room (2019)]({{< ref "movies/Escape Room (2019)" >}})
+- [Escape Room: Tournament of Champions (2021)]({{< ref "movies/Escape Room: Tournament of Champions (2021)" >}})
 - [Euphoria (2019)]({{< ref "tv/Euphoria (2019)" >}})
 - [Elemental (2033)]({{< ref "movies/Elemental" >}})
 - [Elevator Game (2023)]({{< ref "movies/Elevator Game (2023)" >}})
@@ -159,6 +162,7 @@ title: "list"
 - [Ghost Writer (2019)]({{< ref "movies/Ghost Writer (2019)" >}})
 - [Ghosted (2023)]({{< ref "movies/Ghosted (2023)" >}})
 - [Girls Trip (2017)]({{< ref "movies/Girls Trip (2017)" >}})
+- [Gran Turismo (2023)]({{< ref "movies/Gran Turismo (2023)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Gundala (2019)]({{< ref "movies/Gundala (2019)" >}})
 - [Guy Ritchie's The Covenant (2023)]({{< ref "movies/Guy Ritchie's The Covenant (2023)" >}})
@@ -213,6 +217,7 @@ title: "list"
 - [Jakarta vs Everybody (2022)]({{< ref "movies/Jakarta vs Everybody" >}})
 - [John Wick: Chapter 2]({{< ref "movies/John Wick: Chapter 2" >}})
 - [John Wick: Chapter 3 - Parabellum (2019)]({{< ref "movies/John Wick: Chapter 3 - Parabellum (2019)" >}})
+- [Jojo Rabbit (2019)]({{< ref "movies/Jojo Rabbit (2019)" >}})
 
 ## K
 - [Kembang Api (2023)]({{< ref "movies/Kembang Api (2023)" >}})
@@ -222,6 +227,7 @@ title: "list"
 - [Khanzab (2023)]({{< ref "movies/Khanzab (2023)" >}})
 - [Kingdom (2019)]({{< ref "drakor/Kingdom (2019)" >}})
 - [Kopi Pahit (2022)]({{< ref "movies/Kopi Pahit (2022)" >}})
+- [Kung Fu Hustle (2004)]({{< ref "movies/Kung Fu Hustle (2004)" >}})
 - [Kung Fu Panda (2008)]({{< ref "movies/Kung Fu Panda (2008)" >}})
 - [Kung Fu Panda 2 (2011)]({{< ref "movies/Kung Fu Panda 2 (2011)" >}})
 - [Kung Fu Panda 3 (2016)]({{< ref "movies/Kung Fu Panda 3 (2016)" >}})
@@ -229,11 +235,13 @@ title: "list"
 
 ## L
 - [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
+- [Lightyear (2022)]({{< ref "movies/Lightyear (2022)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
 - [Loki (2021)]({{< ref "tv/Loki (2021)" >}})
 - [London Love Story (2016)]({{< ref "movies/London Love Story (2016)" >}})
 - [London Love Story 2 (2017)]({{< ref "movies/London Love Story 2 (2017)" >}})
 - [London Love Story 3 (2018)]({{< ref "movies/London Love Story 3 (2018)" >}})
+- [Luca (2021)]({{< ref "movies/Luca (2021)" >}})
 
 ## M
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
@@ -261,12 +269,14 @@ title: "list"
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
+- [My Neighbor Totoro (1988)]({{< ref "anime/My Neighbor Totoro (1988)" >}})
 
 ## N
 - [Natty Knocks (2023)]({{< ref "movies/Natty Knocks (2023)" >}})
 - [No One Will Save You (2023)]({{< ref "movies/No One Will Save You (2023)" >}})
 
 ## O 
+- [Ocean Waves (1993)]({{< ref "anime/Ocean Waves (1993)" >}})
 - [Once Upon a Crime (2023)]({{< ref "movies/Once Upon a Crime (2023)" >}})
 - [Once Upon a Time in China (1991)]({{< ref "movies/Once Upon a Time in China (1991)" >}})
 - [Once Upon a Time in China II (1992)]({{< ref "movies/Once Upon a Time in China II (1992)" >}})
@@ -330,6 +340,7 @@ title: "list"
 - [Saw IV (2007)]({{< ref "movies/Saw IV (2007)" >}})
 - [Saw V (2008)]({{< ref "movies/Saw V (2008)" >}})
 - [Sesat (2018)]({{< ref "movies/Sesat (2018)" >}})
+- [Shaolin Soccer (2001)]({{< ref "movies/Shaolin Soccer (2001)" >}})
 - [Shaun of the Dead (2004)]({{< ref "movies/Shaun of the Dead (2004)" >}})
 - [Shazam! Fury of the Gods (2023)]({{< ref "movies/Shazam! Fury of the Gods (2023)" >}})
 - [Shutter (2004)]({{< ref "movies/Shutter (2004)" >}})
@@ -362,6 +373,8 @@ title: "list"
 - [The Amazing Spider-Man (2012)]({{< ref "movies/The Amazing Spider-Man (2012)" >}})
 - [The Amazing Spider-Man 2 (2014)]({{< ref "movies/The Amazing Spider-Man 2 (2014)" >}})
 - [The Big 4 (2022)]({{< ref "movies/The Big 4 (2022)" >}})
+- [The Boogeyman (2023)]({{< ref "movies/The Boogeyman (2023)" >}})
+- [The Cat Returns (2002)]({{< ref "anime/The Cat Returns (2002)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
 - [The Equalizer (2014)]({{< ref "movies/The Equalizer (2014)" >}})
@@ -413,6 +426,7 @@ title: "list"
 - [Toy Story 3 (2010)]({{< ref "movies/Toy Story 3 (2010)" >}})
 - [Toy Story 4 (2019)]({{< ref "movies/Toy Story 4 (2019)" >}})
 - [Transformers (2007)]({{< ref "movies/Transformers (2007)" >}})
+- [Transformers: Dark of the Moon (2011)]({{< ref "movies/Transformers: Dark of the Moon (2011)" >}})
 - [The Twilight Saga: Breaking Dawn – Part 1
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})

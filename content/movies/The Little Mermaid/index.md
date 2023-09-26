@@ -4,7 +4,6 @@ date: 2023-07-25T21:49:05Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy", "Romance"]
 slug: 'The Little Mermaid'
-list: ["Trending"]
 ---
 The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.
 

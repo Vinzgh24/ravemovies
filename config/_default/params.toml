@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["movies", "tv", "drakor", "anime", "animation"]
+mainSections = ["movies", "anime", "drakor", "tv"]
 # robots = ""
 
 disableImageOptimization = true

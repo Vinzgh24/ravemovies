@@ -2,7 +2,6 @@
 title: "The Legend of Anle"
 date: 2023-09-25T16:12:56Z
 description: "Sepuluh tahun yang lalu, keluarga Ziyuan dimusnahkan. Untuk mengungkap kebenaran tentang bagaimana keluarga kekaisaran saat ini naik takhta, dia memasuki istana kekaisaran dengan nama Ren Anle dan berkenalan dengan Hanye."
-tags: ["Anime"]
 
 cascade:
   showEdit: false

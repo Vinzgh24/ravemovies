@@ -58,7 +58,7 @@ title: "list"
 ## A
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
-- [A Serbian Film (2010)]({{< ref "movies/A Serbian Film (2010)" >}}
+- [A Serbian Film (2010)]({{< ref "movies/A Serbian Film (2010)" >}})
 - [A Street Cat Named Bob (2016)]({{< ref "movies/A Street Cat Named Bob (2016)" >}})
 - [AI Love You (2022)]({{< ref "movies/AI Love You (2022)" >}})
 - [Adit Sopo Jarwo: The Movie (2021)]({{< ref "movies/Adit Sopo Jarwo: The Movie (2021)" >}})

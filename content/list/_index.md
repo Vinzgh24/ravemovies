@@ -259,6 +259,7 @@ title: "list"
 - [Minions: The Rise of Gru (2022) [Vietnamese Subtitle]]({{< ref "movies/Minions: The Rise of Gru (2022) [Vietnamese Subtitle]" >}})
 - [Minions: The Rise of Gru (2022)]({{< ref "movies/Minions: The Rise of Gru (2022)" >}})
 - [Miracle in Cell No. 7 (2022)]({{< ref "movies/Miracle in Cell No 7 (2022)" >}})
+- [Miracle in Cell No. 7 (2013)]({{< ref "movies/Miracle in Cell No 7 (2013)" >}})
 - [Mission: Impossible - Dead Reckoning Part One (2023)]({{< ref "movies/Mission: Impossible - Dead Reckoning Part One (2023)" >}})
 - [Moana (2016)]({{< ref "movies/Moana (2016)" >}})
 - [Monster Run (2020)]({{< ref "movies/Monster Run (2020)" >}})
@@ -289,6 +290,8 @@ title: "list"
 - [Once Upon a Time in China V (1994)]({{< ref "movies/Once Upon a Time in China V (1994)" >}})
 - [One Fine Day (2017)]({{< ref "movies/One Fine Day (2017)" >}})
 - [One Piece Live Action]({{< ref "tv/one-piece-live-action" >}})
+- [Ouija (2014)]({{< ref "movies/Ouija (2014)" >}})
+- [Ouija: Origin of Evil (2016)]({{< ref "movies/Ouija: Origin of Evil (2016)" >}})
 
 ## P
 - [Para Betina Pengikut Iblis (2023)]({{< ref "movies/Para Betina Pengikut Iblis (2023)" >}})
@@ -333,6 +336,7 @@ title: "list"
 - [Retribution (2023)]({{< ref "movies/Retribution (2023)" >}})
 - [Rio (2011)]({{< ref "movies/Rio (2011)" >}})
 - [Rio 2 (2014)]({{< ref "movies/Rio 2 (2014)" >}})
+- [Romeo + Juliet (1996)]({{< ref "movies/Romeo + Juliet (1996)" >}})
 
 ## S
 - [Satria Dewa: Gatotkaca (2022)]({{< ref "movies/Satria Dewa: Gatotkaca (2022)" >}})
@@ -407,6 +411,7 @@ title: "list"
 - [The Secret Life of Pets 2 (2019)]({{< ref "movies/The Secret Life of Pets 2 (2019)" >}})
 - [The Stuff (1985)]({{< ref "movies/The Stuff (1985)" >}})
 - [The Tale of The Princess Kaguya (2013)]({{< ref "anime/The Tale of The Princess Kaguya (2013)" >}})
+- [The Uncanny Counter (2020)]({{< ref "drakor/The Uncanny Counter (2020)" >}})
 - [The Walking Dead (2010)]({{< ref "tv/The Walking Dead (2010)" >}})
 - [The Wind Rises (2013)]({{< ref "anime/The Wind Rises (2013)" >}})
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})

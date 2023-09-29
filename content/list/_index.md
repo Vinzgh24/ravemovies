@@ -190,6 +190,7 @@ title: "list"
 - [Heart of Stone (2023)]({{< ref "movies/hearth-of-stone" >}})
 - [Hello Ghost (2023)]({{< ref "movies/Hello Ghost (2023)" >}})
 - [Hati Suhita (2023)]({{< ref "movies/Hati Suhita (2023)" >}})
+- [Headshot (2016)]({{< ref "movies/Headshot (2016)" >}})
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
@@ -241,6 +242,7 @@ title: "list"
 
 ## L
 - [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
+- [Lights Out (2016)]({{< ref "movies/Lights Out (2016)" >}})
 - [Lightyear (2022)]({{< ref "movies/Lightyear (2022)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
 - [Loki (2021)]({{< ref "tv/Loki (2021)" >}})
@@ -250,6 +252,7 @@ title: "list"
 - [Luca (2021)]({{< ref "movies/Luca (2021)" >}})
 
 ## M
+- [Mama (2013)]({{< ref "movies/Mama (2013)" >}})
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
 - [Mastr's Sun]({{< ref "drakor/master's-sun (2013)" >}})
 - [Man in Love (2021)]({{< ref "movies/Man in Love (2021)" >}})
@@ -306,6 +309,7 @@ title: "list"
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
 - [Pengkhianatan G30S PKI (1984)]({{< ref "movies/Pengkhianatan G30S PKI (1984)" >}})
+- [Peninsula (2020)]({{< ref "movies/Peninsula (2020)" >}})
 - [Perempuan Berkalung Sorban (2009)]({{< ref "movies/Perempuan Berkalung Sorban (2009)" >}})
 - [Pinocchio (2022)]({{< ref "movies/Pinocchio (2022)" >}})
 - [Piranha 3D (2010)]({{< ref "movies/Piranha 3D (2010)" >}})

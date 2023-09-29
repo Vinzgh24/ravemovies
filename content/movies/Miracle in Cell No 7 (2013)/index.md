@@ -8,13 +8,13 @@ categories: ["Comedy", "Drama"]
 Sebuah kisah tentang cinta antara seorang ayah yang sakit jiwa dan putrinya yang menggemaskan.
 
 <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWADa5zpR71CrxuQamQCw5oBAJWfinVTpgtIC-i46nJ4Xg" metadata-video-title="Miracle in Cell No. 7 (2013)" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EX_21ipmq3pKrSSjgv1IneUBXRHvpWVauT2_6KKDLWOgiw" metadata-video-title="Miracle in Cell No. 7 (2013)" prefer-playback="mse" controls>
   </mux-player>
   
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
- <script id="vF4lMabN4S53Wvp3Pkoe00DlPB869KOOZ0002gWKnfMuJk" type="application/ld+json">
+ <script id="wCEOjB383v02hTOWuN4LOsWFor4PdLmBHU9YgrOIrhH4" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",

@@ -14,12 +14,12 @@ series: ["Moving"]
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
- <script id="bTpVlDhlHCjwlixAV6DXs02IO7iKPJFfUXQXEn527ABQ" type="application/ld+json">
+ <script id="Go8bnUlSAU3v4oI3tjiBs9M57Owi01TBwlUAlEaBqcNg" type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Moving - S1E3 - 1+1",
-  "contentUrl": "https://stream.mux.com/bTpVlDhlHCjwlixAV6DXs02IO7iKPJFfUXQXEn527ABQ.m3u8",
+  "contentUrl": "https://stream.mux.com/Go8bnUlSAU3v4oI3tjiBs9M57Owi01TBwlUAlEaBqcNg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-18T11:21:00Z",
 }

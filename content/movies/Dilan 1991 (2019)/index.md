@@ -6,7 +6,7 @@ categories: ["Drama", Romance"]
 series: ["Dilan"]
 ---
 
-Milea (Vanesha Prescilla) bertemu dengan Dilan (Iqbaal Ramadhan) di sebuah SMA di Bandung pada tahun 1990. Perkenalan yang tidak biasa membawa Milea mengetahui keunikan Dilan yang cerdas, baik hati, dan romantis di matanya.
+Dilan dan Milea resmi berkencan. Namun Dilan terancam dikeluarkan dari sekolah karena terlibat tawuran geng. Suatu hari, ketika dia berencana bertengkar lagi, Milea memintanya keluar dari geng motor atau hubungan mereka akan berakhir.
 
 <mux-player stream-type="on-demand"
   src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EQK5gPU7LcJHnDDhG6V3aEcB-cmlzoI8YWFcKNUSDKXAVA" metadata-video-title="Dilan 1991 (2019)" prefer-playback="mse" controls>

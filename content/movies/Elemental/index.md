@@ -3,7 +3,6 @@ title: "Elemental (2023)"
 date: 2023-08-15T09:22:53Z
 tags: ["Movie"]
 categories: ["Animation", Comedy", "Fantasy", "Family", "Romance"]
-list: ["Trending"]
 ---
 
 Dua karakter berbeda, Ember (Leah Lewis) elemen api dan Wade (Mamoudou Athie) elemen air. Layaknya api, Ember memiliki sifat membara, sedangkan Wade memiliki sifat tenang layaknya air. Walaupun berbeda, keduanya saling jatuh cinta dan berusaha mencari kesamaan satu sama lainnya.

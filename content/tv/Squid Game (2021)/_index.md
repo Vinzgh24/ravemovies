@@ -50,7 +50,7 @@ Ratusan pemain yang kekurangan uang menerima undangan aneh untuk berkompetisi da
         <div class="movie-title">Squid Game</div>
         <div class="movie-details">
             <p><strong>Genre:</strong> Action, Drama, Mystery</p>
-            <p><strong>Release Date:</strong> 2013</p>
+            <p><strong>Release Date:</strong> 2021</p>
             <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>
         </div>

@@ -3,7 +3,6 @@ title: "Meg 2: The Trench (2023)"
 date: 2023-08-20T23:16:53Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Horror"]
-list: ["Trending"]
 series: ["The Meg"]
 ---
 Sebuah tim peneliti menghadapi berbagai ancaman saat menjelajahi kedalaman laut, termasuk operasi penambangan yang jahat.

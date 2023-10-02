@@ -3,7 +3,6 @@ title: "Indiana Jones and the Dial of Destiny (2023)"
 date: 2023-08-29T11:59:46Z
 tags: ["Movie"]
 categories: ["Action", "Adventure"]
-list: ["Trending"]
 ---
 
 Arkeolog Indiana Jones berpacu dengan waktu untuk mengambil artefak legendaris yang dapat mengubah jalannya sejarah.

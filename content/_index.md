@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Rave Movie! :tada:"
-description: "Web streaming film yang dikhususkan untuk Rave"
+title: "Welcome to Raveflix! :tada:"
+description: "Raveflix adalah Web streaming film yang dikhususkan untuk nobar pada aplikasi Rave"
 ---
 
 Situs ini dirancang secara khusus untuk menonton film menggunakan aplikasi Rave. Agar mendapatkan pengalaman terbaik, sangat disarankan untuk menggunakan aplikasi Rave saat menonton.

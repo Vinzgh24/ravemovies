@@ -10,9 +10,3 @@ cascade:
 {{< lead >}}
 don't forget to press like! :heart_eyes:
 {{< /lead >}}
-    
-  {{< alert "circle-info" >}}
-Lihat lebih banyak film [disini]({{< ref "list" >}})
-{{< /alert >}}
-
----

@@ -7,18 +7,22 @@ series: ["Duty After School"]
 showSummary: false
 ---
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240" 
-poster="https://www.themoviedb.org/t/p/original/kPByE44764Hdad972h2GK301a8k.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ebb0uEYUc4hCqirXDi5JzAYB2NmOh0836xYlHaHJrszDXQ" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
 
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ebb0uEYUc4hCqirXDi5JzAYB2NmOh0836xYlHaHJrszDXQ" metadata-video-title="Duty After School - S01E7 - Episode 07" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script id="KR4HJ5C3vw8SYw4ijEWYkDy4m9H400hmgiwPWtOltxxw" type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Duty After School - S01E7 - Episode 07",
+  "contentUrl": "https://stream.mux.com/KR4HJ5C3vw8SYw4ijEWYkDy4m9H400hmgiwPWtOltxxw.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/kPByE44764Hdad972h2GK301a8k.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-09-08T08:41:16Z",
+}
 
+</script>

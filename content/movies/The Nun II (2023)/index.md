@@ -1,6 +1,6 @@
 ---
 title: "The Nun II (2023)"
-date: 2023-10-03T21:50:01Z
+date: 2023-10-03T15:01:41Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["The Nun"]
@@ -24,7 +24,7 @@ Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Irene (Tais
   "name": "The Nun II (2023)",
   "contentUrl": "https://stream.mux.com/01bLhZfMD100PLCM00U5401C5J7fb9Y4VwUBR5CygtzSM8Q.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6ccXFawnYknVMYkcCL30QhEm73j.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-09-14T20:53:06Z",
+  "uploadDate": "2023-10-03T15:01:41Z",
 }
 
 </script>

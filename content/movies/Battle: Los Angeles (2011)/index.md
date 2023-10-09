@@ -14,7 +14,7 @@ summary: "Pasukan Marinir AS menjadi garis pertahanan terakhir melawan invasi gl
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
-  "name": "Battle: Los Angeles,
+  "name": "Battle: Los Angeles",
   "contentUrl": "https://stream.mux.com/tgxQTMXdkeSs00KaHa5u1sYvKu01SQzx4i1T1z7uC6Nok.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yE5J9vvKntceP2oKWBbwV9vkE8i.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-09T07:44:48Z",

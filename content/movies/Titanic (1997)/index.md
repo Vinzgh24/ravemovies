@@ -8,7 +8,7 @@ summary: "Seorang bangsawan berusia tujuh belas tahun jatuh cinta dengan artis y
 
 {{< muxplayer src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERJXTec6ZslMibSFSKXFJYkBd74SzzcKvjXIiKO6eplZ9Q" controls="true" >}}
   
- {{< movieinfo id="593" >}}
+ {{< movieinfo id="597" >}}
   
  <script type="application/ld+json">
  {

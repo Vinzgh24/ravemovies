@@ -5,7 +5,9 @@ tags: [Movie]
 categories: ["Drama", "Romance"]
 summary: "Seorang bangsawan berusia tujuh belas tahun jatuh cinta dengan artis yang baik hati namun miskin di atas kapal R.M.S. Raksasa."
 ---
+
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
 <mux-player
   stream-type="on-demand"
   playback-id="ffU24vWMpEcYKzt72ECM6Mnje2v4AzBJRvteVI78qEM"
@@ -13,8 +15,8 @@ summary: "Seorang bangsawan berusia tujuh belas tahun jatuh cinta dengan artis y
   metadata-viewer-user-id="Placeholder (optional)"
   poster="https://image.mux.com/ffU24vWMpEcYKzt72ECM6Mnje2v4AzBJRvteVI78qEM/animated.gif?width=320"
   primary-color="#FFFFFF"
-  secondary-color="#000000"
-></mux-player>
+  secondary-color="#000000">
+  </mux-player>
 
  {{< movieinfo id="597" >}}
   

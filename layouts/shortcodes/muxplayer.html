@@ -1,0 +1,11 @@
+{{- /* layouts/shortcodes/muxplayer.html */ -}}
+{{- $src := .Get "src" -}}
+{{- $preferPlayback := .Get "prefer-playback" -}}
+{{- $controls := .Get "controls" -}}
+{{- $streamType := .Get "stream-type" | default "on-demand" -}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+<mux-player stream-type="{{ $streamType }}"
+  src="{{ $src }}" prefer-playback="{{ $preferPlayback }}" controls="{{ $controls }}">
+</mux-player>

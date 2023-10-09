@@ -22,15 +22,17 @@
     </style>
 </head>
 <body>
+
 {{ $featuredPost := .Site.GetPage "/content/about/_index.md" }}
 
 {{ if $featuredPost }}
   {{ partial "featured.html" $featuredPost }}
 {{ end }}
 
-
     <footer>
         <p>Made with ❤️ love By Levi</p>
     </footer>
+ 
+
 </body>
 </html>

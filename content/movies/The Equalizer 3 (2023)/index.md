@@ -5,15 +5,16 @@ tags: ["Movie"]
 categories: ["Action", "Crime", "Thriller"]
 series: ["The Equalizer"]
 list: ["Trending"]
+Summary: "Robert McCall (Denzel Washington) kembali beraksi, kali ini ia akan menghadapi mafia sadis yang mengganggu teman-temannya di Italia."
 ---
 
-Robert McCall (Denzel Washington) kembali beraksi, kali ini ia akan menghadapi mafia sadis yang mengganggu teman-temannya di Italia
-
+  
   <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYWhooWP0D5HmflJ9EexZrwBgt_aX92JHw_HpNiDFx1mbQ" metadata-video-title="The Equalizer 3 (2023)" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYWhooWP0D5HmflJ9EexZrwBgt_aX92JHw_HpNiDFx1mbQ" prefer-playback="mse" controls>
   </mux-player>
   
-  
+  {{< movieinfo id="926393" >}}
+ 
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
    <script id="mZpud9lhwIIp3hOClbcDD2d1r00q3FIHsJ01k2p6m02yN00" type="application/ld+json">

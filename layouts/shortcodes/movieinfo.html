@@ -1,0 +1,95 @@
+{{/* movieinfo.html */}}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+  var movieId = "{{ .Get "id" }}";
+  var language = "id-ID"; // Set the desired language code
+
+  var apiUrl = "https://api.themoviedb.org/3/movie/" + movieId + "?api_key=ea0c8bc1b7235d9e19b457c965b658ad&append_to_response=credits&language=" + language;
+
+  $.ajax({
+    url: apiUrl,
+    method: 'GET',
+    success: function(response) {
+      // Check if the storyline is available in the desired language
+      if (response.overview) {
+        $('#storyline').text(response.overview);
+      } else {
+        // Fallback to English (en-US) if the storyline is not available in the desired language
+        var fallbackLanguage = "en-US";
+        var fallbackApiUrl = "https://api.themoviedb.org/3/movie/" + movieId + "?api_key=ea0c8bc1b7235d9e19b457c965b658ad&append_to_response=credits&language=" + fallbackLanguage;
+
+        // Fetch the storyline in the fallback language
+        $.ajax({
+          url: fallbackApiUrl,
+          method: 'GET',
+          success: function(fallbackResponse) {
+            $('#storyline').text(fallbackResponse.overview);
+          },
+          error: function() {
+            console.log('Failed to fetch movie information.');
+          }
+        });
+      }
+
+     
+      $('#movie-title').text(response.title);
+
+      var rating = response.vote_average;
+      if (Number.isInteger(rating)) {
+        rating = rating.toFixed(0);
+      } else {
+        rating = rating.toFixed(1);
+      }
+      $('#rating').text(rating);
+
+      var limit = 7;
+      var castMembers = response.credits.cast.slice(0, limit).map(castMember => castMember.name);
+      var castMembersText = castMembers.join(", ");
+      $('#cast').text(castMembersText);
+
+      var runtime = response.runtime;
+      var hours = Math.floor(runtime / 60);
+      var minutes = runtime % 60;
+      var runtimeFormatted = hours + "h " + minutes + "min";
+      $('#duration').text(runtimeFormatted);
+
+      var country = response.production_countries[0].iso_3166_1;
+      var countryEmoji = getCountryEmoji(country);
+      var countryName = response.production_countries[0].name;
+      var countryText = countryEmoji + " " + countryName;
+      $('#country').text(countryText);
+
+      var releaseDate = new Date(response.release_date);
+      var options = { day: 'numeric', month: 'long', year: 'numeric' };
+      var releaseDateFormatted = releaseDate.toLocaleDateString('en-US', options);
+      $('#release-date').text(releaseDateFormatted);
+    },
+    error: function() {
+      console.log('Failed to fetch movie information.');
+    }
+  });
+
+  function getCountryEmoji(countryCode) {
+    var countryCodeUpperCase = countryCode.toUpperCase();
+    var codePoints = countryCodeUpperCase
+      .split('')
+      .map(char => 127397 + char.charCodeAt(0));
+    return String.fromCodePoint(...codePoints);
+  }
+});
+
+
+</script>
+
+<div id="movie-details">
+  <ul>
+  <li><strong>Sinopsis:</strong> <span id="storyline"></span></li>
+  <li><strong>Tanggal Rilis:</strong> <span id="release-date"></span></li>
+  <li><strong>Rating:</strong> <span id="rating"></span></li>
+  <li><strong>Durasi:</strong> <span id="duration"></span></li>
+  <li><strong>Negara:</strong> <span id="country"></span></li>
+  <li><strong>Pemeran:</strong> <span id="cast"></span></li>
+</ul>
+
+</div>

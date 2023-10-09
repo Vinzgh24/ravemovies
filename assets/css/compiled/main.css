@@ -18,14 +18,12 @@
   /* 2 */
   border-color: currentColor;
   /* 2 */
-
 }
 
 ::before,
 ::after {
   --tw-content: '';
 }
-
 
 /*
 1. Use a consistent sensible line-height in all browsers.
@@ -7620,45 +7618,46 @@ body:has(#menu-controller:checked) {
   fill: rgba(var(--color-neutral-500), 1);
 }
 
-.glow-button {
-  font-weight: 700;
-  font-size: 14px;
-  text-transform: uppercase;
-  padding: 8px 16px;
-  border: none;
+
+/* Styles for cast */
+.cast h3 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.cast-slider {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cast-member {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.cast-member img {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
   border-radius: 5px;
-  cursor: pointer;
 }
 
-.donate {
-  background-color: rgb(255, 0, 0);
-  color: #fff;
+.cast-member p {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  margin-top: 5px;
+  text-align: center;
 }
 
-.request {
-  background-color: rgb(0, 128, 0);
-  color: #fff;
-}
-
-.glow-button:hover {
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-
-}
-
-.glow-button:focus {
-  outline: none;
-}
-
-
-.glow-button:active {
-  transform: translateY(2px);
-}
-
-@media (hover: none) {
-  .glow-button:active {
-    background-color: transparent;
-    box-shadow: none;
-    color: inherit;
-    transform: none;
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+  .movie-info {
+    padding: 10px;
+  }
+  
+  .cast-slider {
+    overflow-x: auto;
   }
 }

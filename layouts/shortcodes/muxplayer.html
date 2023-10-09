@@ -1,11 +1,18 @@
 {{- /* layouts/shortcodes/muxplayer.html */ -}}
 {{- $src := .Get "src" -}}
-{{- $preferPlayback := .Get "prefer-playback" -}}
-{{- $controls := .Get "controls" -}}
-{{- $streamType := .Get "stream-type" | default "on-demand" -}}
+{{- $poster := .Get "poster" -}}
+{{- $playbackID := .Get "playback-id" -}}
+{{- $metadataVideoTitle := .Get "metadata-video-title" -}}
+{{- $metadataViewerUserID := .Get "metadata-viewer-user-id" -}}
 
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
 
-<mux-player stream-type="{{ $streamType }}"
-  src="{{ $src }}" prefer-playback="{{ $preferPlayback }}" controls="{{ $controls }}">
-</mux-player>
+<mux-player stream-type="on-demand"
+  src="{{ if $src }}{{ $src }}{{ else }}{{ $playbackID }}{{ end }}"
+  poster="{{ $poster }}"
+  playback-id="{{ $playbackID }}"
+  metadata-video-title="{{ $metadataVideoTitle }}"
+  metadata-viewer-user-id="{{ $metadataViewerUserID }}"
+  primary-color="#FFFFFF"
+  secondary-color="#000000"
+  ></mux-player>

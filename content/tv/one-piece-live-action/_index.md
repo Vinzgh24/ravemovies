@@ -2,7 +2,6 @@
 title: "One Piece Live Action"
 date: 2023-09-01T05:00:15Z
 description: "Dalam dunia pelayaran, seorang kapten bajak laut muda berangkat bersama krunya untuk meraih gelar Raja Bajak Laut, dan menemukan harta karun mistis yang dikenal sebagai 'One Piece'."
-list: ["Trending"]
 
 cascade:
   showEdit: false

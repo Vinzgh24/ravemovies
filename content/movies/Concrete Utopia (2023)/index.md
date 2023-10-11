@@ -3,7 +3,6 @@ title: "Concrete Utopia (2023)"
 date: 2023-10-02T16:59:37Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Drama"]
-list: ["Trending"]
 ---
 
 Para penyintas gempa besar berjuang untuk mendapatkan kehidupan baru di Seoul.

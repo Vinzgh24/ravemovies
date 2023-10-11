@@ -3,7 +3,6 @@ title: "Reptile (2023)"
 date: 2023-10-02T16:54:58Z
 tags: ["Movie"]
 categories: ["Crime", "Drama", "Mystery"]
-list: ["Trending"]
 ---
 
 Tom Nichols adalah seorang detektif New England yang keras kepala, gigih dalam mengejar kasus di mana tidak ada yang terlihat dan mulai membongkar ilusi dalam hidupnya sendiri.

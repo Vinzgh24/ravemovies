@@ -3,7 +3,6 @@ title: "Blue Beetle (2023)"
 date: 2023-09-19T03:15:42Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
-list: ["Trending"]
 ---
 
 Sebuah relik peninggalan alien memilih Jaime Reyes (Xolo Mariduena) untuk menjadi pewaris kekuatan luar biasa. Kekuatan baru ini mengubah takdir hidup Reyes menjadi pahlawan super kumbang biru.

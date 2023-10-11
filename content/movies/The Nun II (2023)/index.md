@@ -19,7 +19,7 @@ list: ["Trending"]
 
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
-   <script id="01bLhZfMD100PLCM00U5401C5J7fb9Y4VwUBR5CygtzSM8Q" type="application/ld+json">
+   <script type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",

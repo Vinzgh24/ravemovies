@@ -3,7 +3,6 @@ title: "Barbie (2023)"
 date: 2023-09-05T11:48:02Z
 tags: ["Movie"]
 categories: ["Adventure", "Comedy", "Fantasy"]
-list: ["Trending"]
 ---
 
 Barbie dan Ken sedang menikmati waktu hidup mereka di dunia Barbie Land yang penuh warna dan tampaknya sempurna. Namun, saat mereka mendapatkan kesempatan untuk pergi ke dunia nyata, mereka segera menemukan sukacita dan bahaya hidup di antara manusia.

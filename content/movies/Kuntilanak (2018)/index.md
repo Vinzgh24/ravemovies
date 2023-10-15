@@ -3,6 +3,7 @@ title: "Kuntilanak (2018)"
 date: 2023-10-03T14:33:38Z
 tags: [Movie]
 categories: ["Comedy", "Horror", "Mystery"]
+series: ["Kuntilanak"]
 summary: "Sekelompok anak-anak nekat mengeksplor rumah terbengkalai demi memenangkan sayembara reality show untuk membuktikan kebenaran adanya Kuntilanak yang suka menculik anak kecil. Petualangan yang mereka pikir akan membawa keseruan justru menjadi malapetaka saat Kuntilanak, sang makhluk mengerikan yang masuk ke dunia manusia melalui sebuah cermin kuno kini memburu mereka sebagai korban baru."
 ---
 

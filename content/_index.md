@@ -34,6 +34,14 @@ Raveflix adalah situs Streaming yang dibuat khusus untuk menonton film melalui A
 
 Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >}})
 
+
+### JOIN GROUP
+<div align="center">
+
+  <a href="https://t.me/arxmirrorr" target="_blank">![Telegram](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Farxmirrorr&color=2CA5E0&logo=telegram&logoColor=white)</a>
+
+</div>
+
  
 <a href="https://saweria.co/ryoo1" target="_blank" class="mybutton">donate</a>
   <a href="request" target="_blank" class="mybutton">request</a>

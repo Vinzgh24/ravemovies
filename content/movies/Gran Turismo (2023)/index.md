@@ -3,7 +3,6 @@ title: "Gran Turismo (2023)"
 date: 2023-09-26T14:20:38Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Drama"]
-list: ["Trending"]
 ---
 
 Berdasarkan kisah nyata yang luar biasa dan menginspirasi dari sebuah tim underdog - seorang gamer kelas pekerja yang sedang berjuang, mantan pembalap mobil yang gagal, dan seorang eksekutif motorsport yang idealis - yang mempertaruhkan segalanya untuk mengikuti olahraga paling elit di dunia. .

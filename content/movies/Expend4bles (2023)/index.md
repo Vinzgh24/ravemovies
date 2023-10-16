@@ -24,7 +24,7 @@ summary: "Dilengkapi dengan semua senjata yang bisa mereka dapatkan, Expendables
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Expend4bles (2023)",
-  "contentUrl": "https://stream.mux.com/yMBfY1l00zUgvnUCaJVW02d3UdYh71pfpFB47IvbdNSt00;.m3u8",
+  "contentUrl": "https://stream.mux.com/yMBfY1l00zUgvnUCaJVW02d3UdYh71pfpFB47IvbdNSt00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/v15zQZvrMSUbSTA4SkHbxOvSmJ0.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T13:28:30Z",
 }

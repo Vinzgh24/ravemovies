@@ -4,7 +4,7 @@ date: 2023-10-18T09:53:19Z
 
 cascade:
   showEdit: false
-  showSummary: true
+  showSummary: false
   hideFeatureImage: false
   showComments: true
 ---

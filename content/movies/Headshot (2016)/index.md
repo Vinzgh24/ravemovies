@@ -14,13 +14,13 @@ Iko Uwais berperan sebagai seorang pemuda yang terdampar di darat, seorang pende
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
- <script id="La6xQkEOvO8vxaC9vShV7JvfFb5O5YwweVUvyyyd6uY" type="application/ld+json">
+ <script type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
-  "name": "Headshot (2016)",
+  "name": "Headshot",
   "contentUrl": "https://stream.mux.com/La6xQkEOvO8vxaC9vShV7JvfFb5O5YwweVUvyyyd6uYa.m3u8",
-  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/w764nunj7mXDpRVRCGbwIqdWyZK.jpg?width=314&fit_mode=preserve&time=25",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3emtmbHAp145frh3Pps1bZCCEHY.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-29T11:07:24Z",
 }
 

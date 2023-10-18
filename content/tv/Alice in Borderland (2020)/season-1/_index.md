@@ -1,13 +1,19 @@
 ---
 title: "Season 1"
 date: 2023-10-18T09:53:19Z
+description: "Gamer yang terobsesi, Arisu, tiba-tiba menemukan dirinya berada di versi Tokyo yang aneh dan kosong, di mana ia dan teman-temannya harus bersaing dalam permainan berbahaya untuk bertahan hidup."
 
 cascade:
   showEdit: false
-  showSummary: false
+  showSummary: true
   hideFeatureImage: false
   showComments: true
 ---
+
+{{< lead >}}
+Gamer yang terobsesi, Arisu, tiba-tiba menemukan dirinya berada di versi Tokyo yang aneh dan kosong, di mana ia dan teman-temannya harus bersaing dalam permainan berbahaya untuk bertahan hidup.
+{{< /lead >}}
+
 
 
 <style>

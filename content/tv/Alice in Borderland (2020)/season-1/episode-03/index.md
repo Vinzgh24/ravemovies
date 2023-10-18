@@ -8,7 +8,7 @@ showSummary: false
 ---
 
   <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Lc00Ru7yVspBXWmrLKq2oaVW9JLn004OyVFyivLhs0002dg" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EZgX7Bfy3VJEqj6CHsWu1kcBhWt1GhdvnjRgsVKpnEdziQ" prefer-playback="mse" controls>
   </mux-player>
   
   
@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Alice in Borderland - S1E3 - Episode 03",
-  "contentUrl": "https://stream.mux.com/x1dTHMAgRDAO2X01UXbPs3742901xn6kZgolohEIJCGy4.m3u8",
+  "contentUrl": "https://stream.mux.com/00NhopGnm7VJ6Ji2Ra7f6B02RVSIX01GOl1A9mUOvVCfNs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/21Me6Kpr5YootBOncUJqOnsbIKa.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T09:53:36Z",
 }

@@ -22,7 +22,7 @@ summary: "Di alam yang dikenal sebagai Kumandra, sebuah Bumi yang dihuni oleh pe
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Raya and the Last Dragon",
-  "contentUrl": "https://stream.mux.com/oROzn02CRfKJj7zYeKmHEkggyQt1JcCUB01N9hKkjSwb00.m3u8",
+  "contentUrl": "https://stream.mux.com/l34xv3wkaPN01KOm6xhYC01IbDx4MK6pU8FAU3RWPzvcg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3emtmbHAp145frh3Pps1bZCCEHY.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:22:15Z",
 }

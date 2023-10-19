@@ -1,5 +1,5 @@
 ---
-title: "#Malam Jumat The Movie (2019)"
+title: "Malam Jumat The Movie (2019)"
 date: 2023-10-19T04:31:46Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]

@@ -1,5 +1,5 @@
 ---
-title: "#Alive (2020)"
+title: "Alive (2020)"
 date: 2023-10-15T12:55:06Z
 tags: ["Movie"]
 categories: ["Action", "Drama", "Horror"]

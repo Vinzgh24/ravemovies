@@ -7,6 +7,7 @@
 ## M
 ## T
 - [#Alive (2020)]({{< ref "movies/#Alive (2020)" >}})
+- [#Malam Jumat The Movie (2019)]({{< ref "movies/#Malam Jumat The Movie (2019)" >}})
 - [(500) Days of Summer (2009)]({{< ref "movies/(500) Days of Summer (2009)" >}})
 - [(500) Days of Summer]({{< ref "movies/(500) Days of Summer" >}})
 - [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
@@ -217,6 +218,10 @@
 - [Luca (2021)]({{< ref "movies/Luca (2021)" >}})
 - [Mama (2013)]({{< ref "movies/Mama (2013)" >}})
 - [Man in Love (2021)]({{< ref "movies/Man in Love (2021)" >}})
+- [Mangkujiwo (2020)]({{< ref "movies/Mangkujiwo (2020)" >}})
+- [Mangkujiwo 2 (2023)]({{< ref "movies/Mangkujiwo 2 (2023)" >}})
+- [Mariposa (2020)]({{< ref "movies/Mariposa (2020)" >}})
+- [Marlina si Pembunuh dalam Empat Babak (2017)]({{< ref "movies/Marlina si Pembunuh dalam Empat Babak (2017)" >}})
 - [Maze Runner: The Death Cure (2018)]({{< ref "movies/Maze Runner: The Death Cure (2018)" >}})
 - [Maze Runner: The Scorch Trials (2015)]({{< ref "movies/Maze Runner: The Scorch Trials (2015)" >}})
 - [Maze Runner: The Scorch Trials [2015] (Movie)]({{< ref "movies/Maze Runner: The Scorch Trials [2015] (Movie)" >}})
@@ -285,6 +290,7 @@
 - [Pirates of the Caribbean: Salazar's Revenge (2017)]({{< ref "movies/Pirates of the Caribbean: Salazar's Revenge (2017)" >}})
 - [Pirates of the Caribbean: The Curse of the Black Pearl (2003) [Vietnamese Subtitle]]({{< ref "movies/Pirates of the Caribbean: The Curse of the Black Pearl (2003) [Vietnamese Subtitle]" >}})
 - [Pirates of the Caribbean: The Curse of the Black Pearl (2003)]({{< ref "movies/Pirates of the Caribbean: The Curse of the Black Pearl (2003)" >}})
+- [Pocong the Origin (2019)]({{< ref "movies/Pocong the Origin (2019)" >}})
 - [Polis Evo 3 (2023)]({{< ref "movies/Polis Evo 3 (2023)" >}})
 - [Poltergeist (1982)]({{< ref "movies/Poltergeist (1982)" >}})
 - [Ponyo on the Cliff by the Sea (2008)]({{< ref "anime/Ponyo on the Cliff by the Sea (2008)" >}})

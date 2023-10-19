@@ -2,7 +2,6 @@
 title: "The Fall of the House of Usher"
 date: 2023-10-15T03:46:50Z
 description: "Untuk mengamankan kekayaan (dan masa depan) mereka, dua saudara kandung yang kejam membangun dinasti keluarga yang mulai runtuh ketika ahli waris mereka meninggal secara misterius, satu demi satu."
-list: ["Trending"]
 
 cascade:
   showEdit: false

@@ -3,7 +3,6 @@ title: "It Lives Inside (2023)"
 date: 2023-10-11T10:42:00Z
 tags: ["Movie"]
 categories: ["Drama", "Horror", "Thriller"]
-list: ["Trending"]
 summary: "Seorang remaja India-Amerika yang berjuang dengan identitas budayanya berselisih dengan mantan sahabatnya dan, dalam prosesnya, tanpa disadari melepaskan entitas iblis yang tumbuh lebih kuat dengan memakan kesepiannya."
 ---
 

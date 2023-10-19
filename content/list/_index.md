@@ -59,7 +59,7 @@ title: "list"
 - [(500) Days of Summer [Vietnamese Subtitle]]({{< ref "movies/(500) Days of Summer" >}})
 
 ## A
-- [#Alive (2020)]({{< ref "movies/#Alive (2020)" >}})
+- [Alive (2020)]({{< ref "movies/Alive (2020)" >}})
 - [A Quiet Place (2018)]({{< ref "movies/A Quiet Place (2018)" >}})
 - [A Quiet Place Part II (2021)]({{< ref "movies/A Quiet Place Part II (2021)" >}})
 - [A Serbian Film (2010)]({{< ref "movies/A Serbian Film (2010)" >}})
@@ -311,7 +311,7 @@ title: "list"
 - [Mask Girl]({{< ref "drakor/mask-girl" >}})
 - [Mastr's Sun]({{< ref "drakor/master's-sun (2013)" >}})
 - [Man in Love (2021)]({{< ref "movies/Man in Love (2021)" >}})
-- [Malam Jumat The Movie (2019)]({{< ref "movies/#Malam Jumat The Movie (2019)" >}})
+- [Malam Jumat The Movie (2019)]({{< ref "movies/Malam Jumat The Movie (2019)" >}})
 - [Mangkujiwo (2020)]({{< ref "movies/Mangkujiwo (2020)" >}})
 - [Mangkujiwo 2 (2023)]({{< ref "movies/Mangkujiwo 2 (2023)" >}})
 - [Mariposa (2020)]({{< ref "movies/Mariposa (2020)" >}})

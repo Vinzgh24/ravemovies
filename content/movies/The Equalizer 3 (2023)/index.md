@@ -4,7 +4,6 @@ date: 2023-10-03T14:41:01Z
 tags: ["Movie"]
 categories: ["Action", "Crime", "Thriller"]
 series: ["The Equalizer"]
-list: ["Trending"]
 Summary: "Robert McCall (Denzel Washington) kembali beraksi, kali ini ia akan menghadapi mafia sadis yang mengganggu teman-temannya di Italia."
 ---
 

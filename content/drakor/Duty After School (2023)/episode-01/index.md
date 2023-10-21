@@ -9,7 +9,7 @@ showSummary: false
 
 
 <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUL8m34ZIJtBu_GBdU_03IMB8b2gS9sKHRJLWa2vjj_4Dg" metadata-video-title="Duty After School - S01E1 - Episode 01" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUL8m34ZIJtBu_GBdU_03IMB8b2gS9sKHRJLWa2vjj_4Dg" prefer-playback="mse" controls>
   </mux-player>
   
   

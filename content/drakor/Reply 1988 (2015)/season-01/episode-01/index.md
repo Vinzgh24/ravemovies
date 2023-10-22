@@ -3,6 +3,7 @@ title: "Reply 1988 - S1E1 - Episode 01"
 date: 2023-10-21T11:50:40Z
 tags: ["K-Drama"]
 categories: ["Comedy", "Drama", "Family"]
+protected: true
 series: ["Reply 1988"]
 ---
 

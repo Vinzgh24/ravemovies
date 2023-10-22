@@ -1,8 +1,8 @@
 ---
 title: "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
 date: 2023-09-02T14:06:19Z
-tags: ["Animation"]
-categories: ["Action", "Adventure"]
+tags: ["Movie"]
+categories: ["Animation", "Action", "Adventure"]
 ---
 
 Film ini mengikuti Turtle bersaudara saat mereka bekerja untuk mendapatkan cinta dari Kota New York sambil menghadapi pasukan mutan.

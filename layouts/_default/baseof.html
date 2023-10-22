@@ -6,8 +6,26 @@
   {{- end }}" class="scroll-smooth" data-default-appearance="{{ .Site.Params.defaultAppearance | default " light" }}"
   data-auto-appearance="{{ .Site.Params.autoSwitchAppearance | default " true" }}">
 {{- partial "head.html" . -}}
+ <script type="text/javascript">
+        function checkKey() {
+            var enteredKey = document.getElementById("key").value;
+            var correctKey = "yourSecretKey"; // Replace with your actual secret key
+
+            if (enteredKey === correctKey) {
+                document.getElementById("content").style.display = "block";
+            } else {
+                alert("Incorrect key! Please try again.");
+            }
+        }
+    </script>
+    <style>
+        #content {
+            display: none;
+        }
+    </style>
 
 <body
+
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
@@ -32,12 +50,13 @@
     {{ if .Site.Params.enableSearch | default false }}
     {{- partial "search.html" . -}}
     {{ end }}
+    
+ 
   </div>
 </body>
 {{ if .Site.Params.buymeacoffee.globalWidget | default false }}
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
   data-id="{{ .Site.Params.buymeacoffee.identifier }}" data-description="Support me on Buy me a coffee!" data-message="{{ .Site.Params.buymeacoffee.globalWidgetMessage | default "" }}"
   data-color="{{ .Site.Params.buymeacoffee.globalWidgetColor | default "#FFDD00" }}" data-position="{{ .Site.Params.buymeacoffee.globalWidgetPosition | default "Left" }}" data-x_margin="18" data-y_margin="18"></script>
-  <script src="video.js"></script>
 {{ end }}
 </html>

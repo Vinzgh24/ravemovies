@@ -1,8 +1,8 @@
 ---
 title: "Elemental (2023) [Vietnamese Subtitle]"
 date: 2023-08-28T20:10:55Z
-tags: ["Animation"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Animation", "Adventure", "Comedy"]
 ---
 
 Theo Ember và Wade, trong thành phố nơi cư dân của lửa, nước, đất và không khí sống cùng nhau.

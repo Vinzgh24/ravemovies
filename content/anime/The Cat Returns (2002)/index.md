@@ -1,8 +1,8 @@
 ---
 title: "The Cat Returns (2002)"
 date: 2023-09-26T13:46:23Z
-tags: ["Anime"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Comedy"]
 ---
 
 Setelah membantu seekor kucing, seorang gadis berusia tujuh belas tahun mendapati dirinya tanpa sadar bertunangan dengan seorang Pangeran kucing di dunia magis di mana satu-satunya harapan kebebasannya terletak pada patung kucing yang rapi menjadi hidup.

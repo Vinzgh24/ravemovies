@@ -1,8 +1,8 @@
 ---
 title: "Tales From Earthsea (2006)"
 date: 2023-09-15T11:41:16Z
-tags: ["Anime"]
-categories: ["Fantasy", "Adventure"]
+tags: ["Movie"]
+categories: ["Anime", "Fantasy", "Adventure"]
 ---
 
 Ged, seorang penyihir kuat, dan Pangeran Arren, seorang pangeran muda, menyelidiki semua kejadian aneh dan tak terduga di sekitar mereka.

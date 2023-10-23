@@ -1,8 +1,8 @@
 ---
 title: "Ponyo on the Cliff by the Sea (2008)"
 date: 2023-09-19T02:27:34Z
-tags: ["Anime"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Comedy"]
 ---
 
 Seorang anak laki-laki berusia lima tahun menjalin hubungan dengan Ponyo, seorang putri ikan mas muda yang ingin menjadi manusia setelah jatuh cinta padanya.

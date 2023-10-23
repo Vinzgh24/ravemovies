@@ -1,8 +1,8 @@
 ---
 title: "Castle in the Sky (1986) [Dual Aduio]"
 date: 2023-10-18T10:49:17Z
-tags: ["Anime"]
-categories: ["Adventure", "Family"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Family"]
 summary: "Seorang anak laki-laki dan perempuan dengan kristal ajaib harus berpacu melawan bajak laut dan agen asing dalam mencari kastil terapung yang legendaris."
 ---
 

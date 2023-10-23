@@ -1,8 +1,8 @@
 ---
-title: "Spirited Away (2001) [Dual Audio]"
+title: "Spirited Away (2001) [Dubbing Indonesia]"
 date: 2023-10-18T11:04:15Z
-tags: ["Anime"]
-categories: ["Adventure", "Family"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Family"]
 summary: "Selama keluarganya pindah ke pinggiran kota, seorang gadis berusia 10 tahun yang cemberut mengembara ke dunia yang diperintah oleh para dewa, penyihir, dan roh, sebuah dunia di mana manusia diubah menjadi binatang buas."
 ---
 

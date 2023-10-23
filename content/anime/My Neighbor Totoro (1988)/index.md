@@ -1,8 +1,8 @@
 ---
 title: "My Neighbor Totoro (1988) Dubbing Indonesia"
 date: 2023-09-26T13:04:41Z
-tags: ["Anime"]
-categories: ["Comedy", "Family"]
+tags: ["Movie"]
+categories: ["Anime", "Comedy", "Family"]
 ---
 
 Ketika dua gadis pindah ke pedesaan untuk berada di dekat ibu mereka yang sakit, mereka bertualang dengan roh hutan menakjubkan yang tinggal di dekatnya.

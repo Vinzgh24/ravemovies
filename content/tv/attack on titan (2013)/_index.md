@@ -2,7 +2,7 @@
 title: "Attack on Titan"
 date: 2023-09-20T07:56:19Z
 description: "Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan."
-tags: ["Anime"]
+categories: ["Anime"]
 
 cascade:
   showEdit: false

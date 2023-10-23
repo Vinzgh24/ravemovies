@@ -1,8 +1,8 @@
 ---
 title: "Princess Mononoke (1997)"
 date: 2023-09-15T11:35:55Z
-tags: ["Anime"]
-categories: ["Action", "Adventure"]
+tags: ["Movie"]
+categories: ["Anime", "Action", "Adventure"]
 ---
 
 Dalam perjalanan untuk menemukan obat kutukan Tatarigami, Ashitaka mendapati dirinya berada di tengah perang antara dewa hutan dan Tatara, sebuah koloni pertambangan. Dalam pencarian ini dia juga bertemu San, Mononoke Hime.

@@ -1,8 +1,8 @@
 ---
 title: "Porco Rosso (1992)"
 date: 2023-09-25T16:05:50Z
-tags: ["Anime"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Comedy"]
 ---
 
 Di Italia tahun 1930-an, seorang pilot veteran Perang Dunia I dikutuk agar terlihat seperti babi antropomorfik.

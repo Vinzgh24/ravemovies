@@ -1,8 +1,8 @@
 ---
 title: "Doraemon: Nobita's Sky Utopia (2023)"
 date: 2023-09-21T15:01:28Z
-tags: ["Anime"]
-categories: ["Adventure", "Comedy"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Comedy"]
 ---
 
 Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.

@@ -1,8 +1,8 @@
 ---
 title: "One Piece Film Red (2022)"
 date: 2023-10-23T10:08:20Z
-tags: ["Anime"]
-categories: ["Action", "Adventure"]
+tags: ["Movie"]
+categories: ["Anime", "Action", "Adventure"]
 series: ["One Piece Movie"]
 summary: "Untuk pertama kalinya, Uta, penyanyi yang paling dicintai di dunia, akan mengungkapkan dirinya kepada dunia melalui konser langsung. Suara yang ditunggu-tunggu seluruh dunia akan segera bergema."
 ---

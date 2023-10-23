@@ -1,8 +1,8 @@
 ---
 title: "Ocean Waves (1993)"
 date: 2023-09-26T13:41:14Z
-tags: ["Anime"]
-categories: ["Drama", "Romance"]
+tags: ["Movie"]
+categories: ["Anime", "Drama", "Romance"]
 ---
 
 Ketika seorang pemuda kembali ke rumah setelah tahun pertamanya di perguruan tinggi, dia teringat tahun terakhirnya di sekolah menengah atas dan gadis kota besar yang berkemauan keras yang menjungkirbalikkan dunianya.

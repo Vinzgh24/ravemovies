@@ -1,8 +1,8 @@
 ---
 title: "Howl's Moving Castle (2004)"
 date: 2023-10-02T16:16:25Z
-tags: ["Anime"]
-categories: ["Adventure", "Family"]
+tags: ["Movie"]
+categories: ["Anime", "Adventure", "Family"]
 ---
 
 Ketika seorang wanita muda yang tidak percaya diri dikutuk dengan tubuh tua oleh penyihir pendendam, satu-satunya kesempatan dia untuk memecahkan mantranya terletak pada seorang penyihir muda yang memanjakan diri namun merasa tidak aman dan teman-temannya di kastil berjalan yang berkaki.

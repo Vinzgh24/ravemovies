@@ -1,8 +1,8 @@
 ---
 title: "Akira (1988)"
 date: 2023-10-23T08:07:31Z
-tags: ["Anime"]
-categories: ["Action", "Drama"]
+tags: ["Movie"]
+categories: ["Anime", "Action", "Drama"]
 summary: "Sebuah proyek militer rahasia membahayakan Neo-Tokyo ketika mengubah anggota geng pengendara motor menjadi psikopat psikis yang mengamuk yang hanya bisa dihentikan oleh seorang remaja, geng teman pengendara motornya, dan sekelompok paranormal."
 ---
 

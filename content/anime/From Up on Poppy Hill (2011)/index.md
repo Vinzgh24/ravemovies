@@ -1,8 +1,8 @@
 ---
 title: "From Up on Poppy Hill (2011)"
 date: 2023-09-17T14:55:56Z
-tags: ["Anime"]
-categories: ["Drama"]
+tags: ["Movie"]
+categories: ["Anime", "Drama"]
 ---
 
 Berlatar belakang di Yokohama tahun 1963, From Up On Poppy Hill adalah sebuah kisah cinta di mana karakter utamanya adalah siswa SMA yang akan menjadi generasi pertama dari Jepang yang baru. Seiring dengan memulihnya Jepang dari kehancuran yang dihadapinya akibat Perang Dunia II, generasi baru ini berjuang untuk melangkah maju ke depan menuju masa depan yang sejahtera namun dengan tidak meninggalkan masa lalu yang mengukir jati diri mereka.

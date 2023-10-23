@@ -2,7 +2,7 @@
 title: "Weathering With You (2019)"
 date: 2023-09-14T05:14:00Z
 tags: ["Movie"]
-categories: ["Animation", "Drama", "Fantasy"]
+categories: ["Anime", "Animation", "Drama", "Fantasy"]
 ---
 
 Bersetting pada periode cuaca yang sangat hujan, anak sekolah menengah Hodaka Morishima melarikan diri dari rumahnya di pedesaan yang bermasalah ke Tokyo dan berteman dengan seorang gadis yatim piatu yang dapat memanipulasi cuaca.

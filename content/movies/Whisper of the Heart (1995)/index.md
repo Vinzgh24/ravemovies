@@ -1,8 +1,8 @@
 ---
 title: "Whisper of the Heart (1995)"
 date: 2023-09-15T11:29:38Z
-tags: ["Anime"]
-categories: ["Drama", "Fantasy"]
+tags: ["Movie"]
+categories: ["Anime", "Drama", "Fantasy"]
 ---
 
 Saat itu adalah libur musim panas terakhir Shizuku di bangku SMP. Sebagai seorang kutubuku yang sering mengunjungi perpustakaan, perjumpaannya dengan seekor kucing menuntunnya ke rumah Seiji Amasawa. Di situ, ia dikenalkan kepada kucing mistis yang mampu mengajarinya untuk melihat "permata tersembunyi" dalam hidup. Perjalanan Seiji dan Shizuku menuju kebahagiaan dipenuhi oleh berbagai macam tantangan yang harus dilewati. Ini adalah sebuah kisah menyentuh yang bercerita tentang bagaimana mereka mampu mengukir ruang kosong di hati masing-masing.

@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E2 - Hidden Inventory Part 2"
 date: 2023-09-02T03:14:32Z
-tags: ["Anime"]
+tags: ["Tv-Series"]
 categories: ["Action", "Adventure"]
 series: ["Jujutsu Kaisen"]
 showSummary: false

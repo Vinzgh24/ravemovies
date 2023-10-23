@@ -1,8 +1,8 @@
 ---
 title: "The Tale of The Princess Kaguya (2013)"
 date: 2023-09-25T15:54:38Z
-tags: ["Anime"]
-categories: ["Drama", "Family"]
+tags: ["Movie"]
+categories: ["Anime", "Drama", "Family"]
 ---
 
 Ditemukan di dalam batang bambu yang bersinar oleh seorang pemotong bambu tua dan istrinya, seorang gadis kecil tumbuh dengan cepat menjadi seorang wanita muda yang cantik. Putri muda misterius ini memikat semua orang yang bertemu dengannya, namun pada akhirnya dia harus menghadapi...

@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E8 - The Shibuya Incident"
 date: 2023-09-15T10:59:30Z
-tags: ["Anime"]
+tags: ["Tv-Series"]
 categories: ["Action", "Adventure"]
 series: ["Jujutsu Kaisen"]
 showSummary: false

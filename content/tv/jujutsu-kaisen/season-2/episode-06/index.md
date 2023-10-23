@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E6 - It's Like That"
 date: 2023-09-02T03:15:02Z
-tags: ["Anime"]
+tags: ["Tv-Series"]
 categories: ["Action", "Adventure"]
 series: ["Jujutsu Kaisen"]
 showSummary: false

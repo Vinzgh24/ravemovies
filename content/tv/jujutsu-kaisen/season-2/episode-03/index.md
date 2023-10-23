@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E3 - Episode 03"
 date: 2023-09-02T03:14:38Z
-tags: ["Anime"]
+tags: ["Tv-Series"]
 categories: ["Action", "Adventure"]
 series: ["Jujutsu Kaisen"]
 showSummary: false

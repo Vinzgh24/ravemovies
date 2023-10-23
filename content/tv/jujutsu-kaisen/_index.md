@@ -2,6 +2,7 @@
 title: "Jujutsu Kaisen"
 date: 2023-09-02T02:57:50Z
 description: "Seorang anak laki-laki menelan jimat terkutuk - jari iblis - dan dirinya sendiri menjadi terkutuk. Dia memasuki sekolah dukun untuk dapat menemukan bagian tubuh iblis lainnya dan kemudian mengusir dirinya sendiri."
+categories: ["Anime"]
 
 cascade:
   showEdit: false

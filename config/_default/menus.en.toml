@@ -22,7 +22,7 @@
  
 [[main]]
  name = "Anime"
- pageRef = "action"
+ pageRef = "anime"
  weight = 30
  
 [[main]]

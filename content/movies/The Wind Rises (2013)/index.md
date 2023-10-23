@@ -1,8 +1,8 @@
 ---
 title: "The Wind Rises (2013)"
 date: 2023-09-16T15:31:47Z
-tags: ["Anime"]
-categories: ["Biography", "Drama"]
+tags: ["Movie"]
+categories: ["Anime", "Biography", "Drama"]
 ---
 
 Film ini menceritakan tentang Jiro Horikoshi, seorang anak yang punya mimpi untuk menjadi seorang pilot pesawat tempur. Sayangnya, mimpi itu terpaksa harus dikuburnya karena penglihatannya Jiro mengalami gangguan. Suatu hari dalam mimpi Jiro, ia bertemu dengan dengan desainer pesawat terbang asal Italia.

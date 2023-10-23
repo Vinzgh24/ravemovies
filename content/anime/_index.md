@@ -3,6 +3,6 @@ title: "Anime"
 
 cascade:
   showEdit: false
-  showSummary: false
+  showSummary: true
   hideFeatureImage: false
 ---

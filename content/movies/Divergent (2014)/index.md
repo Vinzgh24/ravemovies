@@ -3,6 +3,7 @@ title: "Divergent (2014)"
 date: 2023-10-18T11:45:58Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Mystery"]
+series: ["Divergent Series"]
 summary: "Di dunia yang terbagi oleh faksi berdasarkan kebajikan, Tris mengetahui bahwa dia adalah Divergen dan tidak akan cocok. Ketika dia menemukan rencana untuk menghancurkan Divergen, Tris dan Empat misterius harus mencari tahu apa yang membuat Divergen berbahaya sebelum itu.. ."
 ---
 

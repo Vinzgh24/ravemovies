@@ -3,7 +3,7 @@ title: "Violet Evergarden: The Movie (2020)"
 date: 2023-10-23T11:39:42Z
 tags: ["Movie"]
 categories: ["Anime", "Drama", "Fantasy"]
-summary: "Setelah perang, seorang gadis muda yang digunakan sebagai 'alat' karena perang belajar untuk hidup. Dengan bekas luka bakar, dia kembali ke masa lalunya untuk merasakan perasaan sebenarnya dari sang Mayor, Aku mencintaimu.
+summary: "Setelah perang, seorang gadis muda yang digunakan sebagai 'alat' karena perang belajar untuk hidup. Dengan bekas luka bakar, dia kembali ke masa lalunya untuk merasakan perasaan sebenarnya dari sang Mayor, Aku mencintaimu."
 ---
 
 <mux-player stream-type="on-demand"

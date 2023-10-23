@@ -57,6 +57,7 @@ title: "list"
 - [47 Meters Down: Uncaged (2019)]({{< ref "movies/47 Meters Down: Uncaged (2019)" >}})
 - [(500) Days of Summer (2009)]({{< ref "movies/(500) Days of Summer (2009)" >}})
 - [(500) Days of Summer [Vietnamese Subtitle]]({{< ref "movies/(500) Days of Summer" >}})
+- [65 (2023)]({{< ref "movies/65 (2023)" >}})
 
 ## A
 - [Alive (2020)]({{< ref "movies/Alive (2020)" >}})
@@ -78,6 +79,7 @@ title: "list"
 - [Alice in Wonderland (2010)]({{< ref "movies/Alice in Wonderland (2010)" >}})
 - [All of Us Are Dead]({{< ref "drakor/All of Us Are Dead" >}})
 - [American Psycho (2000)]({{< ref "movies/American Psycho (2000)" >}})
+- [Allegiant (2016)]({{< ref "movies/Allegiant (2016)" >}})
 - [Anak Titipan Setan (2023)]({{< ref "movies/Anak Titipan Setan (2023)" >}})
 - [Annabelle (2014)]({{< ref "movies/Annabelle (2014)" >}})
 - [Annabelle Comes Home (2019)]({{< ref "movies/Annabelle Comes Home (2019)" >}})
@@ -92,6 +94,7 @@ title: "list"
 
 ## B
 - [Baby Driver (2017)]({{< ref "movies/Baby Driver (2017)" >}})
+- [Baazigar (1993)]({{< ref "movies/Baazigar (1993)" >}})
 - [Bait (2012)]({{< ref "movies/Bait (2012)" >}})
 - [Ballerina (2023)]({{< ref "movies/Ballerina (2023)" >}})
 - [Bambi (1942)]({{< ref "movies/Bambi (1942)" >}})
@@ -111,7 +114,8 @@ title: "list"
 - [BoBoiBoy: Elemental Heroes (2019)]({{< ref "movies/BoBoiBoy: Elemental Heroes (2019)" >}})
 - [BoBoiBoy: The Movie (2016)]({{< ref "movies/BoBoiBoy: The Movie (2016)" >}})
 - [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
-- [Bumblebee (2018)]({{< ref "movies/Bumblebee (2018)" >}})
+- [Bumblebee (2018)]({{< ref "movies/Bumblebee (2018)" >}}
+- [Bullet Train (2022)]({{< ref "movies/Bullet Train (2022)" >}})
 - [Bumi Manusia (2019)]({{< ref "movies/Bumi Manusia (2019)" >}})
 
 ## C
@@ -153,6 +157,7 @@ title: "list"
 - [Dilan 1991 (2019)]({{< ref "movies/Dilan 1991 (2019)" >}})
 - [Dilema (2012)]({{< ref "movies/Dilema (2012)" >}})
 - [Divergent (2014)]({{< ref "movies/Divergent (2014)" >}})
+- [Dilwale (2015)]({{< ref "movies/Dilwale (2015)" >}})
 - [Death on the Nile (2022)]({{< ref "movies/Death on the Nile (2022)" >}})
 - [Deathgasm (2015)]({{< ref "movies/Deathgasm (2015)" >}})
 - [Don't Be Afraid of the Dark (2010)]({{< ref "movies/Don't Be Afraid of the Dark (2010)" >}})
@@ -164,6 +169,7 @@ title: "list"
 
 
 ## E
+- [Edge of Tomorrow (2014)]({{< ref "movies/Edge of Tomorrow (2014)" >}})
 - [Ejen Ali: The Movie (2019)]({{< ref "movies/Ejen Ali: The Movie (2019)" >}})
 - [Emily in Paris]({{< ref "tv/Emily in Paris" >}})
 - [Escape Room (2019)]({{< ref "movies/Escape Room (2019)" >}})
@@ -199,6 +205,7 @@ title: "list"
 - [From Up on Poppy Hill (2011)]({{< ref "movies/From Up on Poppy Hill (2011)" >}})
 - [Frozen (2013)]({{< ref "movies/Frozen (2013)" >}})
 - [Frozen II (2019)]({{< ref "movies/Frozen II (2019)" >}})
+- [Fury (2014)]({{< ref "movies/Fury (2014)" >}})
 
 ## G
 - [Generasi 90an: Melankolia (2020)]({{< ref "movies/Generasi 90an: Melankolia (2020)" >}})
@@ -236,6 +243,7 @@ title: "list"
 - [Hidayah (2023)]({{< ref "movies/Hidayah (2023)" >}})
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hit & Run (2019)]({{< ref "movies/Hit & Run (2019)" >}})
+- [Hotarubi no Mori e (2011)]({{< ref "movies/Hotarubi no Mori e (2011)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
 - [Howl's Moving Castle (2004)]({{< ref "movies/Howl's Moving Castle (2004)" >}})
 
@@ -255,6 +263,7 @@ title: "list"
 - [Insidious: Chapter 3 (2015)]({{< ref "movies/Insidious: Chapter 3 (2015)" >}})
 - [Insidious: The Last Key (2018)]({{< ref "movies/Insidious: The Last Key (2018)" >}})
 - [Insidious: The Red Door (2023)]({{< ref "movies/Insidious: The Red Door (2023)" >}})
+- [Insurgent (2015)]({{< ref "movies/Insurgent (2015)" >}})
 - [Interstellar (2014)]({{< ref "movies/Interstellar (2014)" >}})
 - [Island Escape (2023)]({{< ref "movies/Island Escape (2023)" >}})
 - [It (2017)]({{< ref "movies/It (2017)" >}})
@@ -275,8 +284,11 @@ title: "list"
 - [John Wick: Chapter 2]({{< ref "movies/John Wick: Chapter 2" >}})
 - [John Wick: Chapter 3 - Parabellum (2019)]({{< ref "movies/John Wick: Chapter 3 - Parabellum (2019)" >}})
 - [Jojo Rabbit (2019)]({{< ref "movies/Jojo Rabbit (2019)" >}})
+- [Josee, the Tiger and the Fish (2020)]({{< ref "movies/Josee, the Tiger and the Fish (2020)" >}})
+
 
 ## K
+- [Kate (2021)]({{< ref "movies/Kate (2021)" >}})
 - [Kembang Api (2023)]({{< ref "movies/Kembang Api (2023)" >}})
 - [Keramat (2009)]({{< ref "movies/Keramat (2009)" >}})
 - [Keramat 2: Caruban Larang (2022)]({{< ref "movies/Keramat 2: Caruban Larang (2022)" >}})
@@ -290,11 +302,14 @@ title: "list"
 - [Kung Fu Panda 3 (2016)]({{< ref "movies/Kung Fu Panda 3 (2016)" >}})
 - [Kuntilanak (2018)]({{< ref "movies/Kuntilanak (2018)" >}})
 - [Kuntilanak 3 (2022)]({{< ref "movies/Kuntilanak 3 (2022)" >}})
+- [Kutukan Arwah Santet (2012)]({{< ref "movies/Kutukan Arwah Santet (2012)" >}})
 - [KKN di Desa Penari (2022)]({{< ref "movies/kkn-di-desa-penari-2022" >}})
 
 ## L
 - [Laddaland (2011)]({{< ref "movies/Laddaland (2011)" >}})
 - [Laskar Pelangi (2008)]({{< ref "movies/Laskar Pelangi (2008)" >}})
+- [Lamborghini: The Man Behind the Legend (2022)]({{< ref "movies/Lamborghini: The Man Behind the Legend (2022)" >}})
+- [Lampor: Keranda Terbang (2019)]({{< ref "movies/Lampor: Keranda Terbang (2019)" >}})
 - [Lights Out (2016)]({{< ref "movies/Lights Out (2016)" >}})
 - [Layla Majnun (2021)]({{< ref "movies/Layla Majnun (2021)" >}})
 - [Lightyear (2022)]({{< ref "movies/Lightyear (2022)" >}})
@@ -340,6 +355,7 @@ title: "list"
 - [Munafik (2016)]({{< ref "movies/Munafik (2016)" >}})
 - [Munafik 2 (2018)]({{< ref "movies/Munafik 2 (2018)" >}})
 - [Murder on the Orient Express (2017)]({{< ref "movies/Murder on the Orient Express (2017)" >}})
+- [Muzzle (2023)]({{< ref "movies/Muzzle (2023)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
 - [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
@@ -379,6 +395,7 @@ title: "list"
 - [Pengabdi Setan (2017)]({{< ref "movies/Pengabdi Setan (2017)" >}})
 - [Pengabdi Setan 2: Communion (2022)]({{< ref "movies/Pengabdi Setan 2: Communion (2022)" >}})
 - [Perjanjian Gaib (2023)]({{< ref "movies/Perjanjian Gaib (2023)" >}})
+- [Petualangan Sherina (2000)]({{< ref "movies/Petualangan Sherina (2000)" >}})
 - [Pengkhianatan G30S PKI (1984)]({{< ref "movies/Pengkhianatan G30S PKI (1984)" >}})
 - [Peninsula (2020)]({{< ref "movies/Peninsula (2020)" >}})
 - [Perempuan Berkalung Sorban (2009)]({{< ref "movies/Perempuan Berkalung Sorban (2009)" >}})
@@ -405,6 +422,7 @@ title: "list"
 - [Prisoners (2013)]({{< ref "movies/Prisoners (2013)" >}})
 - [Pulau Hantu (2008)]({{< ref "movies/Pulau Hantu (2008)" >}})
 - [Pulau Hantu 2 (2008)]({{< ref "movies/Pulau Hantu 2 (2008)" >}})
+- [Punk in Love (2009)]({{< ref "movies/Punk in Love (2009)" >}})
 - [Puss in Boots: The Last Wish (2022)]({{< ref "movies/Puss in Boots: The Last Wish (2022)" >}})
 
 ## Q
@@ -421,6 +439,7 @@ title: "list"
 - [Red Dawn (2012)]({{< ref "movies/Red Dawn (2012)" >}})
 - [Red, White & Royal Blue (2023)]({{< ref "movies/Red, White & Royal Blue (2023)" >}})
 - [Reptile (2023)]({{< ref "movies/Reptile (2023)" >}})
+- [Reply 1988 (2015)]({{< ref "drakor/Reply 1988 (2015)" >}})
 - [Resident Evil (2002)]({{< ref "movies/Resident Evil (2002)" >}})
 - [Resident Evil: Apocalypse (2004)]({{< ref "movies/Resident Evil: Apocalypse (2004)" >}})
 - [Retribution (2023)]({{< ref "movies/Retribution (2023)" >}})
@@ -499,6 +518,7 @@ title: "list"
 - [The Cat Returns (2002)]({{< ref "movies/The Cat Returns (2002)" >}})
 - [The Childe (2023)]({{< ref "movies/The Childe (2023)" >}})
 - [The Conjuring (2013)]({{< ref "movies/The Conjuring (2013)" >}})
+- [The Courier (2020)]({{< ref "movies/The Courier (2020)" >}})
 - [The Devil Comes at Night (2023)]({{< ref "movies/The Devil Comes at Night (2023)" >}})
 - [The Devil on Trial (2023)]({{< ref "movies/The Devil on Trial (2023)" >}})
 - [The Dive (2023)]({{< ref "movies/The Dive (2023)" >}})
@@ -513,6 +533,7 @@ title: "list"
 - [The Fall of the House of Usher (2023)]({{< ref "tv/The Fall of the House of Usher (2023)" >}})
 - [The Ghost Station (2023)]({{< ref "movies/The Ghost Station (2023)" >}})
 - [The Guilty (2021)]({{< ref "movies/The Guilty (2021)" >}})
+- [The Greatest Showman (2017)]({{< ref "movies/The Greatest Showman (2017)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
 - [The Kissing Booth (2018)]({{< ref "movies/The Kissing Booth (2018)" >}})
 - [The Kissing Booth 2 (2020)]({{< ref "movies/The Kissing Booth 2 (2020)" >}})
@@ -558,6 +579,7 @@ title: "list"
 (2010)]({{< ref "movies/the-twilight-saga-eclipse" >}})
 - [The Twilight Saga: Breaking Dawn – Part 2
 (2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
+- [Those Who Wish Me Dead (2021)]({{< ref "movies/Those Who Wish Me Dead (2021)" >}})
 - [Til Death Do Us Part (2023)]({{< ref "movies/Til Death Do Us Part (2023)" >}})
 - [Tinker Bell (2008)]({{< ref "movies/Tinker Bell (2008)" >}})
 - [Tinker Bell and the Great Fairy Rescue (2010)]({{< ref "movies/Tinker Bell and the Great Fairy Rescue (2010)" >}})
@@ -578,9 +600,13 @@ title: "list"
 (2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
-- [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})
 - [Tusk (2014)]({{< ref "movies/Tusk (2014)" >}})
 - [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
+
+## V
+- [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})
+- [Veer-Zaara (2004)]({{< ref "movies/Veer-Zaara (2004)" >}})
+- [Violet Evergarden: The Movie (2020)]({{< ref "movies/Violet Evergarden: The Movie (2020)" >}})
 - 
 ## U
 - [Ular Tangga (2017)]({{< ref "movies/Ular Tangga (2017)" >}})
@@ -603,6 +629,7 @@ title: "list"
 - [Who Rules The World (2022)]({{< ref "tv/Who Rules The World (2022)" >}})
 - [Wiro Sableng: Pendekar Kapak Maut Naga Geni 212 (2018)]({{< ref "movies/Wiro Sableng: Pendekar Kapak Maut Naga Geni 212 (2018)" >}})
 - [World War Z (2013)]({{< ref "movies/World War Z (2013)" >}})
+- [Without Remorse (2021)]({{< ref "movies/Without Remorse (2021)" >}})
 - [Wreck-It Ralph (2012)]({{< ref "movies/Wreck-It Ralph (2012)" >}})
 
 ## X

@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Exorcist: Believer (2023)",
-"contentUrl": "https://stream.mux.com/yg6ihYL01KeiPlRMRBC5zNTF02swI01ny7J4mTKEObW00Pc.m3u8",
+"contentUrl": "https://stream.mux.com/vymW2rRTcVLfBOC9Kh5KaVG4l6CXglQy91201CloaefI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aSuIAtUbdLDbu1YH7EFUrfnNVM9.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-25T13:05:32Z",
 }

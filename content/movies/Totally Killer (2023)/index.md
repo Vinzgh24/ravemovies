@@ -3,7 +3,6 @@ title: "Totally Killer (2023)"
 date: 2023-10-11T10:31:36Z
 tags: ["Movie"]
 categories: ["Comedy", "Horror"]
-list: ["Trending"]
 summary: Ketika "Pembunuh Enam Belas Manis" kembali 35 tahun setelah pembunuhan pertamanya untuk menuntut korban lain, Jamie yang berusia 17 tahun secara tidak sengaja melakukan perjalanan kembali ke tahun 1987, bertekad untuk menghentikan si pembunuh sebelum dia dapat memulai.
 ---
 

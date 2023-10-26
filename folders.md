@@ -8,6 +8,7 @@
 ## T
 - [(500) Days of Summer (2009)]({{< ref "movies/(500) Days of Summer (2009)" >}})
 - [(500) Days of Summer]({{< ref "movies/(500) Days of Summer" >}})
+- [1917 (2019)]({{< ref "movies/1917 (2019)" >}})
 - [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
 - [2 Fast 2 Furious (2003)]({{< ref "movies/2 Fast 2 Furious (2003)" >}})
 - [2012 (2009)]({{< ref "movies/2012 (2009)" >}})
@@ -152,6 +153,7 @@
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Gundala (2019)]({{< ref "movies/Gundala (2019)" >}})
 - [Guy Ritchie's The Covenant (2023)]({{< ref "movies/Guy Ritchie's The Covenant (2023)" >}})
+- [Hacksaw Ridge (2016)]({{< ref "movies/Hacksaw Ridge (2016)" >}})
 - [Halloween Kills (2021)]({{< ref "movies/Halloween Kills (2021)" >}})
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
 - [Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]" >}})
@@ -176,6 +178,7 @@
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hit & Run (2019)]({{< ref "movies/Hit & Run (2019)" >}})
 - [Hotarubi no Mori e (2011)]({{< ref "movies/Hotarubi no Mori e (2011)" >}})
+- [Hotel Mumbai (2019)]({{< ref "movies/Hotel Mumbai (2019)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
 - [Howl's Moving Castle (2004)]({{< ref "movies/Howl's Moving Castle (2004)" >}})
 - [I Spit on Your Grave (2010)]({{< ref "movies/I Spit on Your Grave (2010)" >}})

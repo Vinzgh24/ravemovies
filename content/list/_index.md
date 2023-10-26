@@ -48,6 +48,7 @@ title: "list"
 ---
 
 ## 0-9
+- [1917 (2019)]({{< ref "movies/1917 (2019)" >}})
 - [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
 - [2012 (2009)]({{< ref "movies/2012 (2009)" >}})
 - [2 Fast 2 Furious (2003)]({{< ref "movies/2 Fast 2 Furious (2003)" >}})
@@ -226,6 +227,8 @@ title: "list"
 - [Guy Ritchie's The Covenant (2023)]({{< ref "movies/Guy Ritchie's The Covenant (2023)" >}})
 
 ## H
+- [Hacksaw Ridge (2016)]({{< ref "movies/Hacksaw Ridge (2016)" >}})
+- [Halloween Kills (2021)]({{< ref "movies/Halloween Kills (2021)" >}})
 - [Happiness (2021)]({{< ref "drakor/Happiness (2021)" >}})
 - [Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002) [Vietnamese Subtitle]" >}})
 - [Harry Potter and the Chamber of Secrets (2002)]({{< ref "movies/Harry Potter and the Chamber of Secrets (2002)" >}})
@@ -250,6 +253,7 @@ title: "list"
 - [High & Low The Worst X (2022)]({{< ref "movies/High & Low The Worst X (2022)" >}})
 - [Hit & Run (2019)]({{< ref "movies/Hit & Run (2019)" >}})
 - [Hotarubi no Mori e (2011)]({{< ref "movies/Hotarubi no Mori e (2011)" >}})
+- [Hotel Mumbai (2019)]({{< ref "movies/Hotel Mumbai (2019)" >}})
 - [Hotel Transylvania: Transformania (2022)]({{< ref "movies/Hotel Transylvania: Transformania (2022)" >}})
 - [Howl's Moving Castle (2004)]({{< ref "movies/Howl's Moving Castle (2004)" >}})
 
@@ -291,6 +295,7 @@ title: "list"
 - [John Wick: Chapter 3 - Parabellum (2019)]({{< ref "movies/John Wick: Chapter 3 - Parabellum (2019)" >}})
 - [Jojo Rabbit (2019)]({{< ref "movies/Jojo Rabbit (2019)" >}})
 - [Josee, the Tiger and the Fish (2020)]({{< ref "movies/Josee, the Tiger and the Fish (2020)" >}})
+- [Jujutsu Kaisen 0 (2021)]({{< ref "movies/Jujutsu Kaisen 0 (2021)" >}})
 
 
 ## K

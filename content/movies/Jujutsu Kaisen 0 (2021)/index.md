@@ -8,12 +8,12 @@ draft: true
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUds87LXL4xDv3lPMp2XqDUB_j5b_U4VrqHWJo7jog8y0g" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EeShFGRpPNFDqglrVnWaJcoBblTUF0VQ_6eGh-wyNplutQ" prefer-playback="mse" controls>
 
 </mux-player>
 
 
-{{< movieinfo id="857" >}}
+{{< movieinfo id="810693" >}}
 
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Jujutsu Kaisen 0 (2021)",
-"contentUrl": "https://stream.mux.com/5YDOt1vH9Sfa017U02Pk5jn025JFaY9ySnjiWsdnJA02lbI.m3u8",
+"contentUrl": "https://stream.mux.com/00MLEWaS6TkOEuITzln3B2WZ5TLnDV3atRE00LLEY6Nnw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/fh4H92nhTUJTONXVRUHIpOGsHnK.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-26T04:39:58Z",
 }

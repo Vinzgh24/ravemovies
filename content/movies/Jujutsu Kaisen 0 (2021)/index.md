@@ -4,7 +4,6 @@ date: 2023-10-26T04:39:58Z
 tags: ["Movie"]
 categories: ["Anime", "Action", "Fantasy"]
 summary: "Yuta Okkotsu, seorang siswa sekolah menengah yang mendapatkan kendali atas Roh Terkutuklah yang sangat kuat dan terdaftar di Sekolah Menengah Jujutsu Prefektur Tokyo oleh Penyihir Jujutsu untuk membantunya mengendalikan kekuatannya dan mengawasinya."
-draft: true 
 ---
 
 <mux-player stream-type="on-demand"

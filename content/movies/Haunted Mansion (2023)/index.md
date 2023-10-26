@@ -3,7 +3,6 @@ title: "Haunted Mansion (2023)"
 date: 2023-10-11T10:34:55Z
 tags: ["Movie"]
 categories: ["Comedy", "Drama", "Family"]
-list: ["Trending"]
 summary: "Seorang ibu tunggal bernama Gabbie menyewa seorang pemandu wisata, seorang paranormal, seorang pendeta dan seorang sejarawan untuk membantu mengusir setan dari rumah yang baru dibelinya setelah mengetahui bahwa rumah tersebut dihuni oleh hantu."
 ---
 

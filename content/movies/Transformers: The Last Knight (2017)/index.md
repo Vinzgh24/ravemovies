@@ -2,7 +2,7 @@
 title: "Transformers: The Last Knight (2017)"
 date: 2023-10-25T12:53:06Z
 tags: ["Movie"]
-categories: ["Actin", "Adventure", "Sci-Fi"]
+categories: ["Action", "Adventure", "Sci-Fi"]
 series: ["Transformers"]
 summary: "Ancaman mematikan dari sejarah Bumi muncul kembali dan perburuan artefak yang hilang terjadi antara Autobots dan Decepticons, sementara Optimus Prime bertemu dengan penciptanya di luar angkasa."
 ---

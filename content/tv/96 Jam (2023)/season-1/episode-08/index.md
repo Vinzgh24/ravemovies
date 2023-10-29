@@ -13,13 +13,12 @@ showSummary: false
   
   <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
   
- <script type="application/ld+json">
+<script type="application/ld+json">
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "96 Jam - S1E8 - Kebebasan dan Pengorbanan",
-  "contentUrl": "https://stream.mux.com/o38dCLZ86027rwW5qFDslxmuh01jt8ZptD02VWQnSQ00MSY.m3u8",
-  "contentUrl": 
+  "contentUrl": "https://stream.mux.com/02jcc89hD1X44CkLM6Uxk2OZ89yGCHXXheALi8UIsjGs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/k2UdsO3WdcMshpPm7uZimLgOErS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T07:08:26Z",
 }

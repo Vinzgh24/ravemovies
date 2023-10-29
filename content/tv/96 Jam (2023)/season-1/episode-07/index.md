@@ -19,7 +19,6 @@ showSummary: false
   "@type": "VideoObject",
   "name": "96 Jam - S1E7 - Dalang Sesungguhnya",
   "contentUrl": "https://stream.mux.com/WbF7kCvagmOm8Wyo01kg010193tqW9XPj00Lohxc1SdPAd4.m3u8",
-  "contentUrl": "https://stream.mux.com/aHLQ3OEXazEzvPJclAGqR7J2VTw79vIi3p00kwIKc8cs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/k2UdsO3WdcMshpPm7uZimLgOErS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T19:24:45Z",
 }

@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "96 Jam - S1E2 - Jalan Keluar",
-  "contentUrl": "https://stream.mux.com/9Ozm34aNVcgh3jhP6ULfDHJoEGYS6Y7CHrvhcO7vUBs.m3u8",
+  "contentUrl": "https://stream.mux.com/DMXeb5dyS145yXZx4bCAU8KvUDnxli4QCb2rxEaI5Ds.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/k2UdsO3WdcMshpPm7uZimLgOErS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T07:08:01Z",
 }

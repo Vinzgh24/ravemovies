@@ -4,7 +4,6 @@ date: 2023-10-11T10:38:34Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
 series: ["After"]
-list: ["Trending"]
 summary: "Setelah putus dengan cinta sejatinya, penulis buku terlaris Hardin Scott melakukan perjalanan ke Portugal dalam upaya menebus perilaku masa lalunya."
 ---
 

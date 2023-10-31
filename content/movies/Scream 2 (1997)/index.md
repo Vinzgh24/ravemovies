@@ -5,11 +5,10 @@ tags: ["Movie"]
 categories: ["Horror", "Mystery"]
 series: ["Scream"]
 summary: "Dua tahun setelah rangkaian pembunuhan pertama, saat Sidney menyesuaikan diri dengan kehidupan kampus, seseorang yang mengenakan kostum Ghostface memulai serangkaian pembunuhan baru."
-draft: true
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ET795m1zs4pDhnosht97Xn0B-EDW3haIPYEaOhbps5QLkQ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EXsfek8-1GBIjAwhl05-PLAB5nB1iLPu7eDhD8PS1kwzTw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -23,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream 2 (1997)",
-"contentUrl": "https://stream.mux.com/F2YEJ02W3eo995PplVvxCVsyM4W9EcdujCT7PFdRLZfU.m3u8",
+"contentUrl": "https://stream.mux.com/a5KtF2Ss02P34OjdoO1Ix02K00AUtNnUW3Wc6Ql7H025PBQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/83DLsYzmXvzMFMxOzbdw2ChuDH8.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T08:51:45Z",
 }

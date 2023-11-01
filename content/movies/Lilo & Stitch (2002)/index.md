@@ -8,7 +8,7 @@ summary: "Seorang gadis muda dan tidak mempunyai orang tua mengadopsi seekor 'an
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfGsmPF-2AZLlyAAVZ44RKUBycYSamAUNQuMxWM1i6nwZ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfGsmPF-2AZLlyAAVZ44RKUBycYSamAUNQuMxWM1i6nwZg" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,9 +22,11 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Lilo & Stitch",
-"contentUrl": "https://stream.mux.com/Po2b02SGwycPDddudscxTavvIgih6AT2RCuWQbIYFoPM.m3u8",
+"contentUrl": "https://stream.mux.com/5ZzMRmA8TtfTzMYpdE1pF4yIjGukv5q02L9H9oTbJ7L00.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AiB0MS6uPR5XdXY2ZoDfMAhexG1.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-01T06:26:22Z",
 }
 
 </script>
+
+

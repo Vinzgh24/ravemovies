@@ -664,8 +664,8 @@ title: "list"
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
 - [Tusk (2014)]({{< ref "movies/Tusk (2014)" >}})
 - [taare zameen par (2007)]({{< ref "movies/taare zameen par (2007)" >}})
-- [the conjuring 2 (2016)]({{< ref "movies/the conjuring 2 (2016)" >}})
-- [the conjuring 3 (2022)]({{< ref "movies/the conjuring 3 (2022)" >}})
+- [The Conjuring 2 (2016)]({{< ref "movies/the conjuring 2 (2016)" >}})
+- [The Conjuring: The Devil Made Me Do It (2021)]({{< ref "movies/The Conjuring: The Devil Made Me Do It (2021)" >}})
 - [the meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [the-flash-2023]({{< ref "movies/the-flash-2023" >}})
 

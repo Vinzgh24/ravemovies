@@ -4,7 +4,6 @@ date: 2023-10-02T17:02:33Z
 tags: ["Movie"]
 categories: ["Drama", "Thriller"]
 summary: Seorang wanita hamil muda bernama Mia melarikan diri dari negara yang sedang berperang dengan bersembunyi di sebuah kontainer maritim di atas kapal kargo. Setelah badai dahsyat, Mia melahirkan anak tersebut saat tersesat di laut, di mana dia harus berjuang untuk bertahan hidup.
-list: ["Trending"]
 ---
 
 

@@ -3,7 +3,6 @@ title: "Spirit Doll (2023)"
 date: 2023-10-18T11:53:15Z
 tags: ["Movie"]
 categories: ["Horror"]
-list: ["Trending"]
 summary: "Setelah aktris horor terkenal, Dara Lazuardi, bertemu dengan boneka berhantu yang mirip dengan mendiang putrinya, dia menjadi yakin akan hubungannya dengan roh anaknya, membawanya ke dalam spiral kegilaan saat orang lain mencoba..."
 ---
 

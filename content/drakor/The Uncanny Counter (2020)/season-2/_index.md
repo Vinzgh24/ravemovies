@@ -1,10 +1,7 @@
 ---
-title: "The Uncanny Counter"
-date: 2023-11-03T17:45:20Z
+title: "Season 2"
+date: 2023-11-03T16:44:29Z
 description: "Karyawan toko mie di siang hari dan pemburu iblis di malam hari, Counter menggunakan kemampuan khusus untuk mengejar roh jahat yang memangsa manusia."
-tags: ["K-Drama"]
-categories: ["Action", "Fantasy", "Horror"]
-showRecent: true
 
 cascade:
   showEdit: false
@@ -61,6 +58,3 @@ Karyawan toko mie di siang hari dan pemburu iblis di malam hari, Counter menggun
     </div>
 
 ---
-
-
-

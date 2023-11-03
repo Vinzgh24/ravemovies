@@ -3,7 +3,7 @@ title: "list"
 ---
 <style>
   /* Gaya untuk label urutan */
-  .sort-label {{
+  .sort-label {
     border: 1px solid #3498db; /* Border dengan warna biru */
     color: #3498db; /* Warna teks sama dengan warna border */
     padding: 5px 10px; /* Ruang padding */
@@ -13,7 +13,7 @@ title: "list"
     font-weight: bold;
     text-align: center;
     text-decoration: none; /* Menghapus garis bawah pada tautan */
-  }}
+  }
 </style>
 
 <a href="#a" class="sort-label">A</a>
@@ -48,15 +48,17 @@ title: "list"
 ---
 ## 0-9
 
+- [1917 (2019)]({{< ref "movies/1917 (2019)" >}})
+- [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
+- [365-days-2020]({{< ref "movies/365-days-2020" >}})
+- [365 days this day (2022)]({{< ref "movies/365 days this day (2022)" >}})
 - [2 Fast 2 Furious (2003)]({{< ref "movies/2 Fast 2 Furious (2003)" >}})
 - [22 Jump Street (2014) [Vietnamese Subtitle]]({{< ref "movies/22 Jump Street (2014) [Vietnamese Subtitle]" >}})
 - [22 Jump Street (2014)]({{< ref "movies/22 Jump Street (2014)" >}})
 - [47 Meters Down: Uncaged (2019)]({{< ref "movies/47 Meters Down: Uncaged (2019)" >}})
+- [(500) Days of Summer (2009)]({{< ref "movies/(500) Days of Summer (2009)" >}})
+- [(500) Days of Summer [Vietnamese Subtitle]]({{< ref "movies/(500) Days of Summer" >}})
 - [65 (2023)]({{< ref "movies/65 (2023)" >}})
-- [365-days-2020]({{< ref "movies/365-days-2020" >}})
-- [365 days this day (2022)]({{< ref "movies/365 days this day (2022)" >}})
-- [1917 (2019)]({{< ref "movies/1917 (2019)" >}})
-- [1920: Horrors of the Heart (2023)]({{< ref "movies/1920: Horrors of the Heart (2023)" >}})
 - [2012 (2009)]({{< ref "movies/2012 (2009)" >}})
 
 ## A

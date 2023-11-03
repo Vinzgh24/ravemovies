@@ -231,8 +231,8 @@ title: "list"
 - [Girls Trip (2017)]({{< ref "movies/Girls Trip (2017)" >}})
 - [Gran Turismo (2023)]({{< ref "movies/Gran Turismo (2023)" >}})
 - [Guardians of the Galaxy (2014)]({{< ref "movies/Guardians of the Galaxy (2014)" >}})
-- [Guardians of the Galaxy Vol. 2 (2017)]({{< ref "movies/Guardians of the Galaxy Vol. 2 (2017)" >}})
-- [Guardians of the Galaxy Vol. 3 (2023)]({{< ref "movies/Guardians of the Galaxy Vol. 3 (2023)" >}})
+- [Guardians of the Galaxy Vol 2 (2017)]({{< ref "movies/Guardians of the Galaxy Vol 2 (2017)" >}})
+- [Guardians of the Galaxy Vol 3 (2023)]({{< ref "movies/Guardians of the Galaxy Vol 3 (2023)" >}})
 - [Guillermo del Toro's Pinocchio (2022)]({{< ref "movies/Guillermo del Toro's Pinocchio (2022)" >}})
 - [Gundala (2019)]({{< ref "movies/Gundala (2019)" >}})
 - [Guy Ritchie's The Covenant (2023)]({{< ref "movies/Guy Ritchie's The Covenant (2023)" >}})
@@ -273,7 +273,6 @@ title: "list"
 - [How to Train Your Dragon: The Hidden World (2019)]({{< ref "movies/How to Train Your Dragon: The Hidden World (2019)" >}})
 - [Howl's Moving Castle (2004)]({{< ref "movies/Howl's Moving Castle (2004)" >}})
 - [hearth-of-stone]({{< ref "movies/hearth-of-stone" >}})
-- [https:]({{< ref "movies/https:" >}})
 
 ## I
 
@@ -432,7 +431,6 @@ title: "list"
 - [Onward (2020)]({{< ref "movies/Onward (2020)" >}})
 - [Ouija (2014)]({{< ref "movies/Ouija (2014)" >}})
 - [Ouija: Origin of Evil (2016)]({{< ref "movies/Ouija: Origin of Evil (2016)" >}})
-- [original]({{< ref "movies/original" >}})
 
 ## P
 
@@ -636,9 +634,6 @@ title: "list"
 - [The-Chronicles-of-Narnia--Prince-Caspian-2008]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
 - [The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
 - [The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})
-- [The-Twilight-Saga-Breaking-Dawn---Part-2-2012]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
-- [The-Twilight-Saga-New-Moon-2009]({{< ref "movies/The-Twilight-Saga-New-Moon-2009" >}})
-- [The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Thor (2011)]({{< ref "movies/Thor (2011)" >}})
 - [Thor: Love and Thunder (2022)]({{< ref "movies/Thor: Love and Thunder (2022)" >}})
 - [Thor: Ragnarok (2017)]({{< ref "movies/Thor: Ragnarok (2017)" >}})
@@ -666,17 +661,11 @@ title: "list"
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
 - [Tusk (2014)]({{< ref "movies/Tusk (2014)" >}})
-- [t]({{< ref "movies/t" >}})
 - [taare zameen par (2007)]({{< ref "movies/taare zameen par (2007)" >}})
 - [the conjuring 2 (2016)]({{< ref "movies/the conjuring 2 (2016)" >}})
 - [the conjuring 3 (2022)]({{< ref "movies/the conjuring 3 (2022)" >}})
 - [the meg (2018)]({{< ref "movies/the meg (2018)" >}})
 - [the-flash-2023]({{< ref "movies/the-flash-2023" >}})
-- [the-ring-2002]({{< ref "movies/the-ring-2002" >}})
-- [the-twilight-saga-eclipse]({{< ref "movies/the-twilight-saga-eclipse" >}})
-- [twilight-2008]({{< ref "movies/twilight-2008" >}})
-- [twilight-saga-breaking-dawn-part-1]({{< ref "movies/twilight-saga-breaking-dawn-part-1" >}})
-- [twilight-saga-breaking-dawn-part-2]({{< ref "movies/twilight-saga-breaking-dawn-part-2" >}})
 
 ## U
 
@@ -709,7 +698,6 @@ title: "list"
 - [Wolf Children (2012)]({{< ref "movies/Wolf Children (2012)" >}})
 - [World War Z (2013)]({{< ref "movies/World War Z (2013)" >}})
 - [Wreck-It Ralph (2012)]({{< ref "movies/Wreck-It Ralph (2012)" >}})
-- [www.themoviedb.org]({{< ref "movies/www.themoviedb.org" >}})
 
 ## X
 
@@ -724,4 +712,3 @@ title: "list"
 ## Z
 
 - [Zootopia (2016)]({{< ref "movies/Zootopia (2016)" >}})
-- 

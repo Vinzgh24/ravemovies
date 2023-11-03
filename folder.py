@@ -1,44 +1,41 @@
 import os
+import re
 
-# Definisikan direktori yang ingin Anda proses
-direktori_utama = '/data/data/com.termux/files/home/rave/content/movies'
-
-# Fungsi untuk menghasilkan daftar folder dalam format MD
-def generate_md_list(directory):
+def write_folder_names_to_txt(root_dir, output_file):
     folders = {}
-
-    # Iterasi melalui direktori
-    for folder_name in os.listdir(directory):
-        folder_path = os.path.join(directory, folder_name)
-
-        # Hanya proses folder, bukan file
-        if os.path.isdir(folder_path):
-            first_letter = folder_name[0].upper()
-            if first_letter == 'A':
-                if first_letter not in folders:
-                    folders[first_letter] = []
-                folders[first_letter].append(folder_name)
-
-    # Mengurutkan folder berdasarkan nama
+    
+    # Traverse through the root directory
+    for dirpath, dirnames, filenames in os.walk(root_dir):
+        for dirname in dirnames:
+            first_character = dirname[0].upper()
+            if first_character.isalpha():
+                if first_character not in folders:
+                    folders[first_character] = []
+                folders[first_character].append(dirname)
+            elif first_character.isnumeric():
+                if "0-9" not in folders:
+                    folders["0-9"] = []
+                folders["0-9"].append(dirname)
+    
+    # Sort the folder names alphabetically within each letter group
     for key in folders:
-        folders[key].sort()
+        if key != "0-9":
+            folders[key].sort()
+        else:
+            folders[key].sort(key=lambda x: int(re.search(r"\d+", x).group()))
+    
+    # Write the formatted folder names to the output file
+    with open(output_file, 'w') as file:
+        for key, values in sorted(folders.items()):
+            file.write(f"\n## {key}\n\n")
+            for folder in values:
+                file.write(f"- [{folder}]({{< ref \"movies/{folder}\" >}})\n")
+    
+    print("Folder names written to the output file.")
 
-    # Membuat daftar dalam format MD
-    md_list = ''
+# Specify the root directory and output file path
+root_directory = '/data/data/com.termux/files/home/rave/content/movies'
+output_file_path = 'folder_names.txt'
 
-    for key, folder_names in sorted(folders.items()):
-        md_list += f'n## {key}n'
-        for folder_name in folder_names:
-            link_text = f'- [{folder_name}]({{< ref "movies/{folder_name}" >}})n'
-            md_list += link_text
-
-    return md_list
-
-# Hasilkan daftar MD
-md_result = generate_md_list(direktori_utama)
-
-# Tulis hasil ke file MD
-with open('list.md', 'w') as md_file:
-    md_file.write(md_result)
-
-print('Daftar folder dengan urutan berawalan A telah dibuat dalam format MD dan disimpan dalam list.md')
+# Call the function to write folder names to the text file
+write_folder_names_to_txt(root_directory, output_file_path)

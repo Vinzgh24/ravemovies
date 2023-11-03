@@ -1,19 +1,23 @@
 
-## 0-9
-
-- [2 Fast 2 Furious (2003)]({< ref "movies/2 Fast 2 Furious (2003)" >})
-- [22 Jump Street (2014) [Vietnamese Subtitle]]({< ref "movies/22 Jump Street (2014) [Vietnamese Subtitle]" >})
-- [22 Jump Street (2014)]({< ref "movies/22 Jump Street (2014)" >})
-- [47 Meters Down: Uncaged (2019)]({< ref "movies/47 Meters Down: Uncaged (2019)" >})
-- [65 (2023)]({< ref "movies/65 (2023)" >})
-- [365-days-2020]({< ref "movies/365-days-2020" >})
-- [365 days this day (2022)]({< ref "movies/365 days this day (2022)" >})
+0-9
 - [1917 (2019)]({< ref "movies/1917 (2019)" >})
-- [1920: Horrors of the Heart (2023)]({< ref "movies/1920: Horrors of the Heart (2023)" >})
 - [2012 (2009)]({< ref "movies/2012 (2009)" >})
+- [65 (2023)]({< ref "movies/65 (2023)" >})
+
+## (
+- [(500) Days of Summer]({< ref "movies/(500) Days of Summer" >})
+- [(500) Days of Summer (2009)]({< ref "movies/(500) Days of Summer (2009)" >})
+
+0-9
+- [2 Fast 2 Furious (2003)]({< ref "movies/2 Fast 2 Furious (2003)" >})
+- [22 Jump Street (2014)]({< ref "movies/22 Jump Street (2014)" >})
+- [22 Jump Street (2014) [Vietnamese Subtitle]]({< ref "movies/22 Jump Street (2014) [Vietnamese Subtitle]" >})
+- [47 Meters Down: Uncaged (2019)]({< ref "movies/47 Meters Down: Uncaged (2019)" >})
+- [365 days this day (2022)]({< ref "movies/365 days this day (2022)" >})
+- [365-days-2020]({< ref "movies/365-days-2020" >})
+- [1920: Horrors of the Heart (2023)]({< ref "movies/1920: Horrors of the Heart (2023)" >})
 
 ## A
-
 - [A Bug's Life (1998)]({< ref "movies/A Bug's Life (1998)" >})
 - [A Quiet Place (2018)]({< ref "movies/A Quiet Place (2018)" >})
 - [A Quiet Place Part II (2021)]({< ref "movies/A Quiet Place Part II (2021)" >})
@@ -42,11 +46,8 @@
 - [Avengers: Age of Ultron (2015)]({< ref "movies/Avengers: Age of Ultron (2015)" >})
 - [Avengers: Endgame (2019)]({< ref "movies/Avengers: Endgame (2019)" >})
 - [Avengers: Infinity War (2018)]({< ref "movies/Avengers: Infinity War (2018)" >})
-- [asih-2018]({< ref "movies/asih-2018" >})
-- [asih-2020]({< ref "movies/asih-2020" >})
 
 ## B
-
 - [Baazigar (1993)]({< ref "movies/Baazigar (1993)" >})
 - [Baby Driver (2017)]({< ref "movies/Baby Driver (2017)" >})
 - [Bait (2012)]({< ref "movies/Bait (2012)" >})
@@ -76,7 +77,6 @@
 - [Bumi Manusia (2019)]({< ref "movies/Bumi Manusia (2019)" >})
 
 ## C
-
 - [Captain America: Civil War (2016)]({< ref "movies/Captain America: Civil War (2016)" >})
 - [Captain America: The Winter Soldier (2014)]({< ref "movies/Captain America: The Winter Soldier (2014)" >})
 - [Captain America：The First Avenger (2011)]({< ref "movies/Captain America：The First Avenger (2011)" >})
@@ -98,12 +98,8 @@
 - [Crows Zero (2007)]({< ref "movies/Crows Zero (2007)" >})
 - [Crows Zero II (2009)]({< ref "movies/Crows Zero II (2009)" >})
 - [Cruella (2021) Dubbing Indonesia]({< ref "movies/Cruella (2021) Dubbing Indonesia" >})
-- [cars 3 (2017)]({< ref "movies/cars 3 (2017)" >})
-- [cars-2006]({< ref "movies/cars-2006" >})
-- [charlie-and-the-chocolate-factory-2005]({< ref "movies/charlie-and-the-chocolate-factory-2005" >})
 
 ## D
-
 - [Dear Nathan (2017)]({< ref "movies/Dear Nathan (2017)" >})
 - [Death on the Nile (2022)]({< ref "movies/Death on the Nile (2022)" >})
 - [Deathgasm (2015)]({< ref "movies/Deathgasm (2015)" >})
@@ -128,12 +124,8 @@
 - [Don't Breathe 2 (2021)]({< ref "movies/Don't Breathe 2 (2021)" >})
 - [Doraemon: Nobita's Sky Utopia (2023)]({< ref "movies/Doraemon: Nobita's Sky Utopia (2023)" >})
 - [Dunkirk (2017)]({< ref "movies/Dunkirk (2017)" >})
-- [danur-2-2018]({< ref "movies/danur-2-2018" >})
-- [danur-2017]({< ref "movies/danur-2017" >})
-- [danur-3]({< ref "movies/danur-3" >})
 
 ## E
-
 - [Edge of Tomorrow (2014)]({< ref "movies/Edge of Tomorrow (2014)" >})
 - [Ejen Ali: The Movie (2019)]({< ref "movies/Ejen Ali: The Movie (2019)" >})
 - [Elemental]({< ref "movies/Elemental" >})
@@ -144,10 +136,8 @@
 - [Eternals (2021)]({< ref "movies/Eternals (2021)" >})
 - [Expend4bles (2023)]({< ref "movies/Expend4bles (2023)" >})
 - [Eyang Putri (2021)]({< ref "movies/Eyang Putri (2021)" >})
-- [elemental-vietnamese]({< ref "movies/elemental-vietnamese" >})
 
 ## F
-
 - [F9: The Fast Saga (2021)]({< ref "movies/F9: The Fast Saga (2021)" >})
 - [Fair Play (2023)]({< ref "movies/Fair Play (2023)" >})
 - [Fall (2022)]({< ref "movies/Fall (2022)" >})
@@ -175,7 +165,6 @@
 - [Fury (2014)]({< ref "movies/Fury (2014)" >})
 
 ## G
-
 - [Generasi 90an: Melankolia (2020)]({< ref "movies/Generasi 90an: Melankolia (2020)" >})
 - [Ghost Rider (2007)]({< ref "movies/Ghost Rider (2007)" >})
 - [Ghost Rider: Spirit of Vengeance (2011)]({< ref "movies/Ghost Rider: Spirit of Vengeance (2011)" >})
@@ -191,7 +180,6 @@
 - [Guy Ritchie's The Covenant (2023)]({< ref "movies/Guy Ritchie's The Covenant (2023)" >})
 
 ## H
-
 - [Hacksaw Ridge (2016)]({< ref "movies/Hacksaw Ridge (2016)" >})
 - [Halloween Kills (2021)]({< ref "movies/Halloween Kills (2021)" >})
 - [Harry Potter and the Chamber of Secrets (2002)]({< ref "movies/Harry Potter and the Chamber of Secrets (2002)" >})
@@ -225,11 +213,8 @@
 - [How to Train Your Dragon 2 (2014)]({< ref "movies/How to Train Your Dragon 2 (2014)" >})
 - [How to Train Your Dragon: The Hidden World (2019)]({< ref "movies/How to Train Your Dragon: The Hidden World (2019)" >})
 - [Howl's Moving Castle (2004)]({< ref "movies/Howl's Moving Castle (2004)" >})
-- [hearth-of-stone]({< ref "movies/hearth-of-stone" >})
-- [https:]({< ref "movies/https:" >})
 
 ## I
-
 - [I Spit on Your Grave (2010)]({< ref "movies/I Spit on Your Grave (2010)" >})
 - [I Spit on Your Grave 2 (2013)]({< ref "movies/I Spit on Your Grave 2 (2013)" >})
 - [I Spit on Your Grave III: Vengeance Is Mine (2015)]({< ref "movies/I Spit on Your Grave III: Vengeance Is Mine (2015)" >})
@@ -260,11 +245,8 @@
 - [It Chapter Two (2019)]({< ref "movies/It Chapter Two (2019)" >})
 - [It Lives Inside (2023)]({< ref "movies/It Lives Inside (2023)" >})
 - [Ivanna (2022)]({< ref "movies/Ivanna (2022)" >})
-- [indiana jones 5]({< ref "movies/indiana jones 5" >})
-- [ip-man-4]({< ref "movies/ip-man-4" >})
 
 ## J
-
 - [Jagat Arwah (2022)]({< ref "movies/Jagat Arwah (2022)" >})
 - [Jailangkung 2 (2018)]({< ref "movies/Jailangkung 2 (2018)" >})
 - [Jakarta vs Everybody]({< ref "movies/Jakarta vs Everybody" >})
@@ -276,10 +258,8 @@
 - [Jojo Rabbit (2019)]({< ref "movies/Jojo Rabbit (2019)" >})
 - [Josee, the Tiger and the Fish (2020)]({< ref "movies/Josee, the Tiger and the Fish (2020)" >})
 - [Jujutsu Kaisen 0 (2021)]({< ref "movies/Jujutsu Kaisen 0 (2021)" >})
-- [just-mom-2022]({< ref "movies/just-mom-2022" >})
 
 ## K
-
 - [Kabhi Khushi Kabhie Gham (2001)]({< ref "movies/Kabhi Khushi Kabhie Gham (2001)" >})
 - [Kaho Naa Pyaar Hai (2000)]({< ref "movies/Kaho Naa Pyaar Hai (2000)" >})
 - [Kain Kafan Hitam (2019)]({< ref "movies/Kain Kafan Hitam (2019)" >})
@@ -296,10 +276,8 @@
 - [Kuntilanak (2018)]({< ref "movies/Kuntilanak (2018)" >})
 - [Kuntilanak 3 (2022)]({< ref "movies/Kuntilanak 3 (2022)" >})
 - [Kutukan Arwah Santet (2012)]({< ref "movies/Kutukan Arwah Santet (2012)" >})
-- [kkn-di-desa-penari-2022]({< ref "movies/kkn-di-desa-penari-2022" >})
 
 ## L
-
 - [Laddaland (2011)]({< ref "movies/Laddaland (2011)" >})
 - [Lamborghini: The Man Behind the Legend (2022)]({< ref "movies/Lamborghini: The Man Behind the Legend (2022)" >})
 - [Lampor: Keranda Terbang (2019)]({< ref "movies/Lampor: Keranda Terbang (2019)" >})
@@ -318,7 +296,6 @@
 - [Luca (2021)]({< ref "movies/Luca (2021)" >})
 
 ## M
-
 - [Madagascar (2005)]({< ref "movies/Madagascar (2005)" >})
 - [Madagascar 3: Europe's Most Wanted (2012)]({< ref "movies/Madagascar 3: Europe's Most Wanted (2012)" >})
 - [Madagascar: Escape 2 Africa (2008)]({< ref "movies/Madagascar: Escape 2 Africa (2008)" >})
@@ -360,11 +337,8 @@
 - [Muzzle (2023)]({< ref "movies/Muzzle (2023)" >})
 - [My Love (2021)]({< ref "movies/My Love (2021)" >})
 - [My Neighbor Totoro (1988)]({< ref "movies/My Neighbor Totoro (1988)" >})
-- [mencuri-raden-saleh]({< ref "movies/mencuri-raden-saleh" >})
-- [midnight-2021]({< ref "movies/midnight-2021" >})
 
 ## N
-
 - [Natty Knocks (2023)]({< ref "movies/Natty Knocks (2023)" >})
 - [No One Will Save You (2023)]({< ref "movies/No One Will Save You (2023)" >})
 - [No Time to Die (2021)]({< ref "movies/No Time to Die (2021)" >})
@@ -372,7 +346,6 @@
 - [Nowhere (2023)]({< ref "movies/Nowhere (2023)" >})
 
 ## O
-
 - [Ocean Waves (1993)]({< ref "movies/Ocean Waves (1993)" >})
 - [Once Upon a Crime (2023)]({< ref "movies/Once Upon a Crime (2023)" >})
 - [Once Upon a Time in China (1991)]({< ref "movies/Once Upon a Time in China (1991)" >})
@@ -385,10 +358,8 @@
 - [Onward (2020)]({< ref "movies/Onward (2020)" >})
 - [Ouija (2014)]({< ref "movies/Ouija (2014)" >})
 - [Ouija: Origin of Evil (2016)]({< ref "movies/Ouija: Origin of Evil (2016)" >})
-- [original]({< ref "movies/original" >})
 
 ## P
-
 - [Pacific Rim (2013)]({< ref "movies/Pacific Rim (2013)" >})
 - [Pacific Rim: Uprising (2018)]({< ref "movies/Pacific Rim: Uprising (2018)" >})
 - [Para Betina Pengikut Iblis (2023)]({< ref "movies/Para Betina Pengikut Iblis (2023)" >})
@@ -431,14 +402,11 @@
 - [Punk in Love (2009)]({< ref "movies/Punk in Love (2009)" >})
 - [Puss in Boots (2011)]({< ref "movies/Puss in Boots (2011)" >})
 - [Puss in Boots: The Last Wish (2022)]({< ref "movies/Puss in Boots: The Last Wish (2022)" >})
-- [p]({< ref "movies/p" >})
 
 ## Q
-
 - [Qorin (2022)]({< ref "movies/Qorin (2022)" >})
 
 ## R
-
 - [Rab Ne Bana Di Jodi (2008)]({< ref "movies/Rab Ne Bana Di Jodi (2008)" >})
 - [Ralph Breaks the Internet (2018)]({< ref "movies/Ralph Breaks the Internet (2018)" >})
 - [Rasuk (2018)]({< ref "movies/Rasuk (2018)" >})
@@ -460,7 +428,6 @@
 - [Rumah Bekas Kuburan (2012)]({< ref "movies/Rumah Bekas Kuburan (2012)" >})
 
 ## S
-
 - [Sakral (2018)]({< ref "movies/Sakral (2018)" >})
 - [San Andreas (2015)]({< ref "movies/San Andreas (2015)" >})
 - [Satria Dewa: Gatotkaca (2022)]({< ref "movies/Satria Dewa: Gatotkaca (2022)" >})
@@ -514,11 +481,8 @@
 - [Summer Wars (2009)]({< ref "movies/Summer Wars (2009)" >})
 - [Surat Cinta Untuk Starla the Movie (2017)]({< ref "movies/Surat Cinta Untuk Starla the Movie (2017)" >})
 - [Suzume (2022)]({< ref "movies/Suzume (2022)" >})
-- [shrek-2-2004]({< ref "movies/shrek-2-2004" >})
-- [shrek-2001]({< ref "movies/shrek-2001" >})
 
 ## T
-
 - [Talak 3 (2016)]({< ref "movies/Talak 3 (2016)" >})
 - [Tales from Earthsea (2006)]({< ref "movies/Tales from Earthsea (2006)" >})
 - [Talk to Me (2023)]({< ref "movies/Talk to Me (2023)" >})
@@ -620,30 +584,16 @@
 - [Tujuh Bidadari (2018)]({< ref "movies/Tujuh Bidadari (2018)" >})
 - [Tumbal Kanjeng Iblis (2022)]({< ref "movies/Tumbal Kanjeng Iblis (2022)" >})
 - [Tusk (2014)]({< ref "movies/Tusk (2014)" >})
-- [t]({< ref "movies/t" >})
-- [taare zameen par (2007)]({< ref "movies/taare zameen par (2007)" >})
-- [the conjuring 2 (2016)]({< ref "movies/the conjuring 2 (2016)" >})
-- [the conjuring 3 (2022)]({< ref "movies/the conjuring 3 (2022)" >})
-- [the meg (2018)]({< ref "movies/the meg (2018)" >})
-- [the-flash-2023]({< ref "movies/the-flash-2023" >})
-- [the-ring-2002]({< ref "movies/the-ring-2002" >})
-- [the-twilight-saga-eclipse]({< ref "movies/the-twilight-saga-eclipse" >})
-- [twilight-2008]({< ref "movies/twilight-2008" >})
-- [twilight-saga-breaking-dawn-part-1]({< ref "movies/twilight-saga-breaking-dawn-part-1" >})
-- [twilight-saga-breaking-dawn-part-2]({< ref "movies/twilight-saga-breaking-dawn-part-2" >})
 
 ## U
-
 - [Ular Tangga (2017)]({< ref "movies/Ular Tangga (2017)" >})
 - [Up (2009)]({< ref "movies/Up (2009)" >})
 
 ## V
-
 - [Veer-Zaara (2004)]({< ref "movies/Veer-Zaara (2004)" >})
 - [Violet Evergarden: The Movie (2020)]({< ref "movies/Violet Evergarden: The Movie (2020)" >})
 
 ## W
-
 - [WALL·E (2008)]({< ref "movies/WALL·E (2008)" >})
 - [Waktu Maghrib (2023)]({< ref "movies/Waktu Maghrib (2023)" >})
 - [Warkop DKI: Atas Boleh Bawah Boleh (1986)]({< ref "movies/Warkop DKI: Atas Boleh Bawah Boleh (1986)" >})
@@ -663,18 +613,67 @@
 - [Wolf Children (2012)]({< ref "movies/Wolf Children (2012)" >})
 - [World War Z (2013)]({< ref "movies/World War Z (2013)" >})
 - [Wreck-It Ralph (2012)]({< ref "movies/Wreck-It Ralph (2012)" >})
-- [www.themoviedb.org]({< ref "movies/www.themoviedb.org" >})
 
 ## X
-
 - [X-Men (2000)]({< ref "movies/X-Men (2000)" >})
 
 ## Y
-
 - [Your Name (2016)]({< ref "movies/Your Name (2016)" >})
 - [Yowis Ben (2018)]({< ref "movies/Yowis Ben (2018)" >})
-- [your name (2016) [Vietnameses]]({< ref "movies/your name (2016) [Vietnameses]" >})
 
 ## Z
-
 - [Zootopia (2016)]({< ref "movies/Zootopia (2016)" >})
+
+## A
+- [asih-2018]({< ref "movies/asih-2018" >})
+- [asih-2020]({< ref "movies/asih-2020" >})
+
+## C
+- [cars 3 (2017)]({< ref "movies/cars 3 (2017)" >})
+- [cars-2006]({< ref "movies/cars-2006" >})
+- [charlie-and-the-chocolate-factory-2005]({< ref "movies/charlie-and-the-chocolate-factory-2005" >})
+
+## D
+- [danur-2017]({< ref "movies/danur-2017" >})
+- [danur-3]({< ref "movies/danur-3" >})
+- [danur-2-2018]({< ref "movies/danur-2-2018" >})
+
+## E
+- [elemental-vietnamese]({< ref "movies/elemental-vietnamese" >})
+
+## H
+- [hearth-of-stone]({< ref "movies/hearth-of-stone" >})
+- [https:]({< ref "movies/https:" >})
+
+## I
+- [indiana jones 5]({< ref "movies/indiana jones 5" >})
+- [ip-man-4]({< ref "movies/ip-man-4" >})
+
+## J
+- [just-mom-2022]({< ref "movies/just-mom-2022" >})
+
+## K
+- [kkn-di-desa-penari-2022]({< ref "movies/kkn-di-desa-penari-2022" >})
+
+## M
+- [mencuri-raden-saleh]({< ref "movies/mencuri-raden-saleh" >})
+- [midnight-2021]({< ref "movies/midnight-2021" >})
+
+## S
+- [shrek-2001]({< ref "movies/shrek-2001" >})
+- [shrek-2-2004]({< ref "movies/shrek-2-2004" >})
+
+## T
+- [taare zameen par (2007)]({< ref "movies/taare zameen par (2007)" >})
+- [the conjuring 2 (2016)]({< ref "movies/the conjuring 2 (2016)" >})
+- [the conjuring 3 (2022)]({< ref "movies/the conjuring 3 (2022)" >})
+- [the meg (2018)]({< ref "movies/the meg (2018)" >})
+- [the-flash-2023]({< ref "movies/the-flash-2023" >})
+- [the-ring-2002]({< ref "movies/the-ring-2002" >})
+- [the-twilight-saga-eclipse]({< ref "movies/the-twilight-saga-eclipse" >})
+- [twilight-2008]({< ref "movies/twilight-2008" >})
+- [twilight-saga-breaking-dawn-part-1]({< ref "movies/twilight-saga-breaking-dawn-part-1" >})
+- [twilight-saga-breaking-dawn-part-2]({< ref "movies/twilight-saga-breaking-dawn-part-2" >})
+
+## Y
+- [your name (2016) [Vietnameses]]({< ref "movies/your name (2016) [Vietnameses]" >})

@@ -1,5 +1,5 @@
 ---
-title: "Thor: Love and Thunder"
+title: "Thor: Love and Thunder (2022)"
 date: 2023-10-31T10:36:34Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Fantasy"]

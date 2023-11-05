@@ -1,10 +1,7 @@
 ---
-title: "Attack on Titan"
-date: 2023-11-05T08:50:56Z
+title: "Special"
+date: 2023-11-05T08:27:56Z
 description: "Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan."
-tags: ["Tv-Series"]
-categories: ["Anime", "Action", "Adventure"]
-list: ["Trending"]
 
 cascade:
   showEdit: false
@@ -60,3 +57,4 @@ Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah
     </div>
 
 ---
+

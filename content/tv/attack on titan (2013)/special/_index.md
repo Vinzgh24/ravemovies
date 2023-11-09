@@ -1,6 +1,6 @@
 ---
 title: "Special"
-date: 2023-11-05T08:27:56Z
+date: 2023-11-06T23:59:44Z
 description: "Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan."
 
 cascade:

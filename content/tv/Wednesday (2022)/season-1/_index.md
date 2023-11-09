@@ -50,7 +50,7 @@ Mengikuti Rabu Addams' tahun sebagai seorang pelajar, ketika dia mencoba untuk m
         <div class="movie-title">Wednesday</div>
         <div class="movie-details">
             <p><strong>Genre:</strong> Comedy, Crime, Fantasy</p>
-            <p><strong>Release Date:</strong> 2018</p>
+            <p><strong>Release Date:</strong> 22</p>
             <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>
         </div>

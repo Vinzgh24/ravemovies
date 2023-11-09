@@ -1,7 +1,7 @@
 ---
 title: "Shingeki no Kyojin - The Final Season Part 3 - E1 - The Final Chapters: Special 1"
 date: 2023-11-05T08:28:13Z
-series: ["Shingeki no Kyojin - The Final Season Part 3"]
+series: ["Shingeki no Kyojin The Final Season Part 3"]
 showRecent: false
 ---
 

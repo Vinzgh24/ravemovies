@@ -5,7 +5,6 @@ tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["The Nun"]
 summary: Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Irene (Taissa Farmiga) sekali lagi berhadapan dengan kekuatan jahat yang sangat besar, Valak sang biarawati iblis demi kedamaian hidupnya serta orang-orang di sekitarnya.
-list: ["Trending"]
 ---
 
 

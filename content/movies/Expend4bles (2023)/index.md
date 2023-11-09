@@ -4,7 +4,6 @@ date: 2023-10-15T13:28:30Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Thriller"]
 series: ["The Expendables"]
-list: ["Trending"]
 summary: "Dilengkapi dengan semua senjata yang bisa mereka dapatkan, Expendables adalah garis pertahanan terakhir dunia dan tim yang dipanggil ketika semua opsi lain sudah tidak ada lagi."
 ---
 

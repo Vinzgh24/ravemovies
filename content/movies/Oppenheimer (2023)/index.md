@@ -1,6 +1,6 @@
 ---
 title: "Oppenheimer (2023)"
-date: 2023-11-09T123:50:46Z
+date: 2023-11-09T19:52:37Z
 tags: ["Movie"]
 categories: ["Biography", "Drama", "History"]
 list: ["Trending"]

@@ -1,6 +1,25 @@
 ---
-title: "Episode 01"
+title: "Girl From Nowhere - S2E1 - Pregnant"
 date: 2023-11-07T20:07:54Z
-draft: true
+series: ["Girl From Nowhere Season 2"]
 ---
 
+
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdYBIG5JjbBIm1JLLfgcOtgBR6DB4XMC3O9UW3egYQ-yKg" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Girl From Nowhere - S2E1 - Pregnant",
+  "contentUrl": "https://stream.mux.com/hoxVcMCtaRmKLuvLqYVv8UGkYRdWnNMkxNyGNVn01Za00.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-11-07T20:07:54Z",
+}
+
+</script>

@@ -20,8 +20,8 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 {
 "@context": "https://schema.org/",
 "@type": "VideoObject",
-"contentUrl": "https://stream.mux.com/esqzK00e2iOlgIyz4uGWzKshwcEbPZO6xCFLoSFK1Et8.m3u8",
 "name": "Aladdin",
+"contentUrl": "https://stream.mux.com/esqzK00e2iOlgIyz4uGWzKshwcEbPZO6xCFLoSFK1Et8.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6NGjDdErVOmnoqLnjh0ouRfxerS.jpg",
 "uploadDate": "2023-11-09T13:29:14Z",
 }

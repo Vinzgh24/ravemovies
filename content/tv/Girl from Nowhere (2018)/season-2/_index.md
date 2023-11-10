@@ -1,6 +1,7 @@
 ---
 title: "Season 2"
 date: 2023-11-07T20:06:42Z
+---
 
 {{< lead >}}
 Seorang gadis misterius dan pintar bernama Nanno pindah ke sekolah yang berbeda, mengungkap kebohongan dan kelakuan buruk para siswa dan dosen di setiap kesempatan.
@@ -50,3 +51,5 @@ Seorang gadis misterius dan pintar bernama Nanno pindah ke sekolah yang berbeda,
     </div>
 
 ---
+
+

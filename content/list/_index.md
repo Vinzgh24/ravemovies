@@ -380,7 +380,6 @@ title: "list"
 - [Lilo & Stitch (2002)]({{< ref "movies/Lilo & Stitch (2002)" >}})
 - [Lilo & Stitch 2: Stitch Has a Glitch (2005)]({{< ref "movies/Lilo & Stitch 2: Stitch Has a Glitch (2005)" >}})
 - [Little Women (2019)]({{< ref "movies/Little Women (2019)" >}})
-- [Loki (2021)]({{< ref "tv/Loki (2021)" >}})
 - [London Love Story (2016)]({{< ref "movies/London Love Story (2016)" >}})
 - [London Love Story 2 (2017)]({{< ref "movies/London Love Story 2 (2017)" >}})
 - [London Love Story 3 (2018)]({{< ref "movies/London Love Story 3 (2018)" >}})

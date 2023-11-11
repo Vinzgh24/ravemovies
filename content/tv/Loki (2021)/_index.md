@@ -1,7 +1,9 @@
 ---
-title: "Loki (2021)"
-date: 2023-09-14T11:32:36Z
-description: "Penjahat lincah Loki melanjutkan perannya sebagai Dewa Kenakalan dalam serial baru yang terjadi setelah peristiwa “Avengers: Endgame.”"
+title: "Loki"
+date: 2023-11-11T23:59:36Z
+description: "Di tengah perpaduan rempah-rempah yang menggugah untuk menciptakan rokok kretek yang sempurna, dua jiwa memulai kisah cinta epik yang berlatar di Indonesia tahun 1960-an."
+tags: ["Tv-Series"]
+categories: ["Action", "Adventure", "Sci-Fi"]
 
 cascade:
   showEdit: false
@@ -49,8 +51,9 @@ Penjahat lincah Loki melanjutkan perannya sebagai Dewa Kenakalan dalam serial ba
  <div class="movie-box">
         <div class="movie-title">Loki</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Action, Adventure, Fantasy</p>
+            <p><strong>Genre:</strong> Action, Adventure, Sci-Fi</p>
             <p><strong>Release Date:</strong> 2021</p>
+            <p><strong>Season:</strong> 2</p>
             <p><strong>Status:</strong> Complete</p>
         </div>
         <div class="movie-rating">8.2</div>

@@ -5,11 +5,10 @@ tags: ["Movie"]
 categories: ["Adventure", "Horror"]
 series: ["Wrong Turn"]
 Summary: "Sekelompok mahasiswa tersesat di tengah badai selama perjalanan mobil salju mereka dan berlindung di sanatorium yang ditinggalkan, yang tanpa mereka sadari, adalah rumah bagi para kanibal yang cacat."
-draft: true
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EXMWzaUG-gZLlGal3Gqgs1UBv4-CHEmD7QL6zKnqoexiOA" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUGQb-QX94tEtFqDdTvSOE4BsEUQqJpH_TzqAYww39Saog" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -23,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn 4: Bloody Beginnings",
-"contentUrl": "https://stream.mux.com/MGmrecxs8lpOkSRi2oaJrk02lGADpEyFo01U8tcj66oFM.m3u8",
+"contentUrl": "https://stream.mux.com/rNr3BiIYvItsnM8AXrAs1Pr6aLK8Q8PY5O8F4xWZ01dI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3SUnG8RUPYgG6R7LBIkEiW2Ke3P.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:42:25Z",
 }

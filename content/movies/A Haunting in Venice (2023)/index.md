@@ -3,7 +3,6 @@ title: "A Haunting in Venice (2023)"
 date: 2023-11-03T17:56:26Z
 tags: ["Movie"]
 categories: ["Crime", "Drama", "Horror"]
-list: ["Trending"]
 Summary: "Di Venesia pasca-Perang Dunia II, Poirot, yang sekarang sudah pensiun dan tinggal di pengasingannya sendiri, dengan enggan menghadiri pemanggilan arwah. Namun ketika salah satu tamu dibunuh, mantan detektif tersebut harus mengungkap kembali pembunuhnya."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Loki"
-date: 2023-11-11T23:59:36Z
+date: 2023-11-11T12:29:20Z
 description: "Di tengah perpaduan rempah-rempah yang menggugah untuk menciptakan rokok kretek yang sempurna, dua jiwa memulai kisah cinta epik yang berlatar di Indonesia tahun 1960-an."
 tags: ["Tv-Series"]
 categories: ["Action", "Adventure", "Sci-Fi"]

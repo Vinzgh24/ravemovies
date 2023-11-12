@@ -708,7 +708,6 @@ title: "list"
 - [The Guys (2017)]({{< ref "movies/The Guys (2017)" >}})
 - [The Greatest Showman (2017)]({{< ref "movies/The Greatest Showman (2017)" >}})
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
-- [The Human Centipede (First Sequence) (2009)]({{< ref "movies/The Human Centipede (First Sequence) (2009)" >}})
 - [The Human Centipede 2 (Full Sequence) (2011)]({{< ref "movies/The Human Centipede 2 (Full Sequence) (2011)" >}})
 - [The Ice Age Adventures of Buck Wild (2022)]({{< ref "movies/The Ice Age Adventures of Buck Wild (2022)" >}})
 - [The Jungle Book (2016)]({{< ref "movies/The Jungle Book (2016)" >}})

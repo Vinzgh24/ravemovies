@@ -5,6 +5,7 @@ tags: ["Movie"]
 categories: ["Horror"]
 series: ["The Human Centipade"]
 Summary: "Seorang ilmuwan gila menculik dan memutilasi trio turis untuk disusun kembali menjadi manusia kelabang, yang diciptakan dengan menjahit mulut mereka satu sama lain. rektum."
+draft: true
 ---
 
 <mux-player stream-type="on-demand"

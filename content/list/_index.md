@@ -669,9 +669,6 @@ title: "list"
 - [The Walking Dead (2010)]({{< ref "tv/The Walking Dead (2010)" >}})
 - [The Warriors (1979)]({{< ref "movies/The Warriors (1979)" >}})
 - [The Wind Rises (2013)]({{< ref "movies/The Wind Rises (2013)" >}})
-- [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)]({{< ref "movies/The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005" >}})
-- [The Chronicles of Narnia: Prince Caspian (2008)]({{< ref "movies/The-Chronicles-of-Narnia--Prince-Caspian-2008" >}})
-- [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)]({{< ref "movies/The-Chronicles-of-Narnia-The-Voyage-of-the-Dawn-Treader-2010" >}})
 - [The Flash (2023)]({{< ref "movies/the-flash-2023" >}})
 - [The Ring (2002)]({{< ref "movies/the-ring-2002" >}})
 - [The Twilight Saga: New Moon

@@ -13,7 +13,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 </mux-player>
 
 
-{{< movieinfo id="9358" >}}
+{{< movieinfo id="9286" >}}
 
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
 

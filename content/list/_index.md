@@ -710,7 +710,6 @@ title: "list"
 - [The Handmaid's Tale (2017)]({{< ref "tv/The Handmaid's Tale (2017)" >}})
 - [The Human Centipede (First Sequence) (2009)]({{< ref "movies/The Human Centipede (First Sequence) (2009)" >}})
 - [The Human Centipede 2 (Full Sequence) (2011)]({{< ref "movies/The Human Centipede 2 (Full Sequence) (2011)" >}})
-- [The Human Centipede 3 (Final Sequence) (2015)]({{< ref "movies/The Human Centipede 3 (Final Sequence) (2015)" >}})
 - [The Ice Age Adventures of Buck Wild (2022)]({{< ref "movies/The Ice Age Adventures of Buck Wild (2022)" >}})
 - [The Jungle Book (2016)]({{< ref "movies/The Jungle Book (2016)" >}})
 - [The King (2019)]({{< ref "movies/The King (2019)" >}})

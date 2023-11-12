@@ -5,6 +5,7 @@ tags: ["Movie"]
 categories: ["Comedy", "Horror"]
 series: ["The Human Centipade"]
 Summary: "Mengambil inspirasi dari film The Human Centipede, sipir penjara yang terkenal kejam dan bermasalah berupaya menciptakan manusia kelabang yang bisa menampung 500 orang sebagai solusi atas masalahnya."
+draft: true
 ---
 
 <mux-player stream-type="on-demand"

@@ -671,12 +671,6 @@ title: "list"
 - [The Wind Rises (2013)]({{< ref "movies/The Wind Rises (2013)" >}})
 - [The Flash (2023)]({{< ref "movies/the-flash-2023" >}})
 - [The Ring (2002)]({{< ref "movies/the-ring-2002" >}})
-- [The Twilight Saga: New Moon
-(2009)]({{< ref "movies/The-Twilight-Saga-New-Moon-2009" >}})
-- [The Twilight Saga: Eclipse
-(2010)]({{< ref "movies/the-twilight-saga-eclipse" >}})
-- [The Twilight Saga: Breaking Dawn – Part 2
-(2012)]({{< ref "movies/The-Twilight-Saga-Breaking-Dawn---Part-2-2012" >}})
 - [Thor (2011)]({{< ref "movies/Thor (2011)" >}})
 - [Thor: Love and Thunder (2022)]({{< ref "movies/Thor: Love and Thunder (2022)" >}})
 - [Thor: Ragnarok (2017)]({{< ref "movies/Thor: Ragnarok (2017)" >}})
@@ -699,14 +693,11 @@ title: "list"
 - [Transformers: Age of Extinction (2014)]({{< ref "movies/Transformers: Age of Extinction (2014)" >}})
 - [Transformers: Dark of the Moon (2011)]({{< ref "movies/Transformers: Dark of the Moon (2011)" >}})
 - [Transformers: Revenge of the Fallen (2009)]({{< ref "movies/Transformers: Revenge of the Fallen (2009)" >}})
-- [The Twilight Saga: Breaking Dawn – Part 1
-(2011)]({{< ref "movies/The-Twilight-Saga:-Breaking-Dawn---Part-1-(2011)" >}})
 - [Transformers: Rise of the Beasts (2023)]({{< ref "movies/Transformers: Rise of the Beasts (2023)" >}})
 - [Transformers: The Last Knight (2017)]({{< ref "movies/Transformers: The Last Knight (2017)" >}})
 - [Tujuh Bidadari (2018)]({{< ref "movies/Tujuh Bidadari (2018)" >}})
 - [Tumbal Kanjeng Iblis (2022)]({{< ref "movies/Tumbal Kanjeng Iblis (2022)" >}})
 - [Tusk (2014)]({{< ref "movies/Tusk (2014)" >}})
-- [Twilight (2008)]({{< ref "movies/twilight-2008" >}})
 
 ## V
 - [Vagabond (2019)]({{< ref "drakor/Vagabond (2019)" >}})

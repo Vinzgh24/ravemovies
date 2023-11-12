@@ -1,24 +1,30 @@
 ---
 title: "Insidious: The Red Door (2023)"
-date: 2023-09-03T10:28:53Z
+date: 2023-11-12T20:11:40Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["Insidious"]
+summary: "Keluarga Lambert harus masuk lebih jauh ke dalam The Further daripada sebelumnya untuk mengistirahatkan iblis mereka untuk selamanya."
 ---
 
-Keluarga Lambert harus masuk lebih jauh ke dalam The Further daripada sebelumnya untuk mengistirahatkan iblis mereka untuk selamanya.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eba2FYfCQ7FAhCI6u4lqbN8B3Dh0i7C_x8vR_SCzZoqT3w" prefer-playback="mse" controls>
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/6AKETem23gmqNKrDcRhGXntWhdx.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERaJ9hyKAlVLolD_WcdmTWQBnke90KNrFzgGVW1bU13x0w" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</mux-player>
 
+
+{{< movieinfo id="614479" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Insidious: The Red Door (2023)",
+"contentUrl": "https://stream.mux.com/8LiyNaK9E78U16e42FpCjKrwAbhKFNqYkk5Q007Embzw.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/yinTBbS9ZDAxQd4kc3t5z0rzSzG.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-11-12T20:11:40Z",
+}
+
+</script>

@@ -17,7 +17,7 @@ series: ["Jujutsu Kaisen Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Jujutsu Kaisen - S2E16 - Thunderclap",
-  "contentUrl": "https://stream.mux.com/y00J2SYhFJjc01f1UxuffR9oPHpNA6fx00IQ0201n5QEO9MU.m3u8?min_resolution=480p",
+  "contentUrl": "https://stream.mux.com/J016B4e6MnJT1ZqQiRuIxpeFE5KH2C01n9pMReao00DA1U.m3u8?min_resolution=480p",
   "thumbnailUrl": "https://graph.org/file/fccbbe529105363755e15.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-15T10:46:35Z",
 }

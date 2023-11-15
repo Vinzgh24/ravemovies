@@ -3,7 +3,6 @@ title: "Ballerina (2023)"
 date: 2023-10-11T10:26:31Z
 tags: ["Movie"]
 categories: ["Action", "Thriller"]
-list: ["Trending"]
 summary: "Berduka atas kehilangan sahabat yang tidak dapat ia lindungi, seorang mantan pengawal bertekad memenuhi keinginan terakhir sahabatnya: balas dendam yang manis."
 ---
 

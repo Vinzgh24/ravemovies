@@ -8,7 +8,7 @@ Summary: "Setelah kelahiran Renesmee/Nessie, keluarga Cullen mengumpulkan klan v
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERecNEOKUE9AudSqBmGcJNwBGYfecaWa-NsWUz6PK-mSJg" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EY6ZJQJDO6ZNv9QIQ3lE76kB_LduXy2zHXMEqIGAbbWUSw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Twilight Saga: Breaking Dawn - Part 2 (2012)",
-"contentUrl": "https://stream.mux.com/G8H200MM8IRpU4fCU6lKn6eyVVGdwyNKI3wxoQTFa01nU.m3u8",
+"contentUrl": "https://stream.mux.com/h1Cz00moegedr4kQgLVeE13FNHytI2pxTZX02KAt5G18A.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zgKHzOEdETBjO7FnBpLkdWMSIs0.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T15:06:17Z",
 }

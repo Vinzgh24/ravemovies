@@ -8,7 +8,7 @@ Summary: "Edward meninggalkan Bella setelah serangan yang hampir merenggut nyawa
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EcqsMrVfEIJGhrQrUuPRJA8BMugp6zTGq8Ran79w89te0w" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUUbw7UqGW9Divgo1a1axyABVlDHe_cQxclgJAiZDb6TAQ" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Twilight Saga: New Moon",
-"contentUrl": "https://stream.mux.com/ggnkZqUWyJRIoIjhXOTSDlD3cjtSzA97e2ed7BgkkwU.m3u8",
+"contentUrl": "https://stream.mux.com/eSPu6p8hAMjBSrFK61x3VheAo01rym6xKlIptafym7UA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/sUica54YWx4YUjG3dkJxHDiXn8z.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T14:49:23Z",
 }

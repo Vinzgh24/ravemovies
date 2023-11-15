@@ -1,10 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E5 - Premature Death"
 date: 2023-09-02T03:14:55Z
-tags: ["Tv-Series"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
-showSummary: false
+series: ["Jujutsu Kaisen Season 2"]
 ---
 
 

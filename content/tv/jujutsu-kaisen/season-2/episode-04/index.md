@@ -1,10 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E4 - Hidden Inventory Part 4"
 date: 2023-09-02T03:14:47Z
-tags: ["Tv-Series"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
-showSummary: false
+series: ["Jujutsu Kaisen Season 2"]
 ---
 
 <mux-player stream-type="on-demand"

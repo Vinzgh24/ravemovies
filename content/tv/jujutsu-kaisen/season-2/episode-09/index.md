@@ -1,10 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E9 - Gate Open"
 date: 2023-09-22T02:09:42Z
-tags: ["Tv-Series"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
-showSummary: false
+series: ["Jujutsu Kaisen Season 2"]
 ---
 
   <mux-player stream-type="on-demand"

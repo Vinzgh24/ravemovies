@@ -1,10 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E10 - Pandemonium"
 date: 2023-10-02T00:18:25Z
-tags: ["Tv-Series"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
-showSummary: false
+series: ["Jujutsu Kaisen Season 2"]
 ---
 
   <mux-player stream-type="on-demand"

@@ -8,7 +8,7 @@ Summary: "Keluarga Quileute hampir menantikan orang tua Edward dan Bella, yang a
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdxuT22R_FlFvNfc3BlmhJ4BHIT_L6sqfi8_SFkxm3--NQ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EeFkqjboIS9AvCwQbmjXZBgBKVAd7OyrUz8dfB3jCfSPKw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Twilight Saga: Breaking Dawn - Part 1",
-"contentUrl": "https://stream.mux.com/bceb1b00KXE2kYkNaPnMqD101CCpFMx3MXeQYl00Kzmxg00.m3u8",
+"contentUrl": "https://stream.mux.com/erUMywejakE01NxbEyRRZQkJ9qizHyvPZb2Wb02fBNOSU.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/unC2a4qIOfPGG8MZ9qYGaRsMSXt.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T15:02:42Z",
 }

@@ -1,10 +1,7 @@
 ---
 title: "Jujutsu Kaisen - S2E7 - Evening Festival"
 date: 2023-09-15T10:59:27Z
-tags: ["Tv-Series"]
-categories: ["Action", "Adventure"]
-series: ["Jujutsu Kaisen"]
-showSummary: false
+series: ["Jujutsu Kaisen Season 2"]
 ---
 
   <mux-player stream-type="on-demand"

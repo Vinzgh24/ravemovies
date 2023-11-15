@@ -1,8 +1,9 @@
 ---
 title: "Jujutsu Kaisen"
-date: 2023-09-02T02:57:50Z
+date: 2023-11-11T12:19:20Z
 description: "Seorang anak laki-laki menelan jimat terkutuk - jari iblis - dan dirinya sendiri menjadi terkutuk. Dia memasuki sekolah dukun untuk dapat menemukan bagian tubuh iblis lainnya dan kemudian mengusir dirinya sendiri."
-categories: ["Anime"]
+tags: ["Tv-Series"]
+categories: ["Anime", "Action", "Adventure"]
 
 cascade:
   showEdit: false
@@ -52,7 +53,8 @@ Seorang anak laki-laki menelan jimat terkutuk - jari iblis - dan dirinya sendiri
         <div class="movie-details">
             <p><strong>Genre:</strong> Action, Adventure</p>
             <p><strong>Release Date:</strong> 2020</p>
-            <p><strong>Status:</strong> Completed</p>
+            <p><strong>Season:</strong> 2</p>
+            <p><strong>Status:</strong> Ongoing</p>
         </div>
         <div class="movie-rating">8.5</div>
     </div>

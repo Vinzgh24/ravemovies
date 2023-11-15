@@ -1,6 +1,6 @@
 ---
 title: "The Nun II (2023)"
-date: 2023-10-03T15:01:41Z
+date: 2023-11-15T13:27:07Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["The Nun"]
@@ -9,7 +9,7 @@ summary: Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Ir
 
 
   <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERo29B9lZMRCtj4FhvZw-McBgf1ghsBkK8eTEYLVfAyVlw" metadata-video-title="The Nun II (2023)" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EU1QnRFh5KZNtLsPkU7jGBgBhZMi4PvzZApLVX6z10R6GQ" metadata-video-title="The Nun II (2023)" prefer-playback="mse" controls>
  
   </mux-player>
   
@@ -23,9 +23,9 @@ summary: Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Ir
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Nun II (2023)",
-  "contentUrl": "https://stream.mux.com/01bLhZfMD100PLCM00U5401C5J7fb9Y4VwUBR5CygtzSM8Q.m3u8",
+  "contentUrl": "https://stream.mux.com/v21rVxsnscGto2Ana21RKnVr01GT7CVVhX3j4ALgRK54.m3u8?min_resolution=480p",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6ccXFawnYknVMYkcCL30QhEm73j.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-10-03T15:01:41Z",
+  "uploadDate": "2023-11-15T13:27:07Z",
 }
 
 </script>

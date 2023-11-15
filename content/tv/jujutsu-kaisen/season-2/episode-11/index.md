@@ -1,0 +1,25 @@
+---
+title: "Jujutsu Kaisen - S2E11 - Seance"
+date: 2023-11-15T10:46:19Z
+series: ["Jujutsu Kaisen Season 2"]
+---
+
+
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EQs2a4SiGXxDnxX3zSu292MB54ITtBMvAzRLg4pAM5n6AQ" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Jujutsu Kaisen - S2E11 - Seance",
+  "contentUrl": "https://stream.mux.com/sx021Uufmytz3VwyroWV5kJs2ZvuMU13oN9bZxIv2W00Y.m3u8?min_resolution=480p",
+  "thumbnailUrl": "https://graph.org/file/fccbbe529105363755e15.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-11-15T10:46:19Z",
+}
+
+</script>

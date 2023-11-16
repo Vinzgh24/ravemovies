@@ -8,7 +8,7 @@ Summary: "Berlatar belakang perang antara manusia dan robot dengan kecerdasan bu
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EcPOSFxRv6ZIg71TpAprFNsBFEGQ0pDU3HElOwvrDn9Hig" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EducJU3GS6VDjT_9LiqjLmMBbG_cNx0lQkuc_QESHAj-fg" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Creator (2023)",
-"contentUrl": "https://stream.mux.com/00OpS337jKGSc01rW4LLTvXwT97D6syXTuvjE00OFnLf88.m3u8?min_resolution=480p",
+"contentUrl": "https://stream.mux.com/iKxQqgcwkRgOU01y3QM72toZOrJSyvae4bVcyvATd5Cg.m3u8?min_resolution=480p",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oX0TW7TVwtA9VY9gjEuv0YzmC2B.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-15T13:41:34Z",
 }

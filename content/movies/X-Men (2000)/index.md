@@ -3,6 +3,7 @@ title: "X-Men (2000) [Dual Audio]"
 date: 2023-10-11T00:25:14Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
+series: ["X Men"]
 summary: "Di dunia di mana mutan (manusia berkekuatan super berevolusi) ada dan didiskriminasi, dua kelompok terbentuk untuk bentrokan yang tak terhindarkan: Persaudaraan supremasi, dan X-Men yang pasifis."
 ---
 

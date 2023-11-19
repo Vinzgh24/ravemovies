@@ -4,7 +4,7 @@ date: 2023-11-19T13:41:12Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]
 series: ["Fantastic Beasts"]
-Summary: "Angsuran kedua dari "Fantastic Beasts" seri yang menampilkan petualangan Magizoologist Newt Scamander."
+Summary: "Angsuran kedua dari Fantastic Beasts seri yang menampilkan petualangan Magizoologist Newt Scamander."
 ---
 
 <mux-player stream-type="on-demand"

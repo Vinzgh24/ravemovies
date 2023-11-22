@@ -51,7 +51,7 @@ Pada tahun 1990-an, seorang petugas polisi menyamar untuk menyusup ke sindikat k
         <div class="movie-title">Strong Girl Nam Soon</div>
         <div class="movie-details">
             <p><strong>Genre:</strong> Action, Crime, Deama</p>
-            <p><strong>Release Date:</strong> 2015</p>
+            <p><strong>Release Date:</strong> 2023</p>
             <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>
         </div>

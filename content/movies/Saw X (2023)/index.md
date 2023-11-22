@@ -1,6 +1,6 @@
 ---
 title: "Saw X (2023)"
-date: 2023-10-20T12:08:49Z
+date: 2023-11-22T17:14:54Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 list: ["Trending"]
@@ -9,7 +9,7 @@ summary: "John yang sakit dan putus asa melakukan perjalanan ke Meksiko untuk me
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EU__PY-N7nVKs1GjaiGjVb4Bqft5bFtOQCphX7KDvIXnrw" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERnf8QSGnllAhSL8cLlsT2gBtNUpgb9HT-wnUPJcLdm4uQ" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,10 +22,10 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 {
 "@context": "https://schema.org/",
 "@type": "VideoObject",
-"name": "Saw X (2023)",
-"contentUrl": "https://stream.mux.com/C02bTEK009NB0101UiV1ce02b6Rxc00kFdWsiVTtXyckgfq2Y.m3u8",
+"name": "Saw X",
+"contentUrl": "https://stream.mux.com/6vjl00fN02XZHZR26Ma02F5iQ6d02Bm9iVkyJaM005B93Cxk.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/87ieyzhHuTjWCeD7jKroUjzVQVQ.jpg?width=314&fit_mode=preserve&time=25",
-"uploadDate": "2023-10-20T12:08:49Z",
+"uploadDate": "2023-11-22T17:14:54Z",
 }
 
 </script>

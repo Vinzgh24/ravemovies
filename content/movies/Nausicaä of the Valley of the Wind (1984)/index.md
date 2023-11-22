@@ -1,5 +1,5 @@
 ---
-title: "Nausicaä of the Valley of the Wind (1984)"
+title: "Nausicaä of the Valley of the Wind (1984) [Dubbing Indonesia]"
 date: 2023-11-22T16:01:25Z
 tags: ["Movie"]
 categories: ["Anime", "Adventure", "Sci-Fi"]

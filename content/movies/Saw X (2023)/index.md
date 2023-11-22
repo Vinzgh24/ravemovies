@@ -3,7 +3,6 @@ title: "Saw X (2023)"
 date: 2023-11-22T17:14:54Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
-list: ["Trending"]
 series: ["Saw"]
 summary: "John yang sakit dan putus asa melakukan perjalanan ke Meksiko untuk menjalani prosedur medis yang berisiko dan eksperimental dengan harapan mendapatkan obat ajaib untuk kankernya, namun ternyata seluruh operasi tersebut adalah penipuan untuk menipu kelompok yang paling rentan."
 ---

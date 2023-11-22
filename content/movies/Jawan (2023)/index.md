@@ -3,7 +3,6 @@ title: "Jawan (2023)"
 date: 2023-11-03T17:59:48Z
 tags: ["Movie"]
 categories: ["Action", "Thriller"]
-list: ["Trending"]
 Summary: "Sebuah thriller aksi beroktan tinggi yang menguraikan perjalanan emosional seorang pria yang bertekad memperbaiki kesalahan di masyarakat."
 ---
 

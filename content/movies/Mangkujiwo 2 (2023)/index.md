@@ -3,7 +3,6 @@ title: "Mangkujiwo 2 (2023)"
 date: 2023-10-19T05:44:56Z
 tags: ["Movie"]
 categories: ["Horror"]
-list: ["Trending"]
 series: ["Mangkujiwo"]
 summary: "Misteri kematian misterius Tjokro Kusumo. Tjokro Kusumo dan Brotoseno sempat bermusuhan memperebutkan loji pusaka hingga keduanya saling memendam dendam."
 ---

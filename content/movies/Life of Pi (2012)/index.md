@@ -3,7 +3,7 @@ title: "Life of Pi (2012)"
 date: 2023-11-22T14:26:26Z
 tags: ["Movie"]
 categories: ["Adventure", "Drama", "Fantasy"]
-summary: Seorang pemuda yang selamat dari bencana di laut dilemparkan ke dalam perjalanan petualangan dan penemuan yang epik. Saat dibuang, dia menjalin hubungan tak terduga dengan orang lain yang selamat: seekor harimau Bengal yang menakutkan.
+summary: Seorang pemuda yang selamat dari bencana di laut dilemparkan ke dalam perjalanan petualangan dan penemuan yang epik. Saat dibuang, dia menjalin hubungan tak terduga dengan orang lain yang selamat seekor harimau Bengal yang menakutkan.
 ---
 
 <mux-player stream-type="on-demand"

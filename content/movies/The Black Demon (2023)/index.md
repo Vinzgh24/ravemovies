@@ -14,6 +14,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 
 {{< movieinfo id="890771" >}}
 
+
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
 
  <script type="application/ld+json ">
@@ -21,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Black Demon (2023)",
-"contentUrl": "https://stream.mux.com/YRjXytzunq8zk022jVgXv7rPuOY3p231WNxgGR01PODAo.m3u8",
+"contentUrl": "https://stream.mux.com/irueY4DUjBN4QxLGAFF2pwv9OzPojd53YgM5wSNQ67s.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/wunTms8M2qUJwZHsel5JDBULieE.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-22T16:16:27Z",
 }

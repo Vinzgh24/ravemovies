@@ -4,7 +4,7 @@ date: 2023-11-22T17:48:36Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 list: ["Trending"]
-summary: "Poppy mengetahui bahwa Branch pernah menjadi bagian dari boy band 'BroZone' dengan saudara laki-lakinya, Floyd, John Dory, Spruce dan Clay. Ketika Floyd diculik, Branch dan Poppy memulai perjalanan untuk menyatukan kembali dua saudara laki-lakinya yang lain dan menyelamatkan F..."
+summary: "Parthiban adalah pemilik kafe yang berwatak halus di Kashmir, yang menangkis sekelompok preman pembunuh dan mendapatkan perhatian dari kartel narkoba yang mengklaim bahwa dia pernah menjadi bagian dari mereka."
 ---
 
 <mux-player stream-type="on-demand"

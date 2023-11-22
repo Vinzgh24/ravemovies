@@ -2,7 +2,7 @@
 title: "Coco (2017) [Dual Audio]"
 date: 2023-11-22T17:26:11Z
 tags: ["Movie"]
-categories: ["Animation", "Adventure", "Dra"]
+categories: ["Animation", "Adventure", "Drama"]
 summary: "Miguel yang bercita-cita tinggi, dihadapkan dengan larangan leluhur terhadap musik, memasuki Negeri Orang Mati untuk menemukan kakek buyutnya, seorang penyanyi legendaris."
 ---
 

@@ -156,6 +156,7 @@ title: "list"
 - [Cars 3 (2017)]({{< ref "movies/cars 3 (2017)" >}})
 - [Charlie and the Chocolate Factory (2005)]({{< ref "movies/charlie-and-the-chocolate-factory-2005" >}})
 - [Cinderella (2021)]({{< ref "movies/Cinderella (2021)" >}})
+- [Coco (2017)]({{< ref "movies/Coco (2017)" >}})
 - [Comic 8 (2014)]({{< ref "movies/Comic 8 (2014)" >}})
 - [Comic 8: Casino Kings - Part 1 (2015)]({{< ref "movies/Comic 8: Casino Kings - Part 1 (2015)" >}})
 - [Coming Soon (2008)]({{< ref "movies/Coming Soon (2008)" >}})

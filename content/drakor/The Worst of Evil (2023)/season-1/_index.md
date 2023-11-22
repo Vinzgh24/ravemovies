@@ -48,9 +48,9 @@ Pada tahun 1990-an, seorang petugas polisi menyamar untuk menyusup ke sindikat k
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Strong Girl Nam Soon</div>
+        <div class="movie-title">The Worst of Evil</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Action, Crime, Deama</p>
+            <p><strong>Genre:</strong> Action, Crime, Drama</p>
             <p><strong>Release Date:</strong> 2023</p>
             <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>

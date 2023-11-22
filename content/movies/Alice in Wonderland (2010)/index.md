@@ -1,16 +1,29 @@
 ---
-title: "Alice in Wonderland (2010) Dubbing Indonesia"
-date: 2023-08-30T18:19:49Z
+title: "Alice in Wonderland (2010)"
+date: 2023-11-22T16:06:17Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]
+summary: Alice yang berusia sembilan belas tahun kembali ke dunia sihir dari petualangan masa kecilnya, di mana dia bertemu kembali dengan teman-teman lamanya dan mengetahui takdirnya yang sebenarnya: untuk mengakhiri teror Ratu Merah.
 ---
 
-Alice yang berusia sembilan belas tahun kembali ke dunia sihir dari petualangan masa kecilnya, di mana dia bertemu kembali dengan teman-teman lamanya dan mengetahui takdirnya yang sebenarnya: untuk mengakhiri teror Ratu Merah.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EY1rTHDjas9HoWWBvFJpxfIBdJ9yK2bCJM_AApKRovJ-NQ" prefer-playback="mse" controls>
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/k3raPB3q0sBg7Zg4P8Wp5YHUOv4.jpg" controls>
-  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYTuq9RMiDpOhnfIoUAAXUwBfP_V2R88cgEcnHBUM1brzA" type="video/mp4">
-</video>
+</mux-player>
 
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+
+{{< movieinfo id="12155" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Alice in Wonderland",
+"contentUrl": "https://stream.mux.com/6jHp2kcs1toU01Zw52YhiSB5imNMxcvLysJMjkzoiAgo.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/drbt85HYXH4lHX4VpIz8jixGBlR.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-11-22T16:06:17Z",
+}
+
+</script>

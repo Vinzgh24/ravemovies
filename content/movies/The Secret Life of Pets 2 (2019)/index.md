@@ -2,6 +2,7 @@
 title: "The Secret Life of Pets 2 (2019)"
 date: 2023-09-13T13:31:32Z
 tags: ["Movie"]
+series: ["The Secret Life of Pets"]
 categories: ["Animation", "Adventure", "Comedy"]
 ---
 

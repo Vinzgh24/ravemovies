@@ -17,7 +17,7 @@ series: ["Strong Girl Nam Soon Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Strong Girl Nam Soon - S1E4 - Reunion",
-  "contentUrl": "https://stream.mux.com/RC2w1l4cbKXF4E9If3Zv7d9rJ9xns2WDY6UCtUxNlTw.m3u8",
+  "contentUrl": "https://stream.mux.com/PD5OERonQ5p9IJGGAgR5b5dvVbnrti56YbPEvGDCNmc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-16T23:16:36Z",
 }

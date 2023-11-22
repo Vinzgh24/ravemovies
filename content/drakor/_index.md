@@ -7,8 +7,4 @@ cascade:
   hideFeatureImage: false
 ---
 
-{{< lead >}}
-Halo pecinta drakor! :heart_eyes:
-{{< /lead >}}
-
 

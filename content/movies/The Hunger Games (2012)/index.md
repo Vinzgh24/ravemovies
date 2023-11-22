@@ -4,7 +4,7 @@ date: 2023-11-22T15:22:15Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
 series: ["The Hunger Games"]
-summary: Katniss Everdeen secara sukarela menggantikan adik perempuannya di Hunger Games: sebuah kompetisi yang disiarkan televisi di mana dua remaja dari masing-masing dua belas Distrik Panem dipilih secara acak untuk bertarung sampai mati.
+summary: "Katniss Everdeen secara sukarela menggantikan adik perempuannya di 'Hunger Games: sebuah kompetisi yang disiarkan televisi di mana dua remaja dari masing-masing dua belas Distrik Panem dipilih secara acak untuk bertarung sampai mati."
 ---
 
 <mux-player stream-type="on-demand"

@@ -3,7 +3,7 @@ title: "Alice in Wonderland (2010)"
 date: 2023-11-22T16:06:17Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]
-summary: Alice yang berusia sembilan belas tahun kembali ke dunia sihir dari petualangan masa kecilnya, di mana dia bertemu kembali dengan teman-teman lamanya dan mengetahui takdirnya yang sebenarnya: untuk mengakhiri teror Ratu Merah.
+summary: Alice yang berusia sembilan belas tahun kembali ke dunia sihir dari petualangan masa kecilnya, di mana dia bertemu kembali dengan teman-teman lamanya dan mengetahui takdirnya yang sebenarnya untuk mengakhiri teror Ratu Merah.
 ---
 
 <mux-player stream-type="on-demand"

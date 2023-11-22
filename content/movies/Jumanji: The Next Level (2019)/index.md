@@ -4,7 +4,7 @@ date: 2023-11-22T12:49:20Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Comedy"]
 series: ["Jumanji"]
-summary: Di Jumanji: The Next Level, geng tersebut kembali tetapi permainannya telah berubah. Saat mereka kembali untuk menyelamatkan salah satu dari mereka, para pemain harus berani menghadapi wilayah yang tidak diketahui mulai dari gurun gersang hingga pegunungan bersalju, untuk melarikan diri dari bahaya paling berbahaya di dunia...
+summary: Di Jumanji The Next Level, geng tersebut kembali tetapi permainannya telah berubah. Saat mereka kembali untuk menyelamatkan salah satu dari mereka, para pemain harus berani menghadapi wilayah yang tidak diketahui mulai dari gurun gersang hingga pegunungan bersalju, untuk melarikan diri dari bahaya paling berbahaya di dunia...
 ---
 
 <mux-player stream-type="on-demand"

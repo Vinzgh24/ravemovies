@@ -4,7 +4,7 @@ date: 2023-11-22T15:51:41Z
 tags: ["Movie"]
 categories: ["Action"]
 series: ["High & Low"]
-summary: Film ini bersetting 3 tahun setelah peristiwa 'High and Low: The Worst'. yang mengikuti persaingan antara pejuang jalanan SMA Oya dan anak nakal di Akademi Housen.
+summary: "Film ini bersetting 3 tahun setelah peristiwa 'High and Low: The Worst'. yang mengikuti persaingan antara pejuang jalanan SMA Oya dan anak nakal di Akademi Housen."
 ---
 
 <mux-player stream-type="on-demand"

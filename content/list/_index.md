@@ -512,7 +512,6 @@ title: "list"
 - [Murder on the Orient Express (2017)]({{< ref "movies/Murder on the Orient Express (2017)" >}})
 - [Muzzle (2023)]({{< ref "movies/Muzzle (2023)" >}})
 - [Mencuri Raden Saleh (2022)]({{< ref "movies/mencuri-raden-saleh" >}})
-- [Midnight (2021)]({{< ref "movies/midnight-2021" >}})
 - [My Love (2021) [Vietnamese Subtitle]]({{< ref "movies/My Love (2021)" >}})
 - [My Neighbor Totoro (1988)]({{< ref "movies/My Neighbor Totoro (1988)" >}})
 - [My Sassy Girl (2022)]({{< ref "movies/My Sassy Girl (2022)" >}})

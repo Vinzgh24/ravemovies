@@ -145,8 +145,6 @@ title: "list"
 - [Captain America: Civil War (2016)]({{< ref "movies/Captain America: Civil War (2016)" >}})
 - [Captain America: The Winter Soldier (2014)]({{< ref "movies/Captain America: The Winter Soldier (2014)" >}})
 - [Captain America：The First Avenger (2011)]({{< ref "movies/Captain America：The First Avenger (2011)" >}})
-- [Cars (2006)]({{< ref "movies/cars-2006" >}})
-- [Cars 2 (2011)]({{< ref "movies/Cars-2-2011" >}})
 - [Castle in the Sky (1986)]({{< ref "movies/Castle in the Sky (1986)" >}})
 - [Cek Toko Sebelah (2016)]({{< ref "movies/Cek Toko Sebelah (2016)" >}})
 - [Cek Toko Sebelah 2 (2022)]({{< ref "movies/Cek Toko Sebelah 2 (2022)" >}})

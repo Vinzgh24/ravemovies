@@ -14,7 +14,7 @@ title = "Raveflix"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
- name = "Levi"
+ name = "Ryoo"
  image = "/img/profile-1.gif"
  # headline = "Sang Kolektor Film"
  bio = "Bantu share web ini agar terus berkembang."
@@ -60,5 +60,5 @@ title = "Raveflix"
 #     { twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
-    { ko-fi = "https://saweria.co/Ryoo1" }
+    { ko-fi = "https://saweria.co/raveflix" }
 ]

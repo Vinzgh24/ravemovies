@@ -1,17 +1,30 @@
 ---
-title: "Cars 3 (2017) Dubbing Indonesia"
-date: 2023-08-29T23:06:39Z
+title: "Cars 3 (2017) [Dual Audio]"
+date: 2023-11-25T01:06:09Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 series: ["Cars"]
+summary: "Lightning McQueen bertekad membuktikan kepada pembalap generasi baru bahwa dia masih menjadi mobil balap terbaik di dunia."
 ---
 
-Lightning McQueen bertekad membuktikan kepada pembalap generasi baru bahwa dia masih menjadi mobil balap terbaik di dunia.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EXpyuuMfLs5ErOWpHRdHzcoBP6G78Yb4WOTPIAEc16hzkg" prefer-playback="mse" controls>
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/gqyTUMNrMjyIVNVIgGMdurrNPWb.jpg" controls>
-  <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ec23Ay1qlI5HqjImfdHxHZIBb4PvPbduOybu0kJrSUcraQ" type="video/mp4">
-</video>
+</mux-player>
 
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+
+{{< movieinfo id="260514" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Cars 3",
+"contentUrl": "https://stream.mux.com/S9xmRh4TFrvDKMUk2efdsEIn9jXp8a5nrSyv38GPeHA;.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/netOQgntwtM1tLaEY9UsyHxXD7I.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-08-29T23:06:39Z",
+}
+
+</script>

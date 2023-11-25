@@ -9,7 +9,7 @@ title = "Raveflix"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "/img/logo.png"
-  secondaryLogo = "/img/profile-1.jpg"
+  secondaryLogo = "/img/profile-1.png"
   description = ""
   # copyright = "Copy, _right?_ :thinking_face:"
 

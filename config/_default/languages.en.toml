@@ -9,13 +9,13 @@ title = "Raveflix"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "/img/logo.png"
-  secondaryLogo = "/img/profile-1.gif"
+  secondaryLogo = "/img/profile-1.jpg"
   description = ""
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
  name = "Ryoo"
- image = "/img/profile-1.gif"
+ image = "/img/profile-1.jpg"
  # headline = "Sang Kolektor Film"
  bio = "Bantu share web ini agar terus berkembang."
  links = [

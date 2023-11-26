@@ -1,6 +1,6 @@
 ---
-title: "The Secret Life of Pets (2016)"
-date: 2023-11-22T15:57:26Z
+title: "The Secret Life of Pets (2016) [Dual Audio]"
+date: 2023-11-26T07:13:55Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 series: ["The Secret Life of Pets"]
@@ -8,7 +8,7 @@ summary: Kehidupan tenang seekor anjing terrier bernama Max berubah ketika pemil
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EcHg6JtE8fROmSU8a8SFQGwBZckDFGNT16zWCLh_EiJNlw" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWyOMwHtPPxAko0zs3lX6eQBkb6NDFFljY79wIvrAvz6hg" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -21,10 +21,10 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 {
 "@context": "https://schema.org/",
 "@type": "VideoObject",
-"name": "The Secret Life of Pets (2016)",
-"contentUrl": "https://stream.mux.com/Wbt38a2JLT700r2B1FXqufr4yhOqgipqCFX01nf69wmrw.m3u8",
+"name": "The Secret Life of Pets",
+"contentUrl": "https://stream.mux.com/SZyWKLBfQMcQshAsFEtTQpTSfmEa7wMKbmVpq0000002jQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/A9wjsXPYYnffcI8SbxSPMeuWccq.jpg?width=314&fit_mode=preserve&time=25",
-"uploadDate": "2023-11-22T15:57:26Z",
+"uploadDate": "2023-11-26T07:13:55Z",
 }
 
 </script>

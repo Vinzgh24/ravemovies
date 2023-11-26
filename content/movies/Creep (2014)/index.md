@@ -4,6 +4,7 @@ date: 2023-11-26T07:10:55Z
 tags: ["Movie"]
 categories: ["Horror", "Thriller"]
 summary: "Seorang videografer muda menjawab iklan online untuk pekerjaan satu hari di kota terpencil untuk merekam pesan terakhir dari seorang pria yang sekarat. Ketika dia menyadari perilaku aneh pria itu, dia mulai mempertanyakan niatnya."
+draft: true
 ---
 
 <mux-player stream-type="on-demand"

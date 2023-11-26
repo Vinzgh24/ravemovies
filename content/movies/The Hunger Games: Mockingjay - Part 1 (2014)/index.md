@@ -1,6 +1,6 @@
 ---
 title: "The Hunger Games: Mockingjay - Part 1 (2014)"
-date: 2023-11-22T15:29:38Z
+date: 2023-11-26T07:17:55Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Sci-Fi"]
 series: ["The Hunger Games"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Hunger Games: Mockingjay - Part 1 (2014)",
-"contentUrl": "https://stream.mux.com/XSeKWBO02nhjyZ7hC9iYQYZCrPh7HlT7bqgQ00bnDqvaA.m3u8",
+"contentUrl": "https://stream.mux.com/sujq01DF3FP4NmzbCoVkDR78TxLOI00y1vHdUXwQWXs3U.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tIwgOwhxkHVhLsPnIQfuDHHmUyp.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-22T15:29:38Z",
 }

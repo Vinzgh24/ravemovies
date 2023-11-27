@@ -1,14 +1,13 @@
 ---
 title: "Zootopia (2016) [Dual Audio]"
-date: 2023-11-24T16:59:32Z
+date: 2023-11-27T01:33:19Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 summary: "Di kota hewan antropomorfik, polisi kelinci pemula dan penipu sinis rubah harus bekerja sama untuk mengungkap konspirasi."
-draft: true
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ERpQvws8VZRKvCtb-HQsV1YBZagpv9gyDFzrpaiHWuTaAQ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EY2y_lTDs6tEswfkLc_vhuABbzcB1l4fWuwHlyeJFvVl2g" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -21,10 +20,10 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 {
 "@context": "https://schema.org/",
 "@type": "VideoObject",
-"name": "Midnight (2021)",
-"contentUrl": "https://stream.mux.com/P1mWLT58dTiZCh5eVPWCH01uIxkJ2n1cEqFWj1Kzx3Ks.m3u8",
+"name": "Zootopia",
+"contentUrl": "https://stream.mux.com/Q02J1AT00gHAw9EiXM7j9igCow8DAiKESVj21c9JNawjw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/kvT2LSB5vXjxL71YWuS8tRA8tw0.jpg?width=314&fit_mode=preserve&time=25",
-"uploadDate": "2023-11-24T16:59:32Z",
+"uploadDate": "2023-11-27T01:33:19Z",
 }
 
 </script>

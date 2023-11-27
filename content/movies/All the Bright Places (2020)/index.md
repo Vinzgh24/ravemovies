@@ -8,7 +8,7 @@ summary: |
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUy96EP5bSpLr9rwg7mBtD4BmV-lT058L4wjxQbp8mJ75Q" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUW9ZS2LhMhDsEQS6z0P4SYBXzCfU7w7ur26D8bAQzZ6lQ" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "All the Bright Places",
-"contentUrl": "https://stream.mux.com/7RFMRhdAxdxa4U7SQF02GpLk6nNoGa5DzOSCrHZuaL18.m3u8",
+"contentUrl": "https://stream.mux.com/17N023a01r1CBQRWUb88hxNkcZuWCscKEvccCG5B7A1Gw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/q5vKYuUDs2DV7ucYYNrEV28vqEK.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-27T08:58:24Z",
 }

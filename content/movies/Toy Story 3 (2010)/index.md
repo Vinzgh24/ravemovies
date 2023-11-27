@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 3 (2010) [Dual Audio]"
-date: 2023-11-27T00:60:43Z
+date: 2023-11-27T01:03:43Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 series: ["Toy Story"]
@@ -22,7 +22,7 @@ summary: "Mainan-mainan tersebut secara keliru dikirim ke pusat penitipan anak a
   "name": "Toy Story 3",
   "contentUrl": "https://stream.mux.com/wU01KcU7WXV0261W0253SRlkouRgWfoK77g9ztq5fkQO7c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AtcQK4fzS8rlbKXuTP06GQPp1Q7.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-11-27T00:60:43Z",
+  "uploadDate": "2023-11-27T01:03:43Z",
 }
 
 </script>

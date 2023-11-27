@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 4 (2019) [Dual Audio]"
-date: 2023-11-27T00:61:43Z
+date: 2023-11-27T01:04:43Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 series: ["Toy Story"]
@@ -23,7 +23,7 @@ summary: |
   "name": "Toy Story 4",
   "contentUrl": "https://stream.mux.com/e8MSNhB99pe8FCRZjKykUW3pfcDmM91px8d8vmuz01HI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AtcQK4fzS8rlbKXuTP06GQPp1Q7.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-11-27T00:61:43Z",
+  "uploadDate": "2023-11-27T01:04:43Z",
 }
 
 </script>

@@ -4,7 +4,8 @@ date: 2023-11-27T00:61:43Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
 series: ["Toy Story"]
-summary: "Ketika mainan baru bernama "Forky" bergabung dengan Woody dan kawan-kawan, perjalanan bersama teman lama dan baru mengungkap betapa besarnya dunia untuk sebuah mainan."
+summary: |
+  "Ketika mainan baru bernama "Forky" bergabung dengan Woody dan kawan-kawan, perjalanan bersama teman lama dan baru mengungkap betapa besarnya dunia untuk sebuah mainan."
 ---
 
 <mux-player stream-type="on-demand"

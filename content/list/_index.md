@@ -253,7 +253,7 @@ title: "list"
 - [Final Destination 5 (2011)]({{< ref "movies/Final Destination 5 (2011)" >}})
 - [Final Summer (2022)]({{< ref "movies/Final Summer (2022)" >}})
 - [Finding Dory (2016)]({{< ref "movies/Finding Dory (2016)" >}})
-- [Finding Nemo (2003)]({{< ref "movies/Finding Nemo" >}})
+- [Finding Nemo (2003)]({{< ref "movies/Finding Nemo (2003)" >}})
 - [Five Nights at Freddy's (2023)]({{< ref "movies/Five Nights at Freddy's (2023)" >}})
 - [Ford v Ferrari (2019)]({{< ref "movies/Ford v Ferrari (2019)" >}})
 - [Forget Me Not (2015)]({{< ref "movies/Forget Me Not (2015)" >}})

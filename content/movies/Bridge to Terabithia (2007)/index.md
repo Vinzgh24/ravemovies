@@ -3,6 +3,7 @@ title: "Bridge to Terabithia (2007)"
 date: 2023-11-27T08:46:42Z
 tags: ["Movie"]
 categories: ["Drama", "Family", "Fantasy"]
+draft: true
 summary: |
   "Kehidupan seorang praremaja berubah drastis ketika dia berteman dengan gadis baru di sekolah dan mereka membayangkan dunia fantasi baru yang melarikan diri dari kenyataan."
 ---

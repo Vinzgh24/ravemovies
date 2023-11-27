@@ -135,7 +135,6 @@ title: "list"
 - [BoBoiBoy: The Movie (2016)]({{< ref "movies/BoBoiBoy: The Movie (2016)" >}})
 - [Bodies (2023)]({{< ref "tv/Bodies (2023)" >}})
 - [Bolt (2008)]({{< ref "movies/Bolt (2008)" >}})
-- [Bridge to Terabithia (2007)]({{< ref "movies/Bridge to Terabithia (2007)" >}})
 - [Bring It On (2000)]({{< ref "movies/Bring It On (2000)" >}})
 - [Bumblebee (2018)]({{< ref "movies/Bumblebee (2018)" >}})
 - [Bullet Train (2022)]({{< ref "movies/Bullet Train (2022)" >}})

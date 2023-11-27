@@ -1,22 +1,30 @@
 ---
 title: "Bridge to Terabithia (2007)"
-date: 2023-09-03T10:41:06Z
+date: 2023-11-27T08:46:42Z
 tags: ["Movie"]
-categories: ["Drama", "Fantasy", "Family"]
+categories: ["Drama", "Family", "Fantasy"]
+summary: |
+  "Kehidupan seorang praremaja berubah drastis ketika dia berteman dengan gadis baru di sekolah dan mereka membayangkan dunia fantasi baru yang melarikan diri dari kenyataan."
 ---
 
-Kehidupan seorang praremaja berubah drastis ketika dia berteman dengan gadis baru di sekolah dan mereka membayangkan dunia fantasi baru yang melarikan diri dari kenyataan.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYBgqUaJUnJKjAIrpzoP4I0BPK-coyTkETGDpe-CR0CzPg" prefer-playback="mse" controls>
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/zQUE4jtOXZf4X4V2W2bTo3O17Nm.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EalyIJc7IHlIov5rpQ8dilgBEcJVpHEsZXceHIrFyPeEgQ" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</mux-player>
+
+
+{{< movieinfo id="1265" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Bridge to Terabithia",
+"contentUrl": "https://stream.mux.com/hF7xPW0200TTQy5EaYCaNuLGvedJZQzOLN6IIdfudGzjs.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/zQUE4jtOXZf4X4V2W2bTo3O17Nm.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-11-27T08:46:42Z",
+}
+
+</script>

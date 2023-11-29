@@ -3,7 +3,7 @@ title: "Trolls Band Together (2023)"
 date: 2023-11-22T17:45:14Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
-list: ["Trending"]
+series: ["Trolls Band"]
 summary: "Poppy mengetahui bahwa Branch pernah menjadi bagian dari boy band 'BroZone' dengan saudara laki-lakinya, Floyd, John Dory, Spruce dan Clay. Ketika Floyd diculik, Branch dan Poppy memulai perjalanan untuk menyatukan kembali dua saudara laki-lakinya yang lain dan menyelamatkan F..."
 ---
 

@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E2 - Episode 02",
-  "contentUrl": "https://stream.mux.com/8Gh5XC79HXA01v4ZweZPsUanp713PnEGZDVR56r5gJww.m3u8",
+  "contentUrl": "https://stream.mux.com/AL00wGp1tfbhJENIl101csspCZMTfJIy6aZL67Qd4t7oE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:44:48Z",
 }

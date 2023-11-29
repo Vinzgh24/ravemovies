@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E4 - Episode 04",
-  "contentUrl": "https://stream.mux.com/GJTsF3cYNdCNYEH8WE02GETbl5bvGNaDbQRNh5zy00ubQ.m3u8",
+  "contentUrl": "https://stream.mux.com/lfwDZe026Tv9e7BiFgBxq4o3138vdp5HNRIF00q922dHA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:44:55Z",
 }

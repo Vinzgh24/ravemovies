@@ -3,8 +3,7 @@ title: "All the Bright Places (2020)"
 date: 2023-11-27T08:58:24Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
-summary: |
-  "Kisah Violet dan Theodore yang bertemu dan mengubah hidup satu sama lain selamanya. Saat mereka bergumul dengan luka emosional dan fisik di masa lalu, mereka menyadari bahwa tempat dan momen terkecil sekalipun dapat memiliki arti."
+summary: "Kisah Violet dan Theodore yang bertemu dan mengubah hidup satu sama lain selamanya. Saat mereka bergumul dengan luka emosional dan fisik di masa lalu, mereka menyadari bahwa tempat dan momen terkecil sekalipun dapat memiliki arti."
 ---
 
 <mux-player stream-type="on-demand"

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E5 - Episode 05",
-  "contentUrl": "https://stream.mux.com/ysa00NWRtR4ixuUh1vzVMfiZDMh7rlhpvQhq62UBm2RQ.m3u8",
+  "contentUrl": "https://stream.mux.com/dQMm32JDeXSjX02kYzCFKguIOfoRVmzUuVaWrtjFsuRo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:39Z",
 }

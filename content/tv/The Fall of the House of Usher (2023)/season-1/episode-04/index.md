@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E4 - Episode 04",
-  "contentUrl": "https://stream.mux.com/002hQJpcFdxZJkNan4tnGCRKQh00lKjTWnYFykCCOYR8w.m3u8",
+  "contentUrl": "https://stream.mux.com/GI8EHvDn37OVV01yCnlNBpll2vObuy4HzX1lGlhS9dmc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:37Z",
 }

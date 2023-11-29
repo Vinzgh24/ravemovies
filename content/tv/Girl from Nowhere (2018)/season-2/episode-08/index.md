@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S2E8 - The Judgement",
-  "contentUrl": "https://stream.mux.com/sUUj6RU5KcRnCNTQUTIuo2ww7k802qpqhFWYX3ytzv6w.m3u8",
+  "contentUrl": "https://stream.mux.com/8DgMEncZ3vdE027HSAJBS01amCsDIPJ5wYSB29qCgEHjM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:08:16Z",
 }

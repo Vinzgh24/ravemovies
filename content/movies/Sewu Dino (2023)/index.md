@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Sewu Dino (2023)",
-"contentUrl": "https://stream.mux.com/Z7Y3d9LaxDbXEe6ADplIXiStkphkUThgHolfmRo28S00.m3u8",
+"contentUrl": "https://stream.mux.com/8hFC8dfmFwihbzSOK37GuWCUCrl00dl7XaC4AFLWOGzI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/8m8V2bmsc7cBPPaM3uBdIA72ook.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-26T04:56:14Z",
 }

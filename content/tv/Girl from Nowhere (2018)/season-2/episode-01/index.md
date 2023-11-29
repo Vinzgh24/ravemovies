@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S2E1 - Pregnant",
-  "contentUrl": "https://stream.mux.com/hoxVcMCtaRmKLuvLqYVv8UGkYRdWnNMkxNyGNVn01Za00.m3u8",
+  "contentUrl": "https://stream.mux.com/UllqSKUDA01kszOyodKghb502xyXyfNTi61Iyngdm5MH8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:54Z",
 }

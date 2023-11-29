@@ -17,7 +17,7 @@ series: ["Gadis Kretek"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gadis Kretek - S1E4 - DR",
-  "contentUrl": "https://stream.mux.com/J4KvxJyP6YC01KBudD4QfvLDXQWWcRCwNLvn38zYNm8E.m3u8",
+  "contentUrl": "https://stream.mux.com/USV8Yi42PW6FZWpp5DWlotUZqCzo9p01rPf008NAubYDw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T12:16:42Z",
 }

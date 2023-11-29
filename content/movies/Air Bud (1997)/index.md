@@ -4,8 +4,7 @@ date: 2023-11-27T03:19:10Z
 tags: ["Movie"]
 categories: ["Comedy", "Drama", "Family"]
 series: ["Air Bud"]
-summary: |
-  "Seorang pemain tak terduga bergabung dengan tim bola basket sekolah - seekor anjing sirkus yang melarikan diri dari tuan yang kejam."
+summary: "Seorang pemain tak terduga bergabung dengan tim bola basket sekolah - seekor anjing sirkus yang melarikan diri dari tuan yang kejam."
 ---
 
 <mux-player stream-type="on-demand"

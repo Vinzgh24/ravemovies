@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E3 - Episode 03",
-  "contentUrl": "https://stream.mux.com/n3ohhIB00dKSswqOa6qaoeSBtwD02MqMsU02bl76vaNInM.m3u8",
+  "contentUrl": "https://stream.mux.com/uvPMx2SpJr9nHphjHGeO5T8ZK3bvKI75wubcYpeeXQ4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:34Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E8 - Episode 08",
-  "contentUrl": "https://stream.mux.com/SkI2UDCStW2WXi1o00UB6UHjVmAHRaFdpTW01WIy02w00rc.m3u8",
+  "contentUrl": "https://stream.mux.com/asbAdmYm5gI02qRUyJIVxQRPtu5ZF5t0200zB6X9bNrN48.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:47Z",
 }

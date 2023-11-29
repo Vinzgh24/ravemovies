@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E7 - Episode 07",
-  "contentUrl": "https://stream.mux.com/D6Cq01YFBjLCfbxgSsARJAX0101vQ1rAQJgU6ecXB5ALXA.m3u8",
+  "contentUrl": "https://stream.mux.com/7NuyHs0024yzTnVEnGxqLdHw966fS028hMSDlLT4iPzYc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:44Z",
 }

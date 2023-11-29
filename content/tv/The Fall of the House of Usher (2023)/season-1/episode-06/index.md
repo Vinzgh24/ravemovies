@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Fall of the House of Usher - S1E6 - Episode 06",
-  "contentUrl": "https://stream.mux.com/00x4BwftHk91XWRsz7hLtzqvjApzgE9pjTg1DHesxSIU.m3u8",
+  "contentUrl": "https://stream.mux.com/lEGtWH8RaMeFlOEVIUYZIb5HbqPy6a4AA8havowq36c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3VopZH8XBS8OM2kDAUuVvYly52N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T03:47:42Z",
 }

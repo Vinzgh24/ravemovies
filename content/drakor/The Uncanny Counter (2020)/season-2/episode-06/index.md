@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E6 - Episode 06",
-  "contentUrl": "https://stream.mux.com/kNa3WXMCRKkoE02LdxJAFO200oncr02WVXYTxEhk5jO64w.m3u8",
+  "contentUrl": "https://stream.mux.com/vOej02l949MtkYFuR4dt5uCVWpYH009d79EkVE9uzWV6c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:00Z",
 }

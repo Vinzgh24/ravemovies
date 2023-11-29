@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E10 - Episode 10",
-  "contentUrl": "https://stream.mux.com/Q1BUDfTf1HphLtOpAL7VD00yLEM02RyMgmz01XgtdGynyM.m3u8",
+  "contentUrl": "https://stream.mux.com/G1xWYfjXq2vq35C5EDCzL0102kRjSLhQTSgZa6MGLy7L4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:12Z",
 }

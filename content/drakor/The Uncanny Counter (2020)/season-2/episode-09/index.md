@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E9 - Episode 09",
-  "contentUrl": "https://stream.mux.com/mpaCGQ81X02oLAikScCKIB00UaBFKFuLSVoF5yhDuxo8o.m3u8",
+  "contentUrl": "https://stream.mux.com/dx9zyEHHgCOJMgNxeaTQM00JnzuHCQYzP00JzFVNyUS028.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:09Z",
 }

@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E5 - Episode 05",
-  "contentUrl": "https://stream.mux.com/tgdY28T200KhNNoARsGu00OPgzk00lK00JMn4tY9jXqjwJo.m3u8",
+  "contentUrl": "https://stream.mux.com/z8TgfNIreq2vbdYDUGDX8zvIWlWiDNt5Wxpt1QzsD3k.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:44:58Z",
 }

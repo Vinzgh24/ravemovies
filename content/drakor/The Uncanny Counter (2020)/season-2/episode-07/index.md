@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E7 - Episode 07",
-  "contentUrl": "https://stream.mux.com/t7Z029OSWn69NSSQUMT01JT01sluGxSiUdouPl502fFdYD8.m3u8",
+  "contentUrl": "https://stream.mux.com/KVCVFpSILaB02mv01wj01018FD2sWghfgje8VvxVN32xLsc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:03Z",
 }

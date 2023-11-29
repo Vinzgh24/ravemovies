@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E11 - Episode 11",
-  "contentUrl": "https://stream.mux.com/3pe5EpCjCOX2rM8O4uHrHaq00BxOkyIbgvaHaNQZ6DKU.m3u8",
+  "contentUrl": "https://stream.mux.com/DMnkLLLtrDT4MvYrtSPa4ceFAPbiUJymX23x8c75tHM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:15Z",
 }

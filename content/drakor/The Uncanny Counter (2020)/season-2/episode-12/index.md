@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E12 - Episode 12",
-  "contentUrl": "https://stream.mux.com/YDZkpHunJDhSNgaVIyR6yiJTGwFcJzUj00Rwe6GpeCZo.m3u8",
+  "contentUrl": "https://stream.mux.com/3QPzrSJpYDGVzSBrpcVqY0202EJC00WQZ336o66hdQy54U.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:20Z",
 }

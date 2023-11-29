@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Teen Beach 2 (2015)",
-"contentUrl": "https://stream.mux.com/2INhMPDvziNQY4zbH6lV7dd3Cp02GihSmqkf55ptf00oo.m3u8",
+"contentUrl": "https://stream.mux.com/xNrKxJk84Ou5uE7mLUNLZ33vFsVGXEO2GupznC8RMJc.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/pcffTkIbUfdd6sp1OtzFCwZ8paJ.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T16:08:26Z",
 }

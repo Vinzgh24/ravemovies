@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Teen Beach Movie",
-"contentUrl": "https://stream.mux.com/wv00mUKnQxsO95nVpgDQV6povlSRXisAKsUefumn00wq8.m3u8",
+"contentUrl": "https://stream.mux.com/D4ZyNi502YA02Dexe4wo44J01NUHTc3joetmORm5bFYKhc.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/42y6Y8uZexumXTtt3f9QUp0fDES.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T15:59:45Z",
 }

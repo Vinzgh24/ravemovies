@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Uncanny Counter - S2E8 - Episode 08",
-  "contentUrl": "https://stream.mux.com/ABC23ExGuBmhbrQMhHQvZYmeD64yXbn01r5z00y3MsAkM.m3u8",
+  "contentUrl": "https://stream.mux.com/SvMMaAvpErBsWMwzoN3SP6VB5j02bznFTvUc00opATrCA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/at4FfAlH8TvFbuvimRu9zcvHQCh.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-03T16:45:06Z",
 }

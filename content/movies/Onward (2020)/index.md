@@ -22,7 +22,7 @@ summary: "Di dunia magis yang penuh dengan kemajuan teknologi, saudara elf Ian d
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Onward",
-  "contentUrl": "https://stream.mux.com/CM3Q68upi013wHLdCWeO1QJ3ke8Le9KAbx003bqhBYulA.m3u8",
+  "contentUrl": "https://stream.mux.com/uUsiFxl15R009FI3ciJFyNN8CUFK7PXpBGr7UUSoSmk4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yuHZnf4gOVLfEsaHe1cXCxAeGdi.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:29:41Z",
 }

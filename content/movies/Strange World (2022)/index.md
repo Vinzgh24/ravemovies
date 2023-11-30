@@ -22,7 +22,7 @@ summary: "Clades yang legendaris adalah keluarga penjelajah yang perbedaannya me
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Strange World",
-  "contentUrl": "https://stream.mux.com/i02gtryuX1jFgWVriyjjhliJrr1qrgvp00ach700MNMxkI.m3u8",
+  "contentUrl": "https://stream.mux.com/l1wRYBNX01QN1gvC1PAUbA00JFDmLlm7vuWzW2Z5kRzg8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/feyUdsRPjIRcc893fQs66DOD4le.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:33:29Z",
 }

@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Suzume no Tojimari (2022)",
-"contentUrl": "https://stream.mux.com/UYUUEU100921SkhyZ1zZfeZy54OXtVLV6W01jgub00REbQ.m3u8",
+"contentUrl": "https://stream.mux.com/YVBCmLYKurCXW6YhTCYMf8kRu9HjiOuWpqpznHlLElY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/lrACtADbyOCEK2K3gU7ZL5LYXR6.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-23T10:45:41Z",
 }

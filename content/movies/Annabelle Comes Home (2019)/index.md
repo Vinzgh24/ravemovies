@@ -23,7 +23,7 @@ summary: "Saat mengasuh putri Ed dan Lorraine Warren, seorang remaja dan temanny
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Annabelle Comes Home (2019)",
-  "contentUrl": "https://stream.mux.com/Rsta2I43FrOeJkLGN8q1IMjeKnlyF00KjwMchRYG98Qc.m3u8",
+  "contentUrl": "https://stream.mux.com/Dut7LvtcMQA00R1zjPH1xCOgt600zLzVT6x29cof025T5w.m3u8",
   "contentUrl": "https://stream.mux.com/dob00FJ8DWT7JaXOMwB5WebCvLS001gqQLzPqUQYEuIqs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/iaJakHS2qPkbRY4KHB7E3NmVb7w.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:40:37Z",

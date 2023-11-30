@@ -22,7 +22,7 @@ summary: "Kebahagiaan Lita dan suaminya Rama tidak bertahan lama karena Lita ser
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Ikut Aku ke Neraka",
-  "contentUrl": "https://stream.mux.com/FW3K6c61wUaBAROQ01lM6ecqhfuJwmECcWgPRS00UJWAI.m3u8",
+  "contentUrl": "https://stream.mux.com/DeCA6vCUkA00d9ItfrcbHjQR6AkyUOYri00MkpsGiWqN4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/iaJakHS2qPkbRY4KHB7E3NmVb7w.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:43:19Z",
 }

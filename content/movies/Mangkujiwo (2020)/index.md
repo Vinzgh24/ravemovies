@@ -22,7 +22,7 @@ summary: "Lahirnya Kuntilanak dari Cermin Kembar dengan kesengsaraannya."
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Mangkujiwo (2020)",
-  "contentUrl": "https://stream.mux.com/rvZ9YQUWzMOE1kKhih0000Jmk8W9DegYKDMnNglyD9hqU.m3u8",
+  "contentUrl": "https://stream.mux.com/Zj1us2dkrfPAL43RUVtQHzKhktNmnk5iIUykvZ6vZRA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ogPOd7ilrdaBntqDXC3mqliXapu.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-19T05:37:39Z",
 }

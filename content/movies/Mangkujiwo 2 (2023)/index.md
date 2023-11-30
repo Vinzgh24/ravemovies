@@ -22,7 +22,7 @@ summary: "Misteri kematian misterius Tjokro Kusumo. Tjokro Kusumo dan Brotoseno 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Mangkujiwo 2 (2023)",
-  "contentUrl": "https://stream.mux.com/knkyVtsY1Q3AZwrfuBSUYYUMgJ4Sx4Kt9oxyc3WljBY.m3u8",
+  "contentUrl": "https://stream.mux.com/QMp5xRj2pf2gDfz5FEZaspK01camKvR01WbLLQrEYgEXI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rxd0DKLBcVTlIt7MTv6RgB19474.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-19T05:44:56Z",
 }

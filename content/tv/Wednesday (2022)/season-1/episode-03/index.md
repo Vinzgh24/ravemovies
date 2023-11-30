@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E3 - Friend or Woe",
-  "contentUrl": "https://stream.mux.com/pWYJystXgUDmqOa15800oNDKRt5wM7Kl6Usk7WF2pXJw.m3u8",
+  "contentUrl": "https://stream.mux.com/qKf8PZmj900fVRzLtrPM3tsFuz502e53q00lmGtgautt2w.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:49Z",
 }

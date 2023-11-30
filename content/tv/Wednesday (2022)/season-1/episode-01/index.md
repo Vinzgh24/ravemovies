@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E1 - Wednesday's Child Is Full of Woe",
-  "contentUrl": "https://stream.mux.com/IiU6ZsO3eYKDjexuqzRKDPbDM7Ebh8yLzKnfwA2q5e4.m3u8",
+  "contentUrl": "https://stream.mux.com/2lbJG9JwEFrjtsZu1YwKtJ5vNTldYnigmF8ywOhMmx8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:42Z",
 }

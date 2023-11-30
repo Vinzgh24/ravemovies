@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E8 - Was man sät, das wird man ernten",
-  "contentUrl": "https://stream.mux.com/vnKKKxDocOCLiLxRPst0100Nhz6sKRUZ74p5FzIfqr02iQ.m3u8",
+  "contentUrl": "https://stream.mux.com/25kbgr3WqGex9zhZSqWECe8I013HLqpfCpS6p1iLd9mc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:15Z",
 }

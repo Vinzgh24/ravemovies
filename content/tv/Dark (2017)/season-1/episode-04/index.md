@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E4 - Doppelleben",
-  "contentUrl": "https://stream.mux.com/hA8Fhpztj8JOjH6004VF4U9Z4iDRZEdBzsOJQ02SmG4p8.m3u8",
+  "contentUrl": "https://stream.mux.com/WRMim16V7YBY7aV7DFKpG7Mrhgy3bpYVJVZR2fNkfvk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:03Z",
 }

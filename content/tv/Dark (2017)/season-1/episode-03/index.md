@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E3 - Gestern und heute",
-  "contentUrl": "https://stream.mux.com/jeLQwA2GzctDQ1A2RylJ2kWcC9vXn00jLQ00n4ay5P1pI.m3u8",
+  "contentUrl": "https://stream.mux.com/j4parfN2z7Flscc7MkugDGwvJFh83xMX6X4QX6hidV00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:01Z",
 }

@@ -17,7 +17,7 @@ series: ["Loki Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Loki - S2E2 - Breaking Brad",
-  "contentUrl": "https://stream.mux.com/Zw005f4eOercJPhP2OazkblAxoswTEnzW00hxGjlUTELE.m3u8",
+  "contentUrl": "https://stream.mux.com/ri9CWtGl4JK3cNk2Gtnrk01drbOE017d18dot3rdUjIOo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T15:36:01Z",
 }

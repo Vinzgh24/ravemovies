@@ -17,7 +17,7 @@ series: ["Loki Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Loki - S2E4 - Heart of the TVA",
-  "contentUrl": "https://stream.mux.com/Tl8XIrzqqTtdr022CdBcTAxSE3INnKqvmVnWl002Ss9vE.m3u8",
+  "contentUrl": "https://stream.mux.com/DSTPKiN1bgAZ28UoA96J6mx9gWUHF1X9KRmtuhEccNg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nCaL5Yd7VXn0yI3HmjtG0DL9NKo.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T15:36:16Z",
 }

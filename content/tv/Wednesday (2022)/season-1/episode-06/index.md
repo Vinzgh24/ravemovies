@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E6 - Quid Pro Woe",
-  "contentUrl": "https://stream.mux.com/NvoieP1eql01vDZfiAsNdpHGwZRcerIifdG762bSaj02A.m3u8",
+  "contentUrl": "https://stream.mux.com/VxFXqjEb7D7s00YCVJU02MZbQcmB2rrXK6S00Q4dEnfcHQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:57Z",
 }

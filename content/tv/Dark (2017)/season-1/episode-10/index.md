@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E10 - Alpha und Omega",
-  "contentUrl": "https://stream.mux.com/lu5PwqOPvUHXcWceArjKNwAVlh7n2fPCmTdvplZB2KI.m3u8",
+  "contentUrl": "https://stream.mux.com/Gjs4ngUzNQIx46nyaJt901QnACIZctovuTeVvWgw02doQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:30Z",
 }

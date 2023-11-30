@@ -17,7 +17,7 @@ series: ["Loki Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Loki - S2E1 - Ouroboros",
-  "contentUrl": "https://stream.mux.com/zyM6lOV023uLu7Mo5sko02GlfRFnPbJ1fe02Snw3duURcY.m3u8",
+  "contentUrl": "https://stream.mux.com/mp027dR5NvD7WreGep21GDDtXvRlsXdjdpdlqT01g00bmM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T15:35:55Z",
 }

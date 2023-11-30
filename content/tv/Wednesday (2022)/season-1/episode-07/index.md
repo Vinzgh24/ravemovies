@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E7 - If You Don't Woe Me by Now",
-  "contentUrl": "https://stream.mux.com/8SUdtGgUzpl3NawdBYRXtunnp6yuJ2kM94ttZ7YbsuM.m3u8",
+  "contentUrl": "https://stream.mux.com/02I02zyp9027hRWck4nwbIVAsUnfMCeJEe2x4aNgvqyQ01c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:12:00Z",
 }

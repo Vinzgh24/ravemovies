@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E2 - Lügen",
-  "contentUrl": "https://stream.mux.com/tfbbhwKH7iRSKxBkSFKHNNfMQ009zChnJ5ZKbur9nAyE.m3u8",
+  "contentUrl": "https://stream.mux.com/NGQK26am6aHOA8DxbXbIPnJMg200YJq9efYYSimMAj74.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:55:57Z",
 }

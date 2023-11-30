@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E7 - Kreuzwege",
-  "contentUrl": "https://stream.mux.com/kaCwLQrmcQnHVtAkD5NiXnY024PGBZVfgxeW2fUvMi100.m3u8",
+  "contentUrl": "https://stream.mux.com/2Cx4p3JKLy25Xd5g7BFtKRL00YK33ig7pFYw9eToBNX00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:12Z",
 }

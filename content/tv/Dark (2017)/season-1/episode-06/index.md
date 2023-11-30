@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E6 - Sic Mundus Creatus Est",
-  "contentUrl": "https://stream.mux.com/TrfjS00kNAvJgGgdmlhhmRGjFbi00l55kD1J9oSvhx1ho.m3u8",
+  "contentUrl": "https://stream.mux.com/9XuRg21z4G3kLHMZGpikH01GkIGkeiHqJAN5kgFDx13A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:09Z",
 }

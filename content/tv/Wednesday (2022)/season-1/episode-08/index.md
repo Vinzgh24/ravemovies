@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E8 - A Murder of Woes",
-  "contentUrl": "https://stream.mux.com/Wx7bOHQvNJDVTsqiHyd01wHDu4bePByTx02p8UZGiXxLU.m3u8",
+  "contentUrl": "https://stream.mux.com/jbZgHy02kz9UsdDAhnsfzIvvEBSefyKYyditDoRRhU4o.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:12:03Z",
 }

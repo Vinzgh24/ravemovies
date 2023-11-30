@@ -17,7 +17,7 @@ series: ["Loki Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Loki - S2E3 - 1893",
-  "contentUrl": "https://stream.mux.com/216JdowlZukYZmYhv4mixKOOR4Mqy6EtbWyYDFPraYk.m3u8",
+  "contentUrl": "https://stream.mux.com/wKUq7yLqiFjjum4C7NcW01c901O00Mu402RrGjdG3xXx948.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nCaL5Yd7VXn0yI3HmjtG0DL9NKo.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T15:36:05Z",
 }

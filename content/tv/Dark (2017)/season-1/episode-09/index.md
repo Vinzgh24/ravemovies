@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E9 - Alles ist jetzt",
-  "contentUrl": "https://stream.mux.com/3DuHyTaP23SW602JULIu02B3sF000201wNNko8XMeRBF26yA.m3u8",
+  "contentUrl": "https://stream.mux.com/qFRlMEdyTrgHiI3vXUsZ2IgdmAa3eAUxzcaeZp02KQb8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:56:20Z",
 }

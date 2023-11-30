@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E4 - Woe What a Night",
-  "contentUrl": "https://stream.mux.com/2o01SHdALSJkopTKzf2WLjZ7K8css3iWZKiy1LLdQzv00.m3u8",
+  "contentUrl": "https://stream.mux.com/wEba52HXpLwVkc2Q7tTz5DnwRdPWQtZdXTGZa9FGWsM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:52Z",
 }

@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E2 - Woe Is the Loneliest Number",
-  "contentUrl": "https://stream.mux.com/qPs9iOHrBoHSoxjcd1rGk01Y01Yiu1DDIzum0101wTTQjPk.m3u8",
+  "contentUrl": "https://stream.mux.com/tWymJVqCo98cmWT8CiMyLwjn523sxjkuumD029NyKiTI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:47Z",
 }

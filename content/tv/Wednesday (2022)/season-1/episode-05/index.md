@@ -17,7 +17,7 @@ series: ["Wednesday Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wednesday - S1E5 - You Reap What You Woe",
-  "contentUrl": "https://stream.mux.com/5FFBFFaYMD101d4BPRKXkk0100GdVdPjETO9ojKOtyrH600.m3u8",
+  "contentUrl": "https://stream.mux.com/1Kz7TfoopPJ7sGtIgMt5tDBlXlZvwScapfqooEKnpTY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ah1bTTgIi5iqaEe9S3czK0vM0PT.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:11:54Z",
 }

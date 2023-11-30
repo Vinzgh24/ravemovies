@@ -18,7 +18,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dark - S1E1 - Geheimnisse",
-  "contentUrl": "https://stream.mux.com/vG003VpQrYzi00YCgCXw00YFzJtnZpiIP01ttIC9lB63kKM.m3u8",
+  "contentUrl": "https://stream.mux.com/WtwidLtpfivkGj3OaQgld00irAGRjkpmZWvzED4SWZ4A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-29T06:55:53Z",
 }

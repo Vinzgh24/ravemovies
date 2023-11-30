@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Inhuman Kiss",
-"contentUrl": "https://stream.mux.com/bKZ2cKe2QFCuxvZOtrFk3DoSLXzxHGyoIpkKcLM01GMg.m3u8",
+"contentUrl": "https://stream.mux.com/RzPjhpAiJN8UJ1Fu6v4z00oENPcw4SzJK3GsBQezkUMY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eA9M56zTaXMD2HPNaJcFptj5FA5.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-31T11:06:16Z",
 }

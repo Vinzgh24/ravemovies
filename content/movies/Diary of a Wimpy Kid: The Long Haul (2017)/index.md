@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Diary of a Wimpy Kid: The Long Haul",
-"contentUrl": "https://stream.mux.com/jVVNuhInhd8izb5yMeKvCduclLRmbFKXB9Cg02jzVGu4.m3u8",
+"contentUrl": "https://stream.mux.com/aUvZF8V9MElVymsG02HInrlRcJb0188BpPxQ008N00F3DZw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jF6miHolhOcCcfhH56IUavAVExR.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T15:44:44Z",
 }

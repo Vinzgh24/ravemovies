@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Shingeki no Kyojin - The Final Season Part 3 - E1 - The Final Chapters: Special 1",
-  "contentUrl": "https://stream.mux.com/qFwVmuL01rxx88Ap00JxHRSNR9GkHCQK1Px1qL5jbuGu00.m3u8",
+  "contentUrl": "https://stream.mux.com/4QBow4LV1dVYffAldv0035eWUu3SNBrneVg9bQ1O173o.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-05T08:28:13Z",
 }

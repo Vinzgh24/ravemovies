@@ -20,7 +20,7 @@ Greg Heffley adalah anak berusia 12 tahun yang baru saja lulus dari sekolah dasa
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Diary of a Wimpy Kid",
-  "contentUrl": "https://stream.mux.com/K5qTxw01Gzp4Zusuutff3Jl02Akj601t024Xl1Ysa9dsoY8.m3u8",
+  "contentUrl": "https://stream.mux.com/W28w2ehEwzo2wsOt6TQpPegGvmh35qvPSpxlbcbx9GE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/8x8Lc6YkjlMc79RPZFYKYIkuqe4.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-26T17:17:12Z",
 }

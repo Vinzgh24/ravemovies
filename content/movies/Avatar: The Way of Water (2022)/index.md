@@ -20,7 +20,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Avatar: The Way of Water (2022)",
-  "contentUrl": "https://stream.mux.com/KCoLv7TPN8My9xrHg93zwY3zeB02DRdp1amVzmf016fxg.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/ZJlSPClBFzwVYW3w2Ogm1RQaj9xPDN00j7gRs02tuxSok.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rdtZokC7lYFUuGjn1zGaY4WrVXU.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2021-06-09T23:23:00Z",
 }

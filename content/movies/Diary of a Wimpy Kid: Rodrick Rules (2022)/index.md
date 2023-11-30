@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Diary of a Wimpy Kid: Rodrick Rules",
-"contentUrl": "https://stream.mux.com/qrnOUIVZ00B00toztfaSRfHcK02Rtn537Pw7jh1blL1dAc.m3u8",
+"contentUrl": "https://stream.mux.com/6fvPFUTSnIFPd23X4F023vgdD8Fdph02lVvJEB2zBDi6g.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eZJwFeoopPvmhZYAqchs7CGEqpr.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T15:48:13Z",
 }

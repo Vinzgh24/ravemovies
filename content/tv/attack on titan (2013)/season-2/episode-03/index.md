@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E3 - Southwestward",
-  "contentUrl": "https://stream.mux.com/6B6t027aslbQjyYuEpHO00tLietJh5LW9EZsxmOaOwY94.m3u8",
+  "contentUrl": "https://stream.mux.com/aW6Q8Wx6MfymDuKBHQkaVzgwPp1aRhOoIDZdHMohivg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:18Z",
 }

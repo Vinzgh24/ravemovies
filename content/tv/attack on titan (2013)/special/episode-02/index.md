@@ -18,7 +18,7 @@ showRecent: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Shingeki no Kyojin - The Final Season Part 3 - E2 - The Final Chapters: Special 2",
-  "contentUrl": "https://stream.mux.com/i6wbIsjY01Fj9i51vffWFbPJKKyBLZBFw02lvzgYFjOKg.m3u8",
+  "contentUrl": "https://stream.mux.com/oH7zxYr02022L8YJ01inN01AD7FCduPevrKlwxW1t1GN5ec.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-05T08:28:19Z",
 }

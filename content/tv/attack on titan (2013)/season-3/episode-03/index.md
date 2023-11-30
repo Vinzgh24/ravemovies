@@ -17,7 +17,7 @@ series: ["Attack on Titan Season 3"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S3E3 - Old Story",
-  "contentUrl": "https://stream.mux.com/vHPy00f57COT74s5tJwnXQNix66OBNYwrD5b5wNcEub8.m3u8",
+  "contentUrl": "https://stream.mux.com/lRrG5imUdtssgSIBmySHlxxQZOyV3sLuYi01iqNgKxf8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:22:07Z",
 }

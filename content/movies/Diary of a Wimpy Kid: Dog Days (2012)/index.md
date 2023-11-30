@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Diary of a Wimpy Kid: Dog Days",
-"contentUrl": "https://stream.mux.com/jrXRi029gILphytREUROUkzM5X00c2BhWXZr2goJaWwkI.m3u8",
+"contentUrl": "https://stream.mux.com/4wWqTwjzIyqh00kM8502AvQ21iGk4pJ1QzOgcP94VmuRQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/huaaKNjYZPXJDqaTgIYsqNdXd2b.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T15:41:02Z",
 }

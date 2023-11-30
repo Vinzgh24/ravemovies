@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Five Nights at Freddy's (2023)",
-"contentUrl": "https://stream.mux.com/NMw02ftwVN01G5BbAC2U02juliM76Z02TsRHN8Vj9asml8I.m3u8",
+"contentUrl": "https://stream.mux.com/FaAirb6yonV7djW5JlM1q301lkStHGhrogx028veb01rec.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/dP6aTajnmITTfipJdb1I66WCMlS.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-30T11:23:04Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E2 - I'm Home",
-  "contentUrl": "https://stream.mux.com/ocfOQ8Z579A6n4EMTy01580202iCwm3q4nN5fKcVH4YHPk.m3u8",
+  "contentUrl": "https://stream.mux.com/arDRAdnanXunNLmRMu00VRnJcUCZEUPVSW0000Iaid1q3c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:11Z",
 }

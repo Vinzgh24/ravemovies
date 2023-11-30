@@ -17,7 +17,7 @@ series: ["Attack on Titan Season 3"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S3E4 - Trust",
-  "contentUrl": "https://stream.mux.com/eItjQzrmFaHBmwCE28ImqpV3mPFCKde3025uCih3M37M.m3u8",
+  "contentUrl": "https://stream.mux.com/YliVurpvFGpnYQSkIPFsCYg6fcfT6eLLxOqYfGc01YB00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:22:13Z",
 }

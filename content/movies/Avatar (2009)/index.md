@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Avatar (2009)",
-"contentUrl": "https://stream.mux.com/pX2G00dU5J9zCmsy8scD2xYo022nziKeixViy5tzjhYaM.m3u8",
+"contentUrl": "https://stream.mux.com/f02MzXQCMSXjOX00WLwecRUak01QZel1K4ZAMOc75cX3iE.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/r7kHLlRXuQ1ng8mp7V83gj4yrNq.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T20:17:02Z",
 }

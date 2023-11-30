@@ -17,7 +17,7 @@ series: ["Attack on Titan Season 3"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S3E1 - Smoke Signal",
-  "contentUrl": "https://stream.mux.com/d8IZ48n600sqow02bTTM6G1vP8utUW6TamDJUAU011F2BY.m3u8",
+  "contentUrl": "https://stream.mux.com/EZoTyhSHkYKCAOJ8SIGxlp020002We02Gj8IepYdU4KYnSA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:21:56Z",
 }

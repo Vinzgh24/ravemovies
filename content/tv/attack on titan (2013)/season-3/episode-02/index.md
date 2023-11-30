@@ -17,7 +17,7 @@ series: ["Attack on Titan Season 3"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S3E2 - Pain",
-  "contentUrl": "https://stream.mux.com/rqO3ZpJrM01JxWtjB8lAzF5npUFQ8f1K8LE7p02rmyhCM.m3u8",
+  "contentUrl": "https://stream.mux.com/UnSwXGaD7Hzpzj2V100VePhc012NDayIHE020054C017Rpiw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:22:00Z",
 }

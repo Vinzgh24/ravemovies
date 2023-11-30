@@ -17,7 +17,7 @@ series: ["Attack on Titan Season 3"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S3E5 - Reply",
-  "contentUrl": "https://stream.mux.com/2KMXMHFxP96um4TwQzflT3ww7qP00a9EoVlICdkZbLW4.m3u8",
+  "contentUrl": "https://stream.mux.com/tGFRIVL76rJzjvToLH1ijRmGhBOc7lQsovCiaYPDMN4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rstHtpbEIoHnmxvsbNH7UlEPeEP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-06T23:22:29Z",
 }

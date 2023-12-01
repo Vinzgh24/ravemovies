@@ -1,23 +1,30 @@
 ---
 title: "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
-date: 2023-09-02T14:06:19Z
+date: 2023-12-01T18:11:28Z
 tags: ["Movie"]
 categories: ["Animation", "Action", "Adventure"]
+series: ["Teenage Mutant Ninja Turtles"]
+summary: "Film ini mengikuti Turtle bersaudara saat mereka bekerja untuk mendapatkan cinta dari Kota New York sambil menghadapi pasukan mutan."
 ---
 
-Film ini mengikuti Turtle bersaudara saat mereka bekerja untuk mendapatkan cinta dari Kota New York sambil menghadapi pasukan mutan.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EZfnRmjAmExMhIdBnmEJvsABKsS2EbtRPuZ-xoZlgfNujw" prefer-playback="mse" controls>
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240" 
-poster="https://www.themoviedb.org/t/p/original/ujemBc9KPqvOlgvqyVFwa9Z6NgU.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Eahsal5XgCxMliVzRUW4n2EBT7fadUlgao2BfXFJcMMhRA" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</mux-player>
 
+
+{{< movieinfo id="614930" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)",
+"contentUrl": "https://stream.mux.com/efSmXBAR8YsFf02C8IU3rHdmJAwN401yjnQf1GbVyPnFY.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/v6bR6E0SckBL7cbBFTtXQpDJw5U.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-12-01T18:11:28Z",
+}
+
+</script>

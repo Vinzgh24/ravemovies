@@ -4,8 +4,7 @@ date: 2023-11-27T00:46:18Z
 tags: ["Movie"]
 categories: ["Comedy", "Family", "Music"]
 series: ["Camp Rock"]
-summary: |
-  "Mitchie kembali bersama teman-temannya di Camp Rock, siap menampilkan musik, menari, dan bersenang-senang. "Pacarnya" mungkin juga ada di sana. Sebuah kamp baru telah dibuka di seberang danau, menciptakan suasana persaingan atau perseteruan."
+summary: "Mitchie kembali bersama teman-temannya di Camp Rock, siap menampilkan musik, menari, dan bersenang-senang. Pacarnya mungkin juga ada di sana. Sebuah kamp baru telah dibuka di seberang danau, menciptakan suasana persaingan atau perseteruan."
 ---
 
 <mux-player stream-type="on-demand"

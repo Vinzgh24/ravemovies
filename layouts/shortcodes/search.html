@@ -4,18 +4,28 @@
     </ul>
 </div>
 
-<script src="/assets/lib/fuse/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js" integrity="sha512-FwWaT/y9ajd/+J06KL9Fko1jELonJNHMUTR4nGP9MSIq4ZdU2w9/OiLxn16p/zEOZkryHi3wKYsnWPuADD328Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    let data = {{- .Site.Data.mydata | jsonify -}};
+    console.log("Fuse.js library loaded:", typeof Fuse); // Check if Fuse.js is defined
+
+    let data = {{ .Site.Data.mydata | jsonify }};
+    console.log("Data:", data); // Verify the structure and content of the data
+
     let options = {
       keys: [
         'title',
         'content'
       ]
     };
+    console.log("Fuse.js options:", options); // Verify the options
+
     let fuse = new Fuse(data, options);
+    console.log("Fuse instance:", fuse); // Verify the Fuse instance
+
     function performSearch(query) {
+        console.log("Search query:", query); // Log the search query
         let results = fuse.search(query);
+        console.log("Search results:", results); // Log the search results
         let searchResults = document.getElementById('searchResults');
         searchResults.innerHTML = '';
         results.forEach(item => {
@@ -24,4 +34,5 @@
             searchResults.appendChild(li);
         });
     }
+    
 </script>

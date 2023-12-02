@@ -3,7 +3,6 @@ title: "The Marsh King's Daughter (2023)"
 date: 2023-11-22T17:52:20Z
 tags: ["Movie"]
 categories: ["Crime", "Drama", "Mystery"]
-list: ["Trending"]
 summary: "Seorang wanita berusaha membalas dendam terhadap pria yang menculik ibunya."
 ---
 

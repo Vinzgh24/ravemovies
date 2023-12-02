@@ -1,6 +1,6 @@
 ---
-title: "Sweet Home"
-date: 2023-08-30T23:24:45Z
+title: "Season 02"
+date: 2023-12-02T01:27:31Z
 description: "Hyun, seorang siswa sekolah menengah penyendiri yang kehilangan seluruh keluarganya dalam kecelakaan yang mengerikan, terpaksa meninggalkan rumahnya dan harus menghadapi kenyataan baru di mana monster berusaha memusnahkan seluruh umat manusia. Sekarang dia harus melawan segala..."
 
 cascade:
@@ -50,7 +50,8 @@ Hyun, seorang siswa sekolah menengah penyendiri yang kehilangan seluruh keluarga
         <div class="movie-title">Sweet Home</div>
         <div class="movie-details">
             <p><strong>Genre:</strong> Drama, Fantasy, Horror</p>
-            <p><strong>Release Date:</strong> 2013</p>
+            <p><strong>Release Date:</strong> 2020</p>
+            <p><strong>Season:</strong> 2</p>
             <p><strong>Status:</strong> Completed</p>
         </div>
         <div class="movie-rating">7.3</div>

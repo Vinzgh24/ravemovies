@@ -704,7 +704,6 @@ title: "list"
 - [Suzume (2022)]({{< ref "movies/Suzume (2022)" >}})
 - [Shrek (2001)]({{< ref "movies/shrek-2001" >}})
 - [Shrek 2 (2004)]({{< ref "movies/shrek-2-2004" >}})
-- [Sweet Home]({{< ref "drakor/sweet-home" >}})
  
 ## T
 - [TRON: Legacy (2010)]({{< ref "movies/TRON: Legacy (2010)" >}})

@@ -12,6 +12,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 
 </mux-player>
 
+{{< search >}}
 
 {{< movieinfo id="44244" >}}
 

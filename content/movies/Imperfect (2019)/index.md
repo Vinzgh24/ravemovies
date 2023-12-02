@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Imperfect: Karir, Cinta, & Timbangan",
-"contentUrl": "https://stream.mux.com/37K8nxl00HpIoEiDk902Y01q01VNdtWHlw6B02PpYJKZ41sE.m3u8",
+"contentUrl": "https://stream.mux.com/2ZNjlHAS8eXwHkf602ijPXRyJMelSpWpm2WGoLgJ2tNg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5hWbkL2rScOnHlcmpCpMoHBqbj9.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-10T18:31:15Z",
 }

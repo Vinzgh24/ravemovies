@@ -1,0 +1,27 @@
+<div>
+    <input type="text" id="searchInput" oninput="performSearch(this.value)" placeholder="Search...">
+    <ul id="searchResults">
+    </ul>
+</div>
+
+<script src="/assets/lib/fuse/fuse.min.js"></script>
+<script>
+    let data = {{- .Site.Data.mydata | jsonify -}};
+    let options = {
+      keys: [
+        'title',
+        'content'
+      ]
+    };
+    let fuse = new Fuse(data, options);
+    function performSearch(query) {
+        let results = fuse.search(query);
+        let searchResults = document.getElementById('searchResults');
+        searchResults.innerHTML = '';
+        results.forEach(item => {
+            let li = document.createElement('li');
+            li.innerText = item.title;
+            searchResults.appendChild(li);
+        });
+    }
+</script>

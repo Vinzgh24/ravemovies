@@ -60,32 +60,26 @@
   </header>
   
  {{ if .Params.is_18_plus }}
- <div id="modall" class="modall">
+<div class="modall" id="modall">
     <div class="modal-content">
-      <span class="close-x">&times;</span>
-      <h2>Warning!</h2>
-      <p>This website contains content suitable for individuals above 18 years of age.</p>
+        <span class="close-x">&times;</span>
+        <h2>Warning!</h2>
+        <p>This website contains content suitable for individuals above 18 years of age.</p>
     </div>
-  </div>
+</div>
 {{ end }}
 
 <script>
-    var modal = document.getElementById('modall');
-    var closeBtn = document.getElementsByClassName('close-x')[0];
+ var modal = document.getElementById('modall');
+var closeBtn = document.getElementsByClassName('close-x')[0];
 
-    window.onload = function() {
-      modal.style.display = "flex";
-    }
+window.onload = function() {
+    modal.style.display = "flex";
+}
 
-    closeBtn.onclick = function() {
-      modal.style.display = "none";
-    }
-
-    window.onclick = function(event) {
-      if (event.target == modal) {
-        modal.style.display = "none";
-      }
-    }
+closeBtn.onclick = function() {
+    modal.style.display = "none";
+}
   </script>
 
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">

@@ -3,6 +3,7 @@ title: "Ganti-Ganti (2023)"
 date: 2023-12-02T12:09:43Z
 tags: ["Movie"]
 categories: ["Drama"]
+is_18_plus: true
 summary: "Empat kehidupan menjadi saling terkait karena satu tujuan – untuk membalas dendam. Segalanya menjadi lebih berdarah dan kacau ketika mereka semua menyadari siapa dalang sebenarnya."
 ---
 

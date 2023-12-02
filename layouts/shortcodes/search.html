@@ -1,38 +1,57 @@
-<div>
-    <input type="text" id="searchInput" oninput="performSearch(this.value)" placeholder="Search...">
-    <ul id="searchResults">
-    </ul>
-</div>
+{{ $cdn := "https://cdnjs.cloudflare.com/ajax/libs/lunar-javascript/1.6.7" }}
+{{ $js := $cdn | printf "/lunar.min.js" }}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="{{ $js }}" integrity="sha512-/pbV2bQIFeZytnq5U363HlJRoyYrhYOQv1YMwaQs5ny7GcCRaaqwU7Hf1ni8nXx7V5Z5K+Xp1Yfv5LD19/zqrg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js" integrity="sha512-FwWaT/y9ajd/+J06KL9Fko1jELonJNHMUTR4nGP9MSIq4ZdU2w9/OiLxn16p/zEOZkryHi3wKYsnWPuADD328Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    console.log("Fuse.js library loaded:", typeof Fuse); // Check if Fuse.js is defined
+document.addEventListener("DOMContentLoaded", function() {
+  var searchInput = document.createElement("input");
+  searchInput.setAttribute("id", "search-input");
+  searchInput.setAttribute("type", "search");
+  searchInput.setAttribute("placeholder", "Search...");
+  document.body.appendChild(searchInput);
 
-    let data = {{ .Site.Data.mydata | jsonify }};
-    console.log("Data:", data); // Verify the structure and content of the data
+  var searchButton = document.createElement("button");
+  searchButton.setAttribute("id", "search-button");
+  searchButton.setAttribute("type", "button");
+  
+  var buttonText = document.createTextNode("Search");
+  searchButton.appendChild(buttonText);
+  document.body.appendChild(searchButton);
 
-    let options = {
-      keys: [
-        'title',
-        'content'
-      ]
-    };
-    console.log("Fuse.js options:", options); // Verify the options
+  var resultsContainer = document.createElement("div");
+  resultsContainer.setAttribute("id", "search-results");
+  document.body.appendChild(resultsContainer);
 
-    let fuse = new Fuse(data, options);
-    console.log("Fuse instance:", fuse); // Verify the Fuse instance
+  var searchForm = document.createElement("form");
+  searchForm.style.display = "none";
+  document.body.appendChild(searchForm);
 
-    function performSearch(query) {
-        console.log("Search query:", query); // Log the search query
-        let results = fuse.search(query);
-        console.log("Search results:", results); // Log the search results
-        let searchResults = document.getElementById('searchResults');
-        searchResults.innerHTML = '';
-        results.forEach(item => {
-            let li = document.createElement('li');
-            li.innerText = item.title;
-            searchResults.appendChild(li);
+  var searchUrl = "{{ "/search.json" | relURL }}";
+
+  searchButton.addEventListener("click", function() {
+    var keywords = searchInput.value.trim();
+    if (keywords !== "") {
+      searchForm.innerHTML = "";
+      var hiddenInput = document.createElement("input");
+      hiddenInput.setAttribute("type", "hidden");
+      hiddenInput.setAttribute("name", "q");
+      hiddenInput.setAttribute("value", keywords);
+      searchForm.appendChild(hiddenInput);
+
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", searchUrl);
+      xhr.onload = function() {
+        var searchData = JSON.parse(xhr.responseText);
+        Lunar.handleSearch(searchData, {
+          inputElement: searchInput,
+          resultsElement: resultsContainer,
+          previewLength: 100,
+          summaryLength: 300
         });
+      };
+      xhr.send(new FormData(searchForm));
     }
-    
+  });
+});
 </script>

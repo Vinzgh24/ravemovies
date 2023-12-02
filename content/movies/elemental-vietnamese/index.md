@@ -8,7 +8,7 @@ categories: ["Animation", "Adventure", "Comedy"]
 Theo Ember và Wade, trong thành phố nơi cư dân của lửa, nước, đất và không khí sống cùng nhau.
 
 {{< alert >}}
-Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Elemental (2023)]({{< ref "Elemental" >}})
+Film ini menggunakan Subtitle Vietnam, untuk versi Indonesia silahkan pergi ke [Elemental (2023)]({{< ref "Elemental (2023)" >}})
 {{< /alert >}}
 
 <video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/2zmV7pgmmfAwh9SMS1c4DzCBsdc.jpg" controls>

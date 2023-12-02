@@ -220,7 +220,7 @@ title: "list"
 - [Evil Dead (2013)]({{< ref "movies/Evil Dead (2013)" >}})
 - [Evil Dead Rise (2023)]({{< ref "movies/Evil Dead Rise (2023)" >}})
 - [Expend4bles (2023)]({{< ref "movies/Expend4bles (2023)" >}})
-- [Elemental (2033)]({{< ref "movies/Elemental (2033)" >}})
+- [Elemental (2033)]({{< ref "movies/Elemental (2023)" >}})
 - [Elevator Game (2023)]({{< ref "movies/Elevator Game (2023)" >}})
 - [Elemental (2023) [Vietnamese Subtitle]]({{< ref "movies/elemental-vietnamese" >}})
 - [Eyang Putri (2021)]({{< ref "movies/Eyang Putri (2021)" >}})

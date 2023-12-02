@@ -1,5 +1,5 @@
 ---
-title: "Sweet Home"
+title: "Season 1"
 date: 2023-08-30T23:24:45Z
 description: "Hyun, seorang siswa sekolah menengah penyendiri yang kehilangan seluruh keluarganya dalam kecelakaan yang mengerikan, terpaksa meninggalkan rumahnya dan harus menghadapi kenyataan baru di mana monster berusaha memusnahkan seluruh umat manusia. Sekarang dia harus melawan segala..."
 

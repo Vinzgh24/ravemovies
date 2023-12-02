@@ -1,6 +1,6 @@
 ---
 title: "Resident Evil: The Final Chapter (2016)"
-date: 2023-11-11T07:10:46Z
+date: 2023-12-02T09:43:08Z
 tags: ["Movie"]
 categories: ["Action", "Horror", "Sci-Fi"]
 series: ["Resident Evil"]
@@ -8,7 +8,7 @@ summary: "Alice kembali ke tempat mimpi buruk dimulai: The Hive di Raccoon City,
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYPxIgUJprFKsoAoI-xjaM8BHIRDXX8EnSjAi1U_lrGajw" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ea2dNABTfHJCsXXMi-UxWSUBUKiUlIf-HcQQI-Y9uPlzGw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,9 +22,9 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Resident Evil: The Final Chapter (2016)",
-"contentUrl": "https://stream.mux.com/tm5E4XE7PU4abXHCyxL02wDZ3201FLxP6500qcW2gxt7Js.m3u8",
+"contentUrl": "https://stream.mux.com/VXPXjuKYBu9PgKObr00pS9gxFhJC453hHCNKRdi88Fyg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3IINcuXGhJLUxiAPausNxDeOYN1.jpg?width=314&fit_mode=preserve&time=25",
-"uploadDate": "2023-11-11T07:10:46Z",
+"uploadDate": "2023-12-02T09:43:08Z",
 }
 
 </script>

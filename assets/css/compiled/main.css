@@ -7618,7 +7618,6 @@ body:has(#menu-controller:checked) {
   fill: rgba(var(--color-neutral-500), 1);
 }
 
-
 .modall {
   display: none;
   top: 0;

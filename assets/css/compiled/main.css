@@ -7619,45 +7619,45 @@ body:has(#menu-controller:checked) {
 }
 
 
-/* Styles for cast */
-.cast h3 {
-  font-weight: bold;
-  margin-bottom: 10px;
-}
 
-.cast-slider {
+.modall {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Blurred background */
   display: flex;
-  overflow-x: scroll;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
+  align-items: center;
+  justify-content: center;
 }
 
-.cast-member {
-  flex: 0 0 auto;
-  margin-right: 10px;
-}
-
-.cast-member img {
-  width: 100px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 5px;
-}
-
-.cast-member p {
-  font-family: Arial, sans-serif;
-  font-size: 12px;
-  margin-top: 5px;
+.modal-content {
+  background-color: #1a1a1a; /* Dark theme background color with a bit of tint */
+  padding: 20px;
+  border: 2px solid #4d4d4d; /* Border with a bit of contrast */
+  max-width: 400px;
+  border-radius: 10px; /* Added border radius for a stylish look */
   text-align: center;
+  position: relative;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4); /* Increased shadow for a more stylish effect */
+  color: #fff; /* Text color */
 }
 
-/* Responsive styles */
-@media screen and (max-width: 600px) {
-  .movie-info {
-    padding: 10px;
-  }
-  
-  .cast-slider {
-    overflow-x: auto;
-  }
+.close-x {
+  color: #aaa;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-x:hover,
+.close-x:focus {
+  color: #fff; /* Hover color for close button */
+  text-decoration: none;
+  cursor: pointer;
 }

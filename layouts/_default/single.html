@@ -58,28 +58,25 @@
     {{ end }}
   
   </header>
-  
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ 
  {{ if .Params.is_18_plus }}
 <div class="modall" id="modall">
     <div class="modal-content">
         <span class="close-x">&times;</span>
         <h2>WARNING!</h2>
-        <p>Film ini mengandung konten dewasa yang mungkin tidak cocok untuk semua penonton.</p>
+        <p>This website contains content suitable for individuals above 18 years of age.</p>
     </div>
 </div>
 {{ end }}
 
 <script>
-var modal = document.getElementsByClassName('modall')[0];
-var closeBtn = document.getElementsByClassName('close-x')[0];
-
-window.onload = function() {
-    modal.style.display = "flex";
-}
-
-closeBtn.onclick = function() {
-    modal.style.display = "none";
-}
+$(document).ready(function(){
+    $('.modall').fadeIn();
+    $('.close-x').click(function(){
+        $('.modall').fadeOut();
+    });
+});
   </script>
 
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">

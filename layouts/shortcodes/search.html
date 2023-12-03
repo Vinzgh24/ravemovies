@@ -1,5 +1,6 @@
+
 {- $pages := slice -}}
-{{- range where .Site.RegularPages "Params.draft" "!=" "true" -}}
+{{- range where .Site.RegularPages "Type" "in" (slice "page" "post") -}}
     {{- $pages = $pages | append . -}}
 {{- end -}}
 

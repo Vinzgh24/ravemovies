@@ -7631,8 +7631,9 @@ body:has(#menu-controller:checked) {
 }
 
 .modal-content {
+  background-color: #181818;
   padding: 20px;
-  border: 4px solid #4d4d4d; /* Border with a bit of contrast */
+  border: 4px; /* Border with a bit of contrast */
   max-width: 400px;
   border-radius: 20px; /* Added border radius for a stylish look */
   text-align: center;

@@ -2,20 +2,39 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-<!-- Create a search input field and content list -->
-<input type="text" id="searchInput" placeholder="Search..." />
-<ul id="contentList">
-  {{ .Inner }}
-</ul>
+div id="search-container">
+  <input type="text" id="search-enter" placeholder="Search..." />
+  <ul id="search-hasil"></ul>
+</div>
 
-<!-- Initialize List.js and enable search functionality -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <script>
-  $(document).ready(function() {
-    var options = { valueNames: ['content-item'] };
-    var contentList = new List('contentList', options);
-    
-    $('#searchInput').on('input', function() {
-      contentList.search($(this).val());
-    });
+  const searchInput = document.getElementById('search-enter');
+  const searchResults = document.getElementById('search-hasil');
+  const data = [
+    /* Use Hugo code to provide data to search in */
+    {{ range .Site.RegularPages }}
+      { title: "{{ .Title }}", uri: "{{ .RelPermalink }}" },
+    {{ end }}
+  ];
+
+  const options = {
+    valueNames: ['title'],
+    item: '<li><a class="title"></a></li>',
+    fuzzySearch: {
+      searchClass: 'fuzzy-search',
+      location: 0,
+      distance: 100,
+      threshold: 0.4,
+      multiSearch: true,
+    },
+  };
+
+  const featureList = new List('search-container', options);
+  featureList.add(data);
+
+  searchInput.addEventListener('keyup', (e) => {
+    const searchString = e.target.value;
+    featureList.search(searchString);
   });
 </script>

@@ -1,40 +1,18 @@
-<!-- Import List.js and jQuery libraries -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-<div id="search-container">
-  <input type="text" id="search-enter" placeholder="Search..." />
-  <ul id="search-hasil"></ul>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<div id="search-results"></div>
+<input type="text" id="search-input" placeholder="Search...">
 <script>
-  const searchInput = document.getElementById('search-enter');
-  const searchResults = document.getElementById('search-hasil');
-  const data = [
-    /* Use Hugo code to provide data to search in */
-    {{ range .Site.RegularPages }}
-      { title: "{{ .Title }}", uri: "{{ .RelPermalink }}" },
-    {{ end }}
-  ];
-
-  const options = {
-    valueNames: ['title'],
-    item: '<li><a class="title"></a></li>',
-    fuzzySearch: {
-      searchClass: 'fuzzy-search',
-      location: 0,
-      distance: 100,
-      threshold: 0.4,
-      multiSearch: true,
-    },
-  };
-
-  const featureList = new List('search-container', options);
-  featureList.add(data);
-
-  searchInput.addEventListener('keyup', (e) => {
-    const searchString = e.target.value;
-    featureList.search(searchString);
-  });
+document.getElementById('search-input').addEventListener('input', function(e) {
+    const query = e.target.value.toLowerCase();
+    const results = searchIndex.search(query);
+    const searchResults = document.getElementById('search-results');
+    searchResults.innerHTML = '';
+    results.forEach(function(result) {
+        const postLink = document.createElement('a');
+        postLink.href = result.ref;
+        postLink.innerText = result.title;
+        const postItem = document.createElement('div');
+        postItem.appendChild(postLink);
+        searchResults.appendChild(postItem);
+    });
+});
 </script>

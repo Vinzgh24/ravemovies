@@ -12,6 +12,12 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 
 </mux-player>
 
+{{< search >}}
+  <!-- Wrap your content in a list item with the "content-item" class -->
+  <li class="content-item">Sample content 1</li>
+  <li class="content-item">Sample content 2</li>
+  <li class="content-item">Sample content 3</li>
+{{< /search >}}
 
 {{< movieinfo id="44244" >}}
 

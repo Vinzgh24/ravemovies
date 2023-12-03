@@ -1,0 +1,21 @@
+<!-- Import List.js and jQuery libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- Create a search input field and content list -->
+<input type="text" id="searchInput" placeholder="Search..." />
+<ul id="contentList">
+  {{ .Inner }}
+</ul>
+
+<!-- Initialize List.js and enable search functionality -->
+<script>
+  $(document).ready(function() {
+    var options = { valueNames: ['content-item'] };
+    var contentList = new List('contentList', options);
+    
+    $('#searchInput').on('input', function() {
+      contentList.search($(this).val());
+    });
+  });
+</script>

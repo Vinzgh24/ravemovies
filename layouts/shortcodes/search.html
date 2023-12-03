@@ -3,7 +3,6 @@
 */}}
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.0.0/fuse.min.js"></script>
-
 <style>
 .search-hasil {
   position: absolute;
@@ -27,91 +26,88 @@
   background-color: #f4f4f4;
 }
 </style>
+
 <script>
 $(document).ready(function() {
   var searchInput = $('#search-enter');
   var searchResults = $('#search-hasil');
-  
-  var fuse;
-  var searchData;
-  var indexed = false;
-  
-  function fetchJSON(path, callback) {
-    $.getJSON(path, function(data) {
-      if (callback) callback(data);
-    });
+
+  // Function to fetch the movies metadata
+  function fetchMoviesMetadata() {
+    var moviesMetadata = [];
+    {{ range (where .Site.Pages "Section" "movies") }}
+      moviesMetadata.push({
+        title: '{{ .Title }}',
+        link: '{{ .Permalink }}',
+        content: '{{ .Content }}'
+      });
+    {{ end }}
+    return moviesMetadata;
   }
+
+  // Create Fuse object with options
+  var fuseOptions = {
+    keys: ['title', 'content'],
+    includeMatches: true,
+    includeScore: true,
+    threshold: 0.2,
+  };
   
-  function buildIndex() {
-    var baseURL = '{{ .Site.BaseURL }}';
-    baseURL = baseURL.replace(/\/?$/, '/');
-    fetchJSON(baseURL + 'index.json', function(data) {
-      var options = {
-        shouldSort: true,
-        ignoreLocation: true,
-        threshold: 0.0,
-        includeMatches: true,
-        keys: [
-          { name: 'title', weight: 0.8 },
-          // Add more keys as needed
-        ],
-      };
-      fuse = new Fuse(data, options);
-      indexed = true;
-    });
-  }
-  
+  var moviesMetadata = fetchMoviesMetadata();
+
+  // Create Fuse object with movies metadata
+  var fuse = new Fuse(moviesMetadata, fuseOptions);
+
   // Function to handle input change event
   searchInput.on('input', function() {
     var searchQuery = $(this).val();
     var searchResultsHTML = '';
-  
-    if (indexed && searchQuery.length >= 3) {
+
+    if (searchQuery.length >= 3) {
       var results = fuse.search(searchQuery);
-  
+
       if (results.length > 0) {
         results.forEach(function(result) {
           if (result.score <= 0.4) {
             var highlightedTitle = result.item.title;
             result.matches.forEach(function(match) {
-              highlightedTitle = highlightedTitle.replace(new RegExp(match.value, 'gi'), '<strong>$&</strong>');
+              if (match.key !== 'title') {
+                var regex = new RegExp('\\b' + match.value + '\\b', 'gi');
+                highlightedTitle = highlightedTitle.replace(regex, '<strong>$&</strong>');
+              }
             });
-            searchResultsHTML += '<a href="' + result.item.permalink + '">' + highlightedTitle + '</a>';
+            searchResultsHTML += '<a href="' + result.item.link + '">' + highlightedTitle + '</a>';
           }
         });
       } else {
         searchResultsHTML = '<p>No results found.</p>';
       }
-    } else if (!indexed) {
-      searchResultsHTML = '<p>Search index is still being built...</p>';
     } else {
       searchResultsHTML = '<p>Please enter at least 3 characters.</p>';
     }
-  
+
     searchResults.html(searchResultsHTML);
     
-    if (indexed && searchQuery.length >= 3) {
-      searchResults.show(200);
+    if (searchQuery.length >= 3) {
+      searchResults.show();
     } else {
-      searchResults.hide(200);
+      searchResults.hide();
     }
   });
-  
+
   // Function to handle input focusout event
   searchInput.on('focusout', function() {
     setTimeout(function() {
-      searchResults.hide(200);
+      searchResults.hide();
     }, 100);
   });
-  
+
   // Function to handle search result link click event
   searchResults.on('click', 'a', function(e) {
     e.stopPropagation();
     var link = $(this).attr('href');
     window.location = link;
   });
-  
-  buildIndex();
 });
 </script>
 

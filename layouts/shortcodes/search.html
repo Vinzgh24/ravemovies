@@ -1,45 +1,103 @@
-
-{- $pages := slice -}}
-{{- range where .Site.RegularPages "Type" "in" (slice "page" "post") -}}
-    {{- $pages = $pages | append . -}}
-{{- end -}}
-
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.1/dist/fuse.min.js"></script>
+{{/*
+  search.html - Hugo Shortcode for search using searchjs library
+*/}}
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.5/fuse.min.js"></script>
 
-<input type="text" id="searchInput" placeholder="Search..." />
-<ul id="searchResults"></ul>
+<style>
+.search-hasil {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  max-height: 300px;
+  overflow-y: auto;
+  width: 100%;
+  display: none;
+  z-index: 9999;
+}
+
+.search-hasil a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.search-hasil a:hover {
+  background-color: #f4f4f4;
+}
+</style>
 
 <script>
-    // Perform the search
-    function performSearch() {
-        // Get the search query
-        var query = $('#searchInput').val().toLowerCase();
+$(document).ready(function() {
+  var searchInput = $('#search-enter');
+  var searchResults = $('#search-hasil');
 
-        // Prepare Fuse.js options
-        var options = {
-            keys: ['Params.title', 'Content']
-        };
+  // Sample data for the search
+  var searchData = [
+    { title: 'Search Result 1', link: '/search-result-1/' },
+    { title: 'Search Result 2', link: '/search-result-2/' },
+    { title: 'Search Result 3', link: '/search-result-3/' },
+    // Add more search results as needed
+  ];
 
-        // Initialize Fuse.js with the pages data
-        var fuse = new Fuse({{ $pages | jsonify }}, options);
+  // Create Fuse object with options
+  var fuse = new Fuse(searchData, {
+    keys: ['title'],
+    includeMatches: true,
+    includeScore: true,
+    threshold: 0.2,
+  });
 
-        // Perform the search
-        var results = fuse.search(query);
+  // Function to handle input change event
+  searchInput.on('input', function() {
+    var searchQuery = $(this).val();
+    var searchResultsHTML = '';
 
-        // Display the search results
-        var resultsList = $('#searchResults');
-        resultsList.empty();
+    if (searchQuery.length >= 3) {
+      var results = fuse.search(searchQuery);
 
-        for (var i = 0; i < results.length; i++) {
-            var item = results[i].item;
-            var listItem = '<li><a href="' + item.RelPermalink + '">' + item.Params.title + '</a></li>';
-            resultsList.append(listItem);
-        }
+      if (results.length > 0) {
+        results.forEach(function(result) {
+          if (result.score <= 0.4) {
+            var highlightedTitle = '';
+            result.matches.forEach(function(match) {
+              highlightedTitle += match.key === 'title' ? `<strong>${match.value}</strong>` : match.value;
+            });
+            searchResultsHTML += `<a href="${result.item.link}">${highlightedTitle}</a>`;
+          }
+        });
+      } else {
+        searchResultsHTML = '<p>No results found.</p>';
+      }
+    } else {
+      searchResultsHTML = '<p>Please enter at least 3 characters.</p>';
     }
 
-    // Attach event listener to the search input
-    $(document).ready(function() {
-        $('#searchInput').on('input', performSearch);
-    });
+    searchResults.html(searchResultsHTML);
+    
+    if (searchQuery.length >= 3) {
+      searchResults.show();
+    } else {
+      searchResults.hide();
+    }
+  });
+
+  // Function to handle input focusout event
+  searchInput.on('focusout', function() {
+    setTimeout(function() {
+      searchResults.hide();
+    }, 100);
+  });
+
+  // Function to handle search result link click event
+  searchResults.on('click', 'a', function(e) {
+    e.stopPropagation();
+    var link = $(this).attr('href');
+    window.location = link;
+  });
+});
 </script>
+
+<input id="search-enter" type="text" placeholder="Search...">
+<div id="search-hasil" class="search-hasil"></div>

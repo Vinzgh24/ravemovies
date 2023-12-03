@@ -1,42 +1,44 @@
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@3.6.1/dist/fuse.min.js"></script>
+{- $pages := slice -}}
+{{- range where .Site.RegularPages "Params.draft" "!=" "true" -}}
+    {{- $pages = $pages | append . -}}
+{{- end -}}
 
-{{- $shortcodeID := (now.UnixNano | printf "%x") -}}
-{{- $resultID := printf "search-result-%s" $shortcodeID -}}
-{{- $inputID := printf "search-input-%s" $shortcodeID -}}
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.1/dist/fuse.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-<div id="{{ $resultID }}">{{ if .IsInnerHTML }}{{ else }}No results found{{ end }}</div>
-<input id="{{ $inputID }}" type="text" placeholder="Search..." oninput="search{{ $shortcodeID }}()" />
+<input type="text" id="searchInput" placeholder="Search..." />
+<ul id="searchResults"></ul>
 
 <script>
-  function search{{ $shortcodeID }}() {
-    const fuseOptions = {
-      shouldSort: true,
-      threshold: 0.3,
-      location: 0,
-      distance: 100,
-      maxPatternLength: 32,
-      minMatchCharLength: 1,
-      keys: ["title", "content"],
-    };
+    // Perform the search
+    function performSearch() {
+        // Get the search query
+        var query = $('#searchInput').val().toLowerCase();
 
-    const input = document.getElementById("{{ $inputID }}");
-    const resultContainer = document.getElementById("{{ $resultID }}");
+        // Prepare Fuse.js options
+        var options = {
+            keys: ['Params.title', 'Content']
+        };
 
-    const fuse = new Fuse({{ .Site.Pages | jsonify }}, fuseOptions);
+        // Initialize Fuse.js with the pages data
+        var fuse = new Fuse({{ $pages | jsonify }}, options);
 
-    input.addEventListener("input", function () {
-      const searchQuery = input.value;
-      const results = fuse.search(searchQuery);
+        // Perform the search
+        var results = fuse.search(query);
 
-      let htmlOutput = "";
-      results.forEach(function (result) {
-        const { ref, item } = result;
-        const { title, permalink } = item;
+        // Display the search results
+        var resultsList = $('#searchResults');
+        resultsList.empty();
 
-        htmlOutput += `<p><a href="${permalink}">${title}</a></p>`;
-      });
+        for (var i = 0; i < results.length; i++) {
+            var item = results[i].item;
+            var listItem = '<li><a href="' + item.RelPermalink + '">' + item.Params.title + '</a></li>';
+            resultsList.append(listItem);
+        }
+    }
 
-      resultContainer.innerHTML = htmlOutput.length > 0 ? htmlOutput : "No results found";
+    // Attach event listener to the search input
+    $(document).ready(function() {
+        $('#searchInput').on('input', performSearch);
     });
-  }
 </script>

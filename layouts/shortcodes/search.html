@@ -1,57 +1,42 @@
-{{ $cdn := "https://cdnjs.cloudflare.com/ajax/libs/lunar-javascript/1.6.7" }}
-{{ $js := $cdn | printf "/lunar.min.js" }}
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="{{ $js }}" integrity="sha512-/pbV2bQIFeZytnq5U363HlJRoyYrhYOQv1YMwaQs5ny7GcCRaaqwU7Hf1ni8nXx7V5Z5K+Xp1Yfv5LD19/zqrg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@3.6.1/dist/fuse.min.js"></script>
+
+{{- $shortcodeID := (now.UnixNano | printf "%x") -}}
+{{- $resultID := printf "search-result-%s" $shortcodeID -}}
+{{- $inputID := printf "search-input-%s" $shortcodeID -}}
+
+<div id="{{ $resultID }}">{{ if .IsInnerHTML }}{{ else }}No results found{{ end }}</div>
+<input id="{{ $inputID }}" type="text" placeholder="Search..." oninput="search{{ $shortcodeID }}()" />
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  var searchInput = document.createElement("input");
-  searchInput.setAttribute("id", "search-input");
-  searchInput.setAttribute("type", "search");
-  searchInput.setAttribute("placeholder", "Search...");
-  document.body.appendChild(searchInput);
+  function search{{ $shortcodeID }}() {
+    const fuseOptions = {
+      shouldSort: true,
+      threshold: 0.3,
+      location: 0,
+      distance: 100,
+      maxPatternLength: 32,
+      minMatchCharLength: 1,
+      keys: ["title", "content"],
+    };
 
-  var searchButton = document.createElement("button");
-  searchButton.setAttribute("id", "search-button");
-  searchButton.setAttribute("type", "button");
-  
-  var buttonText = document.createTextNode("Search");
-  searchButton.appendChild(buttonText);
-  document.body.appendChild(searchButton);
+    const input = document.getElementById("{{ $inputID }}");
+    const resultContainer = document.getElementById("{{ $resultID }}");
 
-  var resultsContainer = document.createElement("div");
-  resultsContainer.setAttribute("id", "search-results");
-  document.body.appendChild(resultsContainer);
+    const fuse = new Fuse({{ .Site.Pages | jsonify }}, fuseOptions);
 
-  var searchForm = document.createElement("form");
-  searchForm.style.display = "none";
-  document.body.appendChild(searchForm);
+    input.addEventListener("input", function () {
+      const searchQuery = input.value;
+      const results = fuse.search(searchQuery);
 
-  var searchUrl = "{{ "/search.json" | relURL }}";
+      let htmlOutput = "";
+      results.forEach(function (result) {
+        const { ref, item } = result;
+        const { title, permalink } = item;
 
-  searchButton.addEventListener("click", function() {
-    var keywords = searchInput.value.trim();
-    if (keywords !== "") {
-      searchForm.innerHTML = "";
-      var hiddenInput = document.createElement("input");
-      hiddenInput.setAttribute("type", "hidden");
-      hiddenInput.setAttribute("name", "q");
-      hiddenInput.setAttribute("value", keywords);
-      searchForm.appendChild(hiddenInput);
+        htmlOutput += `<p><a href="${permalink}">${title}</a></p>`;
+      });
 
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET", searchUrl);
-      xhr.onload = function() {
-        var searchData = JSON.parse(xhr.responseText);
-        Lunar.handleSearch(searchData, {
-          inputElement: searchInput,
-          resultsElement: resultsContainer,
-          previewLength: 100,
-          summaryLength: 300
-        });
-      };
-      xhr.send(new FormData(searchForm));
-    }
-  });
-});
+      resultContainer.innerHTML = htmlOutput.length > 0 ? htmlOutput : "No results found";
+    });
+  }
 </script>

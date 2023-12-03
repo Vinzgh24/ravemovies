@@ -27,75 +27,91 @@
   background-color: #f4f4f4;
 }
 </style>
-
 <script>
 $(document).ready(function() {
   var searchInput = $('#search-enter');
   var searchResults = $('#search-hasil');
-
-  // Sample data for the search
-  var searchData = [
-    { title: 'Search Result 1', link: '/search-result-1/' },
-    { title: 'Search Result 2', link: '/search-result-2/' },
-    { title: 'Search Result 3', link: '/search-result-3/' },
-    // Add more search results as needed
-  ];
-
-  // Create Fuse object with options
-  var fuse = new Fuse(searchData, {
-    keys: ['title'],
-    includeMatches: true,
-    includeScore: true,
-    threshold: 0.2,
-  });
-
+  
+  var fuse;
+  var searchData;
+  var indexed = false;
+  
+  function fetchJSON(path, callback) {
+    $.getJSON(path, function(data) {
+      if (callback) callback(data);
+    });
+  }
+  
+  function buildIndex() {
+    var baseURL = '{{ .Site.BaseURL }}';
+    baseURL = baseURL.replace(/\/?$/, '/');
+    fetchJSON(baseURL + 'index.json', function(data) {
+      var options = {
+        shouldSort: true,
+        ignoreLocation: true,
+        threshold: 0.0,
+        includeMatches: true,
+        keys: [
+          { name: 'title', weight: 0.8 },
+          // Add more keys as needed
+        ],
+      };
+      fuse = new Fuse(data, options);
+      indexed = true;
+    });
+  }
+  
   // Function to handle input change event
   searchInput.on('input', function() {
     var searchQuery = $(this).val();
     var searchResultsHTML = '';
-
-    if (searchQuery.length >= 3) {
+  
+    if (indexed && searchQuery.length >= 3) {
       var results = fuse.search(searchQuery);
-
+  
       if (results.length > 0) {
         results.forEach(function(result) {
           if (result.score <= 0.4) {
-            var highlightedTitle = '';
+            var highlightedTitle = result.item.title;
             result.matches.forEach(function(match) {
-              highlightedTitle += match.key === 'title' ? `<strong>${match.value}</strong>` : match.value;
+              highlightedTitle = highlightedTitle.replace(new RegExp(match.value, 'gi'), '<strong>$&</strong>');
             });
-            searchResultsHTML += `<a href="${result.item.link}">${highlightedTitle}</a>`;
+            searchResultsHTML += '<a href="' + result.item.permalink + '">' + highlightedTitle + '</a>';
           }
         });
       } else {
         searchResultsHTML = '<p>No results found.</p>';
       }
+    } else if (!indexed) {
+      searchResultsHTML = '<p>Search index is still being built...</p>';
     } else {
       searchResultsHTML = '<p>Please enter at least 3 characters.</p>';
     }
-
+  
     searchResults.html(searchResultsHTML);
     
-    if (searchQuery.length >= 3) {
-      searchResults.show();
+    if (indexed && searchQuery.length >= 3) {
+      searchResults.show(200);
     } else {
-      searchResults.hide();
+      searchResults.hide(200);
     }
   });
-
+  
   // Function to handle input focusout event
   searchInput.on('focusout', function() {
     setTimeout(function() {
-      searchResults.hide();
+      searchResults.hide(200);
     }, 100);
   });
-
+  
   // Function to handle search result link click event
   searchResults.on('click', 'a', function(e) {
     e.stopPropagation();
     var link = $(this).attr('href');
     window.location = link;
   });
+  
+  buildIndex();
 });
 </script>
 

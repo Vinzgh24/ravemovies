@@ -7631,7 +7631,6 @@ body:has(#menu-controller:checked) {
 }
 
 .modal-content {
-  background-color: #1a1a1a; /* Dark theme background color with a bit of tint */
   padding: 20px;
   border: 4px solid #4d4d4d; /* Border with a bit of contrast */
   max-width: 400px;

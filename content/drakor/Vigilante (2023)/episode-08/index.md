@@ -2,7 +2,6 @@
 title: "Vigilante - S1E8 - Episode 08"
 date: 2023-12-01T06:15:00Z
 series: ["Vigilante"]
-draft: true
 ---
 
 

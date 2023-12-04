@@ -1,6 +1,6 @@
 ---
 title: "Kuntilanak 3 (2022)"
-date: 2023-10-15T13:03:50Z
+date: 2023-12-02T12:10:43Z
 tags: ["Movie"]
 categories: ["Adventure", "Fantasy", "Horror"]
 series: ["Kuntilanak"]
@@ -9,7 +9,7 @@ summary: "Dinda yang dianggap aneh oleh anak desa karena kekuatannya, tanpa seng
 
 
   <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWtuijbyv-NFnEx2cXgYQ1QBoTckwbx4dIA_3z9gDBihrQ" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EcxQkaExbtxJsxuScsq11dwBLZy-crQpiFcPK52vpgOX5Q" prefer-playback="mse" controls>
  
   </mux-player>
   
@@ -23,7 +23,7 @@ summary: "Dinda yang dianggap aneh oleh anak desa karena kekuatannya, tanpa seng
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Kuntilanak 3 (2022)",
-  "contentUrl": "https://stream.mux.com/MKky1y8J2VKlF4NgwsDjE9PN7PbPdSE5gePobMSGaME.m3u8",
+  "contentUrl": "https://stream.mux.com/Pk005fYovdqXboRkYobL00OPHylSi00Ilf3R4H97vgvcmo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/hMr0e9YLgUbwEYIi1LMT6WNiEF3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T13:03:50Z",
 }

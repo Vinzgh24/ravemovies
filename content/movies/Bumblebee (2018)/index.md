@@ -22,7 +22,7 @@ series: ["Transformers"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Bumblebee (2018)",
-  "contentUrl": "https://stream.mux.com/6YVEWer5j1rB900ChPvEQKJx53pzljsCHlKQKdoMi9lA.m3u8",
+  "contentUrl": "https://stream.mux.com/tUyqU5oT9sDMy5T2AU8Q7ioIf7vuex1Q9T6M3PcX8400.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eAyrOEREZ915iibMbUeTJdS6OBJ.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:09:22Z",
 }

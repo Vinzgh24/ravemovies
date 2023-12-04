@@ -22,7 +22,7 @@ summary: "Sebuah proyek militer rahasia membahayakan Neo-Tokyo ketika mengubah a
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Akira (1988)",
-  "contentUrl": "https://stream.mux.com/fX01MN9Q9VGCanSM00qACaUnMvj1NR02G9xpBgfNizf8Hs.m3u8",
+  "contentUrl": "https://stream.mux.com/bB01H5Z4BlUricweDj10102Q02qX8WphqE4OGMm2MA3021a00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rdptXAex2UlYZFoKTu04e7x3JL8.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-23T08:07:31Z",
 }

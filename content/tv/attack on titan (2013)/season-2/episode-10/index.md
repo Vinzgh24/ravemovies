@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E10 - Children",
-  "contentUrl": "https://stream.mux.com/a01fV7FvvvAxl8qDkkdv8Xmi84B6PBUIMN1AZL1l5p1E.m3u8",
+  "contentUrl": "https://stream.mux.com/sUy7XLZRGL02cGR9lUA3HeTIzwlHGe92Vr02y7DfhWSGQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:39Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E6 - Warrior",
-  "contentUrl": "https://stream.mux.com/gXne2i4rBqy1bKsSp1L00xfmZSarUvJacx2vz6016Y8YY.m3u8",
+  "contentUrl": "https://stream.mux.com/tCpnMXEy5lC00KbefcFShN9cW5REQRRZ9sR1tZYfO01mU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:27Z",
 }

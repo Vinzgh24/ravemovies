@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E9 - Opening",
-  "contentUrl": "https://stream.mux.com/s1BTTvPEj02XyBHvoLM3WkVRibY9blMqSnOFAWsZyNJw.m3u8",
+  "contentUrl": "https://stream.mux.com/QpSFq5Ka4gANWqC01GKHTAWEpzo00EzEyzGjS2DL9leFc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:35Z",
 }

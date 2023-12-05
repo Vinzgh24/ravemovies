@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Jujutsu Kaisen 0 (2021)",
-"contentUrl": "https://stream.mux.com/00MLEWaS6TkOEuITzln3B2WZ5TLnDV3atRE00LLEY6Nnw.m3u8",
+"contentUrl": "https://stream.mux.com/APwt93zmNfUNksyIXuK4BGWsPQ8cv8lhd8nJzJcRl3c.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/fh4H92nhTUJTONXVRUHIpOGsHnK.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-26T04:39:58Z",
 }

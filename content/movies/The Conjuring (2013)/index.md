@@ -23,7 +23,7 @@ summary: "Penyelidik paranormal Ed dan Lorraine Warren bekerja untuk membantu se
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Conjuring (2013)",
-  "contentUrl": "https://stream.mux.com/a02ch49kS008XhzUCPQoOvgWZ5RyrDBpvb2r1Ctf01Eblo.m3u8",
+  "contentUrl": "https://stream.mux.com/W01dTidkrYdlZP42gytMLdaN4j02MYm502IVgDHoT9BX24.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/meka1uoXLVyb5FbMQTre2WmZorX.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:45:16Z",
 }

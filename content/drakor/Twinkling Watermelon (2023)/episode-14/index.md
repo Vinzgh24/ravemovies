@@ -1,6 +1,25 @@
 ---
-title: "Episode 14"
+title: "Twinkling Watermelon - S1E14 - Another Time Traveller"
 date: 2023-12-04T09:51:11Z
-draft: true
+series: ["Twinkling Watermelon"]
 ---
 
+
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EU5KroGZxMlPppBr1zC_iEcBY7-RLclbTjGgurINNW1cQw" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+ <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Twinkling Watermelon - S1E14 - Another Time Traveller",
+  "contentUrl": "https://stream.mux.com/6L77r6N6G4G3oRimhMV01Wjw9heQrnE01rMoeW00h00TKxY.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-12-04T09:51:11Z",
+}
+
+</script>

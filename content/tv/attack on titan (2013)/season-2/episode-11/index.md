@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E11 - Totsugeki",
-  "contentUrl": "https://stream.mux.com/qeXlnDObyywMMcxCVpn7h900XNzxDOER1CsiXzkS1puk.m3u8",
+  "contentUrl": "https://stream.mux.com/nQ01eLN5RZZgkAR02z3PERIv0022100OYY02f4cIlFMh9mvc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:42Z",
 }

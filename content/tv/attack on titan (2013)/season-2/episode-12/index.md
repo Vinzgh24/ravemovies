@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E12 - Scream",
-  "contentUrl": "https://stream.mux.com/pwPEdNwY600uXtOI4mlro02PI02KZ3rMv8FmrOGUhIUtn4.m3u8",
+  "contentUrl": "https://stream.mux.com/vRpvd6EHUfI1JL3Lln4AO6TjYY02raE8XPRfjbuBzUrc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:44Z",
 }

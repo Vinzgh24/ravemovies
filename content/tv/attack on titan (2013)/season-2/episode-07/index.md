@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E7 - Close Combat",
-  "contentUrl": "https://stream.mux.com/aLqTJY01VPxI5y75zwmhSfBygfjWNkEGJvkIbfcRF00dk.m3u8",
+  "contentUrl": "https://stream.mux.com/EVdGtQ01VI4ywmo01yN00iegO2paTryWtDmfxE02MDvEbkk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:30Z",
 }

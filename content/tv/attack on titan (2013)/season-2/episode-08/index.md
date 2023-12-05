@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Attack on Titan - S2E8 - The Hunters",
-  "contentUrl": "https://stream.mux.com/A9ast13iP02HSVDy01R6LjeB01aKMRjaU3PzplvYH027N3U.m3u8",
+  "contentUrl": "https://stream.mux.com/GoThxgc3nMcR3mhKV400klsX7gedLSDM6kvfOOfx4FUA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ptv8xOQI87ESiLPeZZ9XYAkAL3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-20T11:40:33Z",
 }

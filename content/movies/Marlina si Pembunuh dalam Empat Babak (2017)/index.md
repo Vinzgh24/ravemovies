@@ -21,7 +21,7 @@ summary: "Marlina hidup tenang di Sumba hingga suatu hari seorang pria bernama M
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Marlina si Pembunuh dalam Empat Babak (2017)",
-  "contentUrl": "https://stream.mux.com/7kn1qMHXMywcHSWYOR7fw02401H4V2DXmzPIXWDtOSbm00.m3u8",
+  "contentUrl": "https://stream.mux.com/XOvxszMPOiIC4P43IuMZDMHcnU86lckJ4LA2X27Jedk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7pDpym7ix9dsB9a1KWVLN95X4z1.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-19T04:38:59Z",
 }

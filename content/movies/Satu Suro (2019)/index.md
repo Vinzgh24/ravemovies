@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Satu Suro (2019)",
-"contentUrl": "https://stream.mux.com/Ry2MZZ3j7Z018UTJ3vxBQIVTSOgjHZa1yr6CuJ9Jm00mM.m3u8",
+"contentUrl": "https://stream.mux.com/XrZ1FxLWIAh02YJ8lx6AlQgP8Wndl5M34lX2YrO016R7I.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6zVPrlmChaPmHVUTpEIHaJWZItW.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-09T12:06:34Z",
 }

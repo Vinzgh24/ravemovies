@@ -23,7 +23,7 @@ summary: "Jake Pentakosta, putra Stacker Pentakosta, bersatu kembali dengan Mako
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pacific Rim: Uprising (2018)",
-  "contentUrl": "https://stream.mux.com/XhXjoDDJbM7jt01NDLzFlHHIqlgMpuodVdky3IM3SP5Y.m3u8",
+  "contentUrl": "https://stream.mux.com/sG024acEi3G9f1Udg1yUir5yDMNkC2sJiVCeglOCTtGM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7SFn4TLKciVU0Nk1M0bpY5q3due.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:00:02Z",
 }

@@ -23,7 +23,7 @@ summary: "Saat perang antara umat manusia dan makhluk laut mengerikan terus terj
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pacific Rim (2013)",
-  "contentUrl": "https://stream.mux.com/i3cS01gp36YJBgwOy02KHn02FhJub01e5a7FWo401yAUOQrY.m3u8",
+  "contentUrl": "https://stream.mux.com/txyo21JRM8RmGxkKZJrAZTmifkqj01OLidz02L4a4T4ME.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/g4wP4RApXhr1UkjDt12CsmJuf73.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:35:01Z",
 }

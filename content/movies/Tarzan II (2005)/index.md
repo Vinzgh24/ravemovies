@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Tarzan II (2005) [Dubbing Indonesia]",
-"contentUrl": "https://stream.mux.com/Wne7FLEAm13009KyB37EbJsLji400oG1QvqziPpDXiEf8.m3u8",
+"contentUrl": "https://stream.mux.com/MIvtjyVxvIGlVhPtWZDikOooFGFX01XsKmZbP7c8XpyM.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/akyZuA0YS36nMk8zFeeYwX7zyn2.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T16:47:24Z",
 }

@@ -7,7 +7,7 @@ summary: "Ikuti petualangan Peter Pan, seorang anak laki-laki yang tidak ingin t
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EeV63fS5dABMlX9kRlq7A-0BTQRodgDx1m9GhfyWMEV_aQ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWtkgRxMuglAjEA7vfhYEC4BcwGBI-GuMHEvRaKfEHEpNQ" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Peter Pan & Wendy",
-"contentUrl": "https://stream.mux.com/Gqi00aUhnvmleyxdxWDuA2a6lwDxlotJbKywWEDRS9X8.m3u8",
+"contentUrl": "https://stream.mux.com/qAWUKyFCgA5F4WVO7dojqui00kvsVKMI01jyt55901A9nM.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/wZ4WOYdFwxd9hcVYDvpI99eKQZ.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-04T10:23:10Z",
 }

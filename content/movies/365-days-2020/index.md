@@ -3,6 +3,7 @@ title: "365 Days (2020)"
 date: 2023-08-27T22:59:08Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
+adult: true
 series: ["365 Days"]
 ---
 

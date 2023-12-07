@@ -3,6 +3,7 @@ title: "Peter Pan & Wendy (2023)"
 date: 2023-12-04T10:23:10Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Comedy"]
+series: ["Peter Pan"]
 summary: "Ikuti petualangan Peter Pan, seorang anak laki-laki yang tidak ingin tumbuh dewasa, dan bagaimana dia merekrut tiga saudara kandung di London, dan bersama-sama mereka memulai petualangan ajaib di pulau Neverland yang terpesona."
 ---
 

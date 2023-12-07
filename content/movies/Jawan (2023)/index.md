@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Jawan: Extended Cut",
-"contentUrl": "https://stream.mux.com/e3EA602x7ymj2DFMhEbk9x2TVLXt3yWoJgMuNDQBBsoQ.m3u8",
+"contentUrl": "https://stream.mux.com/atEZ4ZJYGKi701fvuQ02kS6VoGyiweE4byXaKsx01I4WEY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vO8qzZjGmZg30cXKXFki3NUgGjM.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-03T17:59:48Z",
 }

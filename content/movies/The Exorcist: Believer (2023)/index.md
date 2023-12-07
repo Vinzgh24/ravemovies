@@ -3,7 +3,6 @@ title: "The Exorcist: Believer (2023)"
 date: 2023-10-25T13:05:32Z
 tags: ["Movie"]
 categories: ["Horror"]
-list: ["Trending"]
 summary: "Ketika dua gadis menghilang ke dalam hutan dan kembali tiga hari kemudian tanpa mengingat apa yang terjadi pada mereka, ayah dari seorang gadis mencari Chris MacNeil, yang selamanya berubah oleh apa yang terjadi pada putrinya lima puluh tahun yang lalu."
 ---
 

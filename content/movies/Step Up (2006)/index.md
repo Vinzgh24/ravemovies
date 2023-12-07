@@ -8,7 +8,7 @@ summary: "Tyler Gage menerima kesempatan seumur hidup setelah merusak sekolah se
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWIvgd3TScxBizU_aArxWgUB_9O-c1UxA8_AIppHONy80A" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EYAi1l1hz-FChz90EcuMTBYBlTuWwwGr--kYHZSsYFZjbQ" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Step Up (2006)",
-"contentUrl": "https://stream.mux.com/vJsyl6Xy00743EwsWL00Uy7rUmXg02nhRh01qxHXj00cFHPM.m3u8",
+"contentUrl": "https://stream.mux.com/6ahIi01joWj02nZ18701AV2HX01pgUcNNZdCDi401mM69z2E.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/wZ4WOYdFwxd9hcVYDvpI99eKQZ.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-01T06:40:36Z",
 }

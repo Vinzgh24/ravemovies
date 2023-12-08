@@ -3,7 +3,6 @@ title: "Leo (2023) [Dual Audio]"
 date: 2023-11-22T17:48:36Z
 tags: ["Movie"]
 categories: ["Animation", "Adventure", "Comedy"]
-list: ["Trending"]
 summary: "Parthiban adalah pemilik kafe yang berwatak halus di Kashmir, yang menangkis sekelompok preman pembunuh dan mendapatkan perhatian dari kartel narkoba yang mengklaim bahwa dia pernah menjadi bagian dari mereka."
 ---
 

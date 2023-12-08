@@ -2,7 +2,7 @@
 title: "Killers of the Flower Moon (2023)"
 date: 2023-12-08T14:09:29Z
 tags: ["Movie"]
-categories: ["Comedy", "Drama", "History"]
+categories: ["Crime", "Drama", "History"]
 list: ["Trending"]
 summary: "Ketika minyak ditemukan di Oklahoma tahun 1920-an di bawah tanah Osage Nation, orang-orang Osage dibunuh satu per satu - sampai FBI turun tangan untuk mengungkap misteri tersebut."
 ---

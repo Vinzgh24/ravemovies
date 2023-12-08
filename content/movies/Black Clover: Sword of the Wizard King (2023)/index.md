@@ -3,7 +3,7 @@ title: "Black Clover: Sword of the Wizard King (2023)"
 date: 2023-12-08T14:02:42Z
 tags: ["Movie"]
 categories: ["Anime", "Action", "Adventure"]
-summary: "Di dunia di mana sihir adalah segalanya, Asta, seorang anak laki-laki yang terlahir tanpa sihir, bercita-cita menjadi "Raja Penyihir" untuk mengatasi kesulitan, membuktikan kekuatannya, dan menepati sumpahnya dengan teman-temannya."
+summary: "Di dunia di mana sihir adalah segalanya, Asta, seorang anak laki-laki yang terlahir tanpa sihir, bercita-cita menjadi Raja Penyihir untuk mengatasi kesulitan, membuktikan kekuatannya, dan menepati sumpahnya dengan teman-temannya."
 ---
 
 <mux-player stream-type="on-demand"

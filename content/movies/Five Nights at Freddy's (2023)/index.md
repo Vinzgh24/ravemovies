@@ -3,7 +3,6 @@ title: "Five Nights at Freddy's (2023)"
 date: 2023-10-30T11:23:04Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
-list: ["Trending"]
 summary: "Seorang penjaga keamanan bermasalah mulai bekerja di Pizza Freddy Fazbear. Pada malam pertamanya bekerja, dia menyadari bahwa shift malam tidak akan mudah untuk dilalui. Sebentar lagi dia akan mengungkap apa yang sebenarnya terjadi di rumah Freddy."
 ---
 

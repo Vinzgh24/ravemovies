@@ -3,7 +3,7 @@ title: "HiGH&LOW The Movie 2: End of Sky (2017)"
 date: 2023-11-22T15:47:58Z
 tags: ["Movie"]
 categories: ["Action"]
-series: ["High & Low"]
+series: ["High and Low"]
 summary: Geng-geng baru yang paling brutal bermunculan. Geng-geng ini adalah geng Doubt dan Prison, dan mereka mencoba untuk mendominasi wilayah yang dikuasai oleh SWORD. Mereka juga melawan geng lain di daerah tersebut dan menantang White Rascals untuk bertarung.
 ---
 

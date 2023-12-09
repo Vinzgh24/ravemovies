@@ -3,7 +3,7 @@ title: "High & Low The Movie (2016)"
 date: 2023-11-22T15:44:09Z
 tags: ["Movie"]
 categories: ["Action"]
-series: ["High & Low"]
+series: ["High and Low"]
 summary: Chiku adalah kota yang hancur dan berbahaya dengan 5 geng yang bertarung sengit. Mugen dan Amamiya Bersaudara bentrok, menyebabkan Mugen dibubarkan.
 ---
 

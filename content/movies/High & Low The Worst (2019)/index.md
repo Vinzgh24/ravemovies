@@ -3,7 +3,7 @@ title: "High & Low The Worst (2019)"
 date: 2023-11-22T15:50:41Z
 tags: ["Movie"]
 categories: ["Action"]
-series: ["High & Low"]
+series: ["High And Low"]
 summary: Sekolah Menengah Iblis dibagi menjadi sistem paruh waktu dan sistem penuh waktu, Yoshiki Murayama adalah kepala sekolah menengah Iblis dan Kaede Hanaoka memiliki ambisi untuk menghadapi dunia penuh waktu untuk menantang dunia Murayama.. .
 ---
 

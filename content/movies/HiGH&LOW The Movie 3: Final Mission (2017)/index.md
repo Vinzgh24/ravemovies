@@ -3,7 +3,7 @@ title: "HiGH&LOW The Movie 3: Final Mission (2017)"
 date: 2023-12-09T12:40:39Z
 tags: ["Movie"]
 categories: ["Action", "Drama"]
-series: ["High & Low"]
+series: ["High and Low"]
 summary: "Untuk menyembunyikan korupsi masa lalu yang dilakukan pemerintah, geng Kyuryu menjalankan rencana untuk menghancurkan jalan dan membangun kasino. Untuk menghentikan geng Kyuryu, anggota PEDANG mulai bergerak."
 ---
 

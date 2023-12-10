@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Malam Satu Suro (1988)",
-"contentUrl": "https://stream.mux.com/pP7MHzOIJG2olKjVi19K8dxgZzSK0200ypcNA4TxR7Ta8.m3u8",
+"contentUrl": "https://stream.mux.com/h02Krzx1uUIpWnCXFgxwvrBCRXADVWRvDdLdsVSyLSYA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/qvVI1moH5NpeiHY3xyjCiykOrrY.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-09T12:11:02Z",
 }

@@ -2,7 +2,7 @@
 title: "The Green Mile (1999)"
 date: 2023-12-02T10:09:47Z
 tags: ["Movie"]
-categories: ["Crime", "Dramw", "Fantasy"]
+categories: ["Crime", "Drama", "Fantasy"]
 summary: "Sebuah kisah berlatar belakang hukuman mati di penjara Selatan, di mana raksasa lembut John memiliki kekuatan misterius untuk menyembuhkan penyakit manusia. Ketika penjaga utama, Paul, mengakui pemberian John, dia mencoba membantu mencegah eksekusi pria yang dihukum itu..."
 ---
 

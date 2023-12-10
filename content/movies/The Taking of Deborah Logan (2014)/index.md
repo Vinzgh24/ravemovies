@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Taking of Deborah Logan (2014)",
-"contentUrl": "https://stream.mux.com/YtnNm6XnVQ0122vcj01V02KQvsWdCi02j8Qx00GWU4GrfpSY.m3u8",
+"contentUrl": "https://stream.mux.com/AuI9DP51MSuijSvffXLU6BcFC5knsyBzLAcnoTTk2Vw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/qwOfdZvd70MZVJBbgkeQ5wvvsEJ.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-10T13:53:08Z",
 }

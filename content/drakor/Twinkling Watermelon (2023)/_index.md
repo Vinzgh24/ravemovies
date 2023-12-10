@@ -2,6 +2,7 @@
 title: "Twinkling Watermelon"
 date: 2023-12-04T09:50:13Z
 description: "Semangka Berkilau akan menceritakan kisah seorang anak laki-laki yang menjalani kehidupan ganda antara seorang siswa teladan dan anggota band yang tergelincir waktu dan bertemu dengan ayahnya yang berusia 18 tahun. Keduanya akan membangun persahabatan di sana."
+categories: ["K-Drama", "Comedy", "Drama", "Fantasy"]
 
 cascade:
   showEdit: false

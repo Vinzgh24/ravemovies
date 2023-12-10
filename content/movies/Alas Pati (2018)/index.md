@@ -3,7 +3,7 @@ title: "Alas Pati (2018)"
 date: 2023-12-10T12:55:12Z
 tags: ["Movie"]
 categories: ["Adventure", "Horror", "Thriller"]
-summary: ["Demi ketenaran, Raya dan teman-temannya datang ke kawasan angker tersebut. Saat pembuatan video, salah satunya meninggal. Mereka memutuskan untuk melarikan diri tetapi hantu itu datang bersama mereka."]
+summary: "Demi ketenaran, Raya dan teman-temannya datang ke kawasan angker tersebut. Saat pembuatan video, salah satunya meninggal. Mereka memutuskan untuk melarikan diri tetapi hantu itu datang bersama mereka."
 ---
 
 <mux-player stream-type="on-demand"

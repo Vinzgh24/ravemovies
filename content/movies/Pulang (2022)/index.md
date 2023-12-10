@@ -3,7 +3,7 @@ title: "Pulang (2022)"
 date: 2023-12-10T12:42:53Z
 tags: ["Movie"]
 categories: ["Drama"]
-summary: ["Perjalanan ayah dan anak perempuannya ke rumah nenek untuk mengunjungi ibu dan putra bungsunya, menjadi perjalanan terakhir mereka sebagai satu keluarga."]
+summary: "Perjalanan ayah dan anak perempuannya ke rumah nenek untuk mengunjungi ibu dan putra bungsunya, menjadi perjalanan terakhir mereka sebagai satu keluarga."
 ---
 
 <mux-player stream-type="on-demand"

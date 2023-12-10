@@ -3,6 +3,7 @@ title: "Mission: Impossible - Dead Reckoning Part One (2023)"
 date: 2023-12-09T12:45:39Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Thriller"]
+series: ["Mission: Impossible"]
 summary: "Ethan Hunt dan tim IMF beraksi dalam misi paling berbahaya dari yang pernah ada: Melacak sebuah senjata jenis baru yang dapat mengancam kelangsungan umat manusia, sebelum jatuh ke tangan yang salah. Dengan kendali terhadap masa depan dan nasib dunia sebagai taruhannya, serta pihak-pihak jahat dari masa lalu Ethan yang turut mengintai, perlombaan maut lintas negara dimulai. Dihadang oleh musuh yang misterius dan berkuasa, Ethan dipaksa untuk menjadikan misi ini sebagai prioritas terpentingbahkan lebih penting dari nyawa orang-orang terdekatnya sekalipun."
 ---
 

@@ -3,7 +3,7 @@ title: "Balada Sepasang Kekasih Gila (2021)"
 date: 2023-12-10T12:50:32Z
 tags: ["Movie"]
 categories: ["Crime", "Drama"]
-summary: ["Djarot kerap dimasukkan ke ruang isolasi rumah sakit jiwa, karena bersikap kasar, bahkan membunuh orang yang menindasnya. Sedangkan Lastri divonis penjara karena membunuh dan mutilasi alat kelamin pria yang memperkosanya. Bot..."]
+summary: "Djarot kerap dimasukkan ke ruang isolasi rumah sakit jiwa, karena bersikap kasar, bahkan membunuh orang yang menindasnya. Sedangkan Lastri divonis penjara karena membunuh dan mutilasi alat kelamin pria yang memperkosanya. Bot..."
 ---
 
 <mux-player stream-type="on-demand"

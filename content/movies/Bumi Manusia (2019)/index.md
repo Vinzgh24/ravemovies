@@ -22,7 +22,7 @@ summary: "Seorang anak laki-laki asli Jawa dan seorang gadis campuran Belanda ja
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Bumi Manusia (2019)",
-  "contentUrl": "https://stream.mux.com/l1MgZeAHS01unWUVZ8oUs00e53DdUCYlu01YyAvAQKa5cs.m3u8",
+  "contentUrl": "https://stream.mux.com/dfVXSMRLzpTOr2BK3plFDYms01rA4IjWdHLaSLs7WQFk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tNflpA3YaHsksiOe2MUBtoVhQq3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T10:41:45Z",
 }

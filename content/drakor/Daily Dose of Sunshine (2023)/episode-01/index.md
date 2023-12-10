@@ -1,0 +1,25 @@
+---
+title: "Daily Dose of Sunshine - S1E1 - Sebelum Fajar Datang, Ada Subuh yang Tergelap"
+date: 2023-12-10T04:35:07Z
+series: ["Daily Dose of Sunshine"]
+---
+
+
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ETDZRrN01ftPh0uP8yMIgGgBLi23ly1Yo49JXcXy7BfXvw" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Daily Dose of Sunshine - S1E1 - Sebelum Fajar Datang, Ada Subuh yang Tergelap",
+  "contentUrl": "https://stream.mux.com/fKEhtCyMalKNph202vg7vnOJjBDULkPryS4YoVhw1yac.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/kXETwHWqdCAzyrCWloBpaq96oyh.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-12-10T04:35:07Z",
+}
+
+</script>

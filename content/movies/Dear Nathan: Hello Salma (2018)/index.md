@@ -4,7 +4,7 @@ date: 2023-12-11T12:04:31Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
 series: ["Dear Nathan"]
-summary: "Sekuel film tahun 2017 "Dear Nathan" mengikuti hubungan lanjutan antara dua orang muda yang sedang jatuh cinta."
+summary: "Sekuel film tahun 2017 Dear Nathan mengikuti hubungan lanjutan antara dua orang muda yang sedang jatuh cinta."
 ---
 
 <mux-player stream-type="on-demand"

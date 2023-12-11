@@ -2,6 +2,7 @@
 title: "Dear Nathan (2017)"
 date: 2023-09-19T10:08:34Z
 tags: ["Movie"]
+series: ["Dear Nathan"]
 categories: ["Drama", "Romance"]
 ---
 

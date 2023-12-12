@@ -26,8 +26,12 @@ jobs:
       - name: Deploy 
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          host: ${{ secrets.FTP_SERVER }}
+          server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: public/
           server-dir: /domains/raveeflix.my.id/public_html/
+          exclude: |
+  **/.git*
+  **/.git*/**
+  **/node_modules/**

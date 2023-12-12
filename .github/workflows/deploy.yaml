@@ -23,7 +23,7 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: FTP Deploy
+      - name: Deploy 
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
           ftp-server: ${{ secrets.FTP_SERVER }}

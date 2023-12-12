@@ -26,8 +26,8 @@ jobs:
       - name: Deploy 
         uses: GenieTim/ftp-action@v4.0.1
         with:
-          ftp-server: ${{ secrets.FTP_SERVER }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          host: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
           localDir: public/
           remoteDir: /domains/raveeflix.my.id/public_html/

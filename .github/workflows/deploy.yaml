@@ -24,11 +24,10 @@ jobs:
         run: hugo --minify
 
       - name: Deploy 
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        uses: GenieTim/ftp-action@v4.0.1
         with:
           ftp-server: ${{ secrets.FTP_SERVER }}
           ftp-username: ${{ secrets.FTP_USERNAME }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: public/
-          remote-dir: /domains/raveeflix.my.id/public_html/
-          git-ftp-args: --insecure --all
+          localDir: public/
+          remoteDir: /domains/raveeflix.my.id/public_html/

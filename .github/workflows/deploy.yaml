@@ -23,17 +23,21 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Generate list of changes
+      - name: Fetch the list of changed files
         run: |
-          git diff --name-only HEAD^ HEAD > changes.txt
+          git fetch --prune
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+          echo "$CHANGED_FILES" > changed_files.txt
 
       - name: Deploy only changed files
         run: |
-          while read file; do
-            lftp -c "set ftp:list-options -a;
-            open ${{ secrets.FTP_SERVER }};
-            user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }};
-            lcd public;
-            cd /domains/raveeflix.my.id/public_html/;
-            mirror --reverse --continue --delete --verbose $file; bye"
-          done < changes.txt
+          while IFS= read -r file; do
+            if [ -f "public/$file" ]; then
+              lftp -c "set ftp:list-options -a;
+              open ${{ secrets.FTP_SERVER }};
+              user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }};
+              lcd public;
+              cd /domains/raveeflix.my.id/public_html/;
+              put -O /domains/raveeflix.my.id/public_html/ public/$file; bye"
+            fi
+          done < changed_files.txt

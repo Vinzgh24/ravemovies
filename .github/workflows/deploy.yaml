@@ -78,4 +78,4 @@ jobs:
           # password: ${{ secrets.ftp_password }}
           # port: ${{ vars.ftp_port }}
           server-dir: '/domains/raveeflix.my.id/public_html/' # This will depend on your server
-          local-dir: './public/*' # This is the path where the artifact is located
+          local-dir: 'public/' # This is the path where the artifact is located

@@ -23,21 +23,13 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Fetch the list of changed files
-        run: |
-          git fetch --prune
-          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
-          echo "$CHANGED_FILES" > changed_files.txt
-
-      - name: Deploy only changed files
-        run: |
-          while IFS= read -r file; do
-            if [ -f "public/$file" ]; then
-              lftp -c "set ftp:list-options -a;
-              open ${{ secrets.FTP_SERVER }};
-              user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }};
-              lcd public;
-              cd /domains/raveeflix.my.id/public_html/;
-              put -O /domains/raveeflix.my.id/public_html/ public/$file; bye"
-            fi
-          done < changed_files.txt
+      - name: Deploy 
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: public/
+          server-dir: /domains/raveeflix.my.id/public_html/
+          # Add synchronization parameters
+          args: --delete --parallel=10 --exclude=".git*"

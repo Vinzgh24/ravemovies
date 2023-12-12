@@ -15,20 +15,30 @@ jobs:
         with:
           submodules: true  # Checkout submodules
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
         with:
-          hugo-version: 'latest'
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Deploy 
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: Determine changed files
+        id: changed_files
+        run: echo ::set-output name=files::$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+
+      - name: Deploy if changes
+        if: steps.changed_files.outputs.files != ''
+        uses: SamKirkland/FTP-Deploy-Action@4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: public/
           server-dir: /domains/raveeflix.my.id/public_html/
-         
+      - name: Skip deployment
+        if: steps.changed_files.outputs.files == ''
+        run: echo "No changes to deploy"

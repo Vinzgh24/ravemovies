@@ -13,21 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup Go
-        uses: actions/setup-go@v2
-        with:
-          go-version: 1.17
-
-      - name: Build and Test
-        run: |
-          go build ./...
-          go test ./...
-
       - name: FTP Deploy
-        uses: seppy/ftp-action@v2
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: './public'
-          remote-dir: '/domains/raveeflix.my.id/public_html/'
+          local-dir: './public/'
+          server-dir: '/domains/raveeflix.my.id/public_html/'

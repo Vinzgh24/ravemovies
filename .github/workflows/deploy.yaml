@@ -23,17 +23,17 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Check out previous commit
-        run: git checkout HEAD^ public/ 
+      - name: Generate list of changes
+        run: |
+          git diff --name-only HEAD^ HEAD > changes.txt
 
-      - name: Delete extraneous files
-        run: rsync -av --delete public/ temp_public/ && mv temp_public/ public/
-
-      - name: Deploy
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: public/
-          server-dir: /domains/raveeflix.my.id/public_html/
+      - name: Deploy only changed files
+        run: |
+          while read file; do
+            lftp -c "set ftp:list-options -a;
+            open ${{ secrets.FTP_SERVER }};
+            user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }};
+            lcd public;
+            cd /domains/raveeflix.my.id/public_html/;
+            mirror --reverse --continue --delete --verbose $file; bye"
+          done < changes.txt

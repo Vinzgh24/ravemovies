@@ -21,3 +21,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: './public/'
           server-dir: '/domains/raveeflix.my.id/public_html/'
+          exclude: '.git*,node_modules' # Excludes .git directory and node_modules from the upload

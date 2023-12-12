@@ -1,25 +1,25 @@
-name: FTP Upload
-
-on:
-  push:
-    branches:
-      - main
-
 jobs:
-  deploy:
+  Deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 9999 # Increase the timeout to 60 minutes
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
 
-      - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@4.0.0
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: './public/'
-          server-dir: '/domains/raveeflix.my.id/public_html/'
-          exclude: '.git*,node_modules' # Excludes .git directory and node_modules from the upload
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+
+    - name: Build site
+      run: hugo --minify
+
+    - name: FTP site
+      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      with:
+        ftp-server: raveeflix.my.id
+        ftp-username: raveefli
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: public/
+        git-ftp-args: --insecure --all

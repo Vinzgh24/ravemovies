@@ -31,5 +31,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: public/
           server-dir: /domains/raveeflix.my.id/public_html/
-          # Add synchronization parameters
-          args: --delete --parallel=10 --exclude=".git*"
+          timeout: 60000
+          exclude: ./.git*

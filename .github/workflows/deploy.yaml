@@ -1,0 +1,30 @@
+name: Deploy to DirectAdmin
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build website
+        run: hugo --minify
+
+      - name: Deploy to DirectAdmin
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: "./public"
+          server-dir: "/domains/raveeflix.my.id/public_html/"

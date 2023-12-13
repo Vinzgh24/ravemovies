@@ -3,7 +3,7 @@ title: "Sakral (2018)"
 date: 2023-11-01T06:38:24Z
 tags: ["Movie"]
 categories: ["Horror"]
-summary: "Melina dan Daniel, yang sudah menikah, sedang menantikan kelahiran putri kembar mereka, Flora dan Fiona. Sayangnya, hanya Flora yang bertahan. Namun Flora tumbuh sebagai anak yang pendiam, enggan berinteraksi dengan orang tuanya."
+summary: "Melina dan Daniel, yang sudah menikah, sedang menantikan kelahiran putri kembar mereka, Flora dan Fiona. Sayangnya, hanya Flora yang Bertahan. Namun Flora tumbuh sebagai anak yang pendiam, enggan berinteraksi dengan orang tuanya."
 ---
 
 <mux-player stream-type="on-demand"

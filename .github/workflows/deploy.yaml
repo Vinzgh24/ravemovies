@@ -16,7 +16,7 @@ jobs:
       - name: Install git-ftp
         run: |
           sudo apt-get install git-ftp
-
+          
       - name: Configure and initialize git-ftp
         run: |
           git config git-ftp.url "raveeflix.my.id"
@@ -27,6 +27,4 @@ jobs:
 
       - name: Upload changes to FTP
         run: |
-          git add . -f
-          git commit -m "Init"
-          git ftp push -f  # This will upload only the committed changes to the FTP server
+          git ftp push # This will upload only the committed changes to the FTP server

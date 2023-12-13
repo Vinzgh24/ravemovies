@@ -16,19 +16,14 @@ jobs:
       - name: Install git-ftp
         run: |
           sudo apt-get install git-ftp
-      - name: Upload to FTP
-        run: |
-          git ftp push  # This will upload only the committed changes to the FTP server
-          
-          
+
       - name: Configure and initialize git-ftp
         run: |
           git config git-ftp.url "raveeflix.my.id"
           git config git-ftp.user "raveefli"
           git config git-ftp.password "Natusvincer12@"
           git config git-ftp.remote-root "/domains/raveeflix.my.id/public_html/"
-          git ftp init -u raveefli -p Natusvincer12@ raveeflix.my.id
-          # Consider using GitHub Secrets for sensitive information
+          git ftp init
 
       - name: Upload changes to FTP
         run: |

@@ -1,7 +1,1 @@
-# .git-ftp-ignore
-
-# Exclude all files and directories except "public" folder
-*
-!.gitignore
-!.git-ftp-ignore
-!public/
+ 

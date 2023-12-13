@@ -27,4 +27,6 @@ jobs:
 
       - name: Upload changes to FTP
         run: |
-          git ftp push  # This will upload only the committed changes to the FTP server
+          git add . -f
+          git commit -m "Init"
+          git ftp push -f  # This will upload only the committed changes to the FTP server

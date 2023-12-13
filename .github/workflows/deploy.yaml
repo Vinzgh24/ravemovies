@@ -22,7 +22,7 @@ jobs:
           git config git-ftp.url "raveeflix.my.id"
           git config git-ftp.user "raveefli"
           git config git-ftp.password "Natusvincer12@"
-          git config git-ftp.remote-root "/domains/raveeflix.my.id/public_html/"
+          git config git-ftp.remote-root "/domains/raveeflix.my.id/public_html"
           git ftp init
 
       - name: Upload changes to FTP

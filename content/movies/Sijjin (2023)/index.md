@@ -11,7 +11,7 @@ summary: "Seorang wanita muda yang menggunakan ilmu hitam untuk mengancam istri 
     <div class="modal-content">
         <span class="close-x">&times;</span>
         <h2>WATCH AT YOUR OWN RISK!</h2>
-        <p>Film ini masih menunggunakan kualitas Rekaman yang diambil dari bioskop langsung.</p>
+        <p>Film ini masih menunggunakan kualitas REKAMAN yang diambil dari bioskop langsung.</p>
     </div>
 </div>
 

@@ -19,7 +19,7 @@ jobs:
         
       - name: Configure git-ftp
         run: |
-          git config git-ftp.url "raveeflix.my.id/domains/raveeflix.my.id/public_html/"
+          git config git-ftp.url "raveeflix.my.id:2222/CMD_FILE_MANAGER?path=/domains/raveeflix.my.id/public_html/"
           git config git-ftp.user "raveeflix"
           git config git-ftp.password "Natusvincer12@"  # Consider using GitHub Secrets for sensitive information
 

@@ -1,9 +1,10 @@
 ---
-title: "Attack on Titan"
-date: 2023-11-05T08:50:56Z
-description: "Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan."
+title: "Yu Yu Hakusho"
+date: 2023-12-14T12:55:47Z
+description: "Setelah tewas karena melakukan kebaikan, Yusuke Urameshi, si preman remaja, terpilih jadi Detektif Dunia Arwah untuk menyelidiki kasus-kasus yang melibatkan yokai jahat."
 tags: ["Tv-Series"]
-categories: ["Anime", "Action", "Adventure"]
+list: ["Trending"]
+categories: ["Action", "Adventure", "Comedy"]
 
 cascade:
   showEdit: false
@@ -13,7 +14,7 @@ cascade:
 ---
 
 {{< lead >}}
-Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah untuk membersihkan bumi dari para Titan humanoid raksasa yang telah membawa umat manusia ke ambang kepunahan.
+Setelah tewas karena melakukan kebaikan, Yusuke Urameshi, si preman remaja, terpilih jadi Detektif Dunia Arwah untuk menyelidiki kasus-kasus yang melibatkan yokai jahat.
 {{< /lead >}}
 
 <style>
@@ -49,13 +50,14 @@ Setelah kampung halamannya hancur dan ibunya dibunuh, Eren Jaeger muda bersumpah
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Attack on Titan</div>
+        <div class="movie-title">Yu Yu Hakusho</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Action, Adventure</p>
-            <p><strong>Release Date:</strong> 2013</p>
+            <p><strong>Genre:</strong> Action, Adventure, Comedy</p>
+            <p><strong>Release Date:</strong> 2023</p>
+            <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">9.0</div>
+        <div class="movie-rating">9.5</div>
     </div>
 
 ---

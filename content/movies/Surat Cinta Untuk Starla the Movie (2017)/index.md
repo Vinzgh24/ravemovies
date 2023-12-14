@@ -1,6 +1,6 @@
 ---
 title: "Surat Cinta Untuk Starla the Movie (2017)"
-date: 2023-10-15T12:41:49Z
+date: 2023-12-14T13:05:01Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
 summary: "Hema terobsesi dengan alam dan selalu membuat surat cinta untuknya. Suatu hari, ia bertemu Starla yang mampu membuatnya jatuh cinta. Untuk pertama kalinya, ia menyadari bahwa ada surat cinta yang lebih indah yaitu surat cinta untuk..."
@@ -22,9 +22,9 @@ summary: "Hema terobsesi dengan alam dan selalu membuat surat cinta untuknya. Su
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Surat Cinta Untuk Starla the Movie (2017)",
-  "contentUrl": "https://stream.mux.com/e7RB7vQAf02k9HUL802Q9DVNOsdTfSbiD6xa3y1BHMxBA.m3u8",
+  "contentUrl": "https://stream.mux.com/HY6khZU8Vm5ymKGznVQu3Eq2F47YtvAtLPQB2722O5I.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/meka1uoXLVyb5FbMQTre2WmZorX.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-10-15T12:41:49Z",
+  "uploadDate": "2023-12-14T13:05:01Z",
 }
 
 </script>

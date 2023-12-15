@@ -3,7 +3,6 @@ title: "Gadis Kretek"
 date: 2023-11-11T12:16:20Z
 description: "Di tengah perpaduan rempah-rempah yang menggugah untuk menciptakan rokok kretek yang sempurna, dua jiwa memulai kisah cinta epik yang berlatar di Indonesia tahun 1960-an."
 tags: ["Tv-Series"]
-list: ["Trending"]
 categories: ["Drama", "History", "Romance"]
 
 cascade:

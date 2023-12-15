@@ -30,7 +30,7 @@ description: "Raveflix adalah Web streaming film yang dikhususkan untuk nobar pa
   </style>
 Raveflix adalah situs Streaming yang dibuat khusus untuk menonton film melalui Aplikasi Rave. Untuk Streaming melalui WEB ini sangat disarankan menggunakan Aplikasi Rave saat menonton.
 
-Baca Panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >}})
+Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >}})
 
 <div align="center">
 <a href="https://saweria.co/Raveflix" target="_blank">

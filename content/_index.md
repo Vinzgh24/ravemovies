@@ -36,7 +36,7 @@ Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >
 Raveflix Sekarang pindah alamat menjadi <a href="https://raveeflix.my.id" target="_blank">https://raveeflix.my.id</a>
 </div>
 
-<iframe loading="lazy" title="donasi" src="https://saweria.co/widgets/qr?streamKey=cf64c49d2a1e9d7ab54d187fa3d011d5" width="250" height="300" frameborder="0" allowfullscreen=""></iframe>
+<iframe loading="lazy" title="donasi" src="https://saweria.co/widgets/wheel?streamKey=cf64c49d2a1e9d7ab54d187fa3d011d5" width="250" height="300" frameborder="0" allowfullscreen=""></iframe>
 
 <div align="center">
 <a href="https://saweria.co/Raveflix" target="_blank">

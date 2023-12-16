@@ -2,8 +2,8 @@
 title: "Higop (2023)"
 date: 2023-12-14T13:29:58Z
 tags: ["Movie"]
-categories: ["Horror", "Thriller"]
-summary: "Noah sudah lama merindukan mantan pacarnya Ysa yang kini bekerja di kedai teh susu. Saat dia mengejar Ysa lagi, dia mengetahui bahwa produk sebenarnya yang mereka layani adalah para wanita."
+categories: ["Action", "Adventure", "Fantasy"]
+summary: "Penjahat super Harley Quinn, Bloodsport, Peacemaker, dan sekumpulan penjahat brutal dari penjara Belle Reve bergabung dengan Task Force X mereka ditugaskan secara rahasia di pulau Corto Maltese yang terpencil dan dipenuhi musuh."
 ---
 
 {{< adult >}}
@@ -13,7 +13,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 
 </mux-player>
 
-
+{{< movieinfo id="1205036" >}}
 
 <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
 

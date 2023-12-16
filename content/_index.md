@@ -28,9 +28,7 @@ description: "Raveflix adalah Web streaming film yang dikhususkan untuk nobar pa
   margin-right: 5px;
 }
 
-.trakteer {
-  margin-top: 15px;
-}
+
   </style>
 Raveflix adalah situs Streaming yang dibuat khusus untuk menonton Film melalui Aplikasi Rave. Untuk Streaming melalui WEB ini sangat disarankan menggunakan Aplikasi Rave saat menonton.
 
@@ -39,9 +37,7 @@ Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >
 <div align="center">
 Raveflix Sekarang pindah alamat menjadi <a href="https://raveeflix.my.id" target="_blank">https://raveeflix.my.id</a>
 
-<div class="trakteer">
-<script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Trakteer','#be1e2d','https://trakteer.id/levi-rave/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
-</div>
+
 
 ### JOIN GROUP
 

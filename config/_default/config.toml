@@ -2,43 +2,30 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish"
+ theme = "blowfish"
 baseURL = "https://raveeflix.my.id"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
-enableRobotsTXT = false
+enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
 buildDrafts = false
 buildFuture = false
 
-googleAnalytics = "G-M5EEXDP83C"
+# googleAnalytics = "G-XXXXXXXXX"
 
-[permalinks]
-  [permalinks.term]
-    tags = '/:slug/'
-    categories = '/:slug/'
-    list = '/:slug/'
-   
-  [permalinks.page]
-    movies = '/:slug/'
-    drakor = '/:slug/'
-    tv = '/:slug/'
-    anime = '/:slug/'
-    
 [imaging]
   anchor = 'Center'
-    
+
 [taxonomies]
   tag = "tags"
   category = "categories"
   author = "authors"
   series = "series"
-  trending = "list"
-  
+
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
@@ -53,23 +40,19 @@ googleAnalytics = "G-M5EEXDP83C"
 
     [[related.indices]]
         name = "tags"
-        weight = 100
+        weight = 20
 
     [[related.indices]]
         name = "categories"
-        weight = 50
-        
-    [[related.indices]]
-        name = "drakor"
         weight = 100
 
     [[related.indices]]
         name = "series"
-        weight = 20
+        weight = 50
 
     [[related.indices]]
         name = "authors"
-        weight = 20
+        weight = 10
 
     [[related.indices]]
         name = "date"

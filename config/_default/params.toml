@@ -129,7 +129,7 @@ disableTextInHeader = false
 
 [buymeacoffee]
   # identifier = ""
-  # globalWidget = true
+   globalWidget = false
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "Right"

@@ -2,8 +2,7 @@
 title: "TAYLOR SWIFT | THE ERAS TOUR (2023)"
 date: 2023-12-15T09:40:42Z
 tags: ["Movie"]
-categories: ["Documentary", "Music"]
-list: ["Trending"]
+categories: ["Documentary", "Music", "Trending"]
 summary: "Nikmati konser Eras Tour yang dibawakan oleh satu-satunya Taylor Swift."
 ---
 

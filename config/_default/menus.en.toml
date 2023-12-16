@@ -65,7 +65,7 @@
 
 [[main]]
   name = "Trending"
-  pageRef = "list/trending/"
+  pageRef = "/trending/"
   weight = 70
    
 # -- Footer Menu --

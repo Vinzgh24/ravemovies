@@ -2,7 +2,7 @@
 title: "Suicide Squad (2016)"
 date: 2023-12-16T11:50:40Z
 tags: ["Movie"]
-categories: ["Horror", "Thriller"]
+categories: ["Action", "Adventure", "Fantasy"]
 summary: "Noah sudah lama merindukan mantan pacarnya Ysa yang kini bekerja di kedai teh susu. Saat dia mengejar Ysa lagi, dia mengetahui bahwa produk sebenarnya yang mereka layani adalah para wanita."
 ---
 

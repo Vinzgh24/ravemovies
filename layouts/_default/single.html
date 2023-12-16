@@ -58,7 +58,8 @@
     {{ end }}
   
   </header>
- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
  
  {{ if .Params.adult }}
 <div class="modall" id="modall">
@@ -69,16 +70,6 @@
     </div>
 </div>
 {{ end }}
-
-<script>
-$(document).ready(function(){
-    $('.modall').fadeIn();
-    $('.close-x').click(function(){
-        $('.modall').fadeOut();
-    });
-});
-  </script>
-
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
     {{ if or (and (.Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false)) (in

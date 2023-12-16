@@ -34,7 +34,6 @@ Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >
 
 <div align="center">
 Raveflix Sekarang pindah alamat menjadi <a href="https://raveeflix.my.id" target="_blank">https://raveeflix.my.id</a>
-</div>
 
 ### JOIN GROUP
 

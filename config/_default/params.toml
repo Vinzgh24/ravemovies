@@ -59,6 +59,7 @@ disableTextInHeader = false
   showBreadcrumbs = false
   showDraftLabel = false
   showEdit = false
+  showComments = true
   # editURL = "https://github.co/username/repo/"
   editAppendPath = true
   seriesOpened = true

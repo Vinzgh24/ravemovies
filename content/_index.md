@@ -37,6 +37,9 @@ Baca panduan untuk memutar Video melalui Rave [disini]({{< ref "tutorial rave" >
 <div align="center">
 Raveflix Sekarang pindah alamat menjadi <a href="https://raveeflix.my.id" target="_blank">https://raveeflix.my.id</a>
 
+ <div style="margin-top: 15px">
+          <script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Trakteer','#be1e2d','https://trakteer.id/levi-rave/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
+        </div>
 
 
 ### JOIN GROUP

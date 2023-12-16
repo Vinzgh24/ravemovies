@@ -63,6 +63,21 @@ document.addEventListener("keydown", function (event) {
       }
     }
   }
+
+  // Enter to get to results
+  if (event.key == "Enter") {
+    if (searchVisible && hasResults) {
+      event.preventDefault();
+      if (document.activeElement == input) {
+        first.focus();
+      } else {
+        document.activeElement.click();
+      }
+    }else{
+      event.preventDefault();
+    }
+  }
+
 });
 
 // Update search on each keypress
@@ -118,7 +133,9 @@ function buildIndex() {
       includeMatches: true,
       keys: [
         { name: "title", weight: 0.8 },
-       
+        { name: "section", weight: 0.2 },
+        { name: "summary", weight: 0.6 },
+        { name: "content", weight: 0.4 },
       ],
     };
     fuse = new Fuse(data, options);

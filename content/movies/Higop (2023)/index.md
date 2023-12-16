@@ -6,8 +6,6 @@ categories: ["Action", "Adventure", "Fantasy"]
 summary: "Penjahat super Harley Quinn, Bloodsport, Peacemaker, dan sekumpulan penjahat brutal dari penjara Belle Reve bergabung dengan Task Force X mereka ditugaskan secara rahasia di pulau Corto Maltese yang terpencil dan dipenuhi musuh."
 ---
 
-{{< adult >}}
-
 <mux-player stream-type="on-demand"
 src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUezzylnudtNtjac6o7-cUgBrjM5V3Rdmafb1i0Lu6AzWQ" prefer-playback="mse" controls>
 

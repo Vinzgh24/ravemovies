@@ -1,6 +1,6 @@
 ---
 title: "Kingsman: The Secret Service (2014)"
-date: 2023-11-11T17:00:49Z
+date: 2023-12-16T11:52:40Z
 tags: ["Movie"]
 categories: ["Action", "Adventure", "Comedy"]
 series: ["Kingsman"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Kingsman: The Secret Service (2014)",
-"contentUrl": "https://stream.mux.com/mAguFf5YDaMowYPVxrmH01mUELP1OR9MVtXJtMqtEWSU.m3u8",
+"contentUrl": "https://stream.mux.com/00MBYJwzsCE76Sw800hGigyVLkp00Gg4e19A01tZMcZk67E.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7KH0ItqWpQUSwS2E8jYiDoMU7Wb.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:00:49Z",
 }

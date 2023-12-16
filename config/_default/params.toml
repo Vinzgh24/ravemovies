@@ -32,7 +32,7 @@ disableTextInHeader = false
   showMenu = true
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
@@ -88,7 +88,7 @@ disableTextInHeader = false
   groupByYear = false
   cardView = true 
   cardViewScreenWidth = true
-  constrainItemsWidth = true
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]

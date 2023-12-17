@@ -6,7 +6,7 @@ series: ["Pertaruhan the Series S1"]
 
 
 <mux-player stream-type="on-demand"
-  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ESP_lQtuHD5Mm5kuv3p8H0MBaKPyY_LSYBzMxVdzIutgwA" prefer-playback="mse" controls>
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ef3E3N_TLe9Bqqd1pXrUPP0B3JSjdw5T8HCu-K9PdIr_dQ" prefer-playback="mse" controls>
   </mux-player>
   
   
@@ -17,7 +17,7 @@ series: ["Pertaruhan the Series S1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pertaruhan the Series - S1E3 - Peperangan",
-  "contentUrl": "https://stream.mux.com/DnAGhhfV6D98THiOKzjcXZcT00KkTTFHP224zAT9HeDQ.m3u8",
+  "contentUrl": "https://stream.mux.com/pC4V1A6TFeQ9sGPZeXRo8wEBtImyyOfxaPKgvBoyaOI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-17T13:30:33Z",
 }

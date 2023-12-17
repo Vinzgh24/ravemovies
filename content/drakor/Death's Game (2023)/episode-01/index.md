@@ -1,7 +1,7 @@
 ---
 title: "Death's Game - S1E1 - Kematian"
 date: 2023-12-17T02:52:34Z
-series: ["Death's Game"]
+series: ["Deaths Game"]
 ---
 
 

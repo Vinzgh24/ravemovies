@@ -1,7 +1,7 @@
 ---
 title: "Death's Game - S1E2 - Punca Ke Neraka"
 date: 2023-12-17T02:52:37Z
-series: ["Death's Game"]
+series: ["Deaths Game"]
 ---
 
 

@@ -1,22 +1,30 @@
 ---
 title: "1920: Horrors of the Heart (2023)"
-date: 2023-09-03T10:23:02Z
+date: 2023-12-17T04:35:12Z
 tags: ["Movie"]
 categories: ["Drama", "Horror"]
+summary: "Seorang gadis muda masuk ke dunia kegelapan untuk mencari balas dendam, tetapi kegelapan menguasai dirinya sehingga menjadikannya korban dari balas dendam itu."
 ---
 
-Seorang gadis muda masuk ke dunia kegelapan untuk mencari balas dendam, tetapi kegelapan menguasai dirinya sehingga menjadikannya korban dari balas dendam itu.
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240"
-poster="https://www.themoviedb.org/t/p/original/1ESHwTZnmxemZqxe6QgymRpR8ic.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ETtZrbhFwrtMiTM3MyZz1lwBMDTTKNdNuaXVEcjw0uIdhw" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EfK7oeVgFSZOmh2dlOT-xiQBFywZ3KtQYzRt_n3qJw0kbg" prefer-playback="mse" controls>
+
+</mux-player>
+
+
+{{< movieinfo id="420634" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "1920: Horrors of the Heart",
+"contentUrl": "https://stream.mux.com/AYbb4VsRQGvIuqAeDJ3D1fsr12qBck8lSAEuMpJidyE.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ESHwTZnmxemZqxe6QgymRpR8ic.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-12-17T04:35:12Z",
+}
+
+</script>

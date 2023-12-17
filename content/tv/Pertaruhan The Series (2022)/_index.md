@@ -1,9 +1,9 @@
 ---
-title: "Death's Game"
-date: 2023-12-17T02:52:13Z
-description: "Di ambang ke neraka, Yee-jae mesti melalui 12 kehidupan berasingan dan 12 kematian berasingan dalam drama penjelmaan semula ini."
-tags: ["K-Drama"]
-categories: ["Drama", "Fantasy"]
+title: "Pertaruhan the Series"
+date: 2023-12-17T13:30:04Z
+description: "Dalam cerita ini, Elzan memperjuangkan keutuhan keluarganya dengan mempertaruhkan segalanya untuk mempertahankan rumah keluarganya dari upaya bank untuk menyita properti mereka dan menghancurkan hidup mereka."
+tags: ["Tv-Series"]
+categories: ["Action", "Crime", "Drama"]
 
 cascade:
   showEdit: false
@@ -13,7 +13,7 @@ cascade:
 ---
 
 {{< lead >}}
-Di ambang ke neraka, Yee-jae mesti melalui 12 kehidupan berasingan dan 12 kematian berasingan dalam drama penjelmaan semula ini.
+Dalam cerita ini, Elzan memperjuangkan keutuhan keluarganya dengan mempertaruhkan segalanya untuk mempertahankan rumah keluarganya dari upaya bank untuk menyita properti mereka dan menghancurkan hidup mereka.
 {{< /lead >}}
 
 <style>
@@ -49,14 +49,14 @@ Di ambang ke neraka, Yee-jae mesti melalui 12 kehidupan berasingan dan 12 kemati
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Death's Game</div>
+        <div class="movie-title">Pertaruhan the Series</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong>Drama, Fantasy</p>
-            <p><strong>Release Date:</strong> 2023</p>
-            <p><strong>Season:</strong> 1</p>
-            <p><strong>Status:</strong> Ongoing</p>
+            <p><strong>Genre:</strong>Action, Crime, Drama</p>
+            <p><strong>Release Date:</strong> 2022</p>
+            <p><strong>Season:</strong> 2</p>
+            <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">9.1</div>
+        <div class="movie-rating">8.4</div>
     </div>
 
 ---

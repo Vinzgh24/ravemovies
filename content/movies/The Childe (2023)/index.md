@@ -22,7 +22,7 @@ summary: "Anak itu berfokus pada seorang pria yang lahir dari ayah Korea dan ibu
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Childe (2023)",
-  "contentUrl": "https://stream.mux.com/I8xeGh7xvXAyRGGYv4xJJ4oWG49PVIX8HZTwN6Wo7008.m3u8",
+  "contentUrl": "https://stream.mux.com/M00zVzMibVwb5022ELGAriH02023501Me02pnT02J3GhfgJw00M.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ydC8ubFXQfkPJDhkduMhbE9mTz7.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:19:16Z",
 }

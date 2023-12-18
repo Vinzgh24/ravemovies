@@ -1,6 +1,6 @@
 ---
 title: "Spirited Away (2001) [Dubbing Indonesia]"
-date: 2023-10-18T11:04:15Z
+date: 2023-12-18T10:15:00Z
 tags: ["Movie"]
 categories: ["Anime", "Adventure", "Family"]
 summary: "Selama keluarganya pindah ke pinggiran kota, seorang gadis berusia 10 tahun yang cemberut mengembara ke dunia yang diperintah oleh para dewa, penyihir, dan roh, sebuah dunia di mana manusia diubah menjadi binatang buas."
@@ -22,7 +22,7 @@ summary: "Selama keluarganya pindah ke pinggiran kota, seorang gadis berusia 10 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Spirited Away",
-  "contentUrl": "https://stream.mux.com/OAKguIIRq02N3YBDWroCYJyPK5vyXKDqdnXQYV8KRqU4.m3u8",
+  "contentUrl": "https://stream.mux.com/N6c6aIGwcGDFFHsKvPO3Vx961aO7V8v01Jcrx01itW9R8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/sRDfWh1x7qVi9R6Y86XVCQzSjVH.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:04:15Z",
 }

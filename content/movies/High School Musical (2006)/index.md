@@ -1,6 +1,6 @@
 ---
 title: "High School Musical (2006)"
-date: 2023-11-10T19:00:42Z
+date: 2023-12-18T09:59:25Z
 tags: ["Movie"]
 categories: ["Comedy", "Drama", "Family"]
 series: ["High School Musical"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "High School Musical (2006)",
-"contentUrl": "https://stream.mux.com/FOBdiNAHNc00uLA01OK01GGyhlhePyls8hPEB6tUhwXIn8.m3u8",
+"contentUrl": "https://stream.mux.com/018vFkYRxYCbG4VguwGmlBwa02lPG4rpLkscGarnA8LOA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7NUAiD9n6Cu6u5rzYLscMSPNYZC.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-10T19:00:42Z",
 }

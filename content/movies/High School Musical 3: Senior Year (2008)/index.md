@@ -1,6 +1,6 @@
 ---
 title: "High School Musical 3: Senior Year (2008)"
-date: 2023-11-10T19:07:11Z
+date: 2023-12-18T10:01:25Z
 tags: ["Movie"]
 categories: ["Comedy", "Drama", "Family"]
 series: ["High School Musical"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "High School Musical 3: Senior Year (2008)",
-"contentUrl": "https://stream.mux.com/Q4RKGOVl9I8uQNplxHRXrYtF9NoTz9jbZSlSSCoxMIo.m3u8",
+"contentUrl": "https://stream.mux.com/QHocZ4yaEd01Jc7tTBbVPqM02wPdiJ700DY7Wz9NUMz1xs.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/s9thwoLtBOjOEvqPAPStnRZgNHn.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-10T19:07:11Z",
 }

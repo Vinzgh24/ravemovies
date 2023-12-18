@@ -4,7 +4,7 @@ date: 2023-12-18T19:22:42Z
 tags: ["Movie"]
 categories: ["Horror"]
 series: ["Makmum"]
-summary: "Saat berada di asrama, penghuni asrama diteror oleh makhluk gaib. Ada sejenis makhluk gaib bernama "Makmum" (pengikut) yang mengikuti mereka selama shalat."
+summary: "Saat berada di asrama, penghuni asrama diteror oleh makhluk gaib. Ada sejenis makhluk gaib bernama Makmum (pengikut) yang mengikuti mereka selama shalat."
 ---
 
 <mux-player stream-type="on-demand"

@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfis"
+theme = "blowfish"
 baseURL = "https://raveeflix.my.id"
 defaultContentLanguage = "en"
 

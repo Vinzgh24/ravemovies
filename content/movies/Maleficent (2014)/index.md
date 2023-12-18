@@ -1,6 +1,6 @@
 ---
 title: "Maleficent (2014) [Dual Audio]"
-date: 2023-10-27T07:21:48Z
+date: 2023-12-18T18:19:57Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]
 series: ["Maleficent"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Maleficent",
-"contentUrl": "https://stream.mux.com/ni6OAOeA8hSplU6Yr2GcfLXw7Y87Hyc8QTLpO6pzcWQ.m3u8",
+"contentUrl": "https://stream.mux.com/K02NMs66zheJJj00f0001F4fU01nFKbYlZyzUQ701DW5BuuRI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zYrHQLfUHnuk0XZ6cXBQ6K6RALK.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-27T07:21:48Z",
 }

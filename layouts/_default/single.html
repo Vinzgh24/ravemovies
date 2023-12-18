@@ -59,6 +59,11 @@
   
   </header>
   
+  {{ if .Params.adult }}
+  <div class="warning-message">
+    This content contains 18+ material. Viewer discretion is advised.
+  </div>
+{{ end }}
 
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     

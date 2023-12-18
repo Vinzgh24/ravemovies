@@ -1,6 +1,6 @@
 ---
 title: "Maleficent: Mistress of Evil (2019) [Dual Audio]"
-date: 2023-10-27T07:26:46Z
+date: 2023-12-18T18:20:57Z
 tags: ["Movie"]
 categories: ["Adventure", "Family", "Fantasy"]
 series: ["Maleficent"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Maleficent: Mistress of Evil",
-"contentUrl": "https://stream.mux.com/kKcK6n52fAXdKNMGobqYtcVKUpgOCIPFqfrBaMIjdPM.m3u8",
+"contentUrl": "https://stream.mux.com/eTkQkjN4WMQBkldy3oeL3fbA1AAcTOO12kpFjUM400go.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/odlWoWlQWuNuwrQL4BqfjCHUyAy.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-27T07:26:46Z",
 }

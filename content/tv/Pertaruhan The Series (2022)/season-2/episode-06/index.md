@@ -17,7 +17,7 @@ series: ["Pertaruhan the Series S2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pertaruhan the Series - S2E6 - Kebenaran Tersembunyi",
-  "contentUrl": "https://stream.mux.com/c4xSC00be9dpJnrtwd438Yceg92TD00GMxmpMbcHOkbZc.m3u8",
+  "contentUrl": "https://stream.mux.com/sz8B00JQGOFGux7vysZmQkIfpcED502viDzaU4WZiQR7o.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-17T13:34:18Z",
 }

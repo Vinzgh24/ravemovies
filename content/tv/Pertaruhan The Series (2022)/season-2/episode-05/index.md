@@ -17,7 +17,7 @@ series: ["Pertaruhan the Series S2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pertaruhan the Series - S2E5 - Perangkap",
-  "contentUrl": "https://stream.mux.com/6rpXEIIh8PmIJzbiI1QMEvGAmRJPhunPtrUlKmjW01fg.m3u8",
+  "contentUrl": "https://stream.mux.com/2UYmap5ejVI3btB01NAB1Urx2ZM008wjVSF7eMwd5d01LI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-17T13:34:16Z",
 }

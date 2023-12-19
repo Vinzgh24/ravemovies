@@ -17,7 +17,7 @@ series: ["Pertaruhan the Series S2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pertaruhan the Series - S2E8 - Menantang Langit",
-  "contentUrl": "https://stream.mux.com/TIAvFtK9F01N02KvIYPrJf98SWjU7VkhXqYWimtq00s64U.m3u8",
+  "contentUrl": "https://stream.mux.com/fWeUU00ASI12ENAk96NhYnbySmrP39HTaOpjmkMs02AcY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-17T13:34:23Z",
 }

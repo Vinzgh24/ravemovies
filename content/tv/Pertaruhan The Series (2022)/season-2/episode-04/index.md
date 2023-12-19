@@ -17,7 +17,7 @@ series: ["Pertaruhan the Series S2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pertaruhan the Series - S2E4 - Yang Hidup Dan Yang Mati",
-  "contentUrl": "https://stream.mux.com/E1sDCNL201028smszJMa702Yw64Mj01dd02DzYwmjh1loGV00.m3u8",
+  "contentUrl": "https://stream.mux.com/HaFcQ02YlFSs4GiKxpkXjt01Tn7vq6P3JhM3R7FwoRnxU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-17T13:34:13Z",
 }

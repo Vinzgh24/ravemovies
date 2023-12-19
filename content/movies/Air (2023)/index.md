@@ -1,6 +1,6 @@
 ---
 title: "Air (2023)"
-date: 2023-10-20T11:44:05Z
+date: 2023-12-19T12:49:03Z
 tags: ["Movie"]
 categories: ["Drama", "Sport"]
 summary: "Mengikuti sejarah eksekutif pemasaran olahraga Sonny Vaccaro, dan bagaimana dia memimpin Nike dalam mengejar atlet terhebat dalam sejarah bola basket, Michael Jordan."
@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Air (2023)",
-"contentUrl": "https://stream.mux.com/v6IJ00nE00SQSI9WiXDRwuAGtp4d12JTymdMJpIwLH5Mg.m3u8",
+"contentUrl": "https://stream.mux.com/ZblmSnhq6fm2lqaCyYRXu6a5b5nGhdyTc9FNKt3FS54.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/lUxMsfuR7wKbAeymxkTecQuosxu.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-20T11:44:05Z",
 }

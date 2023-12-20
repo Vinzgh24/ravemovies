@@ -2,7 +2,6 @@
 title: "List Index"
 ---
 
-{{< list-index >}}
 
 <style>
   /* Gaya untuk label urutan */

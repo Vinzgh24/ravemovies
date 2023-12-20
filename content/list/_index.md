@@ -1,5 +1,5 @@
 ---
-title: "List Index"
+title: "list"
 ---
 
 

@@ -25,7 +25,9 @@ buildFuture = false
   category = "categories"
   author = "authors"
   series = "series"
-  movies = "/:filename/"
+  
+ [permalinks]
+     movies = "/:filename/"
 
 [sitemap]
   changefreq = 'daily'

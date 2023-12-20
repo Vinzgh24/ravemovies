@@ -1,7 +1,9 @@
 ---
-title: "list"
-layout: "list-index"
+title: "List Index"
+layout: "default"
 ---
+{{ partial "list-index.html" . }}
+
 <style>
   /* Gaya untuk label urutan */
   .sort-label {

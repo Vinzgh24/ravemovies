@@ -1,5 +1,6 @@
 ---
 title: "list"
+layout: "list-index"
 ---
 <style>
   /* Gaya untuk label urutan */

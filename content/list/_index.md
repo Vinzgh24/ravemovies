@@ -1,8 +1,7 @@
 ---
 title: "List Index"
-layout: "default"
 ---
-{{ partials "list-index.html" . }}
+{{ partial "list-index.html" . }}
 
 <style>
   /* Gaya untuk label urutan */

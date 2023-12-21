@@ -1,6 +1,6 @@
 ---
 title: "Scream (2022)"
-date: 2023-10-29T09:04:33Z
+date: 2023-12-20T114:00:05Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["Scream"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream (2022)",
-"contentUrl": "https://stream.mux.com/006nWlE00vkv9j6NCQ2cPA2eQhFbCf02H01AqWq6CFSqfpQ.m3u8",
+"contentUrl": "https://stream.mux.com/eVrxWxj9BgWdZ7nyU4CSG2qf00l01iWQDh7Ln601pdCFLQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5rkv8BV3QqNVxwGAj7onebhKdP4.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T09:04:33Z",
 }

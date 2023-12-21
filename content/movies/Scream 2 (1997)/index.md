@@ -1,6 +1,6 @@
 ---
 title: "Scream 2 (1997)"
-date: 2023-10-29T08:51:45Z
+date: 2023-12-20T13:55:05Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
 series: ["Scream"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream 2 (1997)",
-"contentUrl": "https://stream.mux.com/a5KtF2Ss02P34OjdoO1Ix02K00AUtNnUW3Wc6Ql7H025PBQ.m3u8",
+"contentUrl": "https://stream.mux.com/wivoOMXcie2eeFstGmrN3BIzseu7CwU01E1LB1eAPZNo.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/83DLsYzmXvzMFMxOzbdw2ChuDH8.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T08:51:45Z",
 }

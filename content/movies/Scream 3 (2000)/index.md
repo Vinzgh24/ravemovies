@@ -1,6 +1,6 @@
 ---
 title: "Scream 3 (2000)"
-date: 2023-10-29T08:53:57Z
+date: 2023-12-20T13:56:05Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
 series: ["Scream"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream 3 (2000)",
-"contentUrl": "https://stream.mux.com/00ZZm00kimixsjyGusTIEy8fPDlHDoIijvBPBBPABeGRo.m3u8",
+"contentUrl": "https://stream.mux.com/jhWw1oX1UcJ00f9OPamsi736Nryh4BWS8l02mXESgWLxA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/cT5Ny8HEYmMjMOAuRbqYCKzsxhN.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T08:53:57Z",
 }

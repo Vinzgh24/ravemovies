@@ -1,6 +1,6 @@
 ---
 title: "Scream (1996)"
-date: 2023-10-29T08:47:59Z
+date: 2023-12-20T13:54:05Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
 series: ["Scream"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream (1996)",
-"contentUrl": "https://stream.mux.com/F2YEJ02W3eo995PplVvxCVsyM4W9EcdujCT7PFdRLZfU.m3u8",
+"contentUrl": "https://stream.mux.com/IuCBxcPCxgakH7Hhq1tzY4dws02IDbpjgC6r2f18KGME.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5O6XW4XcIBkJyHQUstfjpk2t8vo.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T08:47:59Z",
 }

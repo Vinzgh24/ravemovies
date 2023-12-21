@@ -1,6 +1,6 @@
 ---
 title: "Scream VI (2023)"
-date: 2023-11-01T06:33:27Z
+date: 2023-12-20T13:59:05Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["Scream"]
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scream VI (2023)",
-"contentUrl": "https://stream.mux.com/1e02cgse7T4tSEiR6olAWSqjTnWBtuBNmGx94huO02pq00.m3u8",
+"contentUrl": "https://stream.mux.com/tqg01yD027bn6Vm9FLxAB302gWF6MJ01MkLj00Fn1Zc5zQv4.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/pFbZOT8OwaD5jH6rybsjie1Wb1q.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-01T06:33:27Z",
 }

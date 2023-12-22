@@ -23,7 +23,7 @@ summary: "Empat remaja ditipu oleh Profesor Oldman (Tim Curry) untuk mengunjungi
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Scary Movie 2 (2001)",
-  "contentUrl": "https://stream.mux.com/yOHUIvpZV1WYJTpH99XOMqtNISOM86ZWyeS8m2aiVeA.m3u8",
+  "contentUrl": "https://stream.mux.com/H02ErW4gPEkvJapp7Rj6KVYBOJl8NYGYqfjM01RND2bQ00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/fISCR1m6LfajNllSmfWUJdxCpUi.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:20:41Z",
 }

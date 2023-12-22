@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scary Movie 3 (2003)",
-"contentUrl": "https://stream.mux.com/gsp7qBaLqQpCSZXZzx4xVBkwire2GeTp018xv88YT68c.m3u8",
+"contentUrl": "https://stream.mux.com/vUNPJabgCsS02LnkUvo01f01i02O4ncE7eFzFwgORJjUsE00.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2lkfkSw8OgAZSi3ZgAyP5o5HoJE.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T15:10:22Z",
 }

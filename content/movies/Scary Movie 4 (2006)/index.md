@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Scary Movie 4",
-"contentUrl": "https://stream.mux.com/pChF101m6OcmZszZqGyx01wPMFxDSkOtLDDPgp5RjsDwY.m3u8",
+"contentUrl": "https://stream.mux.com/FGyrd4100009x6300UqPKcobYP8QVxw9qVzJlT2WFD00wvE.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eSvHzNsfpkmCAZkSgeOKJTpKc0G.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T15:14:09Z",
 }

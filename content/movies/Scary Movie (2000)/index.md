@@ -23,7 +23,7 @@ summary: "Setahun setelah membuang jenazah pria yang tidak sengaja mereka bunuh,
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Scary Movie (2000)",
-  "contentUrl": "https://stream.mux.com/PutbxKqs3LnMIs1vXAh02GLGM6NuLrUWzi01S5lSYb7tc.m3u8",
+  "contentUrl": "https://stream.mux.com/l027jxK8OUYHeKe4J88NAbtx1GIkJ1E3KfI01QX02OJpBs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Ak00qYJA7wINM0Z0mqxxhVEo0zW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:16:47Z",
 }

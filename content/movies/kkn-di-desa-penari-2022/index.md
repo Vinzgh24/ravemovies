@@ -1,16 +1,31 @@
 ---
 title: "KKN di Desa Penari (2022)"
-date: 2023-08-29T19:52:47Z
+date: 2023-12-23T17:32:55Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
+summary: "Terdaftar dalam program pengabdian masyarakat, enam mahasiswa menghadapi misteri yang menghantui di desa terpencil yang melibatkan penari lokal yang memukau."
 ---
 
-Terdaftar dalam program pengabdian masyarakat, enam mahasiswa menghadapi misteri yang menghantui di desa terpencil yang melibatkan penari lokal yang memukau.
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/6OyfylH5Y5YcyDFTVCMoDE4p46v.jpg" controls>
-   <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ETcXF0c9GHRIpc0gQwScWAoBh7kHelcUJk2fg-Ix_7MIBQ" type="video/mp4">
-</video>
 
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=ETcXF0c9GHRIpc0gQwScWAoBh7kHelcUJk2fg-Ix_7MIBQ" prefer-playback="mse" controls>
+
+</mux-player>
+
+
+{{< movieinfo id="638985" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "KKN di Desa Penari (2022)",
+"contentUrl": "https://stream.mux.com/sbDl02g7I01DZ11ifIWB7XbY2xHZ028LwfltCdOhbyai1o.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/ytj0Lxp9UUnUb7wl323yOvyVl7v.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-12-23T17:32:55Z",
+}
+
+</script>

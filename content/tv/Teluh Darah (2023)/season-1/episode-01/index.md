@@ -19,7 +19,7 @@ series: ["Teluh Darah S1"]
   "name": "Teluh Darah - S1E1 - The Parcel",
   "contentUrl": "https://stream.mux.com/nWklP6DxYimmOMINot00EwUlxqRr8cfpzUgi5he01rOjo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-12-24T11:26:42Z,
+  "uploadDate": "2023-12-24T11:26:42Z",
 }
 
 </script>

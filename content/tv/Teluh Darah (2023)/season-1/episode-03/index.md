@@ -19,7 +19,7 @@ series: ["Teluh Darah S1"]
   "name": "Teluh Darah - S1E3 - Ganjaran Masa Lalu",
   "contentUrl": "https://stream.mux.com/lilEW1SlLpNPHckW82qW6i02RRj36GhKQOh4K01Sy1TKo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-12-24T11:26:42Z,
+  "uploadDate": "2023-12-24T11:26:42Z",
 }
 
 </script>

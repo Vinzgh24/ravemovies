@@ -19,7 +19,7 @@ series: ["Teluh Darah S1"]
   "name": "Teluh Darah - S1E6 - Gugur Bunga",
   "contentUrl": "https://stream.mux.com/TA7fHJTwmUKYxrv21Yff00dFfl1Xm1U600yaLce01y3uB4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
-  "uploadDate": "2023-12-24T11:26:42Z,
+  "uploadDate": "2023-12-24T11:26:42Z",
 }
 
 </script>

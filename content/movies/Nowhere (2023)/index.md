@@ -1,6 +1,6 @@
 ---
-title: "Nowhere (2023)"
-date: 2023-10-02T17:02:33Z
+title: "Nowhere (2023) [Dual Audio]"
+date: 2023-12-26T15:39:33Z
 tags: ["Movie"]
 categories: ["Drama", "Thriller"]
 summary: Seorang wanita hamil muda bernama Mia melarikan diri dari negara yang sedang berperang dengan bersembunyi di sebuah kontainer maritim di atas kapal kargo. Setelah badai dahsyat, Mia melahirkan anak tersebut saat tersesat di laut, di mana dia harus berjuang untuk bertahan hidup.
@@ -20,7 +20,7 @@ summary: Seorang wanita hamil muda bernama Mia melarikan diri dari negara yang s
  {
   "@context": "https://schema.org/",
   "@type": "VideoObject",
-  "name": "Nowhere (2023)",
+  "name": "Nowhere",
   "contentUrl": "https://stream.mux.com/K8Id4RIavXjqiyGSVAibB62nsRlbLwmiM7ty9G7SN6k.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gvxIwYmDiQUwpitYyQoaE2kKfPS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T17:02:33Z",

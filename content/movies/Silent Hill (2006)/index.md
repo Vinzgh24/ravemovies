@@ -3,6 +3,7 @@ title: "Silent Hill (2006)"
 date: 2023-12-20T07:13:18Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
+series: ["Silent Hill"]
 summary: "Rose dan putrinya, Sharon, meninggalkan rumah mereka untuk pergi ke Silent Hill. Dalam perjalanan, mereka kecelakaan dan membuat Rose pingsan. Ketika Ia terbangun, Sharon pun menghilang."
 ---
 

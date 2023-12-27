@@ -3,7 +3,7 @@ title: "Don't Breathe (2016)"
 date: 2023-12-26T16:18:50Z
 tags: ["Movie"]
 categories: ["Crime", "Horror", "Thriller"]
-series: ["Don't Breathe"]
+series: ["Dont Breathe"]
 ---
 
 Berharap bisa pergi membawa kekayaan besar, trio pencuri masuk ke rumah seorang pria buta yang tidak berdaya seperti kelihatannya.

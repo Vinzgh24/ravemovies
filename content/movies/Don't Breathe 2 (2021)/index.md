@@ -3,7 +3,7 @@ title: "Don't Breathe 2 (2021)"
 date: 2023-12-26T16:20:50Z
 tags: ["Movie"]
 categories: ["Action", "Crime", "Horror"]
-series: ["Don't Breathe"]
+series: ["Dont Breathe"]
 summary: "Sekuelnya berlatar tahun-tahun setelah invasi rumah yang mematikan, di mana Norman Nordstrom hidup dalam ketenangan yang tenang sampai dosa masa lalunya menimpanya."
 ---
 

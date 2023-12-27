@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Ice Age Adventures of Buck Wild",
-"contentUrl": "https://stream.mux.com/02AYwKHEJ7wJAg13zrn1Nr9GPq1eFKMhfvj8nPNCydQk.m3u8",
+"contentUrl": "https://stream.mux.com/436017vTZubXLA2EE02bs29inksE17vMj25GaXZ02Q00te00.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7S6guTrEdbCTFUz4fEMrDyxSrsM.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-03T17:37:54Z",
 }

@@ -4,7 +4,7 @@ date: 2023-12-26T16:22:26Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["Asih"]
-sumamry: "Puspita dan Andi sangat bahagia memiliki buah hati. Kebahagiaan itu berubah menjadi ancaman dengan kehadiran Asih yang bunuh diri."
+summary: "Puspita dan Andi sangat bahagia memiliki buah hati. Kebahagiaan itu berubah menjadi ancaman dengan kehadiran Asih yang bunuh diri."
 ---
 
 

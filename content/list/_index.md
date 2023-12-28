@@ -95,8 +95,6 @@ title: "list"
 - [Annabelle (2014)]({{< ref "movies/Annabelle (2014)" >}})
 - [Annabelle Comes Home (2019)]({{< ref "movies/Annabelle Comes Home (2019)" >}})
 - [Annabelle: Creation (2017)]({{< ref "movies/Annabelle: Creation (2017)" >}})
-- [Asih (2018)]({{< ref "movies/asih-2018" >}})
-- [Asih 2 (2020)]({{< ref "movies/asih-2020" >}})
 - [attack on titan (2013)]({{< ref "tv/attack on titan (2013)" >}})
 - [Avengers: Infinity War (2018)]({{< ref "movies/Avengers: Infinity War (2018)" >}})
 - [Ant-Man (2015)]({{< ref "movies/Ant-Man (2015)" >}})

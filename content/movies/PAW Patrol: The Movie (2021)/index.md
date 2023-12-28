@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "PAW Patrol: The Movie",
-"contentUrl": "https://stream.mux.com/mxwxT4ALOXqTnrep00bhusMdAm6ymPTcr93Hd005nJUog.m3u8",
+"contentUrl": "https://stream.mux.com/02G7e500OuEu01izxvYzzvVCV01CWY1O01QP02T8IvBmLLj6w.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/w2jm8I0K83aZzHcI4Acl8DtuXCt.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-04T16:12:24Z",
 }

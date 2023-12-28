@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "PAW Patrol: The Mighty Movie",
-"contentUrl": "https://stream.mux.com/YHV2ubm96jIww800Q02gls3Nn02x8YM8VdjymqhPIvzo01o.m3u8",
+"contentUrl": "https://stream.mux.com/1e01U01Q9402GcZJYrUhkPondMxDVT007zQs8jEbdnN7q2g.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/47SYNMcaizQNXBC22IE4CvzxLUL.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-03T11:27:47Z",
 }

@@ -3,7 +3,7 @@ title: "Children of Heaven (1997)"
 date: 2023-12-29T09:09:37Z
 tags: ["Movie"]
 categories: ["Drama", "Family", "Sport"]
-summary: "Setelah seorang anak laki-laki kehilangan sepasang sepatu saudara perempuannya, dia melakukan serangkaian petualangan untuk menemukannya. Ketika dia tidak bisa, dia mencoba cara baru untuk "menang" pasangan baru."
+summary: "Menceritakan perjuangan seorang bocah laki-laki berusia sembilan tahun yang berjuang membahagiakan adik perempuannya melalui sepasang sepatu."
 ---
 
 <mux-player stream-type="on-demand"

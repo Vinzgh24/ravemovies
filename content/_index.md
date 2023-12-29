@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Raveflix! :tada:"
-description: "Raveflix adalah Web streaming film yang dikhususkan untuk nobar pada aplikasi Rave"
+description: "Raveflix adalah Web Streaming Film yang dikhususkan untuk menonton melalui Aplikasi Rave"
 ---
 
  <style>
@@ -39,7 +39,7 @@ Raveflix adalah situs Streaming yang dibuat khusus untuk menonton Film melalui A
 
 
 ### SUPPORT GROUP
-
+<div align="center">
 <a href="https://t.me/arxmirrorr" target="_blank">t.me/arxmirrorr</a>
 
 <a href="https://t.me/arxmirrorr" target="_blank">

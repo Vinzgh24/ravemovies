@@ -30,7 +30,7 @@ description: "Raveflix adalah Web Streaming Film yang dikhususkan untuk menonton
 
 
 </style>
-Raveflix adalah situs Streaming yang dibuat khusus untuk menonton Film melalui Aplikasi Rave. Untuk Streaming melalui WEB ini sangat disarankan menggunakan Aplikasi Rave saat menonton.
+Raveflix adalah situs streaming yang dibuat khusus untuk menonton film melalui aplikasi Rave. Untuk streaming melalui web ini sangat disarankan menggunakan aplikasi Rave saat menonton.
 
 
  <div style="margin-top: 15px">

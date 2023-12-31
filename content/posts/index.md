@@ -1,5 +1,6 @@
 ---
 title: "posts"
+slug: 'my-music'
 showComments = false
 showSummary = false
 showRecent = false

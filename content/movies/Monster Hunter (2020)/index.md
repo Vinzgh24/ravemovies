@@ -22,7 +22,7 @@ summary: "Jake Pentakosta, putra Stacker Pentakosta, bersatu kembali dengan Mako
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Monster Hunter (2020)",
-  "contentUrl": "https://stream.mux.com/ubKQSJvP1GkWZCZrzUpQ7voiGkA1pjZQmemMsLxW4Mw.m3u8",
+  "contentUrl": "https://stream.mux.com/de01DXh5L1gJoS00ysAktIawDS4vSTQlWW7yOLWQEnenE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tm1InorxSXDmJorQwwwiKDrJYM5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T10:56:13Z",
 }

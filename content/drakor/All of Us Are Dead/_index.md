@@ -1,6 +1,8 @@
 ---
 title: "All of Us Are Dead"
+date: 2023-12-26T11:37:47Z
 description: "Sebuah sekolah menengah menjadi titik awal wabah virus zombie. Siswa yang terjebak harus berjuang untuk keluar atau berubah menjadi salah satu orang yang tertular penyakit gila."
+categories: ["K-Drama", "Action", "Drama", "Fantasy"]
 
 cascade:
   showEdit: false

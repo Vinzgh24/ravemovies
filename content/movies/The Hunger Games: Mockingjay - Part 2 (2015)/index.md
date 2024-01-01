@@ -8,7 +8,7 @@ summary: Katniss dan tim pemberontak dari Distrik 13 bersiap menghadapi pertempu
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=Ea6p3DBHD2hBoMep8_RTd6wBJCBrVIJQKCwxDo1A7TuUGA" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWQj-pGXlwRCrtBeoojlyh0BtGaVe6bkj6oPUp7jggE0Tw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Hunger Games: Mockingjay - Part 2",
-"contentUrl": "https://stream.mux.com/l94paLet3fzKLdDcfcVW5eGMguomh55zJU5uFsmqZBM.m3u8",
+"contentUrl": "https://stream.mux.com/IA78hMz01fZUk6i7Vi6QDsmX6h007pwmPqvbO1bUafUDY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5fkL7ovN37fNeCJpufSeoTFxhDH.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-22T15:32:25Z",
 }

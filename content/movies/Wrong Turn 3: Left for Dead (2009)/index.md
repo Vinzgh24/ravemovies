@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn 3: Left for Dead",
-"contentUrl": "https://stream.mux.com/MGmrecxs8lpOkSRi2oaJrk02lGADpEyFo01U8tcj66oFM.m3u8",
+"contentUrl": "https://stream.mux.com/wKXLxkEtdf9kTBtSaxY11zmnTdd6TL01PpuuNWu8QWVc.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ea0CkCPHKDG7M5vYRBpa5tr9H8I.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:37:52Z",
 }

@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn",
-"contentUrl": "https://stream.mux.com/CVOiyDgs293Kmb1FvpRyEKwQJT7OyseyK5pHxI1LfX00.m3u8",
+"contentUrl": "https://stream.mux.com/LQiIpX7DuGMvoeQIlmfDuhm011lpKuvO02WgRVCsTNGeU.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jdrQQF4IJSGzy5hEDUls02sAAH6.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:30:16Z",
 }

@@ -1,6 +1,6 @@
 ---
 title: "Saw (2004)"
-date: 2023-09-04T03:19:26Z
+date: 2024-01-01T15:30:52Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
 series: ["Saw"]

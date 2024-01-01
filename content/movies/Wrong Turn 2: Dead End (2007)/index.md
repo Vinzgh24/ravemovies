@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn 2: Dead End",
-"contentUrl": "https://stream.mux.com/m5sKPgc7nYfdp7kFcEEP5awAyxJpC7HcTEEez02s3n8s.m3u8",
+"contentUrl": "https://stream.mux.com/Y6ZJk1f29lZ4Q02fjbua9fffZoSAuHRjCghKsi2NZTsg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jdrQQF4IJSGzy5hEDUls02sAAH6.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:34:54Z",
 }

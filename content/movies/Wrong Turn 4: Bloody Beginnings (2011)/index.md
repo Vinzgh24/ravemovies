@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn 4: Bloody Beginnings",
-"contentUrl": "https://stream.mux.com/rNr3BiIYvItsnM8AXrAs1Pr6aLK8Q8PY5O8F4xWZ01dI.m3u8",
+"contentUrl": "https://stream.mux.com/xyvaoyzDkEWGHmLs1zQK5OnwFnZ3vpNk1GUsFvb402sA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3SUnG8RUPYgG6R7LBIkEiW2Ke3P.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T17:42:25Z",
 }

@@ -1,23 +1,30 @@
 ---
 title: "Saw 3D (2010)"
-date: 2023-09-06T11:12:44Z
+date: 2024-01-01T15:36:52Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery"]
 series: ["Saw"]
+summary: "Ketika pertempuran mematikan berkecamuk atas warisan brutal Jigsaw, sekelompok penyintas Jigsaw berkumpul untuk mencari dukungan dari guru swadaya dan sesama penyintas Bobby Dagen, seorang pria yang memiliki rahasia gelap yang memicu gelombang teror baru."
 ---
 
-Ketika pertempuran mematikan berkecamuk atas warisan brutal Jigsaw, sekelompok penyintas Jigsaw berkumpul untuk mencari dukungan dari guru swadaya dan sesama penyintas Bobby Dagen, seorang pria yang memiliki rahasia gelap yang memicu gelombang teror baru.
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EY_Icz97lrFDth3TjvM9cyYBZ3s8832YRPUdZxTPwFZeZQ" prefer-playback="mse" controls>
 
-<video id="video-2" 
-class="art-preview lazy video-js vjs-default-skin vjs-big-play-centered" 
-controls preload="auto" 
-width="640" 
-height="240" 
-poster="https://www.themoviedb.org/t/p/original/gOkm5caF13XytenLS2UZ3vhlnmY.jpg" 
-data-setup='{ "example_option": true, "width": "auto", "height": "auto", "techOrder": ["html5","flash"] }' 
-onseeked="true"> <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EY_Icz97lrFDth3TjvM9cyYBZ3s8832YRPUdZxTPwFZeZQ" type='video/mp4'>
-</video>
-<br>
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</mux-player>
+
+
+{{< movieinfo id="41439" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "Saw 3D",
+"contentUrl": "https://stream.mux.com/MfVTJBCIOZtWUCnrbc5PjaGmUtRbOv7qCaM5ko4STj4.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-12-25T06:24:19Z",
+}
+
+</script>

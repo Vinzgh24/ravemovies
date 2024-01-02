@@ -3,7 +3,6 @@ title: "Bad Genius (2017)"
 date: 2023-12-29T09:32:23Z
 tags: ["Movie"]
 categories: ["Comedy", "Crime", "Drama"]
-series: ["Bird Box"]
 summary: "Lynn, seorang siswa sekolah menengah jenius yang menghasilkan uang dengan menyontek ujian, menerima tugas baru yang membawanya untuk menginjakkan kaki di Sydney, Australia. Untuk menyelesaikan tugas jutaan Baht, Lynn dan teman-teman sekelasnya harus menyelesaikan ..."
 ---
 

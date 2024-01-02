@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Samdal Ri"
-date: 2023-12-17T02:49:03Z
-description: "Mengisahkan dua orang dengan mimpi berbeda yang bertemu lagi di kampung halaman. Satu orang selalu ingin keluar dari kampung halamannya, sedangkan yang lain tak ingin meninggalkannya. Hal itu yang kemudian membuat mereka perlahan menjauh bertahun-tahun hingga akhirnya bertemu lagi."
-categories: ["K-Drama", "Comedy", "Drama", "Romance"]
+title: "Somebody"
+date: 2024-01-02T14:46:58Z
+description: "Pembunuhan terjadi dan aplikasi "Seseorang" terlibat dalam kasus pembunuhan tersebut."
+categories: ["K-Drama", "Crime", "Drama", "Thriller"]
 
 cascade:
   showEdit: false
@@ -12,7 +12,7 @@ cascade:
 ---
 
 {{< lead >}}
-Mengisahkan dua orang dengan mimpi berbeda yang bertemu lagi di kampung halaman. Satu orang selalu ingin keluar dari kampung halamannya, sedangkan yang lain tak ingin meninggalkannya. Hal itu yang kemudian membuat mereka perlahan menjauh bertahun-tahun hingga akhirnya bertemu lagi.
+Pembunuhan terjadi dan aplikasi "Seseorang" terlibat dalam kasus pembunuhan tersebut.
 {{< /lead >}}
 
 <style>
@@ -48,14 +48,14 @@ Mengisahkan dua orang dengan mimpi berbeda yang bertemu lagi di kampung halaman.
 </style>
 
  <div class="movie-box">
-        <div class="movie-title">Welcome to Samdal Ri</div>
+        <div class="movie-title">Somebody</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong> Comedy, Drama, Romance</p>
-            <p><strong>Release Date:</strong> 2023</p>
+            <p><strong>Genre:</strong> Crime, Drama, Thriller</p>
+            <p><strong>Release Date:</strong> 2022</p>
             <p><strong>Season:</strong> 1</p>
-            <p><strong>Status:</strong> Ongoing</p>
+            <p><strong>Status:</strong> Complete</p>
         </div>
-        <div class="movie-rating">8.3</div>
+        <div class="movie-rating">6</div>
     </div>
 
 ---

@@ -1,6 +1,25 @@
 ---
-title: "Episode 08"
+title: "Welcome to Samdal Ri - S1E8 - Episode 08"
 date: 2023-12-26T11:34:47Z
-draft: true
+series: ["Welcome to Samdal Ri"]
 ---
 
+
+<mux-player stream-type="on-demand"
+  src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUZKHBf7KepDvbN7IiproeMBOu7J2jFthAiUoU3BgM353w" prefer-playback="mse" controls>
+  </mux-player>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+  
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org/",
+  "@type": "VideoObject",
+  "name": "Welcome to Samdal Ri - S1E8 - Episode 08",
+  "contentUrl": "https://stream.mux.com/Rc7fBSJwBiIJ015lFDunb2zlX35siq4xaALweTKLBjJs.m3u8",
+  "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
+  "uploadDate": "2023-12-17T02:49:27Z",
+}
+
+</script>

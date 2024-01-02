@@ -1,7 +1,7 @@
 ---
 title: "Somebody"
 date: 2024-01-02T14:46:58Z
-description: "Pembunuhan terjadi dan aplikasi "Seseorang" terlibat dalam kasus pembunuhan tersebut."
+description: "Pembunuhan terjadi dan aplikasi seseorang terlibat dalam kasus pembunuhan tersebut."
 categories: ["K-Drama", "Crime", "Drama", "Thriller"]
 
 cascade:

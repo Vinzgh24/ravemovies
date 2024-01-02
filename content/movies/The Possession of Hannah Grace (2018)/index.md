@@ -3,6 +3,7 @@ title: "The Possession of Hannah Grace (2018)"
 date: 2023-11-24T14:19:07Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
+series: ["The Possession"]
 summary: "Ketika seorang polisi yang baru saja keluar dari rehabilitasi melakukan tugas pemakaman di kamar mayat rumah sakit kota, dia menghadapi serangkaian kejadian aneh dan penuh kekerasan yang disebabkan oleh entitas jahat di salah satu mayat."
 ---
 

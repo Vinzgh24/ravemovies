@@ -4,7 +4,6 @@ date: 2024-01-02T15:21:05Z
 tags: ["Movie"]
 categories: ["Comedy", "Horror"]
 summary: "Kakek Pacul adalah suami Nenek Gayung. Saat meninggal, jenazah Kakek Pacul tidak dikuburkan dengan baik. Duta, Coki, Danu, Thalia, dan Miki harus berhadapan dengan Kakek Pacul yang marah dan meminta kuburan yang layak."
-draft: true
 ---
 
 <mux-player stream-type="on-demand"

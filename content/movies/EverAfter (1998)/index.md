@@ -3,7 +3,7 @@ title: "Ever After: A Cinderella Story  (1998)"
 date: 2024-01-03T09:01:09Z
 tags: ["Movie"]
 categories: ["Drama", "Romance"]
-summary: "Grimm Bersaudara tiba di rumah Grande Dame kaya yang berbicara tentang banyak legenda seputar dongeng gadis cinder sebelum menceritakan kisah "kebenaran" kisah nenek moyangnya."
+summary: "Grimm Bersaudara tiba di rumah Grande Dame kaya yang berbicara tentang banyak legenda seputar dongeng gadis cinder sebelum menceritakan kisah kebenaran kisah nenek moyangnya."
 ---
 
 <mux-player stream-type="on-demand"

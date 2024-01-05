@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E8 - Nebraska",
-  "contentUrl": "https://stream.mux.com/WQn3Ll5j01HcInQi02qhDG3BQlv00kIquDAM7nJ2FJwGLU.m3u8",
+  "contentUrl": "https://stream.mux.com/7M4S9a00UEdcwbopo24Dzyt01xfpB94ZFiEa4TDCvz31E.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:47Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E11 - Judge, Jury, Executioner",
-  "contentUrl": "https://stream.mux.com/vAtq4scit0202JcMd8RmxhLP8Y9JvZLUjZSGK02OFfSEYo.m3u8",
+  "contentUrl": "https://stream.mux.com/Za4Di8AKpbUETWVrg100IvMZW87aKZ3vCfR9GepaOaH4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:59Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E2 - Bloodletting",
-  "contentUrl": "https://stream.mux.com/lpml01wZv5gtFrSuHhKEou00pSCwMYCB00eIgKQ5uefIsQ.m3u8",
+  "contentUrl": "https://stream.mux.com/PQq9JesAZdjxQNrShIj00fFyY402rEoshaVTW600zu00027E.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:26Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E8 - Made to Suffer",
-  "contentUrl": "https://stream.mux.com/bRRq8Pe1pN1fsgf1n438pUarr6bSIt00tMTJ013uqfT3I.m3u8",
+  "contentUrl": "https://stream.mux.com/yO9OZJpZ9sNM9wvJUOVPjbxxNJW3NJYhf8jF115ZOXY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:10Z",
 }

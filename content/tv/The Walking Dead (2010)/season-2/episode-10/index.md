@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E10 - Miles Out",
-  "contentUrl": "https://stream.mux.com/pfZJYaPp1EQZhCCALw7yvmw6RHOstfZ023CgiMHVxqeE.m3u8",
+  "contentUrl": "https://stream.mux.com/XDA7vkFIJic00OnvtJOFoaSmCGw6uZR1Nq00ZOAyqRW9g.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:56Z",
 }

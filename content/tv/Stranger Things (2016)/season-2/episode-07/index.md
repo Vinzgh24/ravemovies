@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E7 - Chapter Seven: The Lost Sister",
-  "contentUrl": "https://stream.mux.com/7642c01KcmDgpP8AyhATSOcGEhdxpEUdh1L01x4CswPm4.m3u8",
+  "contentUrl": "https://stream.mux.com/WG6g363OTHpRxgRrjuuWKSGqnDPriQrU92rMEOXsQHY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:42Z",
 }

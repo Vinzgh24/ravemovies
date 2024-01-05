@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E13 -  Beside the Dying Fire",
-  "contentUrl": "https://stream.mux.com/aQyNC701d5vVnZWHdsnSn2fvdLjpTUyr3GPMFgxivm1Q.m3u8",
+  "contentUrl": "https://stream.mux.com/4PngEIxf5fFm9NpwWAI9gjD6Lnrypv2GKWmMXCwgl1M.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:22:13Z",
 }

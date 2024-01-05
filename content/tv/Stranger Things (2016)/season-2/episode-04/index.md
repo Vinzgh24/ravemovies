@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E4 - Chapter Four: Will the Wise",
-  "contentUrl": "https://stream.mux.com/ACRTjixbEPa9F2500Ir01TTgTZYd4v5pHeYQ0000nQFLIN8.m3u8",
+  "contentUrl": "https://stream.mux.com/BGV7jUzGPtwvF5g6jfmydbRI01KWr1BAcN6RU2KlvhOw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:34Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E1 - What Lies Ahead",
-  "contentUrl": "https://stream.mux.com/gtY900uUesaFd1LesUuKwUPsgoOpvS01AeIVVt8JrJGRY.m3u8",
+  "contentUrl": "https://stream.mux.com/p52DfZvMWkhkMe8MH1SLvmwnscjMX9ATu6qUqDv2zlw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:24Z",
 }

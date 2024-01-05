@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E2 - Chapter Two: Trick or Treat, Freak",
-  "contentUrl": "https://stream.mux.com/YI3xna02ay7p02LUKbijLWHJxQGEdIl02nAYZMUeDwfIVg.m3u8",
+  "contentUrl": "https://stream.mux.com/3ILOeNfWJJsakUoHsc00YMuE00XFMMiUAQM1iQzYADPEk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:29Z",
 }

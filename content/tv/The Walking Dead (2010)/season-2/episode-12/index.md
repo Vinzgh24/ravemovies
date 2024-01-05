@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E12 - Better Angels",
-  "contentUrl": "https://stream.mux.com/fx02XLOSMJzr5M8SoZ01sWfn02UqCKWB7ZKeTNqS299I3k.m3u8",
+  "contentUrl": "https://stream.mux.com/lTb2MdSOPMZ00my53TCZIbMkF3Sb602zi00cq901jhIriqU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:22:10Z",
 }

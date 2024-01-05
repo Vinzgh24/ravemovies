@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E15 - This Sorrowful Life",
-  "contentUrl": "https://stream.mux.com/BMOGEls7o8Pnka9jrVFfBWT9vxXKTACJSZywpgWaOKk.m3u8",
+  "contentUrl": "https://stream.mux.com/omaZ3XV01c02lXUA300DBBl9yDFnzdrYgommnho9Bq602uc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:38Z",
 }

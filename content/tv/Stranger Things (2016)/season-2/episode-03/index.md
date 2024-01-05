@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E3 - Chapter Three: The Pollywog",
-  "contentUrl": "https://stream.mux.com/m2rC7kp7KW9kunZVeHGaczgvICLv9SNQeml57eBkcLE.m3u8",
+  "contentUrl": "https://stream.mux.com/gWUkBQ02qQoVb8Wynyh2xFzi02KGlLwW2h71pe2VcYsYY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:32Z",
 }

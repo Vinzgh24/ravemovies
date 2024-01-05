@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E13 - Arrow on the Doorpost",
-  "contentUrl": "https://stream.mux.com/TB5Zv7GHAvt00W9Qh6vVTxbZwKUKgeN4Ai3nviLSf1Qg.m3u8",
+  "contentUrl": "https://stream.mux.com/UTVJRk7U01eV2e7BJlgePv6HasBFwhUO011s4yy00Iqq3M.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:32Z",
 }

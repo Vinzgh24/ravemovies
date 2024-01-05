@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E4 - Cherokee Rose",
-  "contentUrl": "https://stream.mux.com/VD00x02Ih201fdxHxFQDiOpCwqrtYr9fcVTBCWr7yFS02ZQ.m3u8",
+  "contentUrl": "https://stream.mux.com/hna34p01HvAtfpB100WYUyLZjp64ySXx102VGkZlRAkHSU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:33Z",
 }

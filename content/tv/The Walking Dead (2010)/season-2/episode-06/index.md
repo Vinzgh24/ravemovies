@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E6 - Secrets",
-  "contentUrl": "https://stream.mux.com/mHcXxBnjjN702VHGOgJYSC018HkD3ALx02HZqK3bD102jBw.m3u8",
+  "contentUrl": "https://stream.mux.com/CQxChrYIaeAWAKWKZ2Jd1PO9AMxNJw7NcWiEYG1stUM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:39Z",
 }

@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E8 - Chapter Eight: The Mind Flayer",
-  "contentUrl": "https://stream.mux.com/otuHgEQODh2rjTtNU2x8QcX93CUw4V01KqN3qr4am02eg.m3u8",
+  "contentUrl": "https://stream.mux.com/CV7AaB3A2F9H5OPKh7RTgZysI9Xy01PpRPGuM4ZR302B4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:45Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E3 - Save the Last One",
-  "contentUrl": "https://stream.mux.com/FWSFMuhhFOUscz01nqmOvXee5B48HMfWNoZUkJrEd1rs.m3u8",
+  "contentUrl": "https://stream.mux.com/YM1cX5MOEyYFdQ61jGf202BQA02im01zUDgp8pfC01a9wnQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:29Z",
 }

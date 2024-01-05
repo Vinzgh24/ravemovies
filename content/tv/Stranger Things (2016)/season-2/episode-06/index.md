@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E6 - Chapter Six: The Spy",
-  "contentUrl": "https://stream.mux.com/X2oY016fvnGpY44FVwoDhE3AjSF02YMgdhA2r8E7fPEj4.m3u8",
+  "contentUrl": "https://stream.mux.com/y1eAJe5QnEmav4YIM5sieUL7LuxyWkLK3rYQ4mp9CkY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:40Z",
 }

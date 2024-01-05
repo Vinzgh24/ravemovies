@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E12 - Clear",
-  "contentUrl": "https://stream.mux.com/wv4vpmLP9mCRzuHqEh2qmDXrE4pX4TkLwBuu9o8XOUM.m3u8",
+  "contentUrl": "https://stream.mux.com/vk5CLfKmAr0100hcu00UjCr00eh544qySjmZ2tqzb83pKSw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:24Z",
 }

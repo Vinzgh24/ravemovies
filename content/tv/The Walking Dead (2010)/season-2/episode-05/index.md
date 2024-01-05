@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E5 - Chupacabra",
-  "contentUrl": "https://stream.mux.com/VoRRUKiwp5lDGub4PcrvjXh014GUfDNsPTyf4TuPk01G8.m3u8",
+  "contentUrl": "https://stream.mux.com/UAZ02IizzPVBiWqLoO6hHukh00c7PKw5J9n6L3gxnXm8Y.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:36Z",
 }

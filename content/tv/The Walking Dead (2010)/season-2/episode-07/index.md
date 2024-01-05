@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S02E7 - Pretty Much Dead Already",
-  "contentUrl": "https://stream.mux.com/7vybHxylXA2fHb5IMkzb99IN025kCKKUHoJjcncFteUs.m3u8",
+  "contentUrl": "https://stream.mux.com/oLB5J02xEuJcslupNE5OjDnDLvbVquU8U02OVYAIa2ZXA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T13:21:42Z",
 }

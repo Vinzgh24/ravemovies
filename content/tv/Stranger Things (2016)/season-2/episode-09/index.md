@@ -17,7 +17,7 @@ series: ["Stranger Things Season 2"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Stranger Things - S2E9 - Chapter Nine: The Gate",
-  "contentUrl": "https://stream.mux.com/W8gASOXw8vtlEAMy00wctA73PpMG2xp0102hQPNdGO01xbY.m3u8",
+  "contentUrl": "https://stream.mux.com/qK2em23oBlYFQXstnz2k7dS7n7hKvWB1Tc2RyO0101NTg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/nviyFKko4Uk1mqHxehvxGhnMHFV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-24T13:53:49Z",
 }

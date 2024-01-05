@@ -20,7 +20,7 @@ summary: "Boneka koboi sangat terancam dan cemburu ketika figur aksi antariksa b
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Toy Story",
-  "contentUrl": "https://stream.mux.com/qyT1G2z2sZucYjIbXBeE00N7ENDlIQWXDDBG005Wnirlg.m3u8",
+  "contentUrl": "https://stream.mux.com/OF9pZN4A6biUny12wM5rJmTXiYPI7DB4h71tUsCIl3o.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/HAL8AHcfFB8QRcRpFi5DCyR0i8.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T00:59:43Z",
 }

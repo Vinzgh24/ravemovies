@@ -19,7 +19,7 @@ Setelah dicampakkan oleh gadis yang dia yakini sebagai belahan jiwanya, Tom Hans
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "(500) Days of Summer (2009)",
-  "contentUrl": "https://stream.mux.com/rFO1SgNDArgSypnAvc4gKU800xUBXJutoZRULfLWj7Xs.m3u8",
+  "contentUrl": "https://stream.mux.com/qgzpd4l2ONbhteNB8lDuMQKesn01Ql01cJXL6uLngUKgA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jpDyo4FT7xCPs9Enx0B6dIeP85e.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T13:27:03Z",
 }

@@ -20,7 +20,7 @@ summary: "Ketika mainan baru bernama Forky bergabung dengan Woody dan kawan-kawa
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Toy Story 4",
-  "contentUrl": "https://stream.mux.com/5MZZ01vIEehVwC7mJywwlGwm7aRSmA3qs024SorNPIWYw.m3u8",
+  "contentUrl": "https://stream.mux.com/DuZrs8XZF1Mp6zK37h7uLEQulwM02yDc9q01GJ022Y1gq4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AtcQK4fzS8rlbKXuTP06GQPp1Q7.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-02T10:38:58Z",
 }

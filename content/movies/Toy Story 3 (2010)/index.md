@@ -20,7 +20,7 @@ summary: "Mainan-mainan tersebut secara keliru dikirim ke pusat penitipan anak a
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Toy Story 3",
-  "contentUrl": "https://stream.mux.com/wU01KcU7WXV0261W0253SRlkouRgWfoK77g9ztq5fkQO7c.m3u8",
+  "contentUrl": "https://stream.mux.com/qB2jJFkUPFxAjpA7ZZWfugnHO6dgO3RT7JtKonvqALw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AtcQK4fzS8rlbKXuTP06GQPp1Q7.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T01:03:43Z",
 }

@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E4 - Killer Within",
-  "contentUrl": "https://stream.mux.com/OLTXsO1ncgvdrer1EHfhvT3hACnL6mOyraN01iDqlKlc.m3u8",
+  "contentUrl": "https://stream.mux.com/l1szbeK9aSyDQUU48vPjX5oc15502qkF8zCfCkYqX5ys.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:22:59Z",
 }

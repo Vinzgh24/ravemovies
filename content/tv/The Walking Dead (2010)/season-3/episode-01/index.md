@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E1 - Seed",
-  "contentUrl": "https://stream.mux.com/qrvnHhbQY9hK7t26LiYlzFKUoId1F8gX99mSf1mTBZw.m3u8",
+  "contentUrl": "https://stream.mux.com/d02BfrC9NFt4Vleje56B02eXSQe6OOHJHpTH2XJkmwN8Q.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:22:50Z",
 }

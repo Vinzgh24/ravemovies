@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E3 - Walk with Me",
-  "contentUrl": "https://stream.mux.com/MXMQMcFPOC9k02FLXU8Vyd02I8IjOw2YuSVXLJU02YN3fg.m3u8",
+  "contentUrl": "https://stream.mux.com/zvOdFATEVA8JSL6Fxt01SOp5PBqVQP00hQ5BE9UQQuRI8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:22:56Z",
 }

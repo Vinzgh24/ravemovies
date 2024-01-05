@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E4 - Vatos",
-  "contentUrl": "https://stream.mux.com/HE5d54ZjwsQ6m75XG02Fl1Vbbw6Qe02Wc1ecJb01MLRYpw.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/XwUjLybUVmEYjeZ4kMlSFhXcvF02Jj2tWq1W00roJvQ2Q.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:25:09Z",
 }

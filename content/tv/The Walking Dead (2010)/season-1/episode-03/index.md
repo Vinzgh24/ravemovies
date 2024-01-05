@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E3 - Tell It to the Frogs",
-  "contentUrl": "https://stream.mux.com/8fIMHA202Di2JpOvA2MSn26QmEn3XMQJE7DVlroKyutk.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/itwQrHX201DuLtuR1RWbrIhSDK2X7QDfIAEbsEke02GMs.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:25:06Z",
 }

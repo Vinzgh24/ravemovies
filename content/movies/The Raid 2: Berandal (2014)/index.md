@@ -20,7 +20,7 @@ Hanya beberapa saat setelah penggerebekan pertama, Rama menyamar dengan preman J
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Raid 2: Berandal (2014)",
-  "contentUrl": "https://stream.mux.com/lJoPLKq02og02KXjQ7TtXkFOLB6005w3H5yyu48V00ZyMoo.m3u8",
+  "contentUrl": "https://stream.mux.com/AelebvEF01HQY302rjt8X01SdgXjf3zVi556XdkH47wES8.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T03:43:29Z",
 }

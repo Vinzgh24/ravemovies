@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E6 - TS-19",
-  "contentUrl": "https://stream.mux.com/N01Bjyo6zakIStP02009FjtbXP8j1O7EhLgZqjNpXFrXC4.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/NTk602jZcO6T33U900qGSQ7002xWIV5Ub00o5gg6sPffqzg.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:25:17Z",
 }

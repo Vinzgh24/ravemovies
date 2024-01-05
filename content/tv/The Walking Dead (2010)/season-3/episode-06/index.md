@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E6 - Hounded",
-  "contentUrl": "https://stream.mux.com/wkMC7ff02Yn3EWcjtznlrkoDHZQKdsrDiUVPlLS00EpUQ.m3u8",
+  "contentUrl": "https://stream.mux.com/7De0146z3Le8smyD02r7fwCOuDCzvNTr6pFUCdRRVGIc00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:03Z",
 }

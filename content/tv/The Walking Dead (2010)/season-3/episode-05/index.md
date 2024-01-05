@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E5 - Say the Word",
-  "contentUrl": "https://stream.mux.com/VTNFO3EweFjT7uVDxZrybRarQcdqbahXwjlH3SYk01lg.m3u8",
+  "contentUrl": "https://stream.mux.com/G01ytbBCG1rH4p775UQfLxQMzq00Oh026t9ne2WZbj02lps.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:01Z",
 }

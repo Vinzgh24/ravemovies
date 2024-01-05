@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E1 -  Days Gone Bye",
-  "contentUrl": "https://stream.mux.com/V1SIIupGN01Oty9f7T9rD02bybJHhTMkgreEPwyL9Yg14.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/rey025DLakwKxPw8jWeKwfz3XYfV02cYAGdGrWLxeDrOg.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:14:57Z",
 }

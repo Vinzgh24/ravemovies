@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S01E5 - Wildfire",
-  "contentUrl": "https://stream.mux.com/ul8N01CbDg009jJFCm6mEVh02S5BXV75UMd7C8bQM5VkQo.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/w9o1xl02VH49fhSfv02awTjf1h7v6on00sUZkIShMjsPTk.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T19:25:14Z",
 }

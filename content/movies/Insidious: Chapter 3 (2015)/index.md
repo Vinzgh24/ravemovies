@@ -20,7 +20,7 @@ Sebuah prekuel berlatar sebelum keluarga Lambert dihantui yang mengungkapkan bag
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Insidious: Chapter 3 (2015)",
-  "contentUrl": "https://stream.mux.com/EiSrAwSp201gWHS89eN37zwirDxJlIzhvRi93DYyfnhU.m3u8",
+  "contentUrl": "https://stream.mux.com/zTk29BE2Tqu00yvlsmvtqYPgFBQx9t48OGpmXv9RTPZg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGd1ORQkK5KsIgILA3TzGjF5rxP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T20:12:28Z",
 }

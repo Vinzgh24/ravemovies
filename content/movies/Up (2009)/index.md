@@ -22,7 +22,7 @@ summary: "Carl Fredricksen yang berusia 78 tahun melakukan perjalanan ke Paradis
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Up (2009)",
-  "contentUrl": "https://stream.mux.com/jy02bwGKCdiIO485NO928s0002J01WZX00H027lcGNW3fXjQg.m3u8",
+  "contentUrl": "https://stream.mux.com/dqweMDIIv00SGwNhXea02y3sclh201A1LprLegyqwq3oFc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/Dvai4X821N5dzksopQFqy7EWAv.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T00:59:43Z",
 }

@@ -20,7 +20,7 @@ Kapten Barbossa, Will Turner, dan Elizabeth Swann harus berlayar keluar dari tep
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pirates of the Caribbean: At World's End (2007)",
-  "contentUrl": "https://stream.mux.com/diqla4jNSkHHC01SZRJCZDpS1NNzdkUJ5fYpgdGKdhCE.m3u8",
+  "contentUrl": "https://stream.mux.com/A00u00vN3k01zMwQH6r27g7traa2Kcvr2WwIygHGo6CQ7I.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6jt4i9l4fc4jrY3dRFZdMtL4q3P.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T12:06:21Z",
 }

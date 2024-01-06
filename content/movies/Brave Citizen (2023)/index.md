@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Brave Citizen (2023)",
-"contentUrl": "https://stream.mux.com/AhOg2q3R3a6aUKdquZxWBXjVsPYxZGnj4E3lzXYSrEc.m3u8",
+"contentUrl": "https://stream.mux.com/hd8LXcs5ekirvAj7z9zelv8Ysn2w3S3DbZukEv95o2U.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/geDwlieFUPwD6K7S1ImR47rZohG.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-05T04:13:02Z",
 }

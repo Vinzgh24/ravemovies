@@ -23,7 +23,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Death on the Nile",
-"contentUrl": "https://stream.mux.com/GWItXbBuKUwbACBG02COt7R1gNcrfqw5PavWx4Zuk3uU.m3u8",
+"contentUrl": "https://stream.mux.com/YapTp901t7Hr4dyX00z1eoYRfzy3H6qxc8gk01SlI2dZ1A.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/83DLsYzmXvzMFMxOzbdw2ChuDH8.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-29T08:51:45Z",
 }

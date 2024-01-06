@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Resident Evil: Degeneration",
-"contentUrl": "https://stream.mux.com/7I91S9pU1eIFEHYMeXmOd8zztQtkRpcMAWV1AzHaYoU.m3u8",
+"contentUrl": "https://stream.mux.com/p02Cvx8HkiCbYaZIw1B0002t9o01k102K02ylDWeVkIZ01HmHU.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eaOZSkSV3CkuGWwurd2lTORChsf.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T07:02:33Z",
 }

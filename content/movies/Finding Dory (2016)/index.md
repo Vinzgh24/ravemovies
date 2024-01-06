@@ -20,7 +20,7 @@ summary: "Dory si tang biru yang ramah namun pelupa mulai mencari orang tuanya y
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Finding Dory",
-  "contentUrl": "https://stream.mux.com/w16Z67c748DJog8cvwXstks5KN02zMtg7e4jPS2QPBNk.m3u8",
+  "contentUrl": "https://stream.mux.com/jXejt02c01xNPjxYlbO1NsErWu1Fw3GR01QkL7AW02aWFto.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jpDyo4FT7xCPs9Enx0B6dIeP85e.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T01:50:19Z",
 }

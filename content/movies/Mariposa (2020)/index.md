@@ -21,7 +21,7 @@ summary: "Iqbal (Angga Yunanda) bagaikan kupu-kupu Mariposa bagi Acha (Adhisty Z
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Mariposa (2020)",
-  "contentUrl": "https://stream.mux.com/abq521vS2XV00LILktMC4nzciZfdql5kPXAhcYBXUROc.m3u8",
+  "contentUrl": "https://stream.mux.com/uQs1cmxeY00rC7rM58cuUq6O2izNfqIqclZbG02s2K2ZY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/owAYzN8xodjblsmVY1TPuale2C7.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-19T05:28:11Z",
 }

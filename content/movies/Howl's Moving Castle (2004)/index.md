@@ -19,7 +19,7 @@ Ketika seorang wanita muda yang tidak percaya diri dikutuk dengan tubuh tua oleh
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Howl's Moving Castle (2004)",
-  "contentUrl": "https://stream.mux.com/0059jLfoASTvB237BcPAEgo8hwJNUCGGmrl7GJGJlyi8.m3u8",
+  "contentUrl": "https://stream.mux.com/PiZxsEo9GUq6XJNG026Td02hv7FH86Np5dj007Wf8KSHtA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T16:16:25Z",
 }

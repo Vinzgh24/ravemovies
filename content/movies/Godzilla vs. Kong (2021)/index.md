@@ -23,7 +23,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Godzilla vs. Kong",
-"contentUrl": "https://stream.mux.com/y01vTeMyX1yRi702JfhuChgD01t7MpYEozLKqvxTM6OBIA.m3u8",
+"contentUrl": "https://stream.mux.com/6C7YDJJ7uAxCPbJ23ZsV4701VwYBd1RWll7JXILMi1xo.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/FDAUiZsqS98FJbYmmwp5yz8JkL.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-17T05:55:24Z",
 }

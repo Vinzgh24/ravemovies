@@ -20,7 +20,7 @@ Ketika seorang dalang kriminal menggunakan trio gadis yatim piatu sebagai pion u
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Despicable Me",
-  "contentUrl": "https://stream.mux.com/xmUXPeTGrc9NAs8swMAZufWLcMjSsgyhLaXV6KteGSw.m3u8",
+  "contentUrl": "https://stream.mux.com/4v56mHQOJZ7uf01bqRgn4pbE18YTl7A5imJ02GH00RP1Lo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xc9RAIOFUpLQq0lclodiBJneGTN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T12:32:35Z",
 }

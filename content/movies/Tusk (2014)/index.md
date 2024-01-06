@@ -19,7 +19,7 @@ Seorang podcaster yang kurang ajar dan arogan mendapatkan lebih dari yang ia har
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Tusk (2014)",
-  "contentUrl": "https://stream.mux.com/5Onp4Jch651kBA4hSfIOWlFfz9M01VuiT7HFrorrOsi00.m3u8",
+  "contentUrl": "https://stream.mux.com/g2q00DCVXxYOuByOrV1a9leu01tsCcrAC00to7MoDFdIow.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tg583X8VYwJa30eJHGgqwKwRuvl.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-17T07:30:48Z",
 }

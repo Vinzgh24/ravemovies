@@ -20,7 +20,7 @@ Blacksmith Will Turner bekerja sama dengan bajak laut eksentrik "Kapten" Jack Sp
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
-  "contentUrl": "https://stream.mux.com/NLtAFp2gDcePhjTJgKwe5TRw3GMXFqs7IbLnDj02wfgw.m3u8",
+  "contentUrl": "https://stream.mux.com/Cp9sVAjsV1177m8d3OAUjT62PEZ9oE0001R1iEUW3t3JA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6FlTIGVE7YCl82vtFgvqJfWTrqy.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T06:29:34Z",
 }

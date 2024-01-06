@@ -22,7 +22,7 @@ summary: "Setelah putus dengan cinta sejatinya, penulis buku terlaris Hardin Sco
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "After Everything (2023)",
-  "contentUrl": "https://stream.mux.com/dvf2g01mSgDa3f7ZOdcYH02Q4a5P7gw701i4yBsYoIcM1M.m3u8",
+  "contentUrl": "https://stream.mux.com/dQGNHDaSBQpHymoyQEHGK2gea600kCyg73ohyc7qeo6c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/o1ThjWZn2TbXXZu7g3YZXGk05CI.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T10:38:34Z",
 }

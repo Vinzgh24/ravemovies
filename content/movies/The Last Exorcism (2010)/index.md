@@ -20,7 +20,7 @@ Seorang pendeta evangelis yang bermasalah setuju untuk membiarkan eksorsisme ter
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Last Exorcism (2010)",
-  "contentUrl": "https://stream.mux.com/22Wb6US700xSGj3l2D9BzHtIwDhULBDEpXMKS6cib1Zg.m3u8",
+  "contentUrl": "https://stream.mux.com/r3wdQ6D87UJ1DL2gfHFNLviufdpF003mXMNYXxp00GovY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/y7LfKrK0t8QsRakqTuvzQcnFkpt.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-23T10:22:01Z",
 }

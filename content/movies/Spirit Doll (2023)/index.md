@@ -22,7 +22,7 @@ summary: "Setelah aktris horor terkenal, Dara Lazuardi, bertemu dengan boneka be
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Spirit Doll (2023)",
-  "contentUrl": "https://stream.mux.com/o4rn1OuvEPoYYVFEL4wZIPMwfiCQhD1yKiUyCQTmkqA.m3u8",
+  "contentUrl": "https://stream.mux.com/025Zch9GZt5eg2EbmukNAg021yeuAT3h602PveCU1NjPcI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/TJudfA2heuW7viWcqoN4xgA2Xj.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:53:15Z",
 }

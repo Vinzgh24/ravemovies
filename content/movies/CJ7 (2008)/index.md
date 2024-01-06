@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "CJ7 (2008)",
-"contentUrl": "https://stream.mux.com/GgqSk00PKEeqfNetp9fkidQYHGE01ru8qD6IhBUwb01LkM.m3u8",
+"contentUrl": "https://stream.mux.com/R2gykTHJpvxhiWUbOGyoS7EPPcz00qlcyoiXfBw2jUpI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/azr1H7x95gxHT1Q7055P8Mmnlgy.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-04T10:15:32Z",
 }

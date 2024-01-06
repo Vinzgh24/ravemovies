@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Pitch Perfect (2012)",
-"contentUrl": "https://stream.mux.com/nCPY3t5PYPCDMTw01v89mSCct5V00tkR7sSJJCCJncJ34.m3u8",
+"contentUrl": "https://stream.mux.com/02J3MdPIH9aqgd5JN501klwrzX3dO4LOVzSxPb6aZxLj4.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T07:17:55Z",
 }

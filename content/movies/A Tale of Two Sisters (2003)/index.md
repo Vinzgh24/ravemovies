@@ -22,7 +22,7 @@ summary: "Setelah menghabiskan waktu di rumah sakit jiwa, seorang gadis bertemu 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "A Tale of Two Sisters",
-  "contentUrl": "https://stream.mux.com/Dx9whGiWg2wmn9HOEmdF100ulHPyhdsBm9E4ACUgIjA00.m3u8",
+  "contentUrl": "https://stream.mux.com/019prmPDTfmU7O8LD2OTc02mLM4wONXJCUA1jrmiuBZak.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/wD2LT0CtXDMXDE3dROceTQJw63F.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:50:44Z",
 }

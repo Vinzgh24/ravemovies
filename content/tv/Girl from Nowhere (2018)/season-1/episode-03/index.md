@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E3 - Trophy",
-  "contentUrl": "https://stream.mux.com/yuYRBL9OUqqNV1GTYKTpUf00ApY5Xec1vTWj3X01YEWPE.m3u8",
+  "contentUrl": "https://stream.mux.com/Jaste1qDzpWiE800YH8BnQ8LL1dG2kY3m01HSszzKRaWk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:02Z",
 }

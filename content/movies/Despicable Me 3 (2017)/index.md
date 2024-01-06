@@ -20,7 +20,7 @@ Gru bertemu dengan saudara kembarnya yang telah lama hilang, menawan, ceria, dan
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Despicable Me 3",
-  "contentUrl": "https://stream.mux.com/rNAFxqshCHeID005kO58zYit7vUlhZhmJs01uOZCA8xEM.m3u8",
+  "contentUrl": "https://stream.mux.com/dy4FHssuWVj01SK7yY9r3O013NCMFSA00CRVo5dlKSOP900.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/kNhsBc0sJdzglKx7ouHsdYUm6TB.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T12:16:05Z",
 }

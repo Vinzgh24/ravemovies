@@ -19,7 +19,7 @@ Setelah gempa besar terjadi di California, seorang pilot helikopter penyelamat m
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "San Andreas (2015)",
-  "contentUrl": "https://stream.mux.com/bttkuzI5c02KJNioVpSoaIztWF7TgTJoIFGWbqY9S7xg.m3u8",
+  "contentUrl": "https://stream.mux.com/f021WzSG01GgHQUe3wsDUy3SKt701c2XlXXWOGcQ76JeGE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mGWbMXabsOxXMtDX2g5AiI9QTJL.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T16:11:07Z",
 }

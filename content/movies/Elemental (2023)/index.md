@@ -19,7 +19,7 @@ summary: "Dua karakter berbeda, Ember (Leah Lewis) elemen api dan Wade (Mamoudou
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Elemental",
-"contentUrl": "https://stream.mux.com/vMD02juZp5WUqlf01ZcWo8crqwXtTo7YTV6JBppOkV00B4.m3u8",
+"contentUrl": "https://stream.mux.com/RC61B01FJv2tJ00Knff5ayFCaOUAcfz6UkDFdT00DgcEuY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vnrsBGzc5CBdWRsdLz0dVMVgxL2.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-02T10:14:31Z",
 }

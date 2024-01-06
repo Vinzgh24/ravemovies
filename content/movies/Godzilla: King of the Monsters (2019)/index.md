@@ -23,7 +23,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Godzilla: King of the Monsters",
-"contentUrl": "https://stream.mux.com/WxFRk4KQEa6MLEtzk01yyTYRVC6lelKmJ6MQyQysuVEM.m3u8",
+"contentUrl": "https://stream.mux.com/021AvUb01qLDHriI6t01FN7y6Q1NkJE01AMONnDjMuOPXbY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zzCGQCJl149j2zHOMzp120mA5s7.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-12T13:41:45Z",
 }

@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Hobbit: The Desolation of Smaug (2013)",
-"contentUrl": "https://stream.mux.com/QEtMqG9qqlptsSt01IMSuPBMQCho8Hw8BzVNp45P3ido.m3u8",
+"contentUrl": "https://stream.mux.com/hVKlxSurx00QdOnrHu3vjixlJm3TNSobbxdcAUDLYlLw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/68NCoYsHAjgaxz88vXqrVVeVrbp.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-18T13:55:11Z",
 }

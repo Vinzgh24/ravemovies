@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E10 - Thank You, Teacher",
-  "contentUrl": "https://stream.mux.com/QHGTcwJM9NW9odXqoboYyfZrl00Rvq01h8wAV9xfYMd01E.m3u8",
+  "contentUrl": "https://stream.mux.com/02juoHDCVTJuiubLQt6EKeZw2JniuEUSieoPbYFdXC01A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:24Z",
 }

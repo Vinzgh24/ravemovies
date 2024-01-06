@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E13 - BFF Part 2",
-  "contentUrl": "https://stream.mux.com/ft301y9Kbhv9w02MSiDpBoYRF01NARj01ovuZCp6eScrt8A.m3u8",
+  "contentUrl": "https://stream.mux.com/Q93Ku01F00W8WlYeepfaiLmZi4VHWsY4vh01rjZIUQi7jM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:33Z",
 }

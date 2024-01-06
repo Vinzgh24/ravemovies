@@ -20,7 +20,7 @@ Parapsikolog Dr. Elise Rainier menghadapi pengalaman paling menakutkan dan priba
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Insidious: The Last Key (2018)",
-  "contentUrl": "https://stream.mux.com/96CGmrV6G4upyUW9NE01o4caJeH7JkYSo2vadNvEQiqE.m3u8",
+  "contentUrl": "https://stream.mux.com/COFyMr9zI6kNK01jdG7QZ402kz8FpP3syGQfJuDBybRJY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jpDyo4FT7xCPs9Enx0B6dIeP85e.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T14:57:02Z",
 }

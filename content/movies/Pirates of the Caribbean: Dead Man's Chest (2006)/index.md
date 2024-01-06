@@ -20,7 +20,7 @@ Jack Sparrow berlomba untuk memulihkan hati Davy Jones agar tidak memperbudak ji
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pirates of the Caribbean: Dead Man's Chest (2006)",
-  "contentUrl": "https://stream.mux.com/kkNT00sWr01uL7T1NZdaRPRPvP2Ah53iRiQ02Hflk6wj8E.m3u8",
+  "contentUrl": "https://stream.mux.com/yw8D00CerBIlJ6w00N201Wt7wFHl4HDxKPg00AT6D01UKJ6g.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yxtncWtowh1qJoKMTVleYzTMdVP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T11:58:50Z",
 }

@@ -19,7 +19,7 @@ Aletta (Michelle Ziudith) bertemu Arga (Rizky Nazar) di Bali dan mereka jatuh ci
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "ILY from 38.000 Ft (2016)",
-  "contentUrl": "https://stream.mux.com/7ExQTfIHtD026pHO3V7i32k3TqNv7ZxiTCBvmGS5OosU.m3u8",
+  "contentUrl": "https://stream.mux.com/WlJW99CSWmfF8jfAAUi4MrAn89cwoi008fwIp5qdu8UQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/y5ngHpr8t7Sm9JF654rGUQzedkr.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-22T13:40:41Z",
 }

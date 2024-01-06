@@ -22,7 +22,7 @@ summary: "Melanjutkan kisah Max dan teman-teman hewan peliharaannya, mengikuti k
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Secret Life of Pets 2 (2019)",
-  "contentUrl": "https://stream.mux.com/aNRViuozOaRoHBV8fQlgGtySKTqR5shKNo42FK4IZyI.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/CseeKUVdvJGWoOeDuT5KoCUTx8jsEYInoAgyOG9Ej6A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rmVJR7oV5mVZnbfLhUVGEVKel0N.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-13T10:04:09Z",
 }

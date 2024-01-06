@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Better Days (2019)",
-"contentUrl": "https://stream.mux.com/ZbH732CynQpXHDpbbNZB8CXgbfcmEQRm02DrlJp4dlJw.m3u8",
+"contentUrl": "https://stream.mux.com/6jV9uDrfGzzeoA5ziajp8hfjmRghPWLhP4khRefIeT00.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aAcwmkzvsF8fqsmfybHoC6NPVQj.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-15T09:18:45Z",
 }

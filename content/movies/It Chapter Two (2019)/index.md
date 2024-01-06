@@ -20,7 +20,7 @@ Dua puluh tujuh tahun setelah pertemuan pertama mereka dengan Pennywise yang men
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "It Chapter Two (2019)",
-  "contentUrl": "https://stream.mux.com/xE7J3DECJ3HoijkHHErJ4y7Nk01uKZDEQKcVoiRBc02g4.m3u8",
+  "contentUrl": "https://stream.mux.com/MwDpFoKyJ8V02DebLsh33QTHuT7P6x8xISljwjZjteOI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/usaTqqrDwsJaSLaFN5hxs8CUISM.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-25T19:16:01Z",
 }

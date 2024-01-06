@@ -19,7 +19,7 @@ Saat berada di Azerbaijan, Layla, seorang sarjana Indonesia, jatuh cinta pada Sa
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Layla Majnun (2021)",
-  "contentUrl": "https://stream.mux.com/sJMWbkBKvtzc7PQCQKFE2VqUaVTaZxQj35asILO1301w.m3u8",
+  "contentUrl": "https://stream.mux.com/YwB4N00MkR9FFESjFTHbE6zTWzRaOZUx8s2XYItL02XkU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/cYpL6ewMXU3V4SQdYHsKTdZSYC8.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T15:51:24Z",
 }

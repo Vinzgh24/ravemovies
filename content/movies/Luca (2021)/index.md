@@ -20,7 +20,7 @@ summary: "Di Riviera Italia, persahabatan yang tidak terduga namun kuat tumbuh a
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Luca",
-  "contentUrl": "https://stream.mux.com/doRzEnYff02KLSBWyn7gEkoK1b4JCWo5FlNnDG8W401j4.m3u8",
+  "contentUrl": "https://stream.mux.com/bfvFj02qsWvZVo2SaVuI4lVk301A3LpBYt5VtxkJS01NQw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zdT9pVcXEKo2wpQb4HDPRWMQXvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T01:00:43Z",
 }

@@ -19,7 +19,7 @@ Dalam perjalanan untuk menemukan obat kutukan Tatarigami, Ashitaka mendapati dir
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Princess Mononoke (1997)",
-  "contentUrl": "https://stream.mux.com/qRLFM42301SY6j2lKWB7gSwAYTI482AgwZl004Evp3UWA.m3u8",
+  "contentUrl": "https://stream.mux.com/0001u1ruQ530200OalggHuxQbFYfRgrngrTvGj3GdoJyL3o.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1M64CE7t1g7acAMtFLRGmBbD4nO.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-15T11:35:55Z",
 }

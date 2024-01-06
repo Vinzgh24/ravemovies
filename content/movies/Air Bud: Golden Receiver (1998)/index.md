@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Air Bud: Golden Receiver (1998)",
-"contentUrl": "https://stream.mux.com/HKStw7Wd9q018C02WqRi3n8ULERh5N502k902cDrSjK67fA.m3u8",
+"contentUrl": "https://stream.mux.com/76AMFw9ntI2yDKaT013GfWwXkl22MIbMiKMblJFi7yvg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rBBGQIpWBnSGq4RPIHOm38ZZf5k.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-29T06:17:43Z",
 }

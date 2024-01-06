@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E5 - Social Love",
-  "contentUrl": "https://stream.mux.com/ChX54lrw4IyXGEicpi1spqr0202FI5Fa00libiBXa02ned4.m3u8",
+  "contentUrl": "https://stream.mux.com/iZR3lQtR01pIYNjXVusfVZpcGgx6XgrtacPFoWLPIMDM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:07Z",
 }

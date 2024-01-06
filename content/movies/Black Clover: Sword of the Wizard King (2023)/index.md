@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Black Clover: Sword of the Wizard King (2023)",
-"contentUrl": "https://stream.mux.com/4e4pe5a7y9m3zfQR69elXr5LQ9DcnqQ7Fz01DQOelfdI.m3u8",
+"contentUrl": "https://stream.mux.com/gDd7Mg811djHpE00X4evmFa2bMGVhXp7nBvh5pVf7hJs.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/s0W1H1nTDRJTQpRSF75n1WnIoq.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-08T14:02:42Z",
 }

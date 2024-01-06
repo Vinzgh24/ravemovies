@@ -20,7 +20,7 @@ Dilan dan Milea resmi berkencan. Namun Dilan terancam dikeluarkan dari sekolah k
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dilan 1991 (2019)",
-  "contentUrl": "https://stream.mux.com/fyJfsIhqt49HhoO6fKZq7aQOtmP1TaDrP00Y8FthfbAM.m3u8",
+  "contentUrl": "https://stream.mux.com/a01aMOtZ3oLTnxPJozyqmZul1QhfIImftHDJxth5qB4g.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gZX9F8Q9QUAKAsGAotlH1fVwHFq.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T03:43:00Z",
 }

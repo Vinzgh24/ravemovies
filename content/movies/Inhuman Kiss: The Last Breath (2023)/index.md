@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Inhuman Kiss: The Last Breath (2023)",
-"contentUrl": "https://stream.mux.com/Xied02CGrnF3ccQtrkC02Ns4eYOb8cuzYqg02jVWfRwLFg.m3u8",
+"contentUrl": "https://stream.mux.com/YCEqDRZ1ObPrNlvbuigmMGcSQdDIDyYaFcFm02TbPFS4.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eGKiMZtey0kPJZCJsSbIXe7l9r.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-31T11:09:23Z",
 }

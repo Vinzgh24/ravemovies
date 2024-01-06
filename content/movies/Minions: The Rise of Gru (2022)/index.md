@@ -20,7 +20,7 @@ Kisah tak terungkap tentang impian seorang anak berusia dua belas tahun untuk me
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Minions: The Rise of Gru",
-  "contentUrl": "https://stream.mux.com/vjuEPKVG84l02i01CtXKhresaVbA01yx8P02tAhImZdNA6I.m3u8",
+  "contentUrl": "https://stream.mux.com/KOfKQFJVp02fnVX01G8CXI1i02p6lRmwSs6u7xazTnq9uM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/qbSh5KaSuTPyYiYvzBX3UlkVcwo.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-18T12:02:48Z",
 }

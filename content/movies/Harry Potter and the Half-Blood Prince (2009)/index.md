@@ -20,7 +20,7 @@ Ketika Harry Potter memulai tahun keenamnya di Hogwarts, dia menemukan sebuah bu
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Harry Potter and the Half-Blood Prince (2009)",
-  "contentUrl": "https://stream.mux.com/4Ko01C9qu2wreAXQF01o195600F45qcmC5c8xCftVHNF6U.m3u8",
+  "contentUrl": "https://stream.mux.com/CkWRwh8TWy8vl5y2OP3cwFpWEdFikzkl7uTzoX6VWf00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rwV9yFYUL6OJAw9Mh7PdnhHa0G3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T06:10:41Z",
 }

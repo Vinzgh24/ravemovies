@@ -22,7 +22,7 @@ summary: "Ikatan khusus berkembang antara robot tiup berukuran plus Baymax dan k
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Big Hero 6 (2014)",
-  "contentUrl": "https://stream.mux.com/2RsW7VXfarinYihgp004JuSNpJEtCnyTc1QSVxp4Ki1k.m3u8",
+  "contentUrl": "https://stream.mux.com/kIv013tJJ3puTCm3IGM01N00cBRGM7EX7IdGe2K3vDJD8s.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/fkUNBJ15Hrbcpxn8p7snmNTBr0H.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:22:15Z",
 }

@@ -20,7 +20,7 @@ summary: "Setelah putranya ditangkap di Great Barrier Reef dan dibawa ke Sydney,
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Finding Nemo",
-  "contentUrl": "https://stream.mux.com/pW02dF00Vr6N6gqGmMMyRO4puD00vo6Agj5QtdCOBvpylY.m3u8",
+  "contentUrl": "https://stream.mux.com/XXGQ32I01nLyw2HM18NahLbcLxifFIm02LOsw01vtFCrE00.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zXdQ3xdewFCZnvIH7LjNR2C6vyZ.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-27T01:49:19Z",
 }

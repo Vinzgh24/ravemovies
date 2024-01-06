@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Resident Evil: Afterlife (2010)",
-"contentUrl": "https://stream.mux.com/ziBgn7E54hsJSztIrLntNcNNS02KDEe5jayPx01m1srDM.m3u8",
+"contentUrl": "https://stream.mux.com/qE19wbqlpvV01qRgK02ZRBjyEwnDI00i6NVomQsXFgN012k.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/4n9sLkX1lNvHeoq4oTN5VUGiZso.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T06:54:45Z",
 }

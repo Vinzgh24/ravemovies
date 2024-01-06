@@ -21,7 +21,7 @@ summary: "Berduka atas kehilangan sahabat yang tidak dapat ia lindungi, seorang 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Ballerina (2023)",
-  "contentUrl": "https://stream.mux.com/hT8jJHX8Xm2ByPtodjOhRZFsXATtefXwolys3SnKYdk.m3u8",
+  "contentUrl": "https://stream.mux.com/7WX4iomy91xq9aC7ri2Mi4vkKZDgmooOgQwMSsopY9Q.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/dAXSflkUKRfpzK74kRaovfK09Kx.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T10:26:31Z",
 }

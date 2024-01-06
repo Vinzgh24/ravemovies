@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Insidious: The Red Door (2023)",
-"contentUrl": "https://stream.mux.com/8LiyNaK9E78U16e42FpCjKrwAbhKFNqYkk5Q007Embzw.m3u8",
+"contentUrl": "https://stream.mux.com/v5LBZqxxdf7696J5BaCIrhHfkufiD5S0202NcSeoeJ00qc.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yinTBbS9ZDAxQd4kc3t5z0rzSzG.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T20:11:40Z",
 }

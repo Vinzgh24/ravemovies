@@ -19,7 +19,7 @@ summary: Di Polinesia Kuno, ketika kutukan mengerikan yang ditimbulkan oleh Demi
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Moana",
-  "contentUrl": "https://stream.mux.com/a4WJCm2sBQ006krd6XkeUJI5auaeG5900mnUZnE02GjeYE.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/dgD4qrxCoztemfvMZ8ryS3wNhBlp00V200cmCCdPyNQYQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mtYxEUvcjrwzfzpJTGqziewyGR3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-26T07:12:55Z",
 }

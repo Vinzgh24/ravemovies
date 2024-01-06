@@ -22,7 +22,7 @@ summary: "T'Challa, pewaris kerajaan Wakanda yang tersembunyi namun maju, harus 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Black Panther",
-  "contentUrl": "https://stream.mux.com/01t6q022EF7NGCoF59RTHwg8GPcNqCFvQvX5dGSnoPAuM.m3u8",
+  "contentUrl": "https://stream.mux.com/wi9seUdaxr7qhsmAGdUi7UCukXMt02HwPMuOD7pqPoGg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/iwKlrK1FJJy6wnJVu8YQgNq3Ort.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:30:11Z",
 }

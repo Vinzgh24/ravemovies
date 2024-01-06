@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E8 - Lost & Found",
-  "contentUrl": "https://stream.mux.com/DwlvJjBayg301R3z01ndssbjwlmDdvQUI4ZutqxdmqSKM.m3u8",
+  "contentUrl": "https://stream.mux.com/H1xiPFiXBXvaU4KqMm7rl00WjK9Nr00WqcuzJnucaDt4c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:17Z",
 }

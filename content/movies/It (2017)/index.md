@@ -20,7 +20,7 @@ Pada musim panas tahun 1989, sekelompok anak-anak yang diintimidasi bersatu untu
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "It (2017)",
-  "contentUrl": "https://stream.mux.com/RfjJBLJPYPz2iqlfgqNweu7u953HpHXdEuGQlzkjmRE.m3u8",
+  "contentUrl": "https://stream.mux.com/Jr01e1HgJ00RHSuwWwIUIxqkZTAjrqfpgcXzdI9HUxg00g.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AqkavSN7zSPip4UQ5IpGuATqiwN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-25T19:12:06Z",
 }

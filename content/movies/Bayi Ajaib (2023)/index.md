@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Bayi Ajaib",
-"contentUrl": "https://stream.mux.com/Ll02gJF4i700xOr8o00pBDHjMT3Ndbc8401qAfRCBzaXdC4.m3u8",
+"contentUrl": "https://stream.mux.com/2o015A00Uvi78xSq6MgUSIm8VlI9co8xs4UmivXWAg3DY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9rFFCia3wCpCFnymu94xTMho9Mu.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-11T12:10:16Z",
 }

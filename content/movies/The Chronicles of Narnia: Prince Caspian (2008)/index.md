@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Chronicles of Narnia: Prince Caspian (2008)",
-"contentUrl": "https://stream.mux.com/f02RFh1JVHCNj2mElXk00UoTIPC7E3usdsOBxdefKbYhQ.m3u8",
+"contentUrl": "https://stream.mux.com/4nLIkd502TNdhZMG9hTqFzCARsK7qz01JT00EiFEkithmg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T12:34:02Z",
 }

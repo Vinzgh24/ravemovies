@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "1920: Horrors of the Heart",
-"contentUrl": "https://stream.mux.com/AYbb4VsRQGvIuqAeDJ3D1fsr12qBck8lSAEuMpJidyE.m3u8",
+"contentUrl": "https://stream.mux.com/SWTeF2urytDPBY9hX3vRQ005psLvfQgebR3ay37pIeIY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/1ESHwTZnmxemZqxe6QgymRpR8ic.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-17T04:35:12Z",
 }

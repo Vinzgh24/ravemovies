@@ -20,7 +20,7 @@ Laura dan Massimo kembali dan lebih kuat dari sebelumnya. Namun ikatan keluarga 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "365 Days: This Day (2022)",
-  "contentUrl": "https://stream.mux.com/Kdh2kXqqRK5BiieS7O9QIFFEdG1OlHbaQ1tuZ011pGYM.m3u8",
+  "contentUrl": "https://stream.mux.com/DkwmR4SQ00Hm00zkNZqYDQEsuxbC00GrcwLBGd00Yd4thrw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jpDyo4FT7xCPs9Enx0B6dIeP85e.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-08-30T02:38:07Z",
 }

@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E4 - Hi-So",
-  "contentUrl": "https://stream.mux.com/W5rzQ7PCUJUsqfvPTu6CiNwnjitsM23RhG9DYZz61xg.m3u8",
+  "contentUrl": "https://stream.mux.com/00WtLuql4PmILO3H01Y61e3HaoUKY3fHlxA1LElBQLQyo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:05Z",
 }

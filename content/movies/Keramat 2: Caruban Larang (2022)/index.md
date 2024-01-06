@@ -20,7 +20,7 @@ Syuting film dokumenter berubah menjadi kelam ketika sekelompok teman dan pembua
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Keramat 2: Caruban Larang (2022)",
-  "contentUrl": "https://stream.mux.com/jLCrO8OUKRvHNmMv4xfW573d02y02Bagqb4ciAd89dDZc.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/lCjhBjZLDlOiuABceUneGGRAK7t7griwDJL5QB001Ql00.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9lxnTeeLJZrh04OTaKETakvqdog.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-13T21:53:14Z",
 }

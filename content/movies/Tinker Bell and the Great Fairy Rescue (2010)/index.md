@@ -20,7 +20,7 @@ Selama tinggal di musim panas di daratan, Tinker Bell secara tidak sengaja ditem
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Tinker Bell and the Great Fairy Rescue (2010)",
-  "contentUrl": "https://stream.mux.com/qp1Ij702YI23uvJTAmBpzhTwRt00mrY00W01dzjWTooU4nI.m3u8",
+  "contentUrl": "https://stream.mux.com/8rr1mFm01b1WCZ201Q01iHfkAxkaIbNqEFX6n01v5fez82E.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tR9oOybzV0wrgP7W5FPeQrYOn1M.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T00:12:56Z",
 }

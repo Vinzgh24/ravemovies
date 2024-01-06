@@ -22,7 +22,7 @@ summary: "Setelah melewati sekolah menengah (dua kali), perubahan besar menanti 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "22 Jump Street",
-  "contentUrl": "https://stream.mux.com/Z9C4adbej1z818DDboTcR5qjhgOsOObF76f0034Nw2po.m3u8",
+  "contentUrl": "https://stream.mux.com/5TRaM5dkDeeKUiO00XSLTmQgNnzdyahb4ae2oWnD2rfA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/26MQRYMJbqfx69dmzlEtrW94aVS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:16:01Z",
 }

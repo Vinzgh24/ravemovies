@@ -20,7 +20,7 @@ Milea (Vanesha Prescilla) bertemu dengan Dilan (Iqbaal Ramadhan) di sebuah SMA d
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dilan 1990 (2018)",
-  "contentUrl": "https://stream.mux.com/ImOeb3oQwlzYUvNsgyI4TR1ZsvJDCJM4cFixDqKYJsI.m3u8",
+  "contentUrl": "https://stream.mux.com/v021u2xNc15pBFE5J5N1IEq7qe00xucNt01Xc8GJAA31kU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mohLTN4OpoGNN3iyjXbiSZ2EbHD.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T03:19:10Z",
 }

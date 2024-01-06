@@ -20,7 +20,7 @@ Sekelompok sineas berangkat ke Bantul untuk persiapan pengambilan gambar. Setela
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Keramat (2009)",
-  "contentUrl": "https://stream.mux.com/8ltf02qlJEVqoBAjGcJFicBqHCvj00kXiqKbVHUlQYt5M.m3u8",
+  "contentUrl": "https://stream.mux.com/tavFLUhwKKDlOplaOaXwanrLOx100NplN2n19x502LnZc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/2GtBiy4ZcaF268ylgyOqMydEjqP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T12:54:21Z",
 }

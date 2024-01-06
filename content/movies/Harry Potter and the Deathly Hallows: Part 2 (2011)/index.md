@@ -20,7 +20,7 @@ Harry, Ron, dan Hermione mencari Horcrux Voldemort yang tersisa dalam upaya mere
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Harry Potter and the Deathly Hallows: Part 2 (2011)",
-  "contentUrl": "https://stream.mux.com/101lFn029XA6isG8WEWoaVT1QcPk01kIMTf2AfXjq62JSk.m3u8",
+  "contentUrl": "https://stream.mux.com/ocow67Bj6T0001BudyPbb9RPKo0102tdOM6FcklJf7G01fac.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ik5bYheGLGw7oaVm9zbzUocnPcf.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T16:07:59Z",
 }

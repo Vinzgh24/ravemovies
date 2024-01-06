@@ -20,7 +20,7 @@ Jack Sparrow dan Barbossa memulai pencarian untuk menemukan sumber awet muda yan
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pirates of the Caribbean: On Stranger Tides",
-  "contentUrl": "https://stream.mux.com/Z01rU01tQEVw6hrdDXB8zPWXzL98s7Vpp99WqHBX9urJA.m3u8",
+  "contentUrl": "https://stream.mux.com/v3Z2K4tOZ1APRvazKk1H48g7OApMFUbj87puoIknyTg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6jt4i9l4fc4jrY3dRFZdMtL4q3P.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-25T13:36:16Z",
 }

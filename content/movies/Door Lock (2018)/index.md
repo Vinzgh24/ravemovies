@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Door Lock (2018)",
-"contentUrl": "https://stream.mux.com/NKQJo82TKjA67GhAel4ODSbNN6P5FxPNOelpdHW4ifs.m3u8?min_resolution=480p",
+"contentUrl": "https://stream.mux.com/aOArRGdF16zCmd4CwWlnTdB9T012Dnfa0102FHnDDLR3RQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/5iKOsCYLAZHLorhSfqc2jenDbwC.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-17T16:28:41Z",
 }

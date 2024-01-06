@@ -21,7 +21,7 @@ Seorang pendeta dengan masa lalu yang kelam dan seorang samanera yang berada di 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Nun (2018)",
-  "contentUrl": "https://stream.mux.com/nI6BXs3eBnD6EP9O3tpBkWFTPmfyMLpmrffQ6asQYyQ.m3u8",
+  "contentUrl": "https://stream.mux.com/bG79tAJsnFEKRMx00Bdg9ShkOLR5M92BtajNN01bzfuMQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/dolmFOJqhMcW38O0Sx1TZ235vWW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T02:20:00Z",
 }

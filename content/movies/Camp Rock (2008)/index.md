@@ -8,7 +8,7 @@ summary: "Di kamp musik untuk remaja berbakat, seorang idola remaja populer tida
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EetbbWSjEr9Mubffi8YvgvABhl9SKAEsQJrTnInQ_KzauQ" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EUWxdS5HP4JIvx_Od5d232cBtjzlAA9gmFbrqNNBVjmSDw" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Camp Rock (2008)",
-"contentUrl": "https://stream.mux.com/Ej66S3eC6OZpZYvQgiOvNp7xdh9Md02Fq8G5ieUM00YpM.m3u8",
+"contentUrl": "https://stream.mux.com/jccJq94t7pAIQgiFp02Pig8MCRIniR2MIGzLO5hl37Rw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yKEuwb4GvHkDJD0nQoMKnxenPJr.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-27T00:43:06Z",
 }

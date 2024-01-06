@@ -23,7 +23,7 @@ summary: "Samuel dan Elle menyimpan arwah putri mereka ke dalam sebuah boneka, y
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Annabelle: Creation",
-  "contentUrl": "https://stream.mux.com/LmO01Hs01lokrOulZYu1LEOm72YCjU02qA3Vy6ObTlhKx4.m3u8",
+  "contentUrl": "https://stream.mux.com/E6MkOsItk400RcnmvunscbeUDiiMe2lwCxgP2iDyjXkM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tyaxiSf1tgJnhq7CMGEwB3zThIP.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T13:20:42Z",
 }

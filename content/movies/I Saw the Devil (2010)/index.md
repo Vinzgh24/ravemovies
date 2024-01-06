@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "I Saw the Devil",
-"contentUrl": "https://stream.mux.com/LRbS3V5LvV8OwhIifqc8zePbfL00x01D02WPvZCkWyvDwI.m3u8?min_resolution=480p",
+"contentUrl": "https://stream.mux.com/obcekaHVEMJnyPQuw6wO8cZGic97w6Lq00qXfIpVMVoE.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/sZ8p3ZNkzTqQ6XWi5EJMLqAgY94.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-17T14:40:20Z",
 }

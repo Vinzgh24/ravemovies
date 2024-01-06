@@ -20,7 +20,7 @@ Saat Harry, Ron, dan Hermione berpacu melawan waktu dan kejahatan untuk menghanc
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Harry Potter and the Deathly Hallows: Part 1 (2010)",
-  "contentUrl": "https://stream.mux.com/i9eglVlcdPG5IIKxnYpUXCmfGkgmyuj5MhGlZwh1UjE.m3u8",
+  "contentUrl": "https://stream.mux.com/z00TGRMfsp01RdnY8b5cqR5Hvjo5CTXxDHlXE5t9arSMk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9QYQbLelZGwJtyyZPsrSNKE6pUS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-28T14:01:02Z",
 }

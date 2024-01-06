@@ -20,7 +20,7 @@ Minion Stuart, Kevin, dan Bob direkrut oleh Scarlet Overkill, seorang penjahat s
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Minions",
-  "contentUrl": "https://stream.mux.com/EFg7iEj5bhzE6t00mUbuIggnSA3N5xeT00OoJeCrNYMtk.m3u8",
+  "contentUrl": "https://stream.mux.com/ArdZhzJPQWOQdL21c0000zuPPEpIniu5Dfc0000j02E00Zbxs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/pZxmcsa3FX3kYLhJD5DLutsamNo.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T05:53:46Z",
 }

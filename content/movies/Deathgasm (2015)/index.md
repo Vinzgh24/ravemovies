@@ -21,7 +21,7 @@ summary: "Dua remaja laki-laki tanpa disadari memanggil entitas jahat kuno yang 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Deathgasm",
-  "contentUrl": "https://stream.mux.com/bdq6OfeolmOIk0202iM1pCaqQlNCRks00Hr9GOaYkYNzn00.m3u8",
+  "contentUrl": "https://stream.mux.com/1BZ16635ss44XDhEdtS1q7Evx022qHHOHBjEzEOnGoKM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vctl53S6HiQj8Q56uTzLaHMLqVM.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:52:09Z",
 }

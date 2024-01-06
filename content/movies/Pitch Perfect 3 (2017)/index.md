@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Pitch Perfect 3 (2017)",
-"contentUrl": "https://stream.mux.com/RdcwIdpvLAXteSlUESbaQE2rWzprIa01U02JE5oDHrE8g.m3u8",
+"contentUrl": "https://stream.mux.com/xHi6X00Pp5hgbJ6003gyWfbLZ8JeLTb2JF8m02UlcM1qvg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9lpg3QF1EXjMVgRGUdWrqZEUIzS.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-11T07:24:55Z",
 }

@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Pathaan",
-"contentUrl": "https://stream.mux.com/YiBj6qje9L91RVXHDrrPs9K300erZrIKsutyetlOOOQ00.m3u8",
+"contentUrl": "https://stream.mux.com/KsDNJWgz65Z9d8QNFozUkIj5ZRLLzzqE01rEUsdjDOL4.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gvrco3fADoFWZ1bTiLwJqZYKJDb.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-09T13:42:43Z",
 }

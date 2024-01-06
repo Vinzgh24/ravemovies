@@ -23,7 +23,7 @@ summary: "Dinda yang dianggap aneh oleh anak desa karena kekuatannya, tanpa seng
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Kuntilanak 3 (2022)",
-  "contentUrl": "https://stream.mux.com/Pk005fYovdqXboRkYobL00OPHylSi00Ilf3R4H97vgvcmo.m3u8",
+  "contentUrl": "https://stream.mux.com/rTrpoinn01FNiIM7j3200Fem6O1fgCOKvlwuiEppnTCaU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/hMr0e9YLgUbwEYIi1LMT6WNiEF3.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T13:03:50Z",
 }

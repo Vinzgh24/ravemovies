@@ -17,7 +17,7 @@ series: ["Girl From Nowhere Season 1"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Girl From Nowhere - S1E7 - Wonderwall Part 2",
-  "contentUrl": "https://stream.mux.com/Tg011G2EYPkVUGHeq82SgMkJUAmi1acmLzxLA00x78yms.m3u8",
+  "contentUrl": "https://stream.mux.com/FMkdNRJTjNt4Mnf00lcSRZPLG8HRr026rON1HLMSmpBbo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-07T20:07:13Z",
 }

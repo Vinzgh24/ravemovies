@@ -20,7 +20,7 @@ Harry Potter mendapati dirinya berkompetisi dalam turnamen berbahaya antara seko
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Harry Potter and the Goblet of Fire",
-  "contentUrl": "https://stream.mux.com/QClny0002r5bMIHKJz8wYhrGJVlONgjDH5ALk9HhtHDb4.m3u8",
+  "contentUrl": "https://stream.mux.com/RMGdLDhHvP5CuZsEspBdRhe5W7vdHYVcvXs75u01it5U.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-19T09:32:00Z",
 }

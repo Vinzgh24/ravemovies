@@ -19,7 +19,7 @@ Pada kunjungan larut malam ke ATM, tiga rekan kerja berakhir dalam perjuangan pu
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "ATM (2012)",
-  "contentUrl": "https://stream.mux.com/HS64EAXnfnF7PHe2DlJXKWuIiP7ZmNQOLK9IemNsDrc.m3u8",
+  "contentUrl": "https://stream.mux.com/aY71Q7Msm2PEan00kpEmZ3mQeUFp4qELgN1VGbHf02Ayk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7ndclZJ8cBsVC2A6LasRhmtcxpE.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-28T13:53:33Z",
 }

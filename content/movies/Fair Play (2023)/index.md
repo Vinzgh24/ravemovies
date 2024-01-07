@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Fair Play (2023)",
-"contentUrl": "https://stream.mux.com/KLVhhjfNCP1e29LlIzEWEe8P0145e4p1KYhG92zPDbyo.m3u8",
+"contentUrl": "https://stream.mux.com/GpG1j011ooMkI664faQqXDE4jzQz7yC4Jt5U35oh8VZs.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gSVyTnwef0rSrnqQceyxiVujHXA.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-26T04:34:54Z",
 }

@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "65 (2023)",
-"contentUrl": "https://stream.mux.com/YfjlOHP5Uz7NQq3o402zbW5I1VEAVU1FGGBKIJicnT1g.m3u8",
+"contentUrl": "https://stream.mux.com/Pf01OPhRBq001WMx8B02Oq6giCBQZ9Y01aEoukxvMmBd3Qc.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7pzhD8QRFqIC9csrXE1d32ADFBS.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-10-23T08:16:27Z",
 }

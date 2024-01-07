@@ -7,7 +7,7 @@ summary: "Asti dan Umar, pegawai Badan Pusat Statistik, ditugaskan untuk memperb
 ---
 
 <mux-player stream-type="on-demand"
-src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EdIZPK0WABRFlqq4lcEtC9cBzvCmnE1wYY4bSt3qzI1S-Q" prefer-playback="mse" controls>
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EWrQAC-Zx2JKq-10qz8ODnkB8iSxvQNKLC_n44qxgMmecA" prefer-playback="mse" controls>
 
 </mux-player>
 
@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Tasbih Kosong (2023)",
-"contentUrl": "https://stream.mux.com/Pv5jLfdwVylKsXcg85Qn9l702E1Nn9xjlsdSEnhejUxA.m3u8",
+"contentUrl": "https://stream.mux.com/N9Z4ppePck2AqBXJ500J1mQ8964xJchfNVv6mxBocLc00.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-25T06:24:19Z",
 }

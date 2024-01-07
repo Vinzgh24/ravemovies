@@ -23,7 +23,7 @@ summary: Berlatar tahun 1956, bermula dari pembunuhan seorang pendeta, Suster Ir
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Nun II (2023)",
-  "contentUrl": "https://stream.mux.com/2fw7RQsPNL9mTAO00lMSa4wnsqSfoGDMQNolJ500n2FLY.m3u8?min_resolution=480p",
+  "contentUrl": "https://stream.mux.com/Xy55wGZkGABrRqrLSb5NEIj02vaFDVtW8bSfokNAD7CA.m3u8?min_resolution=480p",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/6ccXFawnYknVMYkcCL30QhEm73j.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-15T13:27:07Z",
 }

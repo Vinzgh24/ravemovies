@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Conjuring: The Devil Made Me Do It",
-"contentUrl": "https://stream.mux.com/zRC872CYTUw8akOqAgcjW81TQnvevNerrjAxWjvO8ik.m3u8",
+"contentUrl": "https://stream.mux.com/pbtdJk2EWWtqrqUGdoSjCfHhkngFzMP39OWbP5WtoSQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/icWg7FV0WdlQd1NAGxlBJ0ecpvi.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-03T17:31:17Z",
 }

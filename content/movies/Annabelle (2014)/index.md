@@ -23,7 +23,7 @@ summary: "Sepasang suami istri mulai mengalami kejadian supernatural mengerikan 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Annabelle",
-  "contentUrl": "https://stream.mux.com/yrc3wrHQQ6VCsUATOxECOKO6w5UejHSRlqH02VkT1x00k.m3u8",
+  "contentUrl": "https://stream.mux.com/P01zm00CcT7tuZ5wJJLtaLHg4BB5TQ3ib1k02p02D6LcE004.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/boxuxPM8r5ptlQHrd7Ia8U8dWvV.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T11:36:42Z",
 }

@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Khanzab",
-"contentUrl": "https://stream.mux.com/plYElTa8OPeZ9InszHt02KMG1DfAocKQiM3dy1hKhA4k.m3u8",
+"contentUrl": "https://stream.mux.com/z24Y8OReRujup6yobU7E1bnOlhn7NiTA52bLmeqafQI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oeQ7tJPYx4dqR6yAPOVY0T1m6xz.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-11T12:11:16Z",
 }

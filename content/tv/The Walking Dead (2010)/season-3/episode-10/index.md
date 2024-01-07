@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E10 - Home",
-  "contentUrl": "https://stream.mux.com/vliDNjSxyCMFk6kOWeMxwOcoThsRBKRra7B1MZXhozg.m3u8",
+  "contentUrl": "https://stream.mux.com/d00c9pXlz7i5Dhk6lRwF1T2y3Ztqj7igVNCdoym6ma2A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:16Z",
 }

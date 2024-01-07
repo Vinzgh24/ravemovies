@@ -17,7 +17,7 @@ series: ["Night Has Come"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Night Has Come - S1E6 - Episode 06",
-  "contentUrl": "https://stream.mux.com/3a102GQmank4fAeLsdsH00BOv2WGZ8KMsknHLLEyiDg01M.m3u8",
+  "contentUrl": "https://stream.mux.com/YB5vRPGPyC2024KrrxHRxgEbG004czfat3jaXkYcO4W7Y.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-14T12:54:46Z",
 }

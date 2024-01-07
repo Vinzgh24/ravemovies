@@ -17,7 +17,7 @@ series: ["Night Has Come"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Night Has Come - S1E3 - Episode 03",
-  "contentUrl": "https://stream.mux.com/2jhuuh01dbUPcuyQ02mahYwF35VOcCoj4kBT3TtCBsw4E.m3u8",
+  "contentUrl": "https://stream.mux.com/dqvZJVajCpJEf4hBmV5g7RKhPy7whQX2rrantMpJzyM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-07T04:02:12Z",
 }

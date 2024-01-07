@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E2 - Sick",
-  "contentUrl": "https://stream.mux.com/t8h1J01CmxP3YnVQ00GwOn02Pjebc8WQ9jEZBWLyIeFamI.m3u8",
+  "contentUrl": "https://stream.mux.com/wtrLcW7AzviAWytyjQdvJJZzYlAxC9RUJ3kb00pbMYEk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:22:53Z",
 }

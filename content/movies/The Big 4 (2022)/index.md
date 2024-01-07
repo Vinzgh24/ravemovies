@@ -19,7 +19,7 @@ Bercerita tentang seorang pembunuh elit yang menjadi sasaran gangster pembunuh s
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Big 4 (2022)",
-  "contentUrl": "https://stream.mux.com/CtxL4r7grnvVRqs456VU02c9jV2HyOi7ghQuCrlw69Jk.m3u8",
+  "contentUrl": "https://stream.mux.com/4AegImuxcdtQYTlP1Sprwr01gdZ02piDebvnNeCa2ljYQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/vDJE7JPnPc6fJBMBXdSltYM6yL6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-19T20:42:28Z",
 }

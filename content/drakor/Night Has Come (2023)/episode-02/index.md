@@ -17,7 +17,7 @@ series: ["Night Has Come"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Night Has Come - S1E2 - Episode 02",
-  "contentUrl": "https://stream.mux.com/sqkjRDiUCNVPtQJao9r02lUKHERms9gMC6RjqIWrRpnE.m3u8",
+  "contentUrl": "https://stream.mux.com/Rw9uGsLTCWm9WAUBqFKJeH21VG1agHeFl6Jm1e9BrGY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-07T04:02:09Z",
 }

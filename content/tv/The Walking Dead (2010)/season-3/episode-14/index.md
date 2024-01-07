@@ -19,7 +19,7 @@ showSummary: false
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "The Walking Dead - S03E14 - Prey",
-  "contentUrl": "https://stream.mux.com/X1j6cxf6JgnvvQiE5E01m4jnNNRbKg4LO8ideCMPQFGM.m3u8",
+  "contentUrl": "https://stream.mux.com/6IZ00FPWHbbS1BheHr019dI7nudOjdFhPxTVBiXfgfeF4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T11:23:35Z",
 }

@@ -20,7 +20,7 @@ Saat Nathan (Jefri Nichol) mulai serius berubah demi Salma (Amanda Rawles), cint
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Dear Nathan (2017)",
-  "contentUrl": "https://stream.mux.com/E02RGllwjs97Y9NgSanBP68ZULe7r9t9WKC3BotFSVjw.m3u8",
+  "contentUrl": "https://stream.mux.com/zMo02uEIOXBADheBXZ01Mw578tAsfDUxO00JrfZHhZwpRk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/diEbDum4jTpYQ7URgsDRGTJgSEr.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-19T10:08:34Z",
 }

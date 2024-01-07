@@ -19,7 +19,7 @@ Ketika seorang pengantin pria yang pemalu mengucapkan janji pernikahannya di had
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Corpse Bride (2005)",
-  "contentUrl": "https://stream.mux.com/MDYCqgJBnCVlUhLbXNniV713959RIiMCmQQtqu1ifIU.m3u8",
+  "contentUrl": "https://stream.mux.com/Zs502poZqysuqNwEggNsTABtHqQC015kLZMDrGlLAVIhk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AsOaYPHi47Ypk63Am7LeuVs4D3P.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T13:56:42Z",
 }

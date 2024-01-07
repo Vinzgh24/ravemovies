@@ -17,7 +17,7 @@ series: ["Night Has Come"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Night Has Come - S1E5 - Episode 05",
-  "contentUrl": "https://stream.mux.com/vy02IYuRgglvRUWT001CVIee01Nz014Lr01BQjFGiPfL5tH8.m3u8",
+  "contentUrl": "https://stream.mux.com/sjEtQQwEXSmdW5cfjlOmotpsWf36yn013F2Sl9PFSPjc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-11T10:07:54Z",
 }

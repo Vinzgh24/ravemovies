@@ -17,7 +17,7 @@ series: ["Night Has Come"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Night Has Come - S1E7 - Episode 07",
-  "contentUrl": "https://stream.mux.com/N02YUOaRgCOe4oIRk5PlFkT01bcZZPhf029fUPf01US8FPw.m3u8",
+  "contentUrl": "https://stream.mux.com/iguxibyTO600Iowbw00yBhGsN3r4UGDDjLSxQi01hQECYY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aGuBIB79vDDQKcsQUIF5fa5P07b.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-14T12:54:54Z",
 }

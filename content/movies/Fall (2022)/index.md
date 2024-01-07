@@ -21,7 +21,7 @@ summary: "Ketika pendakian ke gedung tinggi mengalami kegagalan, sahabat Becky d
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Fall",
-  "contentUrl": "https://stream.mux.com/lGgR2J7guC3gfgxLTb6tiws3I2feEfg9cYdkcymC3lE.m3u8",
+  "contentUrl": "https://stream.mux.com/4hSrSw1tUrpnz4mLX6LfMpvGSnP027T02een1CD11U00FE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/uH57aoFjziogfgfH1ILVoGmZbAF.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:44:10Z",
 }

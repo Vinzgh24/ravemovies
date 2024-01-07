@@ -23,7 +23,7 @@ summary: "Setelah Insurgent terungkap, Tris harus melarikan diri bersama Four ke
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Allegiant (2016)",
-  "contentUrl": "https://stream.mux.com/Ji2hEe6luxbmpl38YpbfZBbQAe73WSjHrOTEXDPW6ds.m3u8",
+  "contentUrl": "https://stream.mux.com/1kBcF1xA8q01LsloAvioLTkmpHZMQhrR86BLvR1HECUs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/x9Z2dXyPNLBcSN7rNem07psx1E2.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-23T08:00:56Z",
 }

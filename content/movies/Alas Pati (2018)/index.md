@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Alas Pati",
-"contentUrl": "https://stream.mux.com/gOYWSU2Si65URAtMRkgqB7jyFwrdGQBCzfPzMl5zqqk.m3u8",
+"contentUrl": "https://stream.mux.com/r01s6M8KduINAIM6vRcLWlHltcagl3xOp01gIFT01KszFI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/x1uhjd4YxSahNKCszmk5LCHTHE5.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-10T12:55:12Z",
 }

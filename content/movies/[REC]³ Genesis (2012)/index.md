@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "[REC]³ Genesis (2012)",
-"contentUrl": "https://stream.mux.com/Aelz1N9RReiL7o5Rbeyyb00rwK6uDvAm4DbTKrnVmk7k.m3u8",
+"contentUrl": "https://stream.mux.com/5od2dOjfl3fcv01ckN01EHbLM3KkYNhr3U8A6IHQXlUAw.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zRu5xBzTr1FHSQSAu5hqndMWQ1Z.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-26T05:40:24Z",
 }

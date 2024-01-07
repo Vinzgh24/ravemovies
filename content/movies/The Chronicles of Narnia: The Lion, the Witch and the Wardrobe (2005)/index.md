@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
-"contentUrl": "https://stream.mux.com/Qoo2jlMjL4b5w6UgIJa901bunl3ZUqv3sN5f02eWN004uM.m3u8",
+"contentUrl": "https://stream.mux.com/s00Zc5LL4hY7PtCZ4Qwi3u3lt1Y7HM76vE7Y44xkADgA.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9Nnd4sxmZq4nI7aP9NMQbE3tafY.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T12:30:32Z",
 }

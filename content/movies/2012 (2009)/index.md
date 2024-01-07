@@ -19,7 +19,7 @@ Seorang penulis yang frustrasi berjuang untuk menjaga keluarganya tetap hidup ke
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "2012 (2009)",
-  "contentUrl": "https://stream.mux.com/ML3dV5Qtc5oJlYPTbqd6t3yU9khz1fqn01W8boQZoP00c.m3u8",
+  "contentUrl": "https://stream.mux.com/dgdMmVWw5YPn7yd5bVmuw3E02NbhZ3RG01Ozu1eVPvCBQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xVq7AcZNS76jBXznQOo4F8iUksY.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-02T16:01:34Z",
 }

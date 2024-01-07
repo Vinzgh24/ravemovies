@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Ada Apa dengan Cinta? (2002)",
-"contentUrl": "https://stream.mux.com/rMF3xDPY58Wl0200zONsh4erlaxjPpIXx902l4L5CrDOro.m3u8",
+"contentUrl": "https://stream.mux.com/UqoqWTRbEHLuenTvINLxFn01Q01kjaAUuZg4Z5F543VdI.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9rFFCia3wCpCFnymu94xTMho9Mu.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-11T11:55:09Z",
 }

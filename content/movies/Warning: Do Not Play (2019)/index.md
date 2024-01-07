@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Warning: Do Not Play",
-"contentUrl": "https://stream.mux.com/FIz00yZApxQx00HNVi00ZAG01w0102NSMms01B5ZyDJP5tu00HU.m3u8?min_resolution=480p",
+"contentUrl": "https://stream.mux.com/02WwC6WQ12IngZ7OH4m5mS7krUeh3x2gF8VRJFXT6hNo.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/iw79kr3LxdqjRbQAETfK3CRTRDy.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-17T14:59:11Z",
 }

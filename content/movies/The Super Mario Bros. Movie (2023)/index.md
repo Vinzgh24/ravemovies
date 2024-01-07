@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Super Mario Bros. Movie",
-"contentUrl": "https://stream.mux.com/00FQyKPqt79sYLItBFaVZzjZlkLiTC6ANAW7lvAE801js.m3u8",
+"contentUrl": "https://stream.mux.com/RwVoL2WDH00DLiPEp4lNkq5PyqJD6026uC9YVrBs01GkNQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/mVdYP52DjctFBOJmLTK62NKpOLd.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-27T05:59:55Z",
 }

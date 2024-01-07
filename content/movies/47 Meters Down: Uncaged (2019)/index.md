@@ -20,7 +20,7 @@ Dua saudara perempuan yang menyelam di kota bawah laut yang hancur dengan cepat 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "47 Meters Down: Uncaged (2019)",
-  "contentUrl": "https://stream.mux.com/xAqSfUnSL02y5mqq5WmClq00UFMY2nmCSpIB02I00dpv802Q.m3u8",
+  "contentUrl": "https://stream.mux.com/0000U25qHHH7b00k4MvMkKASrV02dCKEnoLDAeis01SE002SE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/3niK4z16lsLvDtHqD9nzgLxha01.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-26T14:52:07Z",
 }

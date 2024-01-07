@@ -21,7 +21,7 @@ summary: "Usai bertugas di perang, Mak mengajak keempat teman prajuritnya ke rum
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Pee Mak (2013)",
-  "contentUrl": "https://stream.mux.com/CD02ErD3omBOcWV2Vfk00Dqygn5ZHZ1LHBfEV6KoSwHDk.m3u8",
+  "contentUrl": "https://stream.mux.com/00I3BArrjmuFuWL6eOlcEiQPSsurBrTWg22ooa1yrYeg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/fkmscQgkuKXvnf0TozZsVfrDz24.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T06:08:07Z",
 }

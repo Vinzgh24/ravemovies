@@ -20,7 +20,7 @@ Di masa depan, pemerintah Jepang menangkap sekelompok siswa kelas sembilan dan m
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Battle Royale (2000)",
-  "contentUrl": "https://stream.mux.com/DvSsOHT1m5Q01iiJC1M6bQ4decSlswghSe32Ug33jX3I.m3u8",
+  "contentUrl": "https://stream.mux.com/3TkIUW8RE02kPtlEYiYZ8F4F01ekDwKoUZFiIFXdQHKYU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/wWLgdegMARMp4tMVllLumFcdBqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-13T13:29:47Z",
 }

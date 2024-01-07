@@ -19,7 +19,7 @@ Tiga wanita di sebuah desa kecil menyembunyikan rahasia kelam, termasuk aliansi 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Para Betina Pengikut Iblis (2023)",
-  "contentUrl": "https://stream.mux.com/6XzVTizpQ7HTOLBwhGLg7mTEoBkFkPv6clv00RNYolRo.m3u8",
+  "contentUrl": "https://stream.mux.com/ycVz2rPdMS45QWKiizn8UPEHtbR5Ua63FFAig02C01fqo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/jpDyo4FT7xCPs9Enx0B6dIeP85e.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-20T13:01:18Z",
 }

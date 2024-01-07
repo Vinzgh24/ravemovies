@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
-"contentUrl": "https://stream.mux.com/Z9JtWGtzWqTZ00F02102Z5arhxqSPuhVqKaBiYIxb6tp6k.m3u8",
+"contentUrl": "https://stream.mux.com/n620146g02xP7aGbCxeJLlkKCfVxk5EwQMKx7wCSdcDDg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/AhTNmGhPzVGj9g5oz5VlFP3IhlR.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T12:39:22Z",
 }

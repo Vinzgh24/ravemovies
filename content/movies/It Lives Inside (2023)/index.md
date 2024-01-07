@@ -21,7 +21,7 @@ summary: "Seorang remaja India-Amerika yang berjuang dengan identitas budayanya 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "It Lives Inside (2023)",
-  "contentUrl": "https://stream.mux.com/YKdyiJkicWc5jvFgPP0000PoluokkZEFuSRH418iOTp02Q.m3u8",
+  "contentUrl": "https://stream.mux.com/kZepDQBE7oMG2MsCb6thW7ld7dSF4G6bCov1HppwO4Q.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ljl6skTg5IvPp46POaZ6gL93Ue2.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T10:42:00Z",
 }

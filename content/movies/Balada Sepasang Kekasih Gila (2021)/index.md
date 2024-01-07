@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Balada Sepasang Kekasih Gila (2021)",
-"contentUrl": "https://stream.mux.com/95DGKfo9fP1WRoVoycwBq01XfLz02LOORFU5E7k7Px248.m3u8",
+"contentUrl": "https://stream.mux.com/8KP602IS9pJ6JqSSSmx9tl6iNSbaXVeolK8x01ktmqS5I.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tKVP3tAEhCvtJoHqsbXOaXYg3Ly.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-10T12:50:32Z",
 }

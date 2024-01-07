@@ -16,7 +16,7 @@ summary: "Sekelompok anak-anak nekat mengeksplor rumah terbengkalai demi memenan
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Kuntilanak (2018)",
-  "contentUrl": "https://stream.mux.com/ug4exgHUgLt3aT9UYBvp3NmfdHhkkfvONPO4fyYtKzk.m3u8",
+  "contentUrl": "https://stream.mux.com/bzZaSLLgznWfWBPkECUqe2yObFZV01Cym004mesZI5gyg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/7OCGjdPCXjJrxA8giOyUbnbwF4w.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-03T14:33:38Z",
 }

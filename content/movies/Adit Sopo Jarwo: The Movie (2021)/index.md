@@ -19,7 +19,7 @@ Dalam perjalanan menuju Jogjakarta, Adit berpisah dengan orang tuanya. Perjalana
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Adit Sopo Jarwo: The Movie (2021)",
-  "contentUrl": "https://stream.mux.com/mgeJoHhNtgnaneFFRkcq2eTURO6jTosoDigfNkaoopE.m3u8",
+  "contentUrl": "https://stream.mux.com/OmYZ0088YbtLivnHCJWqsrcNqyU400q5k7djx4bG02dBic.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aBNUBd1tT6ONyRft5tXqdRvPy2g.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-23T10:49:45Z",
 }

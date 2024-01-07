@@ -20,7 +20,7 @@ Keluarga Lambert percaya bahwa mereka telah mengalahkan roh-roh yang menghantui 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Insidious: Chapter 2 (2013)",
-  "contentUrl": "https://stream.mux.com/rS3o1PcnXu013J9YLkQHTISDeAxZHiT4W1vVlqZ3irjg.m3u8",
+  "contentUrl": "https://stream.mux.com/02kRT00aKaMl4Ne6ahiZTge00yNCHkBsurTK8gVtGnA7BU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/qKemWilOMuRE8nfKEQdxY1ZWUcM.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-21T20:08:15Z",
 }

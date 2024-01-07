@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Luck (2022)",
-"contentUrl": "https://stream.mux.com/01CNDWITaAyhImh00MaOcEH3Co2reeEVel5aAegLt1PU4.m3u8",
+"contentUrl": "https://stream.mux.com/VsZeYAAQwndvulhJzfZnpgfwolXUR6aYk176q6I23o8.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-25T06:24:19Z",
 }

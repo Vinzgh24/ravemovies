@@ -22,7 +22,7 @@ summary: "Enam tahun setelah peristiwa Wreck-It Ralph, Ralph dan Vanellope, yang
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Ralph Breaks the Internet",
-  "contentUrl": "https://stream.mux.com/SYp5mrLtUBXcMrVtlgPO01FDCAej02srW8x951R00oQLIU.m3u8",
+  "contentUrl": "https://stream.mux.com/krTkoxZR7erRAxzF3km9UgY3R3Xu2Ely9oqQptA01pEg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/esyzJX7bIwfeqgzXvf3bkDYwTWS.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T10:20:44Z",
 }

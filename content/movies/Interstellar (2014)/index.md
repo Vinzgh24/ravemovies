@@ -19,7 +19,7 @@ Ketika Bumi menjadi tidak dapat dihuni di masa depan, seorang petani dan mantan 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Interstellar (2014)",
-  "contentUrl": "https://stream.mux.com/3pe3MmiVwTw7tk00500027hp9LWGQs4mueYe4c2GNKzABE.m3u8",
+  "contentUrl": "https://stream.mux.com/gZtWzJZQFu02DpedZ412dSONxYMqo02fvSszYNMa7YRvY.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yUa0iCocBPsGJ79BwrshHqz45Qc.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-18T07:09:20Z",
 }

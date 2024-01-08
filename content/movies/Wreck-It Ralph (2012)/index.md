@@ -22,7 +22,7 @@ summary: "Seorang penjahat video game ingin menjadi pahlawan dan bertekad untuk 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Wreck-It Ralph",
-  "contentUrl": "https://stream.mux.com/ytgd6tDXQpiPFu2HR62500arfZT2702l3y6SAc9rN5hlM.m3u8",
+  "contentUrl": "https://stream.mux.com/Ht3ixpHgttaMO3OlFmwsXFuX8clAiZVvlNXmgZScdUc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/stBOYHepvs3Rn4ZBGPNhyX5taAu.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:40:17Z",
 }

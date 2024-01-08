@@ -1,18 +1,30 @@
 ---
 title: "The Boogeyman (2023)"
-date: 2023-08-29T12:01:43Z
+date: 2024-01-07T09:00:37Z
 tags: ["Movie"]
 categories: ["Horror", "Mystery", "Thriller"]
+summary: "Masih belum pulih dari kematian tragis ibu mereka, seorang gadis remaja dan adik perempuannya mendapati diri mereka diganggu oleh kehadiran sadis di rumah mereka dan berjuang untuk mendapatkan perhatian dari ayah mereka yang berduka sebelum terlambat."
 ---
 
-Masih belum pulih dari kematian tragis ibu mereka, seorang gadis remaja dan adik perempuannya mendapati diri mereka diganggu oleh kehadiran sadis di rumah mereka dan berjuang untuk mendapatkan perhatian dari ayah mereka yang berduka sebelum terlambat.
 
-<video width="320" height="240" poster="https://www.themoviedb.org/t/p/original/h6MsUAV4Z4nRN0h4kAZWDcYxdms.jpg" controls>
-   <source src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EQjyZm4Nr8pFnjrBnxjHAz4BWhu9nRHA0Arn5kibG8LZgQ" type="video/mp4">
-</video>
+<mux-player stream-type="on-demand"
+src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/15/download.aspx?share=EQjyZm4Nr8pFnjrBnxjHAz4BWhu9nRHA0Arn5kibG8LZgQ" prefer-playback="mse" controls>
 
-{{< alert icon="circle-info" >}}
-Jika video tidak dapat di Play melalui Rave dan mengalami Buffer/Load baca postingannya [Disini!]({{< ref "tutorial rave" >}})
-{{< /alert >}}
+</mux-player>
 
 
+{{< movieinfo id="532408" >}}
+
+<script src="https://cdn.jsdelivr.net/npm/@mux/mux-player"></script>
+
+ <script type="application/ld+json ">
+{
+"@context": "https://schema.org/",
+"@type": "VideoObject",
+"name": "The Boogeyman",
+"contentUrl": "https://stream.mux.com/NCnok9at2sZ3OIrp6w8zJLa9YNn8Wxec01K00pwq9IEAY.m3u8",
+"thumbnailUrl": "https://www.themoviedb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg?width=314&fit_mode=preserve&time=25",
+"uploadDate": "2023-12-25T06:24:19Z",
+}
+
+</script>

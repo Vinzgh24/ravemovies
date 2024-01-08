@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Ganti-Ganti (2023)",
-"contentUrl": "https://stream.mux.com/027hrD026Gw9cqmGd00gjbequU02gGhQT3uUNdbe016lVcQc.m3u8",
+"contentUrl": "https://stream.mux.com/2RwuOL6201etHamCXftpjKb9qRnGvmNVmgBeAtBGQ4Eg.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/aTfFw75zlTDyCAZryMJAxhZVvPP.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-02T12:09:43Z",
 }

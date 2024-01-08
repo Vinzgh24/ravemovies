@@ -20,7 +20,7 @@ summary: "Berdasarkan kisah nyata yang luar biasa dan menginspirasi dari sebuah 
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gran Turismo",
-  "contentUrl": "https://stream.mux.com/52nuZ83015o4jxJw4300fOz15cNNPaxRlJzERgQUGlc8w.m3u8?min_resolution=480p",
+  "contentUrl": "https://stream.mux.com/I2wgi006ucCwcnpUvgqEDptrP5GowlT8ATwplA78Z1S00.m3u8?min_resolution=480p",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9vj1ETdD0V08Fu7yO66NG7EJeA6.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-26T14:20:38Z",
 }

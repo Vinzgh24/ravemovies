@@ -17,7 +17,7 @@ series: ["Gadis Kretek"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gadis Kretek - S1E1 - Jeng Yah",
-  "contentUrl": "https://stream.mux.com/cFERtxEiaXr87p00bnnk2McNDBeabdx02WqQHOy01xxR9w.m3u8",
+  "contentUrl": "https://stream.mux.com/Wi9O2ye2zGwhKO02DB6lfhoT00QI4qTPKy5ZPA01sL2N500.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T12:16:31Z",
 }

@@ -17,7 +17,7 @@ series: ["Gadis Kretek"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gadis Kretek - S1E2 - Mawar",
-  "contentUrl": "https://stream.mux.com/Ron5k6Ugp6Z300N4eOf01QP02Wt7elopWYr0102ESD2SleE00.m3u8",
+  "contentUrl": "https://stream.mux.com/ph02gtWeuzzJRf02P7Sf5lVv8x7lq3o5UCadk4j5DW7bQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T12:16:35Z",
 }

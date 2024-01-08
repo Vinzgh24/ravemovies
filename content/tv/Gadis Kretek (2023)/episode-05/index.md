@@ -17,7 +17,7 @@ series: ["Gadis Kretek"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gadis Kretek - S1E5 - Kretek Gadis",
-  "contentUrl": "https://stream.mux.com/wde01D00pYr7Ew4V3Dci8qo01n1NhaSgGq9gZvFDOEb00Lk.m3u8",
+  "contentUrl": "https://stream.mux.com/YYBL2PkgHWzesY38frGF9pHKdPvgSLIZ9dss7j2v2Yg.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T12:16:44Z",
 }

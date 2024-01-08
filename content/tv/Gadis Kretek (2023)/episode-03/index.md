@@ -17,7 +17,7 @@ series: ["Gadis Kretek"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Gadis Kretek - S1E3 - Merah",
-  "contentUrl": "https://stream.mux.com/02QNWC6b8aB42r4HYZqBwBDqeh6gtyg2C01801VXgdS9jA.m3u8",
+  "contentUrl": "https://stream.mux.com/CN92yP7sfxP6uYo00x4bTQojHkXYmPUuSqyTzDRLTSQM.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/bGn7dGysvut3RzbwcTupisAYElN.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-11-11T12:16:38Z",
 }

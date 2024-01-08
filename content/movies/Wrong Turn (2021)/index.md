@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Wrong Turn (2021)",
-"contentUrl": "https://stream.mux.com/wAiVhYfeAOvvDV01TceMlNvOkrmL0200ERcd3BOpj5blmE.m3u8",
+"contentUrl": "https://stream.mux.com/6B2jZ01Zw1whskJybHMxvjagtPi67OnYVK4O8OnTBfjQ.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/lLv2CGS11DHfnX12NJrJv1oNwLu.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-12T09:55:32Z",
 }

@@ -20,7 +20,7 @@ Anna, Elsa, Kristoff, Olaf, dan Sven meninggalkan Arendelle untuk melakukan perj
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Frozen II (2019)",
-  "contentUrl": "https://stream.mux.com/Jfh5023VbRWfKubiul6kkYOZ6WZhiH6zibVqrpE01IsAY.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/tc021iR57vrb01jxgwRlNnaYYyZsxkYhNmar01Ous1t01cE.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/xD7yQyIZTU56OhzIjEa6FhD66Pe.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2021-06-09T23:23:00Z",
 }

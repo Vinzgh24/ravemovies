@@ -20,7 +20,7 @@ Ketika Ratu Elsa yang baru dinobatkan secara tidak sengaja menggunakan kekuatann
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Frozen (2013)",
-  "contentUrl": "https://stream.mux.com/Rn3F2023VFiCihofZcmGehoYI85Lx3emG2rrtEY02fIvg.m3u8?quality=auto",
+  "contentUrl": "https://stream.mux.com/jNtiLaTvrxwLG4Fu02gYPdhYWLfgo01nC21YPhOSIaJOY.m3u8?quality=auto",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/moONmkuXn0UgVOWXtgdqMAf3HV8.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2021-06-09T23:23:00Z",
 }

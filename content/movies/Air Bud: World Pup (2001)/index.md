@@ -23,7 +23,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Air Bud: World Pup (2001)",
-"contentUrl": "https://stream.mux.com/w023qqQKHnuW101kRd3afZbCTGrc2xlVDr7VzFtilOypg.m3u8",
+"contentUrl": "https://stream.mux.com/OZFPcWrqLby67WHoOYvoQEZ700gL01CxMQOlILAOUQmv8.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/kjwVEUP1nG0ZMGjgOBdAfW7iTG7.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-27T05:55:01Z",
 }

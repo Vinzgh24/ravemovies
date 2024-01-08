@@ -24,7 +24,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "name": "The Boogeyman",
 "contentUrl": "https://stream.mux.com/NCnok9at2sZ3OIrp6w8zJLa9YNn8Wxec01K00pwq9IEAY.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/9eSoJrj8LkbUzuPSJzgSXWKexKj.jpg?width=314&fit_mode=preserve&time=25",
-"uploadDate": "2023-12-25T06:24:19Z",
+"uploadDate": "2024-01-07T09:00:37Z",
 }
 
 </script>

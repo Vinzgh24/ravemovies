@@ -20,7 +20,7 @@ Tepat ketika segalanya berjalan baik bagi Erwin, ayahnya jatuh sakit dan meminta
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Cek Toko Sebelah (2016)",
-  "contentUrl": "https://stream.mux.com/osQC84gdqSEzuCnLGahFnSIU1xqS2sDYcXNDNrgDvEI.m3u8",
+  "contentUrl": "https://stream.mux.com/yxDKKCKfCfBYkgYhDXBIFYGQhqFzGjMNA01NH021PLtR4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/eUMwG5vXg4ovEUvXLAFgrr4bQvp.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-16T02:03:55Z",
 }

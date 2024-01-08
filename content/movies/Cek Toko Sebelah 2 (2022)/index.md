@@ -23,7 +23,7 @@ summary: "Dalam sekuel drama komedi hits ini, Erwin dan Natalie harus melewati s
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Cek Toko Sebelah 2 (2022)",
-  "contentUrl": "https://stream.mux.com/Cn1dWjDDHLcaOiiZIEdexc00AgkgBVJyDTaqgUw02pFgM.m3u8",
+  "contentUrl": "https://stream.mux.com/AfRkmS01cGYPMpb6HNFNvS8WBWxq02ERrswelcQ8adroQ.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/yv7IKf54oq9ENwyIEfr3lDvMl01.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-18T10:38:13Z",
 }

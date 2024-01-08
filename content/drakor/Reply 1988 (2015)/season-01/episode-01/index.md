@@ -20,7 +20,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E1 - Episode 01",
-  "contentUrl": "https://stream.mux.com/FtKNOcSU455yexylrUaBj5Axkit1gl82qxhNSS02NoMY.m3u8",
+  "contentUrl": "https://stream.mux.com/n9NYuej6zziPUyNF00Z00zzRCUn02ODY00nD7s28Cs501hiE.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:40Z",
 }

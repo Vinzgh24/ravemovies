@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E3 - Episode 03",
-  "contentUrl": "https://stream.mux.com/g7WJbL13F3T8rRNy2qXPMGy19fVwwI22na6G83meBlo.m3u8",
+  "contentUrl": "https://stream.mux.com/mC02smJCMbiZoCXNPfK23Bkd5TuDJCs2qzltkZkdMCvo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:46Z",
 }

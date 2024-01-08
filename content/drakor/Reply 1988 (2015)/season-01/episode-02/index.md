@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E2 - Episode 02",
-  "contentUrl": "https://stream.mux.com/w8qysMhG9LJJuI7ATLvQ4K5liCId8pQM6vGg00Cv02jB4.m3u8",
+  "contentUrl": "https://stream.mux.com/gfGw0188ulrSu9LU9qYAPFr2z7K9bKzvIpEsCMGUNR5c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:43Z",
 }

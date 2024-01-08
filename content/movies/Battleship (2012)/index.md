@@ -19,7 +19,7 @@ Sebuah armada kapal terpaksa melakukan pertempuran dengan armada yang tidak dike
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Battleship (2012)",
-  "contentUrl": "https://stream.mux.com/ARM45v004dmgA01LhkdGSZHRNGXrJGggCH1qIuDKi1AFg.m3u8",
+  "contentUrl": "https://stream.mux.com/ersKrX5ALYt3Go1im3Id1XPWMm7hhG1KGrvh7JA9qJs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/tYOlq4QgkzFq3hTcdcqE7mrfFyi.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-07T00:58:13Z",
 }

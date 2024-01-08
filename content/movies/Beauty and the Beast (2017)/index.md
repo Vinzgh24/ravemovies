@@ -20,7 +20,7 @@ Seorang Pangeran egois dikutuk menjadi monster seumur hidupnya, kecuali dia bela
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Beauty and the Beast (2017)",
-  "contentUrl": "https://stream.mux.com/WUI00je1gFJg02VsUtymGNsPlBe8yWWQRh00IRrB8G600hE.m3u8",
+  "contentUrl": "https://stream.mux.com/8nfs8Wh6TxtyxXPzDiT2uqXxLcrNAimuRC59zW018sdw.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gbeMGa95MzKDYtKc5nkywlSjT9A.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T05:46:33Z",
 }

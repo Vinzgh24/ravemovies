@@ -21,7 +21,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "Fabricated City (2017)",
-"contentUrl": "https://stream.mux.com/CU02oDZaex19LzNWHYJPtZoz1mQZfmpvZupBNgoixC01g.m3u8",
+"contentUrl": "https://stream.mux.com/AncB5cRNOtmLOkua714Bg1dxC96ax25GrZn8rW5k6lU.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rFLKKAfpLrvLV1JCy736uKsRiK2.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-12-09T15:43:03Z",
 }

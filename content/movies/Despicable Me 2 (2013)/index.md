@@ -20,7 +20,7 @@ Ketika Gru, ayah super paling super jahat di dunia telah direkrut oleh tim pejab
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Despicable Me 2",
-  "contentUrl": "https://stream.mux.com/AbbbcQ9G9NFZvWykXI92bN00ODXB61HKazI87Nx02qjOc.m3u8",
+  "contentUrl": "https://stream.mux.com/KvgaFHpkAWVPrXKiko7wgJ900YBvO9UM7fFhZOfkdYvs.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/z9TyU9t3Xrdpze4qqstVS6XW1ji.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-09-24T12:23:34Z",
 }

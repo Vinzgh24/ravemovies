@@ -22,7 +22,7 @@ summary: "Penduduk Wakanda berjuang melindungi rumah mereka dari campur tangan k
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Black Panther: Wakanda Forever",
-  "contentUrl": "https://stream.mux.com/eNjruSj101rpxgtMp9j8nSddM004Gy4822DvVJvK8TCls.m3u8",
+  "contentUrl": "https://stream.mux.com/ZmYeDK14laOvxLgRN00u7p6k02hhSBztl4rclilMndTUU.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/g0UfxFPjNCBjuv2G0K15Qu6p7zk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T00:35:19Z",
 }

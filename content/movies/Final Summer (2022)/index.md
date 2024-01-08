@@ -21,7 +21,7 @@ summary: "Setelah tragedi di perkemahan musim panas, sekelompok konselor kamp ha
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Final Summer (2022)",
-  "contentUrl": "https://stream.mux.com/ElteXsRBOUTY00rFRfIGMjSDO3h8xXp4aF7lmI8LqWhQ.m3u8",
+  "contentUrl": "https://stream.mux.com/JdEeOVrmqyawj68yYRiHMDKLk01xHMLnd02YPaBQIoEm4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/gdFZyVv5FegRsWo6Zn3vfYcoiuB.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-11T10:22:44Z",
 }

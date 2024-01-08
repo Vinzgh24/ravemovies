@@ -22,7 +22,7 @@ summary: "Penyebaran cepat dari infeksi yang tidak diketahui telah menyebabkan s
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "#Alive (2020)",
-  "contentUrl": "https://stream.mux.com/tIp3coqZWn84l3s9ss6UCiLxWnI5BRBSSTG4PgnuQhU.m3u8",
+  "contentUrl": "https://stream.mux.com/RxRJyXTvztqPWVAviI3PgANZ13tdGnPju01M82aBmx02c.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/ecnWMV9Zf5PzpSsJmnFMX9c6iSY.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-15T12:55:06Z",
 }

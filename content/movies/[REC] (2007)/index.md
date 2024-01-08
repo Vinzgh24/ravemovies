@@ -22,7 +22,7 @@ src="https://kp3d-my.sharepoint.com/personal/ryoo_kp3d_onmicrosoft_com/_layouts/
 "@context": "https://schema.org/",
 "@type": "VideoObject",
 "name": "[REC] (2007)",
-"contentUrl": "https://stream.mux.com/P2ony6CaGkjcBWdrth41g7avV7jdJ98r3UWxbAF7hYE.m3u8",
+"contentUrl": "https://stream.mux.com/gq1Jnrn0155vzLnB4OeYsoT74aeNuH02ztdvOEhgGqL3U.m3u8",
 "thumbnailUrl": "https://www.themoviedb.org/t/p/original/rZuez6kinAM74wQzYer6bfDuEJ0.jpg?width=314&fit_mode=preserve&time=25",
 "uploadDate": "2023-11-26T05:30:06Z",
 }

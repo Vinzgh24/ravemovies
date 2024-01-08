@@ -51,7 +51,7 @@ Seorang gadis biasa dan malang, Gorya, yang menghadapi dan melalui serangkaian k
  <div class="movie-box">
         <div class="movie-title">F4 Thailand: Boys Over Flowers</div>
         <div class="movie-details">
-            <p><strong>Genre:</strong>Comedy, Drama, Romance</p>
+            <p><strong>Genre:</strong> Comedy, Drama, Romance</p>
             <p><strong>Release Date:</strong> 2021</p>
             <p><strong>Season:</strong> 1</p>
             <p><strong>Status:</strong> Complete</p>

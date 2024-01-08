@@ -17,7 +17,7 @@ series: ["F4 Thailand Boys Over Flowers"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "F4 Thailand: Boys Over Flowers - S1E5 - Episode 05",
-  "contentUrl": "https://stream.mux.com/G02MxzhQvN9N01dAXs6qk00S91i5lUiFIttLgosLbkbezE.m3u8",
+  "contentUrl": "https://stream.mux.com/8d8ng00UEweyozFmntG6wsYsf67WiTrMiQLKhPAVhnIA.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/zwsJRRmVozVZ1tDs8buIs97pCqm.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-12-24T12:20:15Z",
 }

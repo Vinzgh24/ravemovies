@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E9 - Episode 09",
-  "contentUrl": "https://stream.mux.com/CxEoUxnagKbsV6D01CaZusXsYNzH00szWzcm9UiyPAu3M.m3u8",
+  "contentUrl": "https://stream.mux.com/XJRdoyXFbpb1BNvcixfV7uQyi01amvSLZMJq5011ip4DI.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:06Z",
 }

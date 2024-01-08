@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E8 - Episode 08",
-  "contentUrl": "https://stream.mux.com/rKg00hWIRBDKyJjXrVviGakbsKVjAC5xz4OrjYy5BL8I.m3u8",
+  "contentUrl": "https://stream.mux.com/AgajkpEJTNKAAnhKCUyvA8EsWWeELX6u8Ukz0101tTzxc.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:03Z",
 }

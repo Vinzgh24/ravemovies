@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E7 - Episode 07",
-  "contentUrl": "https://stream.mux.com/VGSrOJYqy02KJVz97vK8ffqtpUTv8aDJnPzJAi6ejjsI.m3u8",
+  "contentUrl": "https://stream.mux.com/4BJwOaVopEH1PpqukOPeaGcN300M4xJExZrWQFHnfS02A.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:00Z",
 }

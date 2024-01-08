@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E6 - Episode 06",
-  "contentUrl": "https://stream.mux.com/vIK5UllIOitxIQv3i022uuPW0001hgreL2BOVm5eeOthZA.m3u8",
+  "contentUrl": "https://stream.mux.com/vKnviu5nZyP5gjdo02MFlr2bZFvt3t8olgFqmlENzcQ4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:58Z",
 }

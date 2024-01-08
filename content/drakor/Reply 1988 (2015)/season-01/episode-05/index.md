@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E5 - Episode 05",
-  "contentUrl": "https://stream.mux.com/ER01NhS1cbxqAKl902Q5oBWdTjni02ql6vd6YIX2xqCxNE.m3u8",
+  "contentUrl": "https://stream.mux.com/jjxp7GczhJb5j8LqDNUT2P8n4UNOB1czStja87ydCRo.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:50Z",
 }

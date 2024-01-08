@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E4 - Episode 04",
-  "contentUrl": "https://stream.mux.com/Qgxk7uQ005HQsMZ00bqalj3FfMQfdKt8xlq17RYYKQqao.m3u8",
+  "contentUrl": "https://stream.mux.com/iLTbUX9Lu4l01KVZNKk4A4dyrSXLi402sds02s6TFX01U800.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:50:48Z",
 }

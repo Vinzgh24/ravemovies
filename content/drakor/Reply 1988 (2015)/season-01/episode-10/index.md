@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E10 - Episode 10",
-  "contentUrl": "https://stream.mux.com/n4OxPqgeqiFmcoh9OWEWuLACwKh66IJRR01ZyrlVd3Lk.m3u8",
+  "contentUrl": "https://stream.mux.com/7300y1BjD0201m00uMALHD00Ym4vcP6B6UyhjKZ00hFU3GDak.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:09Z",
 }

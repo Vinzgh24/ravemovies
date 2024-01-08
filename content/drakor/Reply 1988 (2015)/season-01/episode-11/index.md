@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E11 - Episode 11",
-  "contentUrl": "https://stream.mux.com/NFIhqdPb5wrZwdNq00DWeMFXGW7BDj3NyIEGlVFVFhCc.m3u8",
+  "contentUrl": "https://stream.mux.com/PLBZwWR5yjFeSgqJjYAILRqTP00eXFPWP7p01J023UwTr4.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:13Z",
 }

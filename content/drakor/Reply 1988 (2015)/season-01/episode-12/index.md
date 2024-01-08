@@ -19,7 +19,7 @@ series: ["Reply 1988"]
   "@context": "https://schema.org/",
   "@type": "VideoObject",
   "name": "Reply 1988 - S1E12 - Episode 12",
-  "contentUrl": "https://stream.mux.com/U1Sf7lDBSek84jYXOyum94nrFuE4nZkRWiT4D5dE3HQ.m3u8",
+  "contentUrl": "https://stream.mux.com/JSM4lCE5nraeZgbAcxaDcWhrEuW00ZXV8no5ZN24HWsk.m3u8",
   "thumbnailUrl": "https://www.themoviedb.org/t/p/original/oDEPqQstDYUHUxzyHotV8yrnzGk.jpg?width=314&fit_mode=preserve&time=25",
   "uploadDate": "2023-10-21T11:52:16Z",
 }
